@@ -368,7 +368,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−22 % vs cote (~900 €)",
-          "Annonce très regardée (48 favoris)",
+          "Annonce très regardée (49 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4116,8 +4116,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 1200.0,
-      "cout_reel": 1445,
+      "prix": 1100.0,
+      "cout_reel": 1345,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -4140,10 +4140,10 @@
       "fit_pct": 84,
       "axes": {
         "technique": 8.0,
-        "financier": 6.0,
+        "financier": 7.2,
         "usage": 8.5,
         "plaisir": 5.0,
-        "valeur": 5.0
+        "valeur": 5.7
       },
       "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
@@ -4164,10 +4164,11 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
+          "Décote intéressante : ~−8 % vs cote (~1199 €)",
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
-          "Au-dessus de la cote estimée (~1199 €) — à négocier",
           "Marketplace EU : livraison, pas d'essai avant achat"
         ]
       },
@@ -4606,7 +4607,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (68 favoris)",
+          "Annonce très regardée (69 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -8631,7 +8632,7 @@
           "Décote intéressante : ~−20 % vs cote (~749 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10068,7 +10069,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13001,7 +13002,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (66 favoris)",
+          "Annonce très regardée (68 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -17073,5 +17074,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T09:44:15+00:00"
+  "genere_le": "2026-07-06T10:14:14+00:00"
 }
