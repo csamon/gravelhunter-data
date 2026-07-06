@@ -280,12 +280,11 @@
         "plaisir": 5.0,
         "valeur": 7.6
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -1087,12 +1086,11 @@
         "plaisir": 5.5,
         "valeur": 7.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Force, taille M, 2020. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -1459,7 +1457,7 @@
       "url": "https://buycycle.com/product/kanzo-adventure-alu-shimano-grx400-2x10sp-2024-74312",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1200.0,
       "cout_reel": 1360,
       "cout_reel_detail": [
@@ -1488,11 +1486,10 @@
         "plaisir": 6.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~922€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -2019,81 +2016,6 @@
       }
     },
     {
-      "titre": "FRM FRM Custom SRAM Force 2019",
-      "url": "https://buycycle.com/product/frm-custom-44556",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 950.0,
-      "cout_reel": 1195,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1260,
-      "prix_max_calcul": "2940€ (cote) × (0.62 + 0.28 × 79% fit) = 2476€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
-      "cote": 2940.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": "Prix anormalement bas (950€ vs cote ~2940€, −68%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "marque": "FRM",
-      "modele": "FRM Custom SRAM Force",
-      "taille": "M",
-      "annee": 2019,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2470567/4444758b-fb60-46f3-a134-bc1497da1509.webp",
-      "score": 8.0,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 10.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 10.0
-      },
-      "verdict": "⚠ Prix anormalement bas (950€ vs cote ~2940€, −68%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Force, taille M, 2019. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "FRM (Fabricante de Ruedas y Manillares) est un fabricant espagnol surtout réputé pour ses roues et composants, ce qui rend un vélo 'Custom' sous cette marque difficile à situer précisément dans une gamme standardisée. La mention 'Custom SRAM Force 2019' suggère un montage sur mesure ou semi-personnalisé, probablement un cadre carbone monté avec un groupe SRAM Force mécanique 11 vitesses (haut de gamme sans être l'ultime, sous Red), ce qui place l'ensemble sur un positionnement performance milieu/haut de gamme. L'usage visé dépend fortement du cadre exact (route ou gravel), non précisé ici, ce qui est un vrai angle mort pour juger l'achat. Le groupe Force 2019 est fiable, avec un freinage à disque hydraulique probable et une bonne durabilité, mais impose de vérifier l'usure des plateaux, cassette et chaîne, ainsi que l'état des étriers/pistons. Pour un montage 'custom' d'origine peu documentée, la revente et le SAV sont plus incertains qu'une marque grand public, et la traçabilité du cadre (référence, garantie) est essentielle. En vélotaf quotidien toute l'année, un tel vélo est viable mais peu optimal : pas de fixations garde-boue/porte-bagages garanties, groupe Force plus coûteux à entretenir et sensible aux intempéries hivernales ; il conviendra mieux à un usage sportif et gravel léger occasionnel. Exige photos détaillées du cadre, numéro de série et facture pour valider l'authenticité du montage avant tout achat.",
-        "vision": "",
-        "description_vendeur": "Beautiful and high-performing.",
-        "plus_velo": [
-          "Groupe haut (SRAM Force)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−68 % vs cote (~2940 €)",
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Force",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null
-    },
-    {
       "titre": "Cannondale Slate Apex 1 2019 2019",
       "url": "https://buycycle.com/product/slate-apex-1-2019-56473",
       "source": "buycycle",
@@ -2128,12 +2050,11 @@
         "plaisir": 7.0,
         "valeur": 8.4
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -2202,12 +2123,11 @@
         "plaisir": 7.0,
         "valeur": 8.9
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Force, taille M, 2018. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -2248,7 +2168,7 @@
       "url": "https://buycycle.com/product/topstone-carbon-2-l-2023-22684",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1629.0,
       "cout_reel": 1874,
       "cout_reel_detail": [
@@ -2278,11 +2198,10 @@
         "plaisir": 7.0,
         "valeur": 8.2
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -2352,11 +2271,10 @@
         "plaisir": 5.0,
         "valeur": 8.2
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon dossier MAIS analyse photo pas assez fiable (< 0.75), infos manquantes (freins, cadre) — CONTACTER pour lever le doute avant d'acheter.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Force, taille M, 2021. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -2389,159 +2307,6 @@
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 700
-      },
-      "vision_brute": null
-    },
-    {
-      "titre": "NS Rag + 2 2023 2023",
-      "url": "https://buycycle.com/product/rag-2-2023-94141",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 980.0,
-      "cout_reel": 1225,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1260,
-      "prix_max_calcul": "3480€ (cote) × (0.62 + 0.28 × 79% fit) = 2931€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
-      "cote": 3480.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": "Prix anormalement bas (980€ vs cote ~3480€, −72%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "marque": "NS",
-      "modele": "Rag + 2 2023",
-      "taille": "M",
-      "annee": 2023,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2583930/48db2f99-7fbb-4469-97bb-310e54203227.webp",
-      "score": 8.0,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 10.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 10.0
-      },
-      "verdict": "⚠ Prix anormalement bas (980€ vs cote ~3480€, −72%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le NS Rag+ 2 (2023) est un gravel d'entrée/milieu de gamme du fabricant NS Bikes, une marque historiquement orientée dirt/slopestyle qui apporte ici une approche robuste et joueuse à la catégorie gravel. Le cadre est en aluminium 6061 avec fourche carbone, une configuration typique de ce segment de prix visant la solidité plutôt que la légèreté. Équipé du groupe SRAM Apex 1x (mono-plateau), il privilégie la simplicité et une plage de développement adaptée au tout-chemin, sans la finesse d'étagement d'un 2x. La géométrie est plutôt orientée gravel aventureux/ludique avec un côté baroudeur, ce qui le rend polyvalent mais moins affûté qu'un gravel race pur. Ses points forts sont la robustesse du cadre alu, le freinage à disque, de nombreux inserts (porte-bagages, garde-boue, bidons) et un dégagement pneu généreux, très pertinents pour le vélotaf toute l'année et le gravel léger. Les limites : poids assez élevé, groupe Apex mécanique correct mais basique, et une réputation encore modeste sur la fiabilité longue durée faute d'un recul large sur la marque en gravel. Pour un usage vélotaf quotidien toute saison combiné à du gravel léger, c'est un choix cohérent et durable, à condition d'accepter un compromis sur le poids.",
-        "vision": "",
-        "description_vendeur": "Bicicleta en muy buen estado, revisada regularmente, con la cinta del manillar, la cadena y las pastillas de freno recién cambiadas. Visualmente tiene algunos arañazos y roces por el uso de alforjas. Adjunto el comprobante de compra.",
-        "plus_velo": [
-          "Groupe bon (SRAM Apex)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−72 % vs cote (~3480 €)",
-          "Prix déjà baissé par le vendeur",
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (45 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null
-    },
-    {
-      "titre": "Swift Enduravox Gr Evo 2025 2025",
-      "url": "https://buycycle.com/product/enduravox-gr-evo-2025-65244",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1100.0,
-      "cout_reel": 1345,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1260,
-      "prix_max_calcul": "8394€ (cote) × (0.62 + 0.28 × 84% fit) = 7169€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
-      "cote": 8394.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": "Prix anormalement bas (1100€ vs cote ~8394€, −87%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "marque": "Swift",
-      "modele": "Enduravox Gr Evo 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2598803/1a6f1447-6bfa-4fdb-a005-e8745ad97a46.webp",
-      "score": 8.0,
-      "fit_pct": 84,
-      "axes": {
-        "technique": 8.0,
-        "financier": 10.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 10.0
-      },
-      "verdict": "⚠ Prix anormalement bas (1100€ vs cote ~8394€, −87%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Swift Enduravox Gr Evo 2025 est un gravel présenté par une marque à faible diffusion et notoriété limitée sur le marché francophone/international, ce qui rend les données techniques vérifiables rares et impose la prudence sur un achat d'occasion. Le nom 'Gr Evo' suggère un positionnement gravel milieu de gamme, et le montage annoncé en Shimano GRX (groupe gravel dédié de Shimano, mécanique ou éventuellement électronique selon la déclinaison) est cohérent et globalement fiable, avec une bonne polyvalence route/chemin. Sans confirmation du cadre (aluminium probable à ce niveau, éventuellement carbone selon la finition), du standard d'axe et des montages de porte-bagages/garde-boue, il est impossible d'être catégorique sur l'aptitude réelle au vélotaf toute l'année. Points forts probables : transmission GRX endurante et bien étagée, géométrie gravel plutôt confortable, freins à disque hydrauliques. Limites concrètes : réseau SAV et disponibilité des pièces spécifiques (potence/tige/roues maison) potentiellement problématiques, valeur de revente faible et incertaine faute de cote établie. Pour un usage vélotaf quotidien il faudra impérativement vérifier la présence d'inserts garde-boue/porte-bagages et le dégagement pneu; pour le gravel léger l'ensemble GRX conviendra sans réserve majeure. En occasion, exigez photos détaillées du cadre, référence exacte du groupe GRX (RX400/600/800), et un essai, car la fiabilité 'marque' n'est pas documentée.",
-        "vision": "",
-        "description_vendeur": "None",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)",
-          "Bien adapté à ton usage (84 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−87 % vs cote (~8394 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
       },
       "vision_brute": null
     },
@@ -2628,90 +2393,6 @@
         "etat_visuel": "Transmission quasi neuve : dents de plateau nettes, chaîne propre et brillante, cassette sans usure visible. Pneus Schwalbe à crampons bien marqués, disques et étriers hydrauliques propres, aucune rayure ni corrosion notable, vélo dans un état neuf ou très proche du neuf.",
         "points_attention": "Manettes et pédales plates simples (probablement d'origine bas de gamme) ; série exacte GRX (400/600/810) non lisible sur les manettes/dérailleurs. Vérifier largeur exacte des pneus non lisible sur les flancs.",
         "confiance": 0.72
-      }
-    },
-    {
-      "titre": "Ridley Astr - Sram Rival XPLR 1x13 2025 2025",
-      "url": "https://buycycle.com/product/astr-sram-rival-xplr-1x13-2025-46793",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 500.0,
-      "cout_reel": 745,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1260,
-      "prix_max_calcul": "2999€ (cote) × (0.62 + 0.28 × 79% fit) = 2523€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
-      "cote": 2999.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": "Prix anormalement bas (500€ vs cote ~2999€, −83%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "marque": "Ridley",
-      "modele": "Astr - Sram Rival XPLR 1x13 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2643563/f91c72d5-2218-4e28-9e09-47be3743a4d5.webp",
-      "score": 8.0,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 8.8,
-        "financier": 10.0,
-        "usage": 8.5,
-        "plaisir": 6.0,
-        "valeur": 10.0
-      },
-      "verdict": "⚠ Prix anormalement bas (500€ vs cote ~2999€, −83%) — vérifier fraude / erreur / disponibilité AVANT tout.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre carbone, groupe SRAM Rival eTap AXS électronique, freins à disque, taille M, 2025, orange. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Ridley Astr est le modèle gravel 'accessible' de la gamme Ridley, positionné sous le Kanzo (le gravel plus performant/racing de la marque) et pensé comme une porte d'entrée vers le gravel polyvalent. Le cadre est en carbone avec fourche carbone, ce qui reste correct à ce niveau de prix, avec des freins à disque hydrauliques et des passages de câbles internes typiques de ce millésime. La transmission SRAM Rival eTap AXS XPLR en 1x13 est la nouveauté notable de 2025 : le nouveau standard 13 vitesses XPLR offre un étagement plus fin et une meilleure plage qu'un 1x12, avec une cassette dédiée (10-46 environ) adaptée au gravel, mais impose un dérailleur/roue-libre spécifiques et un coût de remplacement élevé. L'usage visé est le gravel polyvalent et l'aventure light, avec une géométrie plutôt endurance/confort qu'agressive racing. Points forts : électronique sans fil fiable et agréable, monoplateau simple d'entretien, cadre carbone rigide et réactif ; limites : le 1x13 très récent complique le SAV et les pièces d'occasion, la batterie AXS à gérer, et le 1x manque de finesse d'étagement pour la route rapide face à un 2x. La fiabilité SRAM AXS est aujourd'hui bonne, mais surveillez l'usure de la chaîne/cassette (coût 13v) et l'état des roulements. Pour le vélotaf quotidien toute l'année c'est jouable mais peu idéal (absence de fixations garde-boue/porte-bagages complètes selon versions, entretien électronique par temps humide), alors qu'il excelle en gravel léger et sorties polyvalentes.",
-        "vision": "Cadre aluminium, fourche carbone, freins disque hydraulique. État visuel : Vélo poussiéreux avec transmission encrassée (chaîne et cassette sales), pneus Vittoria Terreno Dry à la sculpture encore présente sans usure marquée visible. Aucun impact ou corrosion évidents sur le cadre alu couleur cuivre, mais l'ensemble mériterait un nettoyage complet. ⚠ À vérifier : Contradiction avec le titre : le vélo montre une transmission double plateau (2x) alors que l'annonce indique un SRAM Rival XPLR 1x13 ; vérifier le groupe réel, qui semble être une transmission mécanique 2x (type Shimano) et non électronique 13v. Freins à disque probablement hydrauliques mais durite non nettement identifiable. (confiance 40%)",
-        "description_vendeur": "sin arañazos, en perfecto estado",
-        "plus_velo": [
-          "Groupe bon (SRAM Rival eTap AXS)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−83 % vs cote (~2999 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Rival eTap AXS",
-        "frame": "carbone",
-        "shifting": "électronique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "orange",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": null,
-        "freins": "disque hydraulique",
-        "fourche": "carbone",
-        "cadre": "aluminium",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": null,
-        "etat_visuel": "Vélo poussiéreux avec transmission encrassée (chaîne et cassette sales), pneus Vittoria Terreno Dry à la sculpture encore présente sans usure marquée visible. Aucun impact ou corrosion évidents sur le cadre alu couleur cuivre, mais l'ensemble mériterait un nettoyage complet.",
-        "points_attention": "Contradiction avec le titre : le vélo montre une transmission double plateau (2x) alors que l'annonce indique un SRAM Rival XPLR 1x13 ; vérifier le groupe réel, qui semble être une transmission mécanique 2x (type Shimano) et non électronique 13v. Freins à disque probablement hydrauliques mais durite non nettement identifiable.",
-        "confiance": 0.4
       }
     },
     {
@@ -2995,12 +2676,11 @@
         "plaisir": 6.0,
         "valeur": 3.9
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -3075,8 +2755,7 @@
       "verdict": "Cyclocross, pas un gravel — à considérer seulement si prix exceptionnel.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -3318,8 +2997,7 @@
       "verdict": "Cyclocross, pas un gravel — à considérer seulement si prix exceptionnel.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Rival, taille M, 2020. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -3804,12 +3482,11 @@
         "plaisir": 5.0,
         "valeur": 6.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Tiagra, taille M, 2024. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -3878,11 +3555,10 @@
         "plaisir": 5.0,
         "valeur": 7.9
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2022. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -3953,11 +3629,10 @@
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2024. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4026,12 +3701,11 @@
         "plaisir": 5.0,
         "valeur": 4.6
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4072,7 +3746,7 @@
       "url": "https://buycycle.com/product/checkpoint-alr-5-2023-70587",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1450.0,
       "cout_reel": 1695,
       "cout_reel_detail": [
@@ -4102,11 +3776,10 @@
         "plaisir": 6.5,
         "valeur": 5.3
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1202€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4176,12 +3849,11 @@
         "plaisir": 5.0,
         "valeur": 7.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Tiagra, taille M, 2019. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4250,12 +3922,11 @@
         "plaisir": 6.0,
         "valeur": 4.6
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4297,7 +3968,7 @@
       "url": "https://buycycle.com/product/silex-300-2021-92683",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1100.0,
       "cout_reel": 1345,
       "cout_reel_detail": [
@@ -4327,11 +3998,10 @@
         "plaisir": 5.0,
         "valeur": 5.7
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~941€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2021. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4401,12 +4071,11 @@
         "plaisir": 5.0,
         "valeur": 4.1
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4476,12 +4145,11 @@
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4521,7 +4189,7 @@
       "url": "https://buycycle.com/product/topstone-2-2023-74385",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1150.0,
       "cout_reel": 1395,
       "cout_reel_detail": [
@@ -4551,11 +4219,10 @@
         "plaisir": 7.0,
         "valeur": 5.3
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~922€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4596,7 +4263,7 @@
       "url": "https://buycycle.com/product/tera-gravel-shimano-grx-600-2x11-2024-75074",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1200.0,
       "cout_reel": 1445,
       "cout_reel_detail": [
@@ -4626,11 +4293,10 @@
         "plaisir": 5.0,
         "valeur": 6.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1060€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4703,12 +4369,11 @@
         "plaisir": 5.0,
         "valeur": 7.1
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2019. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4778,12 +4443,11 @@
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4851,12 +4515,11 @@
         "plaisir": 5.0,
         "valeur": 7.8
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4895,7 +4558,7 @@
       "url": "https://buycycle.com/product/vector-drop-2024-70000",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 850.0,
       "cout_reel": 1095,
       "cout_reel_detail": [
@@ -4925,11 +4588,10 @@
         "plaisir": 8.0,
         "valeur": 5.4
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~649€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Tiagra, taille M, 2024. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -4999,11 +4661,10 @@
         "plaisir": 7.0,
         "valeur": 7.5
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo pour ton usage (~90% du besoin) — CONTACTER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2018. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5034,6 +4695,82 @@
         "condition": null,
         "poids_kg": 10.2,
         "degagement_mm": 42
+      },
+      "vision_brute": null
+    },
+    {
+      "titre": "NS Rag + 2 2023 2023",
+      "url": "https://buycycle.com/product/rag-2-2023-94141",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 980.0,
+      "cout_reel": 1225,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 742,
+      "prix_max_calcul": "980€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 825€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "NS",
+      "modele": "Rag + 2 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2583930/48db2f99-7fbb-4469-97bb-310e54203227.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le NS Rag+ 2 (2023) est un gravel d'entrée/milieu de gamme du fabricant NS Bikes, une marque historiquement orientée dirt/slopestyle qui apporte ici une approche robuste et joueuse à la catégorie gravel. Le cadre est en aluminium 6061 avec fourche carbone, une configuration typique de ce segment de prix visant la solidité plutôt que la légèreté. Équipé du groupe SRAM Apex 1x (mono-plateau), il privilégie la simplicité et une plage de développement adaptée au tout-chemin, sans la finesse d'étagement d'un 2x. La géométrie est plutôt orientée gravel aventureux/ludique avec un côté baroudeur, ce qui le rend polyvalent mais moins affûté qu'un gravel race pur. Ses points forts sont la robustesse du cadre alu, le freinage à disque, de nombreux inserts (porte-bagages, garde-boue, bidons) et un dégagement pneu généreux, très pertinents pour le vélotaf toute l'année et le gravel léger. Les limites : poids assez élevé, groupe Apex mécanique correct mais basique, et une réputation encore modeste sur la fiabilité longue durée faute d'un recul large sur la marque en gravel. Pour un usage vélotaf quotidien toute saison combiné à du gravel léger, c'est un choix cohérent et durable, à condition d'accepter un compromis sur le poids.",
+        "vision": "",
+        "description_vendeur": "Bicicleta en muy buen estado, revisada regularmente, con la cinta del manillar, la cadena y las pastillas de freno recién cambiadas. Visualmente tiene algunos arañazos y roces por el uso de alforjas. Adjunto el comprobante de compra.",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−72 % vs cote (~3480 €)",
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (45 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
       },
       "vision_brute": null
     },
@@ -5072,12 +4809,11 @@
         "plaisir": 6.0,
         "valeur": 3.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5117,7 +4853,7 @@
       "url": "https://buycycle.com/product/nuroad-ex-2025-91363",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1100.0,
       "cout_reel": 1345,
       "cout_reel_detail": [
@@ -5147,11 +4883,10 @@
         "plaisir": 9.0,
         "valeur": 2.5
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~645€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5223,11 +4958,10 @@
         "plaisir": 8.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo pour ton usage (~84% du besoin) — CONTACTER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5260,6 +4994,81 @@
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 40
+      },
+      "vision_brute": null
+    },
+    {
+      "titre": "Swift Enduravox Gr Evo 2025 2025",
+      "url": "https://buycycle.com/product/enduravox-gr-evo-2025-65244",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1100.0,
+      "cout_reel": 1345,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 845,
+      "prix_max_calcul": "1100€ (prix affiché) × (0.62 + 0.28 × 84% fit) = 939€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Swift",
+      "modele": "Enduravox Gr Evo 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2598803/1a6f1447-6bfa-4fdb-a005-e8745ad97a46.webp",
+      "score": 7.0,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Swift Enduravox Gr Evo 2025 est un gravel présenté par une marque à faible diffusion et notoriété limitée sur le marché francophone/international, ce qui rend les données techniques vérifiables rares et impose la prudence sur un achat d'occasion. Le nom 'Gr Evo' suggère un positionnement gravel milieu de gamme, et le montage annoncé en Shimano GRX (groupe gravel dédié de Shimano, mécanique ou éventuellement électronique selon la déclinaison) est cohérent et globalement fiable, avec une bonne polyvalence route/chemin. Sans confirmation du cadre (aluminium probable à ce niveau, éventuellement carbone selon la finition), du standard d'axe et des montages de porte-bagages/garde-boue, il est impossible d'être catégorique sur l'aptitude réelle au vélotaf toute l'année. Points forts probables : transmission GRX endurante et bien étagée, géométrie gravel plutôt confortable, freins à disque hydrauliques. Limites concrètes : réseau SAV et disponibilité des pièces spécifiques (potence/tige/roues maison) potentiellement problématiques, valeur de revente faible et incertaine faute de cote établie. Pour un usage vélotaf quotidien il faudra impérativement vérifier la présence d'inserts garde-boue/porte-bagages et le dégagement pneu; pour le gravel léger l'ensemble GRX conviendra sans réserve majeure. En occasion, exigez photos détaillées du cadre, référence exacte du groupe GRX (RX400/600/800), et un essai, car la fiabilité 'marque' n'est pas documentée.",
+        "vision": "",
+        "description_vendeur": "None",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−87 % vs cote (~8394 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
       },
       "vision_brute": null
     },
@@ -5600,7 +5409,7 @@
       "url": "https://buycycle.com/product/urs-shimano-grx-40245",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1333.0,
       "cout_reel": 1578,
       "cout_reel_detail": [
@@ -5630,11 +5439,10 @@
         "plaisir": 9.5,
         "valeur": 7.1
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5706,12 +5514,11 @@
         "plaisir": 7.0,
         "valeur": 5.8
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5782,12 +5589,11 @@
         "plaisir": 6.5,
         "valeur": 5.5
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5858,11 +5664,10 @@
         "plaisir": 4.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo pour ton usage (~94% du besoin) — CONTACTER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5902,7 +5707,7 @@
       "url": "https://buycycle.com/product/diverge-comp-e5-2023-10887",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1399.0,
       "cout_reel": 1644,
       "cout_reel_detail": [
@@ -5932,11 +5737,10 @@
         "plaisir": 6.5,
         "valeur": 5.5
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1177€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -5977,7 +5781,7 @@
       "url": "https://buycycle.com/product/terra-h40-2023-78066",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1360.0,
       "cout_reel": 1605,
       "cout_reel_detail": [
@@ -6007,11 +5811,10 @@
         "plaisir": 8.0,
         "valeur": 5.7
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1152€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6052,7 +5855,7 @@
       "url": "https://buycycle.com/product/topstone-2-2022-35411",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1250.0,
       "cout_reel": 1495,
       "cout_reel_detail": [
@@ -6082,11 +5885,10 @@
         "plaisir": 7.0,
         "valeur": 4.7
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~955€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6128,7 +5930,7 @@
       "url": "https://buycycle.com/product/diverge-elite-e5-2024-55153",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1350.0,
       "cout_reel": 1595,
       "cout_reel_detail": [
@@ -6158,11 +5960,10 @@
         "plaisir": 6.5,
         "valeur": 3.5
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~907€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6234,11 +6035,10 @@
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo pour ton usage (~94% du besoin) — CONTACTER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6308,12 +6108,11 @@
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6354,7 +6153,7 @@
       "url": "https://buycycle.com/product/terra-h30-1x-2022-25310",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1290.0,
       "cout_reel": 1535,
       "cout_reel_detail": [
@@ -6384,11 +6183,10 @@
         "plaisir": 8.0,
         "valeur": 5.2
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1014€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6428,7 +6226,7 @@
       "url": "https://buycycle.com/product/diverge-base-carbon-2021-78949",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1380.0,
       "cout_reel": 1625,
       "cout_reel_detail": [
@@ -6458,11 +6256,10 @@
         "plaisir": 6.5,
         "valeur": 6.9
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2021. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6502,7 +6299,7 @@
       "url": "https://buycycle.com/product/topstone-2-2022-50392",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1350.0,
       "cout_reel": 1535,
       "cout_reel_detail": [
@@ -6531,11 +6328,10 @@
         "plaisir": 7.0,
         "valeur": 3.5
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~922€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6575,7 +6371,7 @@
       "url": "https://buycycle.com/product/zydeco-2019-83341",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1100.0,
       "cout_reel": 1345,
       "cout_reel_detail": [
@@ -6605,11 +6401,10 @@
         "plaisir": 5.0,
         "valeur": 4.4
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~772€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6679,12 +6474,11 @@
         "plaisir": 5.0,
         "valeur": 4.2
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6759,8 +6553,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2018. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6835,8 +6628,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2020. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6908,8 +6700,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2021. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -6984,8 +6775,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2021. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7057,8 +6847,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Rival, taille M, 2020. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7132,8 +6921,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Rival, taille M, 2018. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7371,8 +7159,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7449,8 +7236,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7524,8 +7310,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7649,7 +7434,7 @@
       "url": "https://buycycle.com/product/ruut-al-2021-23737",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1150.0,
       "cout_reel": 1395,
       "cout_reel_detail": [
@@ -7679,11 +7464,10 @@
         "plaisir": 5.0,
         "valeur": 4.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~772€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2021. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7733,7 +7517,7 @@
       ],
       "prix_max_conseille": 697,
       "prix_max_calcul": "900€ (cote) × (0.62 + 0.28 × 86% fit) = 774€ − 10 % (infos manquantes)",
-      "cote": null,
+      "cote": 900.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
       "alerte": null,
@@ -7804,7 +7588,7 @@
       "url": "https://buycycle.com/product/backroad-al-grx-rx400-2021-34402",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1400.0,
       "cout_reel": 1645,
       "cout_reel_detail": [
@@ -7834,11 +7618,10 @@
         "plaisir": 5.0,
         "valeur": 2.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~811€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7910,12 +7693,11 @@
         "plaisir": 5.0,
         "valeur": 3.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -7989,8 +7771,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Rival, taille M, 2020. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8063,8 +7844,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2022. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8134,12 +7914,11 @@
         "plaisir": 5.0,
         "valeur": 4.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Rival, taille M, 2025. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8210,12 +7989,11 @@
         "plaisir": 5.0,
         "valeur": 9.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2010. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8285,12 +8063,11 @@
         "plaisir": 5.0,
         "valeur": 7.3
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Force, taille M, 2016. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8362,8 +8139,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2014. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8434,12 +8210,11 @@
         "plaisir": 5.0,
         "valeur": 3.8
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2025. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8511,12 +8286,11 @@
         "plaisir": 5.5,
         "valeur": 3.3
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2025. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -8889,6 +8663,80 @@
       }
     },
     {
+      "titre": "FRM FRM Custom SRAM Force 2019",
+      "url": "https://buycycle.com/product/frm-custom-44556",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 950.0,
+      "cout_reel": 1195,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1260,
+      "prix_max_calcul": "2940€ (cote) × (0.62 + 0.28 × 79% fit) = 2476€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
+      "cote": 2940.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": "Prix anormalement bas (950€ vs cote ~2940€, −68%) — vérifier fraude / erreur / disponibilité AVANT tout.",
+      "marque": "FRM",
+      "modele": "FRM Custom SRAM Force",
+      "taille": "M",
+      "annee": 2019,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2470567/4444758b-fb60-46f3-a134-bc1497da1509.webp",
+      "score": 6.5,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 10.0
+      },
+      "verdict": "⚠ Prix anormalement bas (950€ vs cote ~2940€, −68%) — vérifier fraude / erreur / disponibilité AVANT tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Force, taille M, 2019. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "FRM (Fabricante de Ruedas y Manillares) est un fabricant espagnol surtout réputé pour ses roues et composants, ce qui rend un vélo 'Custom' sous cette marque difficile à situer précisément dans une gamme standardisée. La mention 'Custom SRAM Force 2019' suggère un montage sur mesure ou semi-personnalisé, probablement un cadre carbone monté avec un groupe SRAM Force mécanique 11 vitesses (haut de gamme sans être l'ultime, sous Red), ce qui place l'ensemble sur un positionnement performance milieu/haut de gamme. L'usage visé dépend fortement du cadre exact (route ou gravel), non précisé ici, ce qui est un vrai angle mort pour juger l'achat. Le groupe Force 2019 est fiable, avec un freinage à disque hydraulique probable et une bonne durabilité, mais impose de vérifier l'usure des plateaux, cassette et chaîne, ainsi que l'état des étriers/pistons. Pour un montage 'custom' d'origine peu documentée, la revente et le SAV sont plus incertains qu'une marque grand public, et la traçabilité du cadre (référence, garantie) est essentielle. En vélotaf quotidien toute l'année, un tel vélo est viable mais peu optimal : pas de fixations garde-boue/porte-bagages garanties, groupe Force plus coûteux à entretenir et sensible aux intempéries hivernales ; il conviendra mieux à un usage sportif et gravel léger occasionnel. Exige photos détaillées du cadre, numéro de série et facture pour valider l'authenticité du montage avant tout achat.",
+        "vision": "",
+        "description_vendeur": "Beautiful and high-performing.",
+        "plus_velo": [
+          "Groupe haut (SRAM Force)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−68 % vs cote (~2940 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Force",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null
+    },
+    {
       "titre": "Giant TCX Advanced 2020 2020",
       "url": "https://buycycle.com/product/tcx-advanced-2020-69084",
       "source": "buycycle",
@@ -8927,8 +8775,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2020. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9165,12 +9012,11 @@
         "plaisir": 6.0,
         "valeur": 2.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9244,12 +9090,11 @@
         "plaisir": 5.0,
         "valeur": 2.7
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2020. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9287,11 +9132,95 @@
       "vision_brute": null
     },
     {
+      "titre": "Ridley Astr - Sram Rival XPLR 1x13 2025 2025",
+      "url": "https://buycycle.com/product/astr-sram-rival-xplr-1x13-2025-46793",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 500.0,
+      "cout_reel": 745,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1260,
+      "prix_max_calcul": "2999€ (cote) × (0.62 + 0.28 × 79% fit) = 2523€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
+      "cote": 2999.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": "Prix anormalement bas (500€ vs cote ~2999€, −83%) — vérifier fraude / erreur / disponibilité AVANT tout.",
+      "marque": "Ridley",
+      "modele": "Astr - Sram Rival XPLR 1x13 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2643563/f91c72d5-2218-4e28-9e09-47be3743a4d5.webp",
+      "score": 6.5,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 6.0,
+        "valeur": 10.0
+      },
+      "verdict": "⚠ Prix anormalement bas (500€ vs cote ~2999€, −83%) — vérifier fraude / erreur / disponibilité AVANT tout.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe SRAM Rival eTap AXS électronique, freins à disque, taille M, 2025, orange. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Ridley Astr est le modèle gravel 'accessible' de la gamme Ridley, positionné sous le Kanzo (le gravel plus performant/racing de la marque) et pensé comme une porte d'entrée vers le gravel polyvalent. Le cadre est en carbone avec fourche carbone, ce qui reste correct à ce niveau de prix, avec des freins à disque hydrauliques et des passages de câbles internes typiques de ce millésime. La transmission SRAM Rival eTap AXS XPLR en 1x13 est la nouveauté notable de 2025 : le nouveau standard 13 vitesses XPLR offre un étagement plus fin et une meilleure plage qu'un 1x12, avec une cassette dédiée (10-46 environ) adaptée au gravel, mais impose un dérailleur/roue-libre spécifiques et un coût de remplacement élevé. L'usage visé est le gravel polyvalent et l'aventure light, avec une géométrie plutôt endurance/confort qu'agressive racing. Points forts : électronique sans fil fiable et agréable, monoplateau simple d'entretien, cadre carbone rigide et réactif ; limites : le 1x13 très récent complique le SAV et les pièces d'occasion, la batterie AXS à gérer, et le 1x manque de finesse d'étagement pour la route rapide face à un 2x. La fiabilité SRAM AXS est aujourd'hui bonne, mais surveillez l'usure de la chaîne/cassette (coût 13v) et l'état des roulements. Pour le vélotaf quotidien toute l'année c'est jouable mais peu idéal (absence de fixations garde-boue/porte-bagages complètes selon versions, entretien électronique par temps humide), alors qu'il excelle en gravel léger et sorties polyvalentes.",
+        "vision": "Cadre aluminium, fourche carbone, freins disque hydraulique. État visuel : Vélo poussiéreux avec transmission encrassée (chaîne et cassette sales), pneus Vittoria Terreno Dry à la sculpture encore présente sans usure marquée visible. Aucun impact ou corrosion évidents sur le cadre alu couleur cuivre, mais l'ensemble mériterait un nettoyage complet. ⚠ À vérifier : Contradiction avec le titre : le vélo montre une transmission double plateau (2x) alors que l'annonce indique un SRAM Rival XPLR 1x13 ; vérifier le groupe réel, qui semble être une transmission mécanique 2x (type Shimano) et non électronique 13v. Freins à disque probablement hydrauliques mais durite non nettement identifiable. (confiance 40%)",
+        "description_vendeur": "sin arañazos, en perfecto estado",
+        "plus_velo": [
+          "Groupe bon (SRAM Rival eTap AXS)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−83 % vs cote (~2999 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Rival eTap AXS",
+        "frame": "carbone",
+        "shifting": "électronique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": null,
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Vélo poussiéreux avec transmission encrassée (chaîne et cassette sales), pneus Vittoria Terreno Dry à la sculpture encore présente sans usure marquée visible. Aucun impact ou corrosion évidents sur le cadre alu couleur cuivre, mais l'ensemble mériterait un nettoyage complet.",
+        "points_attention": "Contradiction avec le titre : le vélo montre une transmission double plateau (2x) alors que l'annonce indique un SRAM Rival XPLR 1x13 ; vérifier le groupe réel, qui semble être une transmission mécanique 2x (type Shimano) et non électronique 13v. Freins à disque probablement hydrauliques mais durite non nettement identifiable.",
+        "confiance": 0.4
+      }
+    },
+    {
       "titre": "Marin Nicasio 2 2023 2023",
       "url": "https://buycycle.com/product/nicasio-2-2023-44799",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1390.0,
       "cout_reel": 1635,
       "cout_reel_detail": [
@@ -9321,11 +9250,10 @@
         "plaisir": 5.5,
         "valeur": 4.6
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~950€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Tiagra, taille M, 2023. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9363,7 +9291,7 @@
       "url": "https://buycycle.com/product/cannondale-topstone-carbon-5-202169ff7bd0203ee-61257",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1600.0,
       "cout_reel": 1845,
       "cout_reel_detail": [
@@ -9374,7 +9302,7 @@
       ],
       "prix_max_conseille": 699,
       "prix_max_calcul": "900€ (cote) × (0.62 + 0.28 × 87% fit) = 777€ − 10 % (infos manquantes)",
-      "cote": null,
+      "cote": 900.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
       "alerte": null,
@@ -9393,11 +9321,10 @@
         "plaisir": 7.0,
         "valeur": 0.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~699€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9466,12 +9393,11 @@
         "plaisir": 5.0,
         "valeur": 2.3
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9546,8 +9472,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Alfine 8 hub gears, taille M, 2011. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9587,7 +9512,7 @@
       "url": "https://buycycle.com/product/fastroad68d973cca52b3-64459",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 800.0,
       "cout_reel": 985,
       "cout_reel_detail": [
@@ -9616,11 +9541,10 @@
         "plaisir": 8.5,
         "valeur": 0.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~324€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9693,8 +9617,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Other SRAM, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9769,8 +9692,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Force, taille M, 2016. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9809,7 +9731,7 @@
       "url": "https://buycycle.com/product/series-3698c5a5e35c85-14131",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "ATTENDRE",
       "prix": 290.0,
       "cout_reel": 475,
       "cout_reel_detail": [
@@ -9838,11 +9760,10 @@
         "plaisir": 6.5,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Correct (~48% du besoin) — ATTENDRE une baisse ou mieux.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Other, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9915,8 +9836,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2014. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -9990,8 +9910,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Rival, taille M, 2017. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10060,12 +9979,11 @@
         "plaisir": 5.0,
         "valeur": 5.7
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2016. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10136,8 +10054,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2016. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10373,12 +10290,11 @@
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2016. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10416,7 +10332,7 @@
       "url": "https://buycycle.com/product/c1346a12f1f55b426-77984",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
+      "action": "NÉGOCIER",
       "prix": 1300.0,
       "cout_reel": 1545,
       "cout_reel_detail": [
@@ -10446,11 +10362,10 @@
         "plaisir": 5.0,
         "valeur": 1.4
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~688€) — NÉGOCIER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2025. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10523,8 +10438,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Apex, taille M, 2018. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10599,8 +10513,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10648,8 +10561,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 770,
-      "prix_max_calcul": "1260€ (cote) × (0.62 + 0.28 × 21% fit) = 856€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 856,
+      "prix_max_calcul": "1260€ (cote) × (0.62 + 0.28 × 21% fit) = 856€",
       "cote": 1260.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -10670,9 +10583,7 @@
         "valeur": 6.8
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
-      "infos_manquantes": [
-        "état"
-      ],
+      "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Ultegra Di2 électronique, freins à disque, taille M, 2016, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
@@ -10743,8 +10654,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2014. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10793,8 +10703,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 428,
-      "prix_max_calcul": "564€ (cote) × (0.62 + 0.28 × 79% fit) = 475€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 475,
+      "prix_max_calcul": "564€ (cote) × (0.62 + 0.28 × 79% fit) = 475€",
       "cote": 564.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -10815,9 +10725,7 @@
         "valeur": 0.4
       },
       "verdict": "Peu adapté à ton usage (~79% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "état"
-      ],
+      "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano 105 mécanique, freins à disque, taille 55 cm, 2021, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
@@ -10889,8 +10797,7 @@
       },
       "verdict": "Peu adapté à ton usage (~20% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Shimano Ultegra mécanique, freins à disque, taille M, 2018, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -10965,8 +10872,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2017. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11038,8 +10944,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM Red, taille M, 2014. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11113,8 +11018,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2026. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11188,8 +11092,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano 105, taille M, 2018. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11261,8 +11164,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe L-TWOO GRT, taille M, 1996. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11336,8 +11238,7 @@
       "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe L-TWOO GRT, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11411,8 +11312,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM X1, taille M, 2022. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11485,8 +11385,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Campagnolo Chorus, taille M, 2012. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11559,8 +11458,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Altus, taille M, 2023. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11632,8 +11530,7 @@
       },
       "verdict": "Cyclocross, pas un gravel — à considérer seulement si prix exceptionnel.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Shimano Ultegra Di2 électronique, freins à disque, taille M, 2016, bleu. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11705,8 +11602,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Dura Ace, taille M, 2016. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11778,8 +11674,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Other, taille M, 2024. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11830,8 +11725,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 655,
-      "prix_max_calcul": "899€ (cote) × (0.62 + 0.28 × 68% fit) = 728€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 728,
+      "prix_max_calcul": "899€ (cote) × (0.62 + 0.28 × 68% fit) = 728€",
       "cote": 899.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -11852,9 +11747,7 @@
         "valeur": 0.6
       },
       "verdict": "Peu adapté à ton usage (~68% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "état"
-      ],
+      "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille M, 2025, noir. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Scott Speedster Gravel : bonne porte d'entrée, un peu routière, souvent bien décotée.",
@@ -11925,8 +11818,7 @@
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Microshift, taille M, 2022. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -11998,8 +11890,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Altus mécanique, freins à disque, taille M, 2022, noir. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12072,8 +11963,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille M, 2021, rouge. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12123,8 +12013,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 576,
-      "prix_max_calcul": "959€ (cote) × (0.62 + 0.28 × 17% fit) = 640€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 640,
+      "prix_max_calcul": "959€ (cote) × (0.62 + 0.28 × 17% fit) = 640€",
       "cote": 959.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -12145,9 +12035,7 @@
         "valeur": 6.3
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "état"
-      ],
+      "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2022, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
@@ -12219,8 +12107,7 @@
       },
       "verdict": "Peu adapté à ton usage (~18% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre acier, groupe Shimano Alivio mécanique, freins sur jante, taille M, 1990, light gray. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12292,8 +12179,7 @@
       },
       "verdict": "Peu adapté à ton usage (~20% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Campagnolo Super Record mécanique, freins à disque, taille 54 cm, 2022, violet. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12366,8 +12252,7 @@
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2025. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12442,8 +12327,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Deore, taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12517,8 +12401,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Deore XT Di2, taille M, 2022. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12591,8 +12474,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Tourney, taille M, 2008. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12667,8 +12549,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Other Shimano, taille M, 2018. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12741,8 +12622,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Microshift Advent, taille M, 2021. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12815,8 +12695,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Ultegra Di2, taille M, 2019. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12889,8 +12768,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Dura Ace, taille M, 2017. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -12962,8 +12840,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Deore XT, taille M, 2020. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13033,8 +12910,7 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille 55 cm, 2024, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13109,8 +12985,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Sora, taille M, 2014. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13185,8 +13060,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2026. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13261,8 +13135,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Ultegra, taille M, 2018. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13333,8 +13206,7 @@
       },
       "verdict": "Peu adapté à ton usage (~41% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Shimano Tiagra mécanique, freins sur jante, taille 54 cm, 1993, light gray. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13406,8 +13278,7 @@
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2026. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13482,8 +13353,7 @@
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2026. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13557,8 +13427,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2023, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13630,8 +13499,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2021, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13680,8 +13548,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 520,
-      "prix_max_calcul": "739€ (cote) × (0.62 + 0.28 × 58% fit) = 578€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 578,
+      "prix_max_calcul": "739€ (cote) × (0.62 + 0.28 × 58% fit) = 578€",
       "cote": 739.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -13702,9 +13570,7 @@
         "valeur": 0.0
       },
       "verdict": "Peu adapté à ton usage (~58% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "état"
-      ],
+      "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille 54 cm, 2022, vert. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
@@ -13775,8 +13641,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Microshift, taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13847,8 +13712,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre acier, groupe Shimano Sora mécanique, freins à disque, taille M, 2022, noir. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13922,8 +13786,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Microshift ADVENT X mécanique, freins à disque, taille M, 2024, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -13996,8 +13859,7 @@
       "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14071,8 +13933,7 @@
       "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14147,8 +14008,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Deore, taille M, 2019. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14219,8 +14079,7 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14294,8 +14153,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Other, taille M, 2020. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14367,8 +14225,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Rohloff Speedhub, taille M, 2013. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14441,8 +14298,7 @@
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Shimano Dura Ace mécanique, freins à disque, taille 54 cm, 2017, rouge. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14512,8 +14368,7 @@
       },
       "verdict": "Peu adapté à ton usage (~20% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Other mécanique, freins à disque, taille 54 cm, 2025, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14585,8 +14440,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2025, noir. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14661,8 +14515,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2023. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14736,8 +14589,7 @@
       "verdict": "Peu adapté à ton usage (~46% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Sensah SRX, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14808,8 +14660,7 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre acier, groupe SRAM GX mécanique, freins à disque, taille M, 2020, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14884,8 +14735,7 @@
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -14960,8 +14810,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15037,8 +14886,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Sora, taille M, 2025. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15114,8 +14962,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15190,8 +15037,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15263,8 +15109,7 @@
       },
       "verdict": "Peu adapté à ton usage (~41% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2025, light gray. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15335,8 +15180,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15411,8 +15255,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2025, noir. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15486,8 +15329,7 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille 54 cm, 2026, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15562,8 +15404,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe SRAM GX Eagle AXS (T-Type), taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15638,8 +15479,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Sora, taille M, 2025. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15715,8 +15555,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Microshift, taille M, 2023. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15788,8 +15627,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre carbone, groupe Other mécanique, freins sur jante, taille M, 2000, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15865,8 +15703,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -15940,8 +15777,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16016,8 +15852,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16090,8 +15925,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Microshift mécanique, freins à disque, taille 54 cm, 2025, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16164,8 +15998,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Microshift Acolyte mécanique, freins à disque, taille M, 2026, vert. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16237,8 +16070,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille 54 cm, 2020, vert. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16311,8 +16143,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2023, bleu. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16386,8 +16217,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2023, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16462,8 +16292,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16537,8 +16366,7 @@
       "verdict": "Peu adapté à ton usage (~25% du besoin) — IGNORER.",
       "infos_manquantes": [
         "freins",
-        "cadre",
-        "état"
+        "cadre"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Claris, taille M, 2020. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16612,8 +16440,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Campagnolo Record, taille M, 2018. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16684,8 +16511,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille M, 2024, noir. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16761,8 +16587,7 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Microshift mécanique, freins à disque, taille 54 cm, 2025, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16835,8 +16660,7 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Other Shimano mécanique, freins à disque, taille 54 cm, 2026, light gray. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16910,8 +16734,7 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, rouge. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -16986,8 +16809,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -17062,8 +16884,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Campagnolo Record, taille M, 2018. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -17136,8 +16957,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Sora, taille M, 2023. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -17211,8 +17031,7 @@
       "infos_manquantes": [
         "freins",
         "cadre",
-        "pneus",
-        "état"
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Sora, taille M, 2022. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -17254,5 +17073,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T09:14:56+00:00"
+  "genere_le": "2026-07-06T09:25:44+00:00"
 }
