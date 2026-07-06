@@ -10651,7 +10651,7 @@
       "url": "https://buycycle.com/product/toughroad-slr-gx-1-2018-77848",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "NÉGOCIER",
+      "action": "CONTACTER",
       "prix": 630.0,
       "cout_reel": 875,
       "cout_reel_detail": [
@@ -10681,14 +10681,15 @@
         "plaisir": 8.5,
         "valeur": 6.2
       },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~534€) — NÉGOCIER.",
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
         "freins",
-        "cadre"
+        "cadre",
+        "pneus"
       ],
       "dossier": {
         "compte_rendu": "Groupe Shimano Tiagra, taille M, 2018. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "modele_avis": "Le Giant ToughRoad SLR GX 1 2018 est un vélo hybride/trekking robuste positionné dans le milieu de gamme de la famille ToughRoad, en dessous des versions carbone mais au-dessus des GX 2/3 en termes de composants. Il repose sur un cadre en aluminium ALUXX SL avec fourche suspendue (SR Suntour) sur cette version GX, un cintre plat, et une géométrie orientée confort/robustesse plutôt que vitesse. Le groupe Shimano Tiagra en 10 vitesses est fiable et facile à entretenir, monté ici en configuration probablement 2x, avec freins à disque mécaniques ou hydrauliques selon finition. Son usage visé est le trekking, le vélotaf urbain et les chemins roulants, avec des œillets pour porte-bagages et garde-boue qui le rendent adapté au vélotaf quotidien toute l'année. Ses points forts sont la solidité du cadre, la polyvalence, les pneus larges type Giant CrossCut et une position droite confortable ; ses limites sont un poids élevé, une fourche suspendue basique qui pénalise le rendement, et un cintre plat qui le rend moins pertinent pour du gravel sportif ou de longues sorties route. Sa réputation est bonne en fiabilité et durabilité, typique des hybrides utilitaires Giant. Pour le gravel léger il dépanne sur pistes roulantes mais n'est pas un vrai gravel drop-bar performant.",
         "vision": "",
         "description_vendeur": "Excelentes condiciones; transmisión nueva recién cambiada; frenos (discos + pastillas) nuevos; monta neumáticos de carretera, regalo neumáticos de gravel; regalo portabidón.",
         "plus_velo": [
@@ -10713,7 +10714,7 @@
         "color": null,
         "condition": null,
         "poids_kg": null,
-        "degagement_mm": 50
+        "degagement_mm": null
       },
       "vision_brute": null,
       "historique_prix": [
@@ -26994,5 +26995,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T11:24:13+00:00"
+  "genere_le": "2026-07-06T11:24:23+00:00"
 }
