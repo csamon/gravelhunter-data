@@ -1,5 +1,5 @@
 {
-  "total": 225,
+  "total": 226,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -721,6 +721,89 @@
         "etat_visuel": "Vélo en état quasi neuf : transmission propre sans usure visible, chaîne brillante, plateau et cassette aux dents intactes. Pneus WTB Riddler à crampons neufs, disques et plaquettes sans marque d'usure, aucune rayure ni corrosion apparente.",
         "points_attention": "Monoplateau SRAM Apex avec cassette large (type 11-42) et dérailleur à chape longue avec embrayage; vérifier la référence exacte des manettes et le montage tubeless (pneus WTB à flanc marron 'tan'). Étiquettes encore présentes sur les leviers, suggérant un modèle neuf/expo.",
         "confiance": 0.7
+      }
+    },
+    {
+      "titre": "Megamo WEST 15 2022 2022",
+      "url": "https://buycycle.com/product/west-15-2022-79081",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 999.0,
+      "cout_reel": 1159,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 859,
+      "prix_max_calcul": "1134€ (cote) × (0.62 + 0.28 × 79% fit) = 954€ − 10 % (infos manquantes)",
+      "cote": 1134.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Megamo",
+      "modele": "WEST 15 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2643804/cc75eaee-c47e-47e4-b524-b3f073ebacbc.webp",
+      "score": 9.1,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 7.7,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 6.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~859€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Megamo WEST 15 2022 se positionne dans la partie médiane de la gamme gravel West de la marque espagnole Megamo, dont les déclinaisons (10, 15, 20...) se distinguent surtout par le niveau de composants et de finition. Ce millésime associe un cadre et une fourche carbone à un groupe Shimano GRX (probablement GRX 400/600 en 2x ou 1x selon la finition exacte), ce qui en fait un gravel polyvalent orienté loisir/aventure plutôt que compétition pure. Les points forts sont le gain de poids et le confort du carbone, la robustesse et la logique dédiée gravel du GRX (levier de frein ergonomique, plateaux et cassette adaptés au tout-chemin), ainsi que le freinage disque efficace par tous temps. Les limites concrètes tiennent au caractère plus confidentiel de la marque (réseau SAV et disponibilité des pièces cadre/direction moins évidents hors Espagne, valeur de revente incertaine) et à un équipement de roues/pneus souvent d'entrée de gamme à surveiller sur l'occasion. La fiabilité mécanique du GRX est reconnue, mais l'état réel du cadre carbone (chocs, insertions filetées, jeu de direction) doit être inspecté attentivement avant achat. Pour un usage vélotaf quotidien toute l'année il conviendra à condition d'ajouter garde-boue et éclairage et de vérifier la présence de fixations, tout en restant très à l'aise pour du gravel léger à modéré.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission monoplateau avec chaîne et cassette encrassées mais sans usure marquée visible ; pneus gravel (Chaoyang/Maxxis Rambler) à flancs beiges avec crampons encore présents et disques de frein en bon état. Cadre carbone globalement propre malgré des rayures et éclats de peinture nets sur le tube diagonal côté porte-bidon. ⚠ À vérifier : Éclats de peinture et rayures profondes sur le tube diagonal à vérifier (contrôler l'intégrité du carbone) ; transmission et zone de pédalier sales, prévoir nettoyage/contrôle chaîne. (confiance 50%)",
+        "description_vendeur": "Se aprecia un arañazo en el tubo vertical del cuadro.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−12 % vs cote (~1134 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission monoplateau avec chaîne et cassette encrassées mais sans usure marquée visible ; pneus gravel (Chaoyang/Maxxis Rambler) à flancs beiges avec crampons encore présents et disques de frein en bon état. Cadre carbone globalement propre malgré des rayures et éclats de peinture nets sur le tube diagonal côté porte-bidon.",
+        "points_attention": "Éclats de peinture et rayures profondes sur le tube diagonal à vérifier (contrôler l'intégrité du carbone) ; transmission et zone de pédalier sales, prévoir nettoyage/contrôle chaîne.",
+        "confiance": 0.5
       }
     },
     {
@@ -17171,5 +17254,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T08:44:01+00:00"
+  "genere_le": "2026-07-06T09:14:56+00:00"
 }
