@@ -8,12 +8,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1080.0,
-      "cout_reel": 1275,
+      "cout_reel": 1240,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1068,
       "prix_max_calcul": "1199€ (cote) × (0.62 + 0.28 × 97% fit) = 1068€",
@@ -89,12 +88,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1490.0,
-      "cout_reel": 1685,
+      "cout_reel": 1650,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1400.0,
       "prix_max_calcul": "1650€ (cote) × (0.62 + 0.28 × 89% fit) = 1434€, plafonné à ton budget 1400€",
@@ -171,12 +169,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1200.0,
-      "cout_reel": 1395,
+      "cout_reel": 1360,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1145,
       "prix_max_calcul": "1319€ (cote) × (0.62 + 0.28 × 89% fit) = 1145€",
@@ -326,11 +323,10 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 700.0,
-      "cout_reel": 835,
+      "cout_reel": 800,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 781,
       "prix_max_calcul": "900€ (cote) × (0.62 + 0.28 × 89% fit) = 781€",
@@ -406,12 +402,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1000.0,
-      "cout_reel": 1195,
+      "cout_reel": 1160,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 885,
       "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 89% fit) = 885€",
@@ -486,12 +481,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1100.0,
-      "cout_reel": 1295,
+      "cout_reel": 1260,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1032,
       "prix_max_calcul": "1199€ (cote) × (0.62 + 0.28 × 86% fit) = 1032€",
@@ -567,12 +561,11 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1150.0,
-      "cout_reel": 1345,
+      "cout_reel": 1310,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 998,
       "prix_max_calcul": "1150€ (prix affiché) × (0.62 + 0.28 × 89% fit) = 998€",
@@ -647,11 +640,10 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1200.0,
-      "cout_reel": 1335,
+      "cout_reel": 1300,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 938,
       "prix_max_calcul": "1200€ (prix affiché) × (0.62 + 0.28 × 89% fit) = 1042€ − 10 % (infos manquantes)",
@@ -729,12 +721,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1400.0,
-      "cout_reel": 1595,
+      "cout_reel": 1560,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1341,
       "prix_max_calcul": "1559€ (cote) × (0.62 + 0.28 × 86% fit) = 1341€",
@@ -809,12 +800,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 499.0,
-      "cout_reel": 694,
+      "cout_reel": 659,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 461,
       "prix_max_calcul": "599€ (cote) × (0.62 + 0.28 × 84% fit) = 512€ − 10 % (infos manquantes)",
@@ -893,12 +883,11 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1000.0,
-      "cout_reel": 1195,
+      "cout_reel": 1160,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 774,
       "prix_max_calcul": "1000€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 860€ − 10 % (infos manquantes)",
@@ -1049,11 +1038,10 @@
       "categorie": "gravel",
       "action": "ACHETER",
       "prix": 1100.0,
-      "cout_reel": 1235,
+      "cout_reel": 1200,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1260,
       "prix_max_calcul": "2100€ (cote) × (0.62 + 0.28 × 74% fit) = 1735€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
@@ -1131,12 +1119,11 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 800.0,
-      "cout_reel": 995,
+      "cout_reel": 960,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 690,
       "prix_max_calcul": "800€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 690€",
@@ -1211,11 +1198,10 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1200.0,
-      "cout_reel": 1335,
+      "cout_reel": 1300,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 891,
       "prix_max_calcul": "1140€ (cote) × (0.62 + 0.28 × 89% fit) = 990€ − 10 % (infos manquantes)",
@@ -1293,12 +1279,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1150.0,
-      "cout_reel": 1345,
+      "cout_reel": 1310,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 937,
       "prix_max_calcul": "1079€ (cote) × (0.62 + 0.28 × 89% fit) = 937€",
@@ -1449,11 +1434,10 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1400.0,
-      "cout_reel": 1535,
+      "cout_reel": 1500,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1094,
       "prix_max_calcul": "1290€ (cote) × (0.62 + 0.28 × 82% fit) = 1094€",
@@ -1530,11 +1514,10 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1360.0,
-      "cout_reel": 1495,
+      "cout_reel": 1460,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 917,
       "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 100% fit) = 917€",
@@ -1610,12 +1593,11 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 750.0,
-      "cout_reel": 945,
+      "cout_reel": 910,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 636,
       "prix_max_calcul": "750€ (prix affiché) × (0.62 + 0.28 × 82% fit) = 636€",
@@ -1688,11 +1670,10 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1320.0,
-      "cout_reel": 1455,
+      "cout_reel": 1420,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 714,
       "prix_max_calcul": "912€ (cote) × (0.62 + 0.28 × 89% fit) = 793€ − 10 % (infos manquantes)",
@@ -1772,12 +1753,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 800.0,
-      "cout_reel": 995,
+      "cout_reel": 960,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 678,
       "prix_max_calcul": "894€ (cote) × (0.62 + 0.28 × 79% fit) = 753€ − 10 % (infos manquantes)",
@@ -1855,13 +1835,12 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1111.0,
-      "cout_reel": 1391,
+      "cout_reel": 1356,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1260,
       "prix_max_calcul": "1859€ (cote) × (0.62 + 0.28 × 79% fit) = 1564€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
@@ -2459,12 +2438,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1299.0,
-      "cout_reel": 1494,
+      "cout_reel": 1459,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 929,
       "prix_max_calcul": "1199€ (cote) × (0.62 + 0.28 × 86% fit) = 1032€ − 10 % (infos manquantes)",
@@ -2544,13 +2522,12 @@
       "categorie": "gravel",
       "action": "ACHETER",
       "prix": 500.0,
-      "cout_reel": 780,
+      "cout_reel": 745,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1260,
       "prix_max_calcul": "2999€ (cote) × (0.62 + 0.28 × 79% fit) = 2523€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
@@ -2628,12 +2605,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 830.0,
-      "cout_reel": 1025,
+      "cout_reel": 990,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 557,
       "prix_max_calcul": "720€ (cote) × (0.62 + 0.28 × 86% fit) = 619€ − 10 % (infos manquantes)",
@@ -2711,12 +2687,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 980.0,
-      "cout_reel": 1175,
+      "cout_reel": 1140,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 723,
       "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 86% fit) = 723€",
@@ -2792,12 +2767,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1250.0,
-      "cout_reel": 1445,
+      "cout_reel": 1410,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 835,
       "prix_max_calcul": "1079€ (cote) × (0.62 + 0.28 × 86% fit) = 928€ − 10 % (infos manquantes)",
@@ -3027,12 +3001,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1299.0,
-      "cout_reel": 1494,
+      "cout_reel": 1459,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 937,
       "prix_max_calcul": "1079€ (cote) × (0.62 + 0.28 × 89% fit) = 937€",
@@ -3111,12 +3084,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 850.0,
-      "cout_reel": 1045,
+      "cout_reel": 1010,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 763,
       "prix_max_calcul": "923€ (cote) × (0.62 + 0.28 × 74% fit) = 763€",
@@ -3266,14 +3238,13 @@
       "categorie": "cyclocross",
       "action": "ATTENDRE",
       "prix": 1390.0,
-      "cout_reel": 1750,
+      "cout_reel": 1715,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "pneus gravel +80€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1400.0,
       "prix_max_calcul": "2520€ (cote) × (0.62 + 0.28 × 69% fit) = 2050€, plafonné à ton budget 1400€",
@@ -3350,12 +3321,11 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 850.0,
-      "cout_reel": 1070,
+      "cout_reel": 1035,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 907,
       "prix_max_calcul": "1070€ (cote) × (0.62 + 0.28 × 81% fit) = 907€",
@@ -3432,13 +3402,12 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1200.0,
-      "cout_reel": 1480,
+      "cout_reel": 1445,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1136,
       "prix_max_calcul": "1500€ (cote) × (0.62 + 0.28 × 79% fit) = 1262€ − 10 % (infos manquantes)",
@@ -3516,13 +3485,12 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1190.0,
-      "cout_reel": 1470,
+      "cout_reel": 1435,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1261,
       "prix_max_calcul": "1499€ (cote) × (0.62 + 0.28 × 79% fit) = 1261€",
@@ -3598,13 +3566,12 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1100.0,
-      "cout_reel": 1380,
+      "cout_reel": 1345,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 789,
       "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 86% fit) = 877€ − 10 % (infos manquantes)",
@@ -5154,13 +5121,12 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1400.0,
-      "cout_reel": 1680,
+      "cout_reel": 1645,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1060,
       "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 1178€ − 10 % (infos manquantes)",
@@ -5237,13 +5203,12 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1230.0,
-      "cout_reel": 1510,
+      "cout_reel": 1475,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1046,
       "prix_max_calcul": "1351€ (cote) × (0.62 + 0.28 × 86% fit) = 1162€ − 10 % (infos manquantes)",
@@ -5320,13 +5285,12 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1290.0,
-      "cout_reel": 1570,
+      "cout_reel": 1535,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 877,
       "prix_max_calcul": "1140€ (cote) × (0.62 + 0.28 × 84% fit) = 974€ − 10 % (infos manquantes)",
@@ -5406,12 +5370,11 @@
       "categorie": "gravel",
       "action": "CONTACTER",
       "prix": 1299.0,
-      "cout_reel": 1519,
+      "cout_reel": 1484,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1302,
       "prix_max_calcul": "1500€ (cote) × (0.62 + 0.28 × 89% fit) = 1302€",
@@ -6965,11 +6928,10 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1300.0,
-      "cout_reel": 1435,
+      "cout_reel": 1400,
       "cout_reel_detail": [
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 696,
       "prix_max_calcul": "911€ (cote) × (0.62 + 0.28 × 82% fit) = 773€ − 10 % (infos manquantes)",
@@ -7047,13 +7009,12 @@
       "categorie": "cyclocross",
       "action": "IGNORER",
       "prix": 1250.0,
-      "cout_reel": 1530,
+      "cout_reel": 1495,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 934,
       "prix_max_calcul": "1250€ (prix affiché) × (0.62 + 0.28 × 75% fit) = 1038€ − 10 % (infos manquantes)",
@@ -7354,13 +7315,12 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 900.0,
-      "cout_reel": 1180,
+      "cout_reel": 1145,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 522,
       "prix_max_calcul": "690€ (cote) × (0.62 + 0.28 × 79% fit) = 580€ − 10 % (infos manquantes)",
@@ -7511,12 +7471,11 @@
       "categorie": "gravel",
       "action": "NÉGOCIER",
       "prix": 1290.0,
-      "cout_reel": 1485,
+      "cout_reel": 1450,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 697,
       "prix_max_calcul": "900€ (cote) × (0.62 + 0.28 × 86% fit) = 774€ − 10 % (infos manquantes)",
@@ -8335,14 +8294,13 @@
       "categorie": "gravel",
       "action": "ATTENDRE",
       "prix": 800.0,
-      "cout_reel": 1160,
+      "cout_reel": 1125,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "pneus gravel +80€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1065,
       "prix_max_calcul": "1238€ (cote) × (0.62 + 0.28 × 86% fit) = 1065€",
@@ -8418,13 +8376,12 @@
       "categorie": "cyclocross",
       "action": "IGNORER",
       "prix": 1200.0,
-      "cout_reel": 1500,
+      "cout_reel": 1465,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "pneus gravel +80€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1307,
       "prix_max_calcul": "1593€ (cote) × (0.62 + 0.28 × 72% fit) = 1307€",
@@ -8503,13 +8460,12 @@
       "categorie": "cyclocross",
       "action": "IGNORER",
       "prix": 1100.0,
-      "cout_reel": 1400,
+      "cout_reel": 1365,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "pneus gravel +80€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 844,
       "prix_max_calcul": "1007€ (cote) × (0.62 + 0.28 × 78% fit) = 844€",
@@ -8587,14 +8543,13 @@
       "categorie": "cyclocross",
       "action": "IGNORER",
       "prix": 600.0,
-      "cout_reel": 960,
+      "cout_reel": 925,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "pneus gravel +80€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 605,
       "prix_max_calcul": "749€ (cote) × (0.62 + 0.28 × 67% fit) = 605€",
@@ -8746,14 +8701,13 @@
       "categorie": "cyclocross",
       "action": "IGNORER",
       "prix": 1290.0,
-      "cout_reel": 1650,
+      "cout_reel": 1615,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "pneus gravel +80€",
         "livraison +60€",
-        "révision +40€",
-        "chaîne/usure +35€"
+        "révision +40€"
       ],
       "prix_max_conseille": 1049,
       "prix_max_calcul": "1290€ (prix affiché) × (0.62 + 0.28 × 69% fit) = 1049€",
@@ -16888,5 +16842,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T07:34:19+00:00"
+  "genere_le": "2026-07-06T07:35:33+00:00"
 }
