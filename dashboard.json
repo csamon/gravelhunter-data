@@ -169,9 +169,9 @@
       "url": "https://buycycle.com/product/topstone-apex-1-2025-58166",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 1200.0,
-      "cout_reel": 1360,
+      "action": "CONTACTER",
+      "prix": 1085.0,
+      "cout_reel": 1245,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
@@ -193,12 +193,12 @@
       "fit_pct": 89,
       "axes": {
         "technique": 9.8,
-        "financier": 7.3,
+        "financier": 8.5,
         "usage": 9.0,
         "plaisir": 7.0,
-        "valeur": 5.7
+        "valeur": 6.4
       },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1145€) — NÉGOCIER.",
+      "verdict": "Bon vélo pour ton usage (~89% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille 54 cm, 2025, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -214,7 +214,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−9 % vs cote (~1319 €)",
+          "Décote intéressante : ~−18 % vs cote (~1319 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
           "Protection acheteur buycycle (paiement libéré après réception)"
@@ -17171,5 +17171,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T08:14:07+00:00"
+  "genere_le": "2026-07-06T08:44:01+00:00"
 }
