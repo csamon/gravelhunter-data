@@ -1,5 +1,5 @@
 {
-  "total": 224,
+  "total": 225,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1095,7 +1095,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−48 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (69 favoris)",
+          "Annonce très regardée (70 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3644,7 +3644,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -3665,11 +3665,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -6484,6 +6484,80 @@
         "condition": null,
         "poids_kg": 10.8,
         "degagement_mm": 45
+      },
+      "vision_brute": null
+    },
+    {
+      "titre": "Cinelli Zydeco 2019 2019",
+      "url": "https://buycycle.com/product/zydeco-2019-83341",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1100.0,
+      "cout_reel": 1345,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 772,
+      "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 79% fit) = 858€ − 10 % (infos manquantes)",
+      "cote": 1019.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cinelli",
+      "modele": "Zydeco 2019",
+      "taille": "M",
+      "annee": 2019,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2600270/f0ac4af4-b907-4896-930e-46913ca7e0dd.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 5.2,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 4.4
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Cinelli Zydeco 2019 est un gravel d'entrée à milieu de gamme dans le catalogue de la marque italienne, positionné sous les modèles route/piste plus prestigieux de Cinelli et cohabitant avec le Nemo Tig plus haut de gamme en acier. Il repose sur un cadre en aluminium 6061 doublé d'une fourche carbone, ce qui procure une bonne rigidité pour un poids maîtrisé et un amorti correct à l'avant, avec des standards classiques de l'époque (axes traversants sur les versions récentes, freins à disque, montage 1x ou 2x selon les configurations). Sa géométrie polyvalente et relativement confortable le destine au gravel léger, aux chemins roulants et à un usage bikepacking modéré, plus qu'au tout-terrain engagé. Le groupe SRAM Apex 1x est fiable, robuste et facile à entretenir, mais reste basique avec un étagement large qui pénalise un peu la cadence sur route. Points forts : cadre polyvalent, look italien soigné, dégagement pneu généreux, bonne endurance mécanique ; limites : poids assez élevé du cadre alu, périphériques d'entrée de gamme souvent à remplacer, freins Apex mécaniques ou hydrauliques selon millésime à vérifier. Sa réputation est celle d'un vélo honnête et durable sans être exceptionnel. Pour du vélotaf quotidien toute l'année, il est très adapté (robustesse, passages de garde-boue possibles, pneus larges), et il assure un gravel léger sans souci, à condition d'accepter un rendement moyen sur bitume.",
+        "vision": "",
+        "description_vendeur": "Como nueva, usada poquísimo, neumáticos originales. Portaequipajes no incluido.",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Annonce très regardée (23 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1019 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 42
       },
       "vision_brute": null
     },
@@ -17097,5 +17171,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T07:45:43+00:00"
+  "genere_le": "2026-07-06T08:14:07+00:00"
 }
