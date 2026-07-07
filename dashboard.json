@@ -1,5 +1,5 @@
 {
-  "total": 296,
+  "total": 309,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -92,10 +92,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -295,9 +295,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -383,9 +383,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -575,9 +575,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -761,10 +761,202 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Giant Revolt 1 2022 2022",
+      "url": "https://buycycle.com/product/revolt-1-2022-40685",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1100.0,
+      "cout_reel": 1260,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 908,
+      "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 97% fit) = 908€",
+      "cote": 1019.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Revolt 1 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2644884/5fccb572-f4ce-4cc9-942b-543300922996.webp",
+      "score": 9.5,
+      "fit_pct": 97,
+      "axes": {
+        "technique": 8.8,
+        "financier": 5.2,
+        "usage": 10.0,
+        "plaisir": 8.5,
+        "valeur": 4.4
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~908€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, rouge. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant Revolt 1 2022 se situe en milieu de gamme dans la famille gravel de Giant, au-dessus du Revolt 2 (groupe inférieur) et sous les versions Advanced en carbone. Il repose sur un cadre aluminium ALUXX SL avec fourche carbone Advanced-Grade et tige de selle D-Fuse (profil en D) censée filtrer les vibrations, une signature Giant appréciée pour le confort sur terrain irrégulier. La génération 2022 introduit surtout le système de pattes arrière RideSense/flip-chip permettant d'ajuster l'empattement et la géométrie, un vrai atout de polyvalence. Le groupe Shimano GRX 2x (mono ou double selon versions/marchés) offre une plage de développements large et un freinage à disque hydraulique fiable et endurant. Points forts : robustesse du cadre alu, confort D-Fuse, freinage puissant, géométrie stable et polyvalente ; limites : poids conséquent typique de l'alu, roues d'origine (Giant SLR) correctes mais lourdes et peu rigides, et absence d'inserts multiples parfois limitante pour le bikepacking selon finitions. Réputation solide et fiable, entretien GRX sans surprise. Pour le vélotaf quotidien toute l'année il est pertinent (montage garde-boue/porte-bagages possible, pneus larges, freins fiables), et il gère très bien le gravel léger à moyen, un peu limité en gravel très technique par sa géométrie plutôt orientée endurance/polyvalence.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x (double plateau, dérailleur arrière grx rx400/rx810, manettes grx st), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, pneus Giant CrossCut AT2 à sculpture crantée quasi neuve, plaquettes et disques (RT type ice-tech) en bon état sans usure marquée. Cadre rouge globalement propre avec quelques micro-rayures/éclats de peinture sur le tube diagonal et près du bras de frein. ⚠ À vérifier : Petit éclat de peinture / marque blanche sur le bbase arrière près de l'étrier à vérifier (impact superficiel ?), et rayures cosmétiques sur le tube diagonal. Vérifier serrage et alignement disque. La désignation exacte de la série GRX (RX400 10v ou RX810 11v) n'est pas totalement lisible. (confiance 55%)",
+        "description_vendeur": "Hay un pequeño rasguño en el tubo diagonal, así como en la parte trasera del cuadro. También hay un pequeño rasguño en la palanca de cambio izquierda.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (97 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1019 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "rouge",
+        "condition": null,
+        "poids_kg": 10.2,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x (double plateau, dérailleur arrière GRX RX400/RX810, manettes GRX ST)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne et cassette peu usées, pneus Giant CrossCut AT2 à sculpture crantée quasi neuve, plaquettes et disques (RT type ice-tech) en bon état sans usure marquée. Cadre rouge globalement propre avec quelques micro-rayures/éclats de peinture sur le tube diagonal et près du bras de frein.",
+        "points_attention": "Petit éclat de peinture / marque blanche sur le bbase arrière près de l'étrier à vérifier (impact superficiel ?), et rayures cosmétiques sur le tube diagonal. Vérifier serrage et alignement disque. La désignation exacte de la série GRX (RX400 10v ou RX810 11v) n'est pas totalement lisible.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 1100.0,
+        "n_en_vente": 3,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1100 € (3 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Cannondale Topstone 2 2023 2023",
+      "url": "https://buycycle.com/product/topstone-2-2023-74231",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1250.0,
+      "cout_reel": 1410,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1042,
+      "prix_max_calcul": "1200€ (cote) × (0.62 + 0.28 × 89% fit) = 1042€",
+      "cote": 1200.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cannondale",
+      "modele": "Topstone 2 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2645151/f4295431-7114-40f2-ab59-d7ecc7e401ea.webp",
+      "score": 9.4,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 9.8,
+        "financier": 5.6,
+        "usage": 9.0,
+        "plaisir": 7.0,
+        "valeur": 4.7
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1042€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, bleu. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Cannondale Topstone 2 2023 se situe en milieu de gamme alu de la série Topstone, au-dessus du Topstone 3/4 (Shimano Sora/GRX 400) mais sous les versions Carbon et le Topstone 1. Il repose sur un cadre SmartForm C2 en aluminium avec fourche carbone à insert alu au pivot, sans le système d'amortissement arrière Kingpin réservé aux modèles Carbon, ce qui le rend plus simple et robuste mais moins filtrant sur pistes cassantes. Il est équipé d'un groupe Shimano GRX (transmission 2x, freins à disque hydrauliques), avec géométrie endurance/gravel relativement stable et confortable. Usage visé : gravel polyvalent, sorties longues sur chemins roulants et route, avec de nombreux inserts (porte-bagages, garde-boue, points de fixation multiples) qui le rendent excellent pour le vélotaf et le bikepacking léger. Points forts : robustesse alu, montage GRX fiable et facile à entretenir, capacité d'accueil de pneus larges et polyvalence bagagerie ; limites : poids assez élevé pour un alu de milieu de gamme, absence d'amorti Kingpin, et jantes/roues d'origine assez lourdes qu'on remplacera pour gagner en dynamisme. Réputation solide et fiable, sans vice majeur connu, idéal comme vélo unique toute l'année à condition d'ajouter garde-boue et éclairage. Pour le vélotaf quotidien et le gravel léger, c'est un choix pertinent et endurant, la principale réserve étant l'inertie liée au poids.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (dérailleur arrière grx, manivelle rotor 40t 11-12s), freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Transmission et chaîne graisseuses/encrassées avec cassette montrant une usure normale, pneus Schwalbe G-One/Thunder à sculpture encore présente. Cadre alu noir avec quelques micro-rayures superficielles, disques et plaquettes semblant corrects, ensemble globalement propre mais nécessitant un nettoyage de la transmission. ⚠ À vérifier : Groupe mixte (manivelle Rotor mono-plateau 40T remplaçant le double d'origine + dérailleur GRX) — vérifier compatibilité 11v et usure réelle de la chaîne/cassette. Contrôler l'état exact des flancs de pneus et l'absence de fissures. Titre annonce 'Topstone' incohérent avec un cadre alu à câblage externe (probablement CAADX/Topstone alu). (confiance 55%)",
+        "description_vendeur": "Pequeñas marcas de uso habitual. Modificada con calidad, transformada a monoplato con bielas ROTOR (170 mm) y plato.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1200 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11 (dérailleur arrière GRX, manivelle Rotor 40T 11-12s)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission et chaîne graisseuses/encrassées avec cassette montrant une usure normale, pneus Schwalbe G-One/Thunder à sculpture encore présente. Cadre alu noir avec quelques micro-rayures superficielles, disques et plaquettes semblant corrects, ensemble globalement propre mais nécessitant un nettoyage de la transmission.",
+        "points_attention": "Groupe mixte (manivelle Rotor mono-plateau 40T remplaçant le double d'origine + dérailleur GRX) — vérifier compatibilité 11v et usure réelle de la chaîne/cassette. Contrôler l'état exact des flancs de pneus et l'absence de fissures. Titre annonce 'Topstone' incohérent avec un cadre alu à câblage externe (probablement CAADX/Topstone alu).",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 1250.0,
+        "n_en_vente": 6,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1235,9 +1427,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -1395,7 +1587,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (107 favoris)",
+          "Annonce très regardée (110 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -1923,6 +2115,103 @@
       }
     },
     {
+      "titre": "Bergamont E-Grandurance Elite 2020 2020",
+      "url": "https://buycycle.com/product/e-grandurance-elite-2020-68375",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 980.0,
+      "cout_reel": 1140,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 759,
+      "prix_max_calcul": "980€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 843€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Bergamont",
+      "modele": "E-Grandurance Elite 2020",
+      "taille": "M",
+      "annee": 2020,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2644766/d2a3019f-d61a-4bcb-9f5e-9b09ce71fbf1.webp",
+      "score": 8.5,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo pour ton usage (~86% du besoin) — CONTACTER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 55 cm, 2020, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Bergamont E-Grandurance Elite 2020 est un gravel/endurance à assistance électrique se positionnant en milieu de gamme dans la série E-Grandurance, au-dessus des versions de base mais sous les finitions supérieures. Il combine un cadre aluminium et une fourche carbone, choix classique pour maîtriser le coût tout en filtrant partiellement les vibrations à l'avant, l'arrière restant plus ferme sans amortisseur. Le groupe Shimano GRX (spécifique gravel, avec leviers ergonomiques et plateau adapté) est un vrai atout côté transmission et freinage disque hydraulique fiable. La motorisation est généralement de type moteur pédalier (souvent Bosch ou équivalent selon la déclinaison) avec batterie intégrée, orientant l'usage vers le trajet quotidien assisté et le gravel roulant plutôt que le tout-terrain engagé. Points forts : polyvalence vélotaf/loisir, freinage GRX efficace, position endurance confortable ; limites : poids élevé propre aux e-gravel, cadre alu moins amortissant, et la dépendance à la disponibilité des pièces moteur/batterie sur un modèle 2020 en occasion. Fiabilité correcte pour un usage quotidien toute l'année à condition de vérifier l'état de la batterie (cycles, capacité résiduelle) et l'usure de la transmission. Adéquation vélotaf quotidien bonne avec ajout de garde-boue/porte-bagages et éclairage ; gravel léger tout à fait envisageable, gravel technique déconseillé.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission bien marquée : cassette et chaîne sales avec traces d'usure, pneus gravel à crampons encore corrects mais sales. Cadre alu (AL-6061 butted, taille 55) avec quelques éraflures/rayures superficielles, ensemble fonctionnel mais nécessitant un nettoyage complet. ⚠ À vérifier : Motorisation avec 3.951 km au compteur et batterie à 52%, vérifier l'état/santé de la batterie et du moteur ; chaîne à contrôler pour usure (jauge) vu l'encrassement. (confiance 78%)",
+        "description_vendeur": "Cubiertas prácticamente nuevas. Eficiencia del motor al 100% (ver foto). 4000 km totales. Algunos arañazos en las bielas, el resto del cuadro está muy bien cuidado. Si queréis, puedo dejar el portaequipajes Ortlieb y el caballete. También está disponible el portaherramientas para colocar en lugar del motor-batería.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission bien marquée : cassette et chaîne sales avec traces d'usure, pneus gravel à crampons encore corrects mais sales. Cadre alu (AL-6061 butted, taille 55) avec quelques éraflures/rayures superficielles, ensemble fonctionnel mais nécessitant un nettoyage complet.",
+        "points_attention": "Motorisation avec 3.951 km au compteur et batterie à 52%, vérifier l'état/santé de la batterie et du moteur ; chaîne à contrôler pour usure (jauge) vu l'encrassement.",
+        "confiance": 0.78
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 980.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Ridley Kanzo Adventure Alu - Shimano GRX400 2x10sp 2024 2024",
       "url": "https://buycycle.com/product/kanzo-adventure-alu-shimano-grx400-2x10sp-2024-74312",
       "source": "buycycle",
@@ -2060,7 +2349,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2351,6 +2640,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (3 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2390,9 +2680,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -2920,7 +3210,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~1739 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3063,8 +3353,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 1249.0,
-      "cout_reel": 1494,
+      "prix": 1229.0,
+      "cout_reel": 1474,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -3090,7 +3380,7 @@
         "financier": 10.0,
         "usage": 10.0,
         "plaisir": 8.0,
-        "valeur": 8.1
+        "valeur": 8.2
       },
       "verdict": "Bon dossier MAIS analyse photo pas assez fiable (< 0.75), infos manquantes (freins, cadre) — CONTACTER pour lever le doute avant d'acheter.",
       "infos_manquantes": [
@@ -3110,7 +3400,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−39 % vs cote (~2039 €)",
+          "Décote intéressante : ~−40 % vs cote (~2039 €)",
           "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
@@ -3134,6 +3424,10 @@
         {
           "date": "2026-07-06",
           "prix": 1249.0
+        },
+        {
+          "date": "2026-07-07",
+          "prix": 1229.0
         }
       ],
       "marche_modele": {
@@ -3677,7 +3971,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (59 favoris)",
+          "Annonce très regardée (60 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3771,7 +4065,7 @@
           "Décote intéressante : ~−46 % vs cote (~2520 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3956,7 +4250,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−8 % vs cote (~923 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (97 favoris)",
+          "Annonce très regardée (98 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4058,7 +4352,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−41 % vs cote (~1860 €)",
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4147,7 +4441,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−45 % vs cote (~2520 €)",
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (52 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4278,6 +4572,105 @@
         "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "SUPERIOR BIKES SUPERIOR BIKES Custom Shimano GRX 2024",
+      "url": "https://buycycle.com/product/superior-bikes-custom-32085",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1350.0,
+      "cout_reel": 1510,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 883,
+      "prix_max_calcul": "1140€ (cote) × (0.62 + 0.28 × 86% fit) = 981€ − 10 % (infos manquantes)",
+      "cote": 1140.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "SUPERIOR BIKES",
+      "modele": "SUPERIOR BIKES Custom Shimano GRX",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647011/67b57670-1a26-4467-9f40-d8b74061fa88.webp",
+      "score": 7.4,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 4.2,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 3.5
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~883€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2024, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Superior est une marque tchèque (groupe Kross) historiquement orientée VTT et vélos loisir/entrée-milieu de gamme, dont la présence en gravel/route reste secondaire et peu distribuée hors d'Europe centrale. La mention 'Custom Shimano GRX 2024' suggère un montage assemblé/configuré plutôt qu'un modèle catalogue clairement identifiable, ce qui complique le positionnement exact ; l'association cadre alu + fourche carbone + GRX place l'ensemble en entrée/milieu de gamme gravel, un standard répandu et sans spécificité technique remarquable. Le groupe GRX (probablement RX400/600 en 10-11v selon la configuration) est fiable, éprouvé et bien adapté au gravel, avec un bon compromis robustesse/coût. Usage visé cohérent : vélotaf toute l'année et gravel léger à modéré, le cadre alu tolérant sel/intempéries et les freins à disque assurant un freinage constant sous la pluie. Limites concrètes : cadre alu plus raide et moins confortable que le carbone sur longues distances, poids probablement moyen (autour de 10-11 kg), et surtout un réseau SAV/pièces spécifiques Superior peu dense qui peut poser problème en occasion. La réputation de fiabilité est correcte sur les composants (Shimano) mais l'incertitude porte sur la qualité réelle du cadre 'custom' et son millésime : exigez photos, numéro de série, référence précise du groupe et vérifiez montage/soudures avant achat.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : La transmission (cassette, plateau unique et chaîne) présente une usure légère à modérée avec quelques traces d'huile/salissures. Les pneus Challenge Gravel Grinder montrent des crampons encore présents et les disques de frein semblent en bon état sans corrosion notable. ⚠ À vérifier : Manette/dérailleur avant absent (configuration mono-plateau 1x visible sur les vues arrière), à confirmer avec l'annonce 'GRX' ; vérifier lisibilité exacte de la série GRX (RX400/600/800) non identifiable sur les photos. Roues DT Swiss E1800 (aluminium) et non carbone. Petits éclats/traces sur le cadre à contrôler. (confiance 55%)",
+        "description_vendeur": "Algunas marcas de desgaste en ciertos lugares",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1140 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "La transmission (cassette, plateau unique et chaîne) présente une usure légère à modérée avec quelques traces d'huile/salissures. Les pneus Challenge Gravel Grinder montrent des crampons encore présents et les disques de frein semblent en bon état sans corrosion notable.",
+        "points_attention": "Manette/dérailleur avant absent (configuration mono-plateau 1x visible sur les vues arrière), à confirmer avec l'annonce 'GRX' ; vérifier lisibilité exacte de la série GRX (RX400/600/800) non identifiable sur les photos. Roues DT Swiss E1800 (aluminium) et non carbone. Petits éclats/traces sur le cadre à contrôler.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -4532,7 +4925,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−21 % vs cote (~1499 €)",
-          "Annonce très regardée (146 favoris)",
+          "Annonce très regardée (148 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4820,7 +5213,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−37 % vs cote (~1421 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (35 favoris)",
+          "Annonce très regardée (36 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5177,7 +5570,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−24 % vs cote (~900 €)",
-          "Annonce très regardée (47 favoris)",
+          "Annonce très regardée (49 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5633,7 +6026,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−4 % vs cote (~1200 €)",
-          "Annonce très regardée (44 favoris)",
+          "Annonce très regardée (43 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5663,10 +6056,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -6081,7 +6474,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (69 favoris)",
+          "Annonce très regardée (72 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6261,7 +6654,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (45 favoris)",
+          "Annonce très regardée (46 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6379,12 +6772,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1200.0,
-        "n_en_vente": 4,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -6470,9 +6863,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -6750,9 +7143,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -7201,7 +7594,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−10 % vs cote (~1439 €)",
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7292,7 +7685,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−7 % vs cote (~1500 €)",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7561,7 +7954,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−9 % vs cote (~1499 €)",
-          "Annonce très regardée (36 favoris)",
+          "Annonce très regardée (37 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7650,7 +8043,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (46 favoris)",
+          "Annonce très regardée (50 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7682,10 +8075,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -8040,9 +8433,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -8219,10 +8612,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -8570,12 +8963,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1200.0,
-        "n_en_vente": 4,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -8931,11 +9324,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1100.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 1100 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -9738,12 +10131,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1100.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -9918,11 +10311,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1100.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 1100 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -10473,16 +10866,16 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 925.0,
-      "cout_reel": 1170,
+      "prix": 900.0,
+      "cout_reel": 1145,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 701,
-      "prix_max_calcul": "925€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 779€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 682,
+      "prix_max_calcul": "900€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 758€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -10521,6 +10914,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10543,6 +10937,10 @@
         {
           "date": "2026-07-06",
           "prix": 925.0
+        },
+        {
+          "date": "2026-07-07",
+          "prix": 900.0
         }
       ],
       "marche_modele": {
@@ -10721,6 +11119,297 @@
         {
           "date": "2026-07-06",
           "prix": 630.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Bergamont Grandurance Expert 2024 2024",
+      "url": "https://buycycle.com/product/grandurance-expert-2024-34497",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1400.0,
+      "cout_reel": 1645,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1373,
+      "prix_max_calcul": "1619€ (cote) × (0.62 + 0.28 × 82% fit) = 1373€",
+      "cote": 1619.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Bergamont",
+      "modele": "Grandurance Expert 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2644592/72fe76ff-3a48-4553-b05c-9719375489c6.webp",
+      "score": 7.0,
+      "fit_pct": 82,
+      "axes": {
+        "technique": 9.8,
+        "financier": 7.9,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 6.1
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1373€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2024, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Bergamont Grandurance Expert 2024 se positionne dans le haut de la gamme Grandurance en carbone, au-dessus des versions alu (RD/Sport) mais sous d'éventuelles variantes plus haut de gamme selon les millésimes. Il utilise un cadre et une fourche full carbone avec géométrie endurance/gravel polyvalente, plutôt orientée confort et longues distances qu'agressivité pure. Le groupe Shimano GRX (probablement 1x11 ou 2x11 selon config) est un choix fiable et éprouvé pour le gravel, avec freins à disque hydrauliques offrant un freinage constant par tous temps. L'usage visé couvre le gravel roulant, le bikepacking léger et les sorties route/chemins mixtes, avec de nombreux inserts (porte-bagages, garde-boue, bidons) qui le rendent pertinent pour le vélotaf. Points forts : polyvalence, confort du carbone, montage GRX cohérent, capacité à monter garde-boue et sacoches ; limites : poids non plume pour un carbone d'entrée/milieu, périphériques (roues, cockpit) souvent en aluminium de série qui bornent la performance. La réputation Bergamont sur cette série est correcte, sans défaut de fiabilité notable, mais la valeur de revente reste modeste. Pour un vélotaf quotidien toute l'année couplé à du gravel léger, c'est un bon compromis à condition d'ajouter garde-boue et éventuellement des pneus plus larges/robustes.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique, pneus 45 mm. État visuel : Transmission avec chaîne et cassette légèrement grisées mais dents de plateaux et pignons en bon état sans usure marquée, pneus Schwalbe G-One à crampons bien présents avec sculpture intacte. Cadre carbone gris propre sans rayures ni impacts visibles, disques et étriers hydrauliques en bon état, vélo globalement propre et récent. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (allongement) et la propreté de la transmission qui mérite un nettoyage ; contrôler l'alignement/frottement des étriers de frein. (confiance 72%)",
+        "description_vendeur": "La bicicleta se ha usado un máximo de 150 km y el resto del tiempo ha estado colgada en la pared.\n\nPedales Shimano EH500\nCandado plegable Abus Bordo",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (82 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−14 % vs cote (~1619 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": 45,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission avec chaîne et cassette légèrement grisées mais dents de plateaux et pignons en bon état sans usure marquée, pneus Schwalbe G-One à crampons bien présents avec sculpture intacte. Cadre carbone gris propre sans rayures ni impacts visibles, disques et étriers hydrauliques en bon état, vélo globalement propre et récent.",
+        "points_attention": "Vérifier l'usure exacte de la chaîne (allongement) et la propreté de la transmission qui mérite un nettoyage ; contrôler l'alignement/frottement des étriers de frein.",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "BMC URS FOUR 2020 2020",
+      "url": "https://buycycle.com/product/urs-four-2020-57975",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1400.0,
+      "cout_reel": 1645,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1260,
+      "prix_max_calcul": "1919€ (cote) × (0.62 + 0.28 × 79% fit) = 1614€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
+      "cote": 1919.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "BMC",
+      "modele": "URS FOUR 2020",
+      "taille": "M",
+      "annee": 2020,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2164895/78c976db-70c1-47a3-af46-a5b916351310.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 9.8,
+        "usage": 8.5,
+        "plaisir": 9.5,
+        "valeur": 7.2
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe SRAM Apex mécanique, freins à disque, taille M, 2020, violet. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le BMC URS FOUR 2020 correspond au niveau d'entrée de la gamme URS (Un Restricted Speed), la plateforme gravel de BMC lancée précisément en 2019-2020 ; le suffixe FOUR le positionne sous les URS ONE/TWO/THREE, avec le même cadre carbone mais un équipement plus économique (ici SRAM Apex 1x11). La grande particularité de cette génération est le système d'amortissement arrière MTT (Micro Travel Technology) offrant jusqu'à ~10 mm de flex au niveau des bases/tige de selle, plus la potence/tige D-shape, ce qui trahit une orientation gravel aventure/technique privilégiant le confort et la tenue en terrain cassant plutôt que la vivacité route. Points forts : cadre et fourche carbone rigides, géométrie stable et joueuse en descente, gros dégagement pneu, capacité montage sacoches/bidons ; le groupe Apex reste rustique mais fiable et facile à entretenir. Limites concrètes : mono-plateau Apex à plage de développement limitée (peu adapté aux longs faux-plats rapides du vélotaf), freins Apex hydrauliques corrects mais bas de gamme, poids élevé pour du carbone à ce niveau, et surtout absence d'oeillets porte-bagages complets et de garde-boue intégrés selon les versions, ce qui complique le vélotaf toute l'année. Fiabilité générale bonne (cadre robuste), mais le système MTT ajoute une articulation à surveiller et peut générer des bruits/usure à long terme. Pour un usage vélotaf quotidien par tous temps il reste perfectible (montage garde-boue limité, mono-plateau), tandis qu'il excelle en gravel léger à engagé où il est réellement dans son élément.",
+        "vision": "Cadre carbone, fourche carbone, groupe sram apex 1x11, freins disque hydraulique. État visuel : Transmission mono-plateau SRAM Apex avec chaîne propre et plateau/cassette peu usés, pneus Continental Terra Trail à sculpture bien marquée témoignant d'une faible usure. Cadre carbone rouge brillant globalement propre, sans impact ni rayure marquée visible. ⚠ À vérifier : Fourche URS type MTT (micro-suspension au niveau du té) à vérifier pour jeu/fonctionnement ; disques et durites hydrauliques à contrôler. Vérifier compatibilité/état des roues DT Swiss C1850 (jantes carbone-look mais probablement alu). (confiance 70%)",
+        "description_vendeur": "It is sold with the components shown in the photo. It has some marks of its own use (some gravel marks on the frame).",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−27 % vs cote (~1919 €)",
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "violet",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission mono-plateau SRAM Apex avec chaîne propre et plateau/cassette peu usés, pneus Continental Terra Trail à sculpture bien marquée témoignant d'une faible usure. Cadre carbone rouge brillant globalement propre, sans impact ni rayure marquée visible.",
+        "points_attention": "Fourche URS type MTT (micro-suspension au niveau du té) à vérifier pour jeu/fonctionnement ; disques et durites hydrauliques à contrôler. Vérifier compatibilité/état des roues DT Swiss C1850 (jantes carbone-look mais probablement alu).",
+        "confiance": 0.7
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Megamo West 1 X 11 Apex Mech. 2024 Gr. M - Lackschäden 2024",
+      "url": "https://buycycle.com/product/west-1-x-11-apex-mech-2024-gr-m-lackschaden693d3b6486b09-27923",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1399.0,
+      "cout_reel": 1644,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1137,
+      "prix_max_calcul": "1499€ (cote) × (0.62 + 0.28 × 79% fit) = 1263€ − 10 % (infos manquantes)",
+      "cote": 1499.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Megamo",
+      "modele": "West 1 X 11 Apex Mech. 2024 Gr. M - Lackschäden",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2304461/20b3e08f-3093-4286-ba53-c59fb1547001.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.9,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 5.5
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Megamo West 1 se situe en entrée de gamme gravel chez le fabricant espagnol Megamo, sous les versions supérieures (West 2/3 et modèles carbone) : cadre aluminium avec fourche généralement carbone ou alu selon finition, géométrie gravel polyvalente plutôt endurante. Le millésime 2024 est équipé du groupe SRAM Apex en 1x11 vitesses à commande mécanique (Apex 1 'Mech'), un choix cohérent et robuste pour un usage mixte, avec transmission simple d'entretien mais plage de développements limitée par le mono-plateau, ce qui peut manquer de finesse sur longues montées chargées. L'usage visé couvre le gravel léger, les chemins roulants et le vélotaf, avec passage de pneus assez larges et points d'ancrage pour garde-boue/porte-bagages selon version. Points forts : robustesse alu, entretien 1x simple, freins à disque hydrauliques, bon rapport prix/prestations d'occasion ; limites : poids supérieur aux cadres carbone, confort dépendant de la section de pneus, et surtout les 'Lackschäden' (dommages de peinture) signalés qui imposent de vérifier qu'il ne s'agit pas de chocs structurels ou d'amorces de corrosion sous la peinture. Megamo reste une marque peu diffusée hors Espagne, avec un réseau SAV limité et une valeur de revente plus faible, mais l'électronique/mécanique SRAM Apex est standard et facile à maintenir partout. Pour un vélotaf quotidien toute l'année plus gravel léger, c'est un choix pertinent à condition d'ajouter garde-boue et éclairage et de confirmer l'intégrité du cadre malgré les défauts de peinture.",
+        "vision": "",
+        "description_vendeur": "Color: beige\nLa bicicleta es - nueva - lamentablemente con daños en la pintura (transporte) - ver fotos.\nTubo superior horizontal.\nCentro de la tija de sillín - centro del tubo de dirección - 56 cm\n85110 Kipfenberg",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−7 % vs cote (~1499 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1399.0
         }
       ],
       "marche_modele": {
@@ -11401,7 +12090,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo Jakar 2023 se positionne comme un gravel polyvalent d'entrée à milieu de gamme dans le catalogue de la marque espagnole Megamo, sous les modèles carbone plus haut placés. Il combine un cadre en aluminium (plus robuste et abordable, mais moins filtrant que le carbone) avec une fourche carbone qui améliore le confort à l'avant et réduit le poids sur le train avant. Le groupe Shimano GRX, spécifiquement conçu pour le gravel, offre un étagement adapté au tout-terrain, une bonne ergonomie des leviers et un embrayage de dérailleur (clutch) qui limite les sauts de chaîne sur terrain accidenté ; selon la déclinaison (GRX 400/600/810, mono ou double plateau), les performances et la plage de développement varient sensiblement, ce qu'il faut vérifier précisément à l'achat. Les freins à disque hydrauliques assurent un freinage fiable et constant par tous les temps, un vrai atout pour le vélotaf toute l'année. Comme usage, il vise le gravel léger à moyen, les chemins roulants et la polyvalence route/piste, et convient bien au vélotaf quotidien s'il dispose de fixations pour garde-boue et porte-bagages (à confirmer sur ce millésime). Points forts : robustesse du cadre alu, freinage disque, transmission GRX éprouvée et fiable ; limites : poids plus élevé qu'un cadre carbone, confort du cadre alu perfectible sur longues distances, et une réputation de marque moins établie que les grands acteurs, ce qui peut peser sur la revente et la disponibilité des pièces spécifiques. La fiabilité mécanique repose surtout sur le groupe GRX, très éprouvé, donc l'essentiel est de contrôler l'usure (transmission, plaquettes, roulements) et la déclinaison exacte du groupe.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano grx 2x11 (rx810/rx600, série exacte non lisible), freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateaux en bon état et pneus Pirelli Cinturato Gravel à sculpture encore bien marquée. Disques et étriers hydrauliques d'aspect sain, cadre carbone globalement propre sans corrosion visible. ⚠ À vérifier : Vérifier de près le tissage/état du carbone au niveau des bases et de la fourche, ainsi que l'usure réelle des plaquettes et l'épaisseur des disques (non mesurable en photo). La série exacte du groupe GRX (manettes/dérailleurs) n'est pas lisible : demander photos rapprochées des marquages. (confiance 55%)",
         "description_vendeur": "un pequeño rasguño en el cuadro que apenas se nota",
@@ -11423,11 +12112,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -11616,7 +12305,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (32 favoris)",
+          "Annonce très regardée (35 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -11884,7 +12573,6 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12003,12 +12691,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1100.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12184,12 +12872,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1100.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12277,9 +12965,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -12325,7 +13013,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2021, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Felt Breed 2021 se positionne comme un gravel polyvalent de milieu de gamme chez Felt, la version GRX étant souvent équipée du GRX 400/600 (souvent en simple ou double plateau selon les déclinaisons). Attention toutefois : le Breed 2021 existait en aluminium comme en carbone selon les finitions, donc la mention 'cadre carbone' doit être vérifiée sur l'annonce car cela change nettement la valeur et le comportement. Le Breed vise un usage gravel endurance/aventure avec une géométrie relativement stable et confortable, montures pour porte-bagages, garde-boue et multiples points de fixation (bidons, top-tube, fourche) qui le rendent pertinent pour le bikepacking et le vélotaf. Le groupe Shimano GRX est un vrai point fort : conçu spécifiquement pour le gravel, il offre un freinage hydraulique fiable et une transmission robuste, endurante et bien étagée. Points forts concrets : polyvalence, fiabilité mécanique du GRX, capacité d'emport ; limites : pneus d'origine parfois modestes, poids pas plume surtout en alu, et sur certaines finitions un seul plateau limite la plage sur route rapide. Pour le vélotaf quotidien toute l'année il est très adapté (freins disque, montures garde-boue, dégagement généreux), à condition d'entretenir la transmission et de vérifier l'usure des disques/plaquettes et le jeu de direction sur un modèle d'occasion. Réputation globalement solide et sans vice majeur connu, mais l'état réel (roulements, faisceau de câbles, éventuel montage électronique/mécanique) prime sur le millésime.",
         "vision": "Cadre carbone, fourche carbone, groupe sram force 1x11, freins disque hydraulique. État visuel : Transmission SRAM Force 1x avec chaîne et cassette montrant une usure d'usage modérée mais fonctionnelle, pneus crampons type cyclocross avec sculpture encore présente. Ensemble globalement propre en boutique, sans corrosion ni impact majeur visible, quelques traces d'usure sur les composants. ⚠ À vérifier : Le titre indique Shimano GRX mais les photos montrent clairement un groupe SRAM Force 1x11 (mono-plateau) — incohérence à vérifier. Freins hydrauliques SRAM avec disques centerlock, contrôler l'usure des plaquettes et voile des disques. (confiance 72%)",
         "description_vendeur": "None",
@@ -12347,11 +13035,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -13018,9 +13706,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -13819,7 +14507,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13918,9 +14606,8 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−20 % vs cote (~749 €)",
-          "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (22 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14112,7 +14799,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−27 % vs cote (~1530 €)",
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14432,12 +15119,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1200.0,
-        "n_en_vente": 4,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -14710,6 +15397,105 @@
         {
           "date": "2026-07-06",
           "prix": 865.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Rondo Ruut AL 2 2024 2024",
+      "url": "https://buycycle.com/product/ruut-al-2-2024-22506",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1390.0,
+      "cout_reel": 1550,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 874,
+      "prix_max_calcul": "1014€ (cote) × (0.62 + 0.28 × 86% fit) = 874€",
+      "cote": 1014.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Rondo",
+      "modele": "Ruut AL 2 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2644559/3ca64ad8-25b4-4643-971a-0feaeb9cfe06.webp",
+      "score": 6.4,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 9.0,
+        "financier": 2.3,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 2.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~874€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2024, noir. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Rondo Ruut AL 2 2024 se situe en entrée/milieu de gamme gravel chez Rondo, au-dessus du Ruut AL 1 (moins équipé) et sous les versions carbone (Ruut CF/ST). Son cadre et sa fourche en aluminium intègrent la technologie maison TwinTip, un insert réglable au niveau du pattes/axe de fourche permettant de modifier l'angle de direction et la hauteur de boîtier pour choisir entre une géométrie plus 'route/rapide' ou plus 'stable/gravel' — un vrai atout de polyvalence à ce prix. Le groupe SRAM Apex 1x (mono-plateau) est robuste, simple d'entretien et bien adapté au mixte, mais la plage de développements en mono-plateau peut manquer de finesse sur longues montées chargées ou de vitesse de pointe sur le plat. Freins à disque (hydrauliques selon finition) et dégagements généreux le rendent capable en gravel léger à moyen et polyvalent pour le vélotaf, avec des points de montage (garde-boue, porte-bagages, fourche cargo) appréciables au quotidien. Limites concrètes : poids élevé typique de l'alu, confort moindre qu'un carbone sur pistes longues, et finitions/roues d'entrée de gamme qu'on remplace vite. Réputation globalement correcte pour la fiabilité du cadre alu et du groupe Apex, la principale faiblesse étant les périphériques bas de gamme. Pour un usage vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent et durable, à condition d'accepter le poids et de prévoir garde-boue et éventuellement un jeu de pneus adapté.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe sram apex 1 1x11, freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Transmission bien rodée : chaîne encrassée/oxydée en surface et cassette avec usure visible, plateau mono encore correct. Pneus WTB Nano 700x40C avec sculpture présente mais entamée, disques AVID marqués/tachés (rouille de surface), manivelles avec rayures. ⚠ À vérifier : Étrier avant semble hydraulique (SRAM) mais présence d'un câble/gaine visible à vérifier ; chaîne à mesurer pour usure et disques à contrôler (rouille de surface). Manettes de type manettes route à confirmer compatibilité hydraulique. (confiance 60%)",
+        "description_vendeur": "Gravel Rondo Ruut AL 2 | Sram Apex | M 168 - 178 cm",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1014 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 1 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission bien rodée : chaîne encrassée/oxydée en surface et cassette avec usure visible, plateau mono encore correct. Pneus WTB Nano 700x40C avec sculpture présente mais entamée, disques AVID marqués/tachés (rouille de surface), manivelles avec rayures.",
+        "points_attention": "Étrier avant semble hydraulique (SRAM) mais présence d'un câble/gaine visible à vérifier ; chaîne à mesurer pour usure et disques à contrôler (rouille de surface). Manettes de type manettes route à confirmer compatibilité hydraulique.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1390.0
         }
       ],
       "marche_modele": {
@@ -15604,9 +16390,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -15666,7 +16452,7 @@
           "Ancien (2014)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (63 favoris)",
+          "Annonce très regardée (66 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -15931,7 +16717,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16152,12 +16938,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1100.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -16531,6 +17317,95 @@
       }
     },
     {
+      "titre": "Formigli Formigli Custom Shimano 105 2012",
+      "url": "https://buycycle.com/product/formigli-custom-96386",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 650.0,
+      "cout_reel": 895,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 446,
+      "prix_max_calcul": "650€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 495€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Formigli",
+      "modele": "Formigli Custom Shimano 105",
+      "taille": "M",
+      "annee": 2012,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2644627/23f87db1-b1a2-4a48-96e1-099e3e53b45e.webp",
+      "score": 5.5,
+      "fit_pct": 51,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 4.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano 105, taille M, 2012. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Formigli est un artisan italien (Florence) réputé pour ses cadres sur-mesure fabriqués à la main, principalement en acier et en carbone haut de gamme ; un 'Formigli Custom' 2012 n'est donc pas un vélo de série mais une pièce montée à la demande, ce qui rend toute généralisation risquée. Le positionnement est clairement haut de gamme sur le cadre (géométrie course sur-mesure, souvent acier fin type Columbus/Dedacciai ou carbone), mais monté ici avec un Shimano 105 5700 (10 vitesses), soit un groupe milieu de gamme fiable et endurant, ce qui suggère un montage 'raisonnable' plutôt que prestige. L'usage visé est la route sportive/endurance avec un cadre pensé pour le confort et le rendement selon le matériau choisi ; sans connaître le tube exact, l'amorti et le poids restent indéterminés. Points forts : qualité de cadre artisanal, durabilité du 105 5700, géométrie potentiellement adaptée au cavalier d'origine ; limites concrètes : géométrie sur-mesure qui peut ne PAS convenir à un autre acheteur, pièces 105 10v désormais datées (usure, disponibilité relative), et absence de standards modernes (freins sur jante, pas de passage disque, dégagements pneus étroits typiques d'un cadre course 2012). Réputation/fiabilité : Formigli jouit d'une excellente image chez les puristes, mais le SAV/pièces de cadre custom peut être difficile à tracer d'occasion. Pour le vélotaf quotidien toute l'année, ce vélo est peu adapté (freins sur jante, dégagements limités, valeur d'un cadre artisanal exposée aux intempéries/vols) et il ne convient pas au gravel léger vu les dégagements probablement faibles d'un cadre route de course 2012.",
+        "vision": "",
+        "description_vendeur": "Bicicleta en perfecto estado de funcionamiento, cuadro artesanal Made in Firenze, llantas de carbono en excelentes condiciones, utilizada solo en carretera.",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Ancien (2012)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 650.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Bertin C134 2025",
       "url": "https://buycycle.com/product/c1346a12f1f55b426-77984",
       "source": "buycycle",
@@ -16784,6 +17659,93 @@
         {
           "date": "2026-07-06",
           "prix": 770.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Focus MARES 6.9 2021 2021",
+      "url": "https://buycycle.com/product/mares-69-2021-97336",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1050.0,
+      "cout_reel": 1295,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 500,
+      "prix_max_calcul": "660€ (cote) × (0.62 + 0.28 × 79% fit) = 556€ − 10 % (infos manquantes)",
+      "cote": 660.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Focus",
+      "modele": "MARES 6.9 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2645237/e71fc243-a076-4102-9d8d-fb1e1b9f31b6.webp",
+      "score": 4.9,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 2.0,
+        "usage": 8.5,
+        "plaisir": 6.5,
+        "valeur": 0.3
+      },
+      "verdict": "Peu adapté à ton usage (~79% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano 105 mécanique, freins à disque, taille M, 2021, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Menos de 3000 km de uso. Solo algunos pequeños rasguños.",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~660 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1050.0
         }
       ],
       "marche_modele": {
@@ -17164,8 +18126,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 475,
-      "prix_max_calcul": "564€ (cote) × (0.62 + 0.28 × 79% fit) = 475€",
+      "prix_max_conseille": 428,
+      "prix_max_calcul": "564€ (cote) × (0.62 + 0.28 × 79% fit) = 475€ − 10 % (infos manquantes)",
       "cote": 564.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -17186,9 +18148,12 @@
         "valeur": 0.4
       },
       "verdict": "Peu adapté à ton usage (~79% du besoin) — IGNORER.",
-      "infos_manquantes": [],
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano 105 mécanique, freins à disque, taille 55 cm, 2021, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2021. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Gravel Bergamont Grandurance RD7\nTalla de cuadro 55, ajustada para 180 cm\nGrupo completo 105 R-7000\n2x11\nRuedas Shimano RS 12x100 / 12x142mm\nNeumáticos Vittoria 37mm\n- Mínimos detalles estéticos, la bicicleta se entregará con una cadena nueva.\n- Todo funciona como debería.",
@@ -17210,11 +18175,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -17826,7 +18791,7 @@
           "Peu adapté à ton usage (35 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (50 favoris)",
+          "Annonce très regardée (51 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18137,8 +19102,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "IGNORER",
-      "prix": 850.0,
-      "cout_reel": 1095,
+      "prix": 775.0,
+      "cout_reel": 1020,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -18164,7 +19129,7 @@
         "financier": 10.0,
         "usage": 1.5,
         "plaisir": 7.0,
-        "valeur": 8.3
+        "valeur": 8.7
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
@@ -18185,9 +19150,9 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Décote intéressante : ~−41 % vs cote (~1439 €)",
+          "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (13 favoris)",
+          "Annonce très regardée (15 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18210,6 +19175,10 @@
         {
           "date": "2026-07-06",
           "prix": 850.0
+        },
+        {
+          "date": "2026-07-07",
+          "prix": 775.0
         }
       ],
       "marche_modele": {
@@ -19158,7 +20127,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~780 €)",
-          "Annonce très regardée (51 favoris)",
+          "Annonce très regardée (53 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19245,7 +20214,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−17 % vs cote (~959 €)",
-          "Annonce très regardée (86 favoris)",
+          "Annonce très regardée (87 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19361,9 +20330,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -19421,7 +20390,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−51 % vs cote (~2460 €)",
-          "Annonce très regardée (36 favoris)",
+          "Annonce très regardée (34 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20072,6 +21041,95 @@
         {
           "date": "2026-07-06",
           "prix": 305.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Trek Trek Custom Shimano Tiagra 1993",
+      "url": "https://buycycle.com/product/trek-custom-38741",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 699.0,
+      "cout_reel": 944,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 325,
+      "prix_max_calcul": "480€ (cote) × (0.62 + 0.28 × 47% fit) = 361€ − 10 % (infos manquantes)",
+      "cote": 480.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Trek",
+      "modele": "Trek Custom Shimano Tiagra",
+      "taille": "M",
+      "annee": 1993,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2642841/99a6f18f-52a7-4fd3-836b-9eb76b675e69.webp",
+      "score": 3.0,
+      "fit_pct": 47,
+      "axes": {
+        "technique": 6.5,
+        "financier": 2.0,
+        "usage": 4.0,
+        "plaisir": 6.5,
+        "valeur": 1.4
+      },
+      "verdict": "Peu adapté à ton usage (~47% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Tiagra, taille M, 1993. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "¡A la venta!\n\nBicicleta de gravel/ciclocross TREK UAV-2 / UAV II de carbono\n\nTubo superior 545 mm c-c (centro a centro)\nTubo del sillín 460 mm c-t (centro a tope)\n\nLa recomendaría para una estatura de entre 160 y 178 cm\n\n9,8 kg sin pedales\n\nMontada mayoritariamente con piezas nuevas\nEspecificaciones:\nCuadro TREK UAV de aluminio y carbono\nHorquilla de carbono Bontrager nueva\nBielas de carbono Sram ",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Ancien (1993)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~480 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Tiagra",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 699.0
         }
       ],
       "marche_modele": {
@@ -20969,9 +22027,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -21247,93 +22305,6 @@
       }
     },
     {
-      "titre": "Trek Trek Custom Shimano Tiagra 1993",
-      "url": "https://buycycle.com/product/trek-custom-38741",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 699.0,
-      "cout_reel": 944,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 317,
-      "prix_max_calcul": "480€ (cote) × (0.62 + 0.28 × 41% fit) = 352€ − 10 % (infos manquantes)",
-      "cote": 480.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Trek",
-      "modele": "Trek Custom Shimano Tiagra",
-      "taille": "M",
-      "annee": 1993,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2642841/99a6f18f-52a7-4fd3-836b-9eb76b675e69.webp",
-      "score": 2.6,
-      "fit_pct": 41,
-      "axes": {
-        "technique": 5.5,
-        "financier": 2.0,
-        "usage": 4.0,
-        "plaisir": 6.5,
-        "valeur": 1.4
-      },
-      "verdict": "Peu adapté à ton usage (~41% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano Tiagra mécanique, freins sur jante, taille 54 cm, 1993, light gray. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "¡A la venta!\n\nBicicleta de gravel/ciclocross TREK UAV-2 / UAV II de carbono\n\nTubo superior 545 mm c-c (centro a centro)\nTubo del sillín 460 mm c-t (centro a tope)\n\nLa recomendaría para una estatura de entre 160 y 178 cm\n\n9,8 kg sin pedales\n\nMontada mayoritariamente con piezas nuevas\nEspecificaciones:\nCuadro TREK UAV de aluminio y carbono\nHorquilla de carbono Bontrager nueva\nBielas de carbono Sram ",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Ancien (1993)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~480 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Tiagra",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "sur jante",
-        "size_cm": "54",
-        "color": "light gray",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 699.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Wolfbike Wolfbike Smasher Shimano Claris 2x8v 2026",
       "url": "https://buycycle.com/product/wolfbike-smasher-shimano-claris-2x8v69ccf491a03f6-22190",
       "source": "buycycle",
@@ -21595,9 +22566,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -21865,6 +22836,93 @@
       }
     },
     {
+      "titre": "TRIBAN Triban RC 500 Gravel 2021",
+      "url": "https://buycycle.com/product/triban-rc-500-gravel6a4d44436c214-46882",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 650.0,
+      "cout_reel": 895,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 391,
+      "prix_max_calcul": "650€ (prix affiché) × (0.62 + 0.28 × 17% fit) = 434€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "TRIBAN",
+      "modele": "Triban RC 500 Gravel",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2646712/55f1990c-5445-4fff-960a-8502094fe0b7.webp",
+      "score": 2.4,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2021, noir. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Triban (Décathlon) : gammes fiables et faciles à revendre, très bon rapport qualité/prix.",
+        "vision": "",
+        "description_vendeur": "Incluyo también los componentes originales: neumáticos, sillín y manillar. Ciclocomputador iGPSPORT con sensor de cadencia, sensor de velocidad y soporte para manillar. Casco Van Rysel. Una cámara de aire de repuesto. Bidón con portabidón. Soporte para teléfono para manillar. Luz delantera. Luz trasera.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 650.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Marin Four Corners 2022 2022",
       "url": "https://buycycle.com/product/four-corners-2022-59652",
       "source": "buycycle",
@@ -22006,6 +23064,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22393,9 +23452,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -22896,7 +23955,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -23014,9 +24073,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -23291,6 +24350,101 @@
       }
     },
     {
+      "titre": "BULLS Grinder 1 2022 2022",
+      "url": "https://buycycle.com/product/grinder-1-2022-10012",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 790.0,
+      "cout_reel": 1035,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 432,
+      "prix_max_calcul": "719€ (cote) × (0.62 + 0.28 × 17% fit) = 480€ − 10 % (infos manquantes)",
+      "cote": 719.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "BULLS",
+      "modele": "Grinder 1 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2634903/a85e45de-b7db-49c4-9131-e9665a41f3a9.webp",
+      "score": 1.8,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 5.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 4.2
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Claris, taille M, 2022. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Hola a todos,\n\nVendo mi bicicleta de gravel Bulls Grinder 1, como nueva, en un precioso acabado en rojo mate.\n\nLa bicicleta se encuentra en un estado de ensueño absoluto (como nueva). Solo se ha utilizado en una única vuelta corta de aproximadamente 15 km. El resto del tiempo ha estado perfectamente protegida bajo nuestro cobertizo y, además, cuidadosamente cubierta con una lona de alta calidad. A",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Claris)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~719 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Claris",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-06",
+          "prix": 799.0
+        },
+        {
+          "date": "2026-07-07",
+          "prix": 790.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Bombtrack Beyond 2020 2020",
       "url": "https://buycycle.com/product/beyond-2020-71613",
       "source": "buycycle",
@@ -23367,97 +24521,6 @@
         {
           "date": "2026-07-05",
           "prix": 1400.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "BULLS Grinder 1 2022 2022",
-      "url": "https://buycycle.com/product/grinder-1-2022-10012",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 799.0,
-      "cout_reel": 1044,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 432,
-      "prix_max_calcul": "719€ (cote) × (0.62 + 0.28 × 17% fit) = 480€ − 10 % (infos manquantes)",
-      "cote": 719.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "BULLS",
-      "modele": "Grinder 1 2022",
-      "taille": "M",
-      "annee": 2022,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2634903/a85e45de-b7db-49c4-9131-e9665a41f3a9.webp",
-      "score": 1.7,
-      "fit_pct": 17,
-      "axes": {
-        "technique": 3.5,
-        "financier": 4.9,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 4.1
-      },
-      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Claris, taille M, 2022. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Hola a todos,\n\nVendo mi bicicleta de gravel Bulls Grinder 1, como nueva, en un precioso acabado en rojo mate.\n\nLa bicicleta se encuentra en un estado de ensueño absoluto (como nueva). Solo se ha utilizado en una única vuelta corta de aproximadamente 15 km. El resto del tiempo ha estado perfectamente protegida bajo nuestro cobertizo y, además, cuidadosamente cubierta con una lona de alta calidad. A",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Claris)",
-          "Peu adapté à ton usage (17 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~719 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Claris",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-06",
-          "prix": 799.0
         }
       ],
       "marche_modele": {
@@ -23731,6 +24794,95 @@
       "historique_prix": [
         {
           "date": "2026-07-05",
+          "prix": 1000.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 0,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Trek Checkpoint ALR 3 2025 2025",
+      "url": "https://buycycle.com/product/checkpoint-alr-3-2025-51858",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1000.0,
+      "cout_reel": 1245,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 472,
+      "prix_max_calcul": "779€ (cote) × (0.62 + 0.28 × 19% fit) = 525€ − 10 % (infos manquantes)",
+      "cote": 779.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Trek",
+      "modele": "Checkpoint ALR 3 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2645901/44c8d8bc-22b7-4750-88a8-b7a11e899684.webp",
+      "score": 1.5,
+      "fit_pct": 19,
+      "axes": {
+        "technique": 4.3,
+        "financier": 3.7,
+        "usage": 1.0,
+        "plaisir": 6.5,
+        "valeur": 2.7
+      },
+      "verdict": "Peu adapté à ton usage (~19% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2025, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Trek Checkpoint : gravel endurance réputé. L'ALR (alu) est un excellent rapport qualité/prix, fixations à foison, parfait pour charger.",
+        "vision": "",
+        "description_vendeur": "Recorrido de solo 50 km, siempre guardada en casa, nunca expuesta al agua. Por 200 € adicionales también vendo: CASCO TREK Circuit WaveCel, ciclocomputador GEOID CC600, bomba BTWIN 500, soporte de taller como se muestra en la foto, 2 bidones, pedales con calas MTB, cámara de aire de repuesto, zapatillas Decathlon n.º 42. Todo con su caja original, excepto los bidones y las zapatillas. TODO IGUAL A",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (19 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~779 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
           "prix": 1000.0
         }
       ],
@@ -24066,7 +25218,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (33 favoris)",
+          "Annonce très regardée (34 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -24275,12 +25427,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1200.0,
-        "n_en_vente": 4,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -24338,7 +25490,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -25147,7 +26299,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (63 favoris)",
+          "Annonce très regardée (66 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -25865,7 +27017,7 @@
           "Peu adapté à ton usage (21 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (56 favoris)",
+          "Annonce très regardée (57 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -26677,7 +27829,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -26890,9 +28042,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -26987,6 +28139,95 @@
         "base": "insuffisant",
         "resume": null
       }
+    },
+    {
+      "titre": "Stevens Stevens 26 GAVERE 2026",
+      "url": "https://buycycle.com/product/stevens-26-gavere6a4cd83617030-47091",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1290.0,
+      "cout_reel": 1535,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 514,
+      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 21% fit) = 571€ − 10 % (infos manquantes)",
+      "cote": 840.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Stevens",
+      "modele": "Stevens 26 GAVERE",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2645843/ebc47ef0-604a-4a08-9d06-49ad3d2951e3.webp",
+      "score": 0.0,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 2.0,
+        "usage": 0.0,
+        "plaisir": 5.0,
+        "valeur": 0.7
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, blanc. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Marca: Stevens\nModelo: Gavere\nMaterial: Aluminio\nGrupo: Shimano CUES U6000 1×10 velocidades\nBicicleta eléctrica: No\nTipo de freno: Tektro MD-C550 // Disco mecánico\nDesviador trasero: Shimano CUES U6000 Shadow RD-U6020-10-SGS // 10 velocidades\nManillar: Scorpo Aero Gravel\nPotencia: Scorpo\nTija de sillín: Scorpo\nSillín: Oxygen Triton 2.0\nJuego de ruedas: Oxygen G25 Disc // 25 x 622\nNeumáticos: Schwa",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~840 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano CUES",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "blanc",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1290.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
     }
   ],
   "budget_max": 1400.0,
@@ -26995,5 +28236,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-06T11:24:23+00:00"
+  "genere_le": "2026-07-07T23:11:34+00:00"
 }
