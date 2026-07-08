@@ -1,5 +1,5 @@
 {
-  "total": 321,
+  "total": 322,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -6603,8 +6603,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 1200.0,
-      "cout_reel": 1445,
+      "prix": 1100.0,
+      "cout_reel": 1345,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -6630,7 +6630,7 @@
         "financier": 10.0,
         "usage": 10.0,
         "plaisir": 7.0,
-        "valeur": 7.5
+        "valeur": 7.9
       },
       "verdict": "Bon vélo pour ton usage (~90% du besoin) — CONTACTER.",
       "infos_manquantes": [
@@ -6649,7 +6649,8 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−31 % vs cote (~1740 €)",
+          "Décote intéressante : ~−37 % vs cote (~1740 €)",
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6672,6 +6673,10 @@
         {
           "date": "2026-07-05",
           "prix": 1200.0
+        },
+        {
+          "date": "2026-07-08",
+          "prix": 1100.0
         }
       ],
       "marche_modele": {
@@ -11598,10 +11603,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1199.0,
-        "n_en_vente": 3,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1199 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1199 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -11688,10 +11693,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1199.0,
-        "n_en_vente": 3,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1199 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1199 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -11781,6 +11786,96 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "BH GravelX 1 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3229616384:5dfb3785-f002-4124-9001-0212fee504a8",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1199.0,
+      "cout_reel": 1384,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 941,
+      "prix_max_calcul": "1199€ (prix affiché) × (0.62 + 0.28 × 90% fit) = 1046€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 90,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 10.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe bon (détecté)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (90 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 1199.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 1199.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1199 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -21046,10 +21141,10 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": 1199.0,
-        "n_en_vente": 3,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1199 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1199 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -29302,5 +29397,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T13:39:30+00:00"
+  "genere_le": "2026-07-08T14:09:45+00:00"
 }
