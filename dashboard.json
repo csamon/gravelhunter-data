@@ -5748,7 +5748,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (110 favoris)",
+          "Annonce très regardée (111 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14762,7 +14762,6 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−25 % vs cote (~1593 €)",
-          "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
           "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
@@ -23770,7 +23769,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (37 favoris)",
+          "Annonce très regardée (36 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29031,5 +29030,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T06:38:21+00:00"
+  "genere_le": "2026-07-08T07:08:07+00:00"
 }
