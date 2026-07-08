@@ -1,5 +1,5 @@
 {
-  "total": 324,
+  "total": 325,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -22749,7 +22749,7 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -23017,6 +23017,96 @@
         "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Kross ESKER 1.0 2024 2024",
+      "url": "https://buycycle.com/product/esker-10-2024-76748",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 570.0,
+      "cout_reel": 815,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 397,
+      "prix_max_calcul": "660€ (cote) × (0.62 + 0.28 × 17% fit) = 441€ − 10 % (infos manquantes)",
+      "cote": 660.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Kross",
+      "modele": "ESKER 1.0 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2648439/0482b26e-8a8d-43a6-abf7-f2e4240c2c4b.webp",
+      "score": 2.9,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 7.9,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 6.1
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille 56 cm, 2024, light gray. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Arañazo en el tubo superior, en la potencia delantera y cerca del desviador, sin consecuencias para la bicicleta.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Claris)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−14 % vs cote (~660 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Claris",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "56",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 570.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -29581,5 +29671,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T18:40:34+00:00"
+  "genere_le": "2026-07-08T19:11:05+00:00"
 }
