@@ -7278,7 +7278,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2022, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2022. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo Kansas 2022 se positionne en entrée de gamme gravel chez le fabricant espagnol Megamo, marque relativement confidentielle hors d'Espagne. Il combine un cadre en aluminium (soudé, économique et robuste mais moins confortable qu'un carbone ou acier) avec une fourche carbone qui filtre une partie des vibrations en tête, un choix judicieux à ce niveau de prix. Le groupe SRAM Apex (souvent en 1x11 ou parfois 2x sur cette gamme) est fiable, simple d'entretien et adapté au gravel, mais avec un étagement large qui pénalise les cadences sur route. Les freins à disque (probablement mécaniques à ce niveau, à vérifier impérativement car SRAM Apex existe en hydraulique et mécanique) assurent un freinage correct par tous temps. C'est un vélo polyvalent orienté gravel léger et randonnée, honnête pour le vélotaf toute l'année à condition d'ajouter garde-boue et éclairage, la présence d'inserts pour porte-bagages/garde-boue étant à confirmer sur ce millésime. Ses limites : composants d'entrée de gamme (roues lourdes, périphériques basiques) qui alourdissent l'ensemble, et une valeur de revente/pièces détachées compliquée par la faible diffusion de la marque. Fiabilité globale correcte sans être remarquable ; en occasion, surveiller l'usure de la transmission Apex, le type de freins et l'état des roulements/roues.",
         "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1x11, freins disque hydraulique. État visuel : Transmission SRAM 1x propre avec chaîne et cassette peu usées, pneus gravel à crampons présentant une bonne sculpture restante. Disques et cadre en bon état général, quelques traces d'usage mais pas de corrosion ni d'impact visible ; vélo globalement propre. ⚠ À vérifier : Batterie amovible sortie sur les photos (à vérifier son état/santé et le nombre de cycles) ; compteur C600 affiche un kilométrage à contrôler. Vérifier le bon fonctionnement du moteur central. (confiance 55%)",
         "description_vendeur": "La bicicleta está en muy buen estado. Pastillas de freno nuevas.\n1600 km.",
@@ -7299,11 +7299,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -29033,5 +29033,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T07:38:33+00:00"
+  "genere_le": "2026-07-08T08:08:21+00:00"
 }
