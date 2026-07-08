@@ -1,5 +1,5 @@
 {
-  "total": 323,
+  "total": 324,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -18212,11 +18212,99 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 900.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Gravel Marin Gestalt - Neuf en Promo- Expédition possible - Taille 54",
+      "url": "https://www.leboncoin.fr/ad/velos/3229676364",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 799.0,
+      "cout_reel": 899,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 544,
+      "prix_max_calcul": "799€ (prix affiché) × (0.62 + 0.28 × 49% fit) = 604€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 5.1,
+      "fit_pct": 49,
+      "axes": {
+        "technique": 4.5,
+        "financier": 6.0,
+        "usage": 5.0,
+        "plaisir": 6.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2025. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Marin Gestalt (attention : Marin est la marque, 'leboncoin' n'est que la plateforme de vente) est un gravel/all-road en aluminium 6061 double butted qui constitue l'entrée de gamme gravel de Marin, positionné sous les versions Gestalt X (cadre alu plus travaillé) et le Headlands en carbone. Le millésime 2025 conserve la géométrie polyvalente et endurante de la série, avec une fourche carbone à inserts pour porte-bagages/gardes-boue, des œillets multiples (top tube, triple sur fourche) et un passage de gaines qui reste souvent externe ou semi-interne sur ce niveau de gamme, ce qui simplifie l'entretien. L'usage visé est le gravel roulant, le bikepacking léger et surtout le vélotaf, où sa robustesse alu, ses nombreux points de fixation et son montage typiquement mécanique (Shimano GRX/Sora ou Microshift selon versions, freins à disque hydrauliques ou mécaniques) le rendent pertinent toute l'année. Points forts : polyvalence, capacité d'emport, prix contenu, fiabilité mécanique et facilité de réparation. Limites concrètes : poids élevé face au carbone, cadre alu plus rigide/moins filtrant, et sur les versions basses un groupe d'entrée de gamme (freins mécaniques, cassette limitée) bridant le rendement. Réputation solide et sans surprise, marque fiable au SAV correct, valeur d'occasion raisonnable ; le point noir de cette annonce est l'absence totale d'info sur le groupe et le montage exact, à faire préciser impérativement avant achat. Pour du vélotaf quotidien plus gravel léger occasionnel, c'est un choix cohérent à condition de vérifier la version précise et le niveau de transmission/freinage.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme ()"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 700
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 799.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": 900.0,
+        "n_en_vente": 3,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -19367,11 +19455,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 900.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -20529,11 +20617,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 900.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -24321,7 +24409,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29493,5 +29581,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T15:10:16+00:00"
+  "genere_le": "2026-07-08T15:40:38+00:00"
 }
