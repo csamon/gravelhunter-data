@@ -23846,10 +23846,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Microshift ADVENT X mécanique, freins à disque, taille M, 2024, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Microshift ADVENT X, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Cannondale Topstone : endurance-gravel confortable (micro-suspension Kingpin sur les Carbon), très polyvalent. Valeur sûre pour rouler tous les jours. (Éviter les versions Lefty.)",
         "vision": "",
         "description_vendeur": "Bicicleta utilizada una vez, sin signos de desgaste.\nIncluye portabidón magnético y soporte para teléfono móvil.",
@@ -23871,11 +23873,11 @@
       },
       "specs": {
         "groupset": "Microshift ADVENT X",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -29033,5 +29035,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T09:38:44+00:00"
+  "genere_le": "2026-07-08T10:09:39+00:00"
 }
