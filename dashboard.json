@@ -1,5 +1,5 @@
 {
-  "total": 327,
+  "total": 328,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -4761,6 +4761,104 @@
       }
     },
     {
+      "titre": "Giant AnyRoad Advanced 1 2018 2018",
+      "url": "https://buycycle.com/product/anyroad-advanced-1-2018-57899",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 600.0,
+      "cout_reel": 840,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "pneus gravel +80€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 896,
+      "prix_max_calcul": "1065€ (cote) × (0.62 + 0.28 × 79% fit) = 896€",
+      "cote": 1065.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "AnyRoad Advanced 1 2018",
+      "taille": "M",
+      "annee": 2018,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2648668/000390b0-88fb-41e9-94df-36583dedfd03.webp",
+      "score": 7.5,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 8.5,
+        "valeur": 8.5
+      },
+      "verdict": "Bon dossier MAIS analyse photo pas assez fiable (< 0.75), vélo sale/masqué à inspecter — CONTACTER pour lever le doute avant d'acheter.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille M, 2018, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant AnyRoad Advanced 1 2018 se positionne comme le haut de la gamme AnyRoad de Giant, avec un cadre en carbone Advanced-grade contrairement aux versions alu (AnyRoad 1/2) qui composent le reste de la série. Il inaugure une orientation gravel-endurance polyvalente, avec géométrie relâchée (stack haut, reach modéré), montage Shimano 105 5800/R7000 11 vitesses et freins à disque hydrauliques, qui étaient un vrai atout à cette période. Son usage visé est le roulage mixte route/chemins roulants et le confort longue distance plutôt que le gravel technique ou engagé. Points forts : cadre carbone confortable et léger pour la catégorie, freins disque efficaces, montage 105 fiable et abordable en entretien, passages de câbles et œillets pour garde-boue/porte-bagages selon finition. Limites concrètes : dégagement pneus limité pour un vrai gravel (adapté surtout aux sections roulantes), géométrie moins joueuse qu'un gravel moderne, et transmission mono-plateau absente (double plateau route). La réputation de fiabilité est bonne, Giant offrant une fabrication soignée, mais attention en occasion à l'usure des étriers/plaquettes et à l'état des roulements de moyeux. Pour le vélotaf quotidien toute l'année il convient bien (disques, confort, robustesse), et il assure un gravel léger honnête sans prétendre au tout-terrain exigeant.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano 105 (dérailleur arrière 105), transmission mixte avec cassette/manivelle xtr - montage hybride à vérifier, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission avec chaîne et cassette encrassées mais peu usées visuellement, pneus type gravel à crampons présentant une sculpture correcte. Cadre carbone globalement propre avec quelques traces d'usage, autocollant taille M légèrement abîmé, aucun impact majeur visible. ⚠ À vérifier : Montage hétérogène surprenant : dérailleur arrière 105, mentions XTR (leviers/composants) et cassette d'allure VTT - vérifier la compatibilité et l'authenticité du groupe. Contrôler l'usure réelle de la transmission et l'état des disques/plaquettes non visibles nettement. (confiance 50%)",
+        "description_vendeur": "Bicicleta perfecta, además monta también los mandos dobles de los frenos de disco mecánicos.",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−44 % vs cote (~1065 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 35
+      },
+      "vision_brute": {
+        "groupe": "Shimano 105 (dérailleur arrière 105), transmission mixte avec cassette/manivelle XTR - montage hybride à vérifier",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission avec chaîne et cassette encrassées mais peu usées visuellement, pneus type gravel à crampons présentant une sculpture correcte. Cadre carbone globalement propre avec quelques traces d'usage, autocollant taille M légèrement abîmé, aucun impact majeur visible.",
+        "points_attention": "Montage hétérogène surprenant : dérailleur arrière 105, mentions XTR (leviers/composants) et cassette d'allure VTT - vérifier la compatibilité et l'authenticité du groupe. Contrôler l'usure réelle de la transmission et l'état des disques/plaquettes non visibles nettement.",
+        "confiance": 0.5
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "SUPERIOR BIKES SUPERIOR BIKES Custom Shimano GRX 2024",
       "url": "https://buycycle.com/product/superior-bikes-custom-32085",
       "source": "buycycle",
@@ -5195,7 +5293,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -5216,11 +5314,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -12856,7 +12954,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (35 favoris)",
+          "Annonce très regardée (36 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29849,5 +29947,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T20:11:01+00:00"
+  "genere_le": "2026-07-08T20:41:51+00:00"
 }
