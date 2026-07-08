@@ -90,12 +90,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 6,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -846,12 +846,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 6,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -1038,12 +1038,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 6,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -1095,7 +1095,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (52 favoris)",
+          "Annonce très regardée (53 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5390,7 +5390,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -5411,11 +5411,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -6432,12 +6432,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 6,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -8456,12 +8456,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 6,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -8992,12 +8992,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 6,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -28500,9 +28500,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -30049,5 +30049,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T23:28:47+00:00"
+  "genere_le": "2026-07-08T23:58:56+00:00"
 }
