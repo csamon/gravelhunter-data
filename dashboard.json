@@ -1,5 +1,5 @@
 {
-  "total": 319,
+  "total": 320,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -18019,12 +18019,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 900.0,
-        "n_en_vente": 3,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -19174,12 +19174,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 900.0,
-        "n_en_vente": 3,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -20336,12 +20336,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 900.0,
-        "n_en_vente": 3,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 900 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -20836,7 +20836,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−17 % vs cote (~959 €)",
-          "Annonce très regardée (88 favoris)",
+          "Annonce très regardée (89 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22727,6 +22727,96 @@
         {
           "date": "2026-07-08",
           "prix": 1040.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Vélo Triban RC500",
+      "url": "https://www.leboncoin.fr/ad/velos/3229574557",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 400.0,
+      "cout_reel": 585,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 243,
+      "prix_max_calcul": "400€ (prix affiché) × (0.62 + 0.28 × 19% fit) = 270€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "RC500",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": 10.3,
+      "image": null,
+      "score": 2.8,
+      "fit_pct": 19,
+      "axes": {
+        "technique": 4.3,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 5.5,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~19% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2021. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Triban (Décathlon) : gammes fiables et faciles à revendre, très bon rapport qualité/prix.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme ()",
+          "Peu adapté à ton usage (19 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 400.0
         }
       ],
       "marche_modele": {
@@ -29123,5 +29213,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T11:09:04+00:00"
+  "genere_le": "2026-07-08T11:39:38+00:00"
 }
