@@ -1,5 +1,5 @@
 {
-  "total": 322,
+  "total": 323,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2285,6 +2285,102 @@
         {
           "date": "2026-07-07",
           "prix": 980.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Cannondale Topstone 1 2023",
+      "url": "https://buycycle.com/product/topstone-16a4e3107f0228-39623",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1099.0,
+      "cout_reel": 1259,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 802,
+      "prix_max_calcul": "900€ (cote) × (0.62 + 0.28 × 97% fit) = 802€",
+      "cote": 900.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cannondale",
+      "modele": "Topstone 1",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647682/b18edf84-f9f8-43df-90be-02c0ab1ec341.webp",
+      "score": 8.5,
+      "fit_pct": 97,
+      "axes": {
+        "technique": 8.8,
+        "financier": 3.8,
+        "usage": 10.0,
+        "plaisir": 7.5,
+        "valeur": 3.2
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~802€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2023, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Topstone 1 2023 se situe en haut de la gamme Topstone aluminium, juste sous les versions carbone (Topstone Carbon), et constitue le modèle alu le mieux équipé avec un groupe Shimano GRX complet (généralement GRX 810 1x11 ou 2x11 selon le marché). Le cadre SmartForm C1 en aluminium est associé à une fourche carbone et, contrairement aux Topstone Carbon, ne bénéficie PAS du système d'amortissement arrière Kingpin ni du système Lefty : le confort repose donc uniquement sur la géométrie endurance, les pneus volumineux et éventuellement une tige télescopique. L'usage visé est le gravel polyvalent et l'endurance route, avec une géométrie relativement relax et stable, adaptée aux longues sorties comme au vélotaf. Points forts : robustesse du cadre alu, freins hydrauliques à disque fiables, GRX éprouvé, dégagement pneu généreux, montages d'accessoires (porte-bagages, garde-boue, points de fixation multiples) qui le rendent excellent pour le vélotaf toute l'année. Limites concrètes : poids plus élevé que les versions carbone, confort inférieur sans Kingpin sur mauvais revêtements, et pneus d'origine parfois trop typés route pour du gravel exigeant. La réputation de fiabilité est bonne, l'aluminium Cannondale et le GRX étant réputés durables et peu capricieux, ce qui en fait un très bon candidat pour un usage quotidien intensif plus gravel léger.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x (dérailleurs grx, pédalier fsa gossamer agx 46/30), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu marquées, plateaux FSA AGX sans usure notable, pneus Vittoria Terreno Dry aux crampons bien présents. Aucune rayure ni corrosion visible, vélo globalement très propre proche du neuf. ⚠ À vérifier : Le pédalier est un FSA Gossamer AGX (non GRX complet), donc groupe mixte ; vérifier la référence exacte du dérailleur GRX (RX400/RX600/RX810) car illisible sur les photos, et le nombre de vitesses de la cassette. (confiance 55%)",
+        "description_vendeur": "Cannondale Topstone bonita y cuidada, como nueva.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (97 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "orange",
+        "condition": null,
+        "poids_kg": 10.4,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x (dérailleurs GRX, pédalier FSA Gossamer AGX 46/30)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne et cassette peu marquées, plateaux FSA AGX sans usure notable, pneus Vittoria Terreno Dry aux crampons bien présents. Aucune rayure ni corrosion visible, vélo globalement très propre proche du neuf.",
+        "points_attention": "Le pédalier est un FSA Gossamer AGX (non GRX complet), donc groupe mixte ; vérifier la référence exacte du dérailleur GRX (RX400/RX600/RX810) car illisible sur les photos, et le nombre de vitesses de la cassette.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 1099.0
         }
       ],
       "marche_modele": {
@@ -29397,5 +29493,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T14:09:45+00:00"
+  "genere_le": "2026-07-08T14:40:16+00:00"
 }
