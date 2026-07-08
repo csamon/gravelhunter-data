@@ -1135,11 +1135,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1160.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1160 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1233,11 +1233,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1160.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1160 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1714,11 +1714,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1160.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1160 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -9980,16 +9980,16 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 1170.0,
-      "cout_reel": 1415,
+      "prix": 995.0,
+      "cout_reel": 1240,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 896,
-      "prix_max_calcul": "1170€ (prix affiché) × (0.62 + 0.28 × 82% fit) = 995€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 761,
+      "prix_max_calcul": "995€ (prix affiché) × (0.62 + 0.28 × 82% fit) = 846€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -10026,6 +10026,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10048,17 +10049,21 @@
         {
           "date": "2026-07-06",
           "prix": 1170.0
+        },
+        {
+          "date": "2026-07-08",
+          "prix": 995.0
         }
       ],
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1160.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1160 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -10691,11 +10696,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1160.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1160 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -14808,11 +14813,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1160.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1160 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -29947,5 +29952,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T21:28:46+00:00"
+  "genere_le": "2026-07-08T21:58:51+00:00"
 }
