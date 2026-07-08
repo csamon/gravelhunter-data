@@ -1,5 +1,5 @@
 {
-  "total": 317,
+  "total": 318,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -21405,6 +21405,92 @@
       }
     },
     {
+      "titre": "Genesis Cda 20 2021 2021",
+      "url": "https://buycycle.com/product/cda-20-2021-68773",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 600.0,
+      "cout_reel": 845,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 422,
+      "prix_max_calcul": "605€ (cote) × (0.62 + 0.28 × 28% fit) = 422€",
+      "cote": 605.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Genesis",
+      "modele": "Cda 20 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647156/4ee8729a-b755-4ae1-bd9f-aced00fdb9dc.webp",
+      "score": 3.2,
+      "fit_pct": 28,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.1,
+        "usage": 2.5,
+        "plaisir": 5.0,
+        "valeur": 5.1
+      },
+      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2021, vert. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Su gran ventaja es que es súper versátil. Es adecuado tanto para caminos, una carrera tipo MTB, senderismo e incluso triatlón...\n\nPresenta signos de desgaste (especialmente en la cinta del manillar), pero aparte de eso, está en muy buen estado general.\n\nLo vendo con 2 regalos incluidos, como puede ver en la descripción a continuación:\n* Cuadro: aluminio\n* Horquilla: acero cromoly (súper resistente",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (28 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~605 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Diamond Diamond Custom Shimano Tourney 2008",
       "url": "https://buycycle.com/product/diamond-custom-54382",
       "source": "buycycle",
@@ -28945,5 +29031,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T05:08:39+00:00"
+  "genere_le": "2026-07-08T05:38:05+00:00"
 }
