@@ -8222,7 +8222,6 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10052,8 +10051,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "NÉGOCIER",
-      "prix": 950.0,
-      "cout_reel": 1195,
+      "prix": 899.0,
+      "cout_reel": 1144,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -10076,10 +10075,10 @@
       "fit_pct": 95,
       "axes": {
         "technique": 8.3,
-        "financier": 9.8,
+        "financier": 10.0,
         "usage": 10.0,
         "plaisir": 6.5,
-        "valeur": 6.2
+        "valeur": 6.5
       },
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~886€) — NÉGOCIER.",
       "infos_manquantes": [
@@ -10099,7 +10098,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−14 % vs cote (~1110 €)",
+          "Décote intéressante : ~−19 % vs cote (~1110 €)",
           "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
@@ -10123,6 +10122,10 @@
         {
           "date": "2026-07-06",
           "prix": 950.0
+        },
+        {
+          "date": "2026-07-08",
+          "prix": 899.0
         }
       ],
       "marche_modele": {
@@ -19683,7 +19686,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (15 favoris)",
+          "Annonce très regardée (16 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20746,7 +20749,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~780 €)",
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (52 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20833,7 +20836,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−17 % vs cote (~959 €)",
-          "Annonce très regardée (87 favoris)",
+          "Annonce très regardée (88 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29030,5 +29033,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-08T07:08:07+00:00"
+  "genere_le": "2026-07-08T07:38:33+00:00"
 }
