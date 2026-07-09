@@ -4249,7 +4249,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (60 favoris)",
+          "Annonce très regardée (61 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20926,97 +20926,6 @@
       }
     },
     {
-      "titre": "Scott Arapahoe 2024",
-      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 350.0,
-      "cout_reel": 535,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 222,
-      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 31% fit) = 247€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Scott",
-      "modele": "Arapahoe",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
-      "score": 3.8,
-      "fit_pct": 31,
-      "axes": {
-        "technique": 4.5,
-        "financier": 6.0,
-        "usage": 2.5,
-        "plaisir": 6.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Other, taille M, 2024. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
-        "vision": "",
-        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Other)",
-          "Peu adapté à ton usage (31 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Other",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 350.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Scott Speedster Gravel 40 2024 2025",
       "url": "https://buycycle.com/product/speedster-gravel-40-202469383fd7d9351-42367",
       "source": "buycycle",
@@ -21266,6 +21175,95 @@
         {
           "date": "2026-07-05",
           "prix": 370.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Scott Arapahoe 2024",
+      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 350.0,
+      "cout_reel": 535,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 220,
+      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 28% fit) = 244€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Arapahoe",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
+      "score": 3.4,
+      "fit_pct": 28,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 6.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre acier, groupe Other mécanique, freins sur jante, taille M, 2024, rouge. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
+        "vision": "",
+        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Other)",
+          "Peu adapté à ton usage (28 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (30 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other",
+        "frame": "acier",
+        "shifting": "mécanique",
+        "brakes": "sur jante",
+        "size_cm": null,
+        "color": "rouge",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 350.0
         }
       ],
       "marche_modele": {
@@ -30239,5 +30237,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T08:59:58+00:00"
+  "genere_le": "2026-07-09T09:30:08+00:00"
 }
