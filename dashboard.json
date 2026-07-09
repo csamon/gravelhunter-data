@@ -24804,12 +24804,10 @@
       },
       "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2020. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre acier, groupe Shimano Sora mécanique, freins à disque, taille M, 2020, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Bicicleta fabricada a partir de un cuadro CdF 20. Cuadro de tubos de cromoly Reynolds 725. Pequeños arañazos en el tubo horizontal. No tiene absolutamente nada de óxido en ninguna parte. Cadena recién cambiada. Necesita pequeños ajustes estándar (tensión de cables y aprietes). Siempre guardada en interior, nunca ha sufrido accidentes. Bicicleta muy versátil, adecuada para entrenamiento y cicloturi",
@@ -24830,11 +24828,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "acier",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "orange",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -31691,5 +31689,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T20:02:57+00:00"
+  "genere_le": "2026-07-09T20:32:43+00:00"
 }
