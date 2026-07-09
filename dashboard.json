@@ -2011,15 +2011,15 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 800.0,
-      "cout_reel": 960,
+      "prix": 700.0,
+      "cout_reel": 860,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 690,
-      "prix_max_calcul": "800€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 690€",
+      "prix_max_conseille": 603,
+      "prix_max_calcul": "700€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 603€",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -2088,6 +2088,10 @@
         {
           "date": "2026-07-05",
           "prix": 800.0
+        },
+        {
+          "date": "2026-07-09",
+          "prix": 700.0
         }
       ],
       "marche_modele": {
@@ -3021,7 +3025,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (4 favoris)",
+          "Annonce très regardée (5 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5896,7 +5900,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−37 % vs cote (~1421 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (36 favoris)",
+          "Annonce très regardée (37 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16199,7 +16203,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−20 % vs cote (~749 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31689,5 +31693,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T20:32:43+00:00"
+  "genere_le": "2026-07-09T21:02:55+00:00"
 }
