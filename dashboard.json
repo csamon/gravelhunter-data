@@ -1,5 +1,5 @@
 {
-  "total": 331,
+  "total": 332,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2043,7 +2043,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille 54 cm, 2023, orange. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Cinelli Zydeco Lala 2023 est un gravel d'entrée à milieu de gamme dans l'offre Cinelli, positionné sous les modèles carbone type Nemo et au-dessus des configurations Zydeco les plus basiques ; la déclinaison 'Lala' se distingue surtout par son esthétique/coloris décalée typique de la marque italienne. Il repose sur un cadre en aluminium (série 6061) associé à une fourche carbone, combinaison classique visant robustesse et confort acceptable pour un budget contenu. Le groupe SRAM Apex 1x mécanique offre une transmission simple, fiable et facile à entretenir, adaptée au gravel et au vélotaf, mais avec un étagement large et des sauts de vitesses marqués peu adaptés aux longues sorties rapides sur route. La géométrie est plutôt polyvalente/relax, orientée endurance et chemins roulants plutôt que gravel technique ou performance pure. Points forts : durabilité du cadre alu, freins à disque, look distinctif, bonne base pour un usage quotidien avec possibilité de monter garde-boue et porte-bagages selon les inserts. Limites : poids assez élevé typique de l'alu d'entrée de gamme, périphériques souvent basiques (roues lourdes, cockpit d'entrée), confort dépendant fortement des pneus. Fiabilité globalement correcte et adéquation réelle au vélotaf toute l'année et au gravel léger, à condition de vérifier l'état des roulements, de la transmission et l'usure des disques sur l'occasion.",
         "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1x11 (dérailleur arrière axs/mécanique apex 1), freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne dorée (SRAM/type PC) peu usée et cassette en bon état ; pneus Pirelli Cinturato Gravel M avec crampons bien marqués, disques et plaquettes sans usure notable. Cadre orange brillant très propre, peinture éclatante sans corrosion visible, guidoline légèrement patinée. ⚠ À vérifier : Manettes marquées 'Apex' : vérifier si groupe mécanique ou électronique AXS. Confirmer largeur exacte des pneus (non lisible) et compatibilité tubeless du montage. Léger usure de la guidoline à contrôler. (confiance 78%)",
         "description_vendeur": "La bicicleta funciona perfectamente, tiene algunas marcas de uso normal, la mayor parte del cuadro está protegido con vinilo, la cadena tiene 500 km y las pastillas de freno también, el neumático trasero acaba de ser sustituido por uno nuevo, es tubeless.\nPara más información, no duden en contactarme.",
@@ -2065,11 +2065,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "orange",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -2096,11 +2096,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -21092,11 +21092,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -23676,6 +23676,94 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Cinelli Zydeco Lala 2022 2022",
+      "url": "https://buycycle.com/product/zydeco-lala-2022-59399",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 520.0,
+      "cout_reel": 765,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 361,
+      "prix_max_calcul": "600€ (cote) × (0.62 + 0.28 × 17% fit) = 401€ − 10 % (infos manquantes)",
+      "cote": 600.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cinelli",
+      "modele": "Zydeco Lala 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2649290/1357f8d8-0c6a-4dd6-9b55-9adf7ff89a82.webp",
+      "score": 2.9,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 7.9,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 6.1
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2022, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Hola, vendo bicicleta de gravel Cinelli Zydeco Lala, en condiciones casi perfectas.\nTiene el grupo Shimano Sora, excepto el cambio trasero que ha sido sustituido por un Shimano Acera. La bicicleta se vende con pedales de plataforma y una luz trasera; se vende sin portabidones.\nLas ruedas son unas Mavic All Road con neumáticos tubulares Panaracer muy rodadores.\nLa bicicleta es una talla 54, la vend",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−13 % vs cote (~600 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 520.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -30237,5 +30325,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T10:00:33+00:00"
+  "genere_le": "2026-07-09T10:30:01+00:00"
 }
