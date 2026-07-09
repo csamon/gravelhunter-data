@@ -1,5 +1,5 @@
 {
-  "total": 344,
+  "total": 347,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2629,7 +2629,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (31 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2825,7 +2825,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (61 favoris)",
+          "Annonce très regardée (62 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2921,7 +2921,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (12 favoris)",
+          "Annonce très regardée (13 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12202,12 +12202,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 949.0,
-        "n_en_vente": 3,
+        "n_ventes": 4,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -12292,12 +12292,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 949.0,
-        "n_en_vente": 3,
+        "n_ventes": 4,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -12471,12 +12471,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 949.0,
-        "n_en_vente": 3,
+        "n_ventes": 4,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -12561,12 +12561,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 5,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1299 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -12651,12 +12651,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 5,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1299 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -12741,12 +12741,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -12832,12 +12832,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 5,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1299 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -12923,12 +12923,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 5,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1299 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -13014,12 +13014,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 5,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1299 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -13105,12 +13105,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 5,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1299 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -13439,7 +13439,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−32 % vs cote (~1680 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14445,6 +14445,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~1980 €)",
           "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16680,7 +16681,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (51 favoris)",
+          "Annonce très regardée (52 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16773,7 +16774,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16999,6 +17000,93 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Gravel Genesis croix de fer 20 reynolds 725",
+      "url": "https://www.leboncoin.fr/ad/velos/3230382349",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1200.0,
+      "cout_reel": 1300,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 866,
+      "prix_max_calcul": "1200€ (prix affiché) × (0.62 + 0.28 × 65% fit) = 962€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 62.4,
+      "image": null,
+      "score": 6.5,
+      "fit_pct": 65,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 6.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (65 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1200.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
+        "n_en_vente": 6,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -19252,12 +19340,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -19340,12 +19428,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -20147,6 +20235,96 @@
       }
     },
     {
+      "titre": "Felt Ar5 Shimano 105 2015",
+      "url": "https://buycycle.com/product/ar5-96778",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1100.0,
+      "cout_reel": 1425,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "pneus gravel +80€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 754,
+      "prix_max_calcul": "1100€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 838€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Felt",
+      "modele": "Ar5 Shimano 105",
+      "taille": "M",
+      "annee": 2015,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2473963/cf72b345-703e-4c8f-8020-2ac48c70d983.webp",
+      "score": 4.5,
+      "fit_pct": 51,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 4.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~51% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano 105, taille M, 2015. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Felt AR5 2015 appartient à la famille AR (Aero Road), la gamme aéro de route de Felt, positionnée face aux Giant Propel ou Cervélo S-series de l'époque. Le AR5 est la version d'entrée/milieu de gamme de cette série : cadre en aluminium (série 6066/7005 selon les millésimes) avec fourche carbone, là où les AR haut de gamme (AR1, AR2, AR FRD) sont en carbone intégral. Le tube de selle profilé, les tubes en goutte d'eau et le passage de câbles semi-interne traduisent l'ambition aéro, mais le gain réel reste modeste à vitesse de cyclotouriste. L'équipement Shimano 105 (5800, 11 vitesses en 2015) est fiable, précis et endurant, ce qui est le vrai point fort de fiabilité de ce vélo. Points faibles concrets : géométrie de course agressive (position basse, peu confortable sur la durée), passage de pneus limité typiquement à 25-28 mm, freins sur jante qui limitent l'usage par tous temps, et cadre aluminium au confort ferme. Pour le vélotaf quotidien toute l'année, c'est un choix moyen : pas de fixations garde-boue/porte-bagages dédiées, freins jante peu adaptés à la pluie hivernale, et géométrie fatigante ; pour le gravel léger c'est inadapté, le dégagement de pneu et la géométrie route pure l'excluant des chemins.",
+        "vision": "",
+        "description_vendeur": "La bicicleta no necesita ningún tipo de intervención mecánica.\nEstá lista para su uso.",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Ancien (2015)"
+        ],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 28
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Ridley X-night SRAM Red 2014",
       "url": "https://buycycle.com/product/x-night-99430",
       "source": "buycycle",
@@ -20495,12 +20673,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -21657,12 +21835,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -22010,12 +22188,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 949.0,
-        "n_en_vente": 3,
+        "n_ventes": 4,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -22100,12 +22278,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 949.0,
-        "n_en_vente": 3,
+        "n_ventes": 4,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -22278,12 +22456,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -22631,12 +22809,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 949.0,
-        "n_en_vente": 3,
+        "n_ventes": 4,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -23522,12 +23700,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -24321,12 +24499,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -24410,12 +24588,92 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 824.0,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
         "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Selle vélo italia",
+      "url": "https://www.leboncoin.fr/ad/velos/3230381186",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": null,
+      "cout_reel": null,
+      "cout_reel_detail": [],
+      "prix_max_conseille": null,
+      "prix_max_calcul": null,
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 116.2,
+      "image": null,
+      "score": 3.0,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 4,
+        "prix_demande_median": 924.0,
+        "n_en_vente": 6,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -24546,10 +24804,12 @@
       },
       "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre acier, groupe Shimano Sora mécanique, freins à disque, taille M, 2020, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2020. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Bicicleta fabricada a partir de un cuadro CdF 20. Cuadro de tubos de cromoly Reynolds 725. Pequeños arañazos en el tubo horizontal. No tiene absolutamente nada de óxido en ninguna parte. Cadena recién cambiada. Necesita pequeños ajustes estándar (tensión de cables y aprietes). Siempre guardada en interior, nunca ha sufrido accidentes. Bicicleta muy versátil, adecuada para entrenamiento y cicloturi",
@@ -24570,11 +24830,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "acier",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -31431,5 +31691,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T19:31:58+00:00"
+  "genere_le": "2026-07-09T20:02:57+00:00"
 }
