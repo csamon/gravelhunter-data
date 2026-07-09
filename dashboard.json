@@ -721,6 +721,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−8 % vs cote (~1199 €)",
+          "Annonce très regardée (13 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20638,7 +20639,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -26596,7 +26597,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -28852,6 +28853,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
+          "Annonce très regardée (9 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30969,5 +30971,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T16:32:07+00:00"
+  "genere_le": "2026-07-09T17:01:57+00:00"
 }
