@@ -90,12 +90,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -846,12 +846,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -1038,12 +1038,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -1293,6 +1293,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−12 % vs cote (~1134 €)",
           "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (17 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6630,12 +6631,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -8654,12 +8655,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -9190,12 +9191,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -19905,7 +19906,7 @@
           "Peu adapté à ton usage (35 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (51 favoris)",
+          "Annonce très regardée (52 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30149,5 +30150,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T07:30:39+00:00"
+  "genere_le": "2026-07-09T07:59:52+00:00"
 }
