@@ -14346,7 +14346,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2021, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Topstone Neo est le gravel électrique de Cannondale, à ne pas confondre avec le Topstone musculaire : le millésime 2021 en version GRX se situe en milieu de gamme des versions motorisées (au-dessus des variantes Tiagra/entrée, sous les finitions carbone et Force). Il repose sur un cadre aluminium SmartForm C avec fourche carbone et intègre le moteur central Bosch Performance Line CX (motorisation la plus courante sur cette série) avec batterie PowerTube intégrée d'environ 500 Wh, ce qui en fait un vélo lourd (souvent au-delà de 18-20 kg selon finition). L'usage visé est clairement le vélotaf longue distance et le gravel roulant assisté, pas le gravel technique léger. Points forts : moteur Bosch fiable et puissant, couple généreux pour les côtes et le chargement, freins hydrauliques GRX endurants, géométrie stable et confortable, passages de pneus larges. Limites concrètes : poids élevé qui pénalise dès que l'assistance coupe (25 km/h) ou en cas de panne, autonomie moyenne pour un gros rouleur, coût des pièces moteur/batterie et dépendance à l'écosystème Bosch, et absence d'amortissement Kingpin sur certaines versions Neo. Fiabilité globalement bonne côté transmission GRX et moteur Bosch, mais vérifier impérativement l'état/santé de la batterie et l'historique des mises à jour sur un achat d'occasion. Pour un vélotaf quotidien toute l'année il est pertinent (garde-boue/porte-bagages possibles, freins disque, robustesse) mais reste onéreux et lourd pour du gravel réellement léger.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateaux GRX en bon état ; pneus Pirelli à crampons présentant une sculpture encore marquée. Disques et étriers hydrauliques en bon état, quelques traces de manipulation sur la tige de selle mais aucune corrosion ni impact notable, vélo globalement propre. ⚠ À vérifier : Le titre indique un modèle 'Neo' (électrique) mais aucune batterie/moteur n'est visible : il s'agit probablement d'un Topstone classique, à vérifier. Guidoline verte visiblement usée/salie ; vérifier l'usure exacte de la chaîne et le serrage de la tige de selle. (confiance 60%)",
         "description_vendeur": "ligeros arañazos por la carga y descarga durante el transporte en coche",
@@ -14366,11 +14366,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -20393,9 +20393,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -28833,10 +28833,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2023, bleu. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2023. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "",
@@ -28859,11 +28861,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "bleu",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -30788,5 +30790,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T14:01:04+00:00"
+  "genere_le": "2026-07-09T14:35:25+00:00"
 }
