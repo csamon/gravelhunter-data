@@ -1,5 +1,5 @@
 {
-  "total": 343,
+  "total": 344,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -561,6 +561,101 @@
         {
           "date": "2026-07-05",
           "prix": 700.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Canyon Grizl 7 2022 2022",
+      "url": "https://buycycle.com/product/grizl-7-2022-24337",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1099.0,
+      "cout_reel": 1199,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 945,
+      "prix_max_calcul": "1079€ (cote) × (0.62 + 0.28 × 91% fit) = 945€",
+      "cote": 1079.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Canyon",
+      "modele": "Grizl 7 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2650383/cbd40e2d-43d2-4cfa-8259-db1bcd436441.webp",
+      "score": 9.6,
+      "fit_pct": 91,
+      "axes": {
+        "technique": 9.8,
+        "financier": 5.8,
+        "usage": 10.0,
+        "plaisir": 5.0,
+        "valeur": 4.9
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~945€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Canyon Grizl 7 2022 se positionne en entrée/milieu de gamme dans la famille Grizl, la ligne gravel 'aventure' de Canyon, plus orientée endurance et terrains cassants que le Grail plus routier. Ce millésime associe un cadre aluminium (6061) à une fourche carbone, un compromis logique pour contenir le prix tout en gagnant un peu de confort et de poids à l'avant. Il est équipé d'un groupe Shimano GRX (généralement RX600/RX810 en 1x11 ou 2x11 selon config) avec freins à disque hydrauliques, fiable et éprouvé. La géométrie est typée aventure : direction stable, position relevée, dégagement pneus généreux et de nombreux points de fixation (bikepacking, garde-boue, porte-bidons multiples), ce qui en fait un excellent candidat au vélotaf toute l'année et au gravel de longue distance. Points forts : robustesse du cadre alu, polyvalence, capacité de chargement, confort de la géométrie et fourche carbone ; limites : poids plus élevé qu'un cadre carbone, cadre alu moins filtrant sur les vibrations fines, et sur l'occasion il faut vérifier l'usure de la transmission GRX, l'état des roulements et des disques. La réputation Canyon est bonne sur ce modèle (bon rapport qualité/prix), avec la contrainte connue de la vente directe (SAV à distance, pas de réseau physique). Pour un usage vélotaf quotidien + gravel léger, c'est une base très adaptée, à condition d'ajouter garde-boue et éclairage.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano grx 2x (dérailleur arrière grx rx810/rx812), pédalier rotor 2x, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne, cassette et plateaux Rotor peu marqués, pneus type gravel à flancs marron (Schwalbe G-One / Gravel LN) présentant une sculpture bien conservée. Disques et étriers hydrauliques en bon état, ensemble globalement propre. ⚠ À vérifier : Pédalier/plateaux Rotor non d'origine (spec inhabituelle pour un Grizl 7), quelques traces/salissures autour du boîtier de pédalier à nettoyer et vérifier ; confirmer largeur exacte des pneus et compatibilité tubeless. (confiance 55%)",
+        "description_vendeur": "La bicicleta tiene un rasguño en el tubo superior, en la parte delantera derecha. Además, la pintura es algo propensa a ensuciarse y se pueden ver algunas marcas del uso de la bicicleta.\n\nHe montado una potencia de 100 mm, pero todavía tengo la potencia original y puedo cambiarla o enviarla junto con la bicicleta.\n\nLa bicicleta es tubeless.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (91 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1079 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": 10.8,
+        "degagement_mm": 50
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x (dérailleur arrière GRX RX810/RX812), pédalier Rotor 2x",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne, cassette et plateaux Rotor peu marqués, pneus type gravel à flancs marron (Schwalbe G-One / Gravel LN) présentant une sculpture bien conservée. Disques et étriers hydrauliques en bon état, ensemble globalement propre.",
+        "points_attention": "Pédalier/plateaux Rotor non d'origine (spec inhabituelle pour un Grizl 7), quelques traces/salissures autour du boîtier de pédalier à nettoyer et vérifier ; confirmer largeur exacte des pneus et compatibilité tubeless.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1099.0
         }
       ],
       "marche_modele": {
@@ -2717,7 +2812,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Scott Speedster Gravel 40 2024 se situe en entrée de gamme gravel chez Scott, juste au-dessus du modèle 50 et sous les Speedster Gravel 30/20/10 mieux équipés. Il repose sur un cadre aluminium (alliage 6061) associé à une fourche carbone, une combinaison classique à ce niveau de prix qui privilégie la robustesse et le coût plutôt que la légèreté. Sa transmission Shimano GRX en 2x (généralement GRX 400/RX400 sur cette finition) offre une plage de développements confortable et une fiabilité éprouvée, avec freinage à disque hydraulique. L'usage visé est polyvalent : gravel roulant, chemins peu techniques, cyclotourisme léger et vélotaf, la géométrie étant relativement endurante et stable plutôt que joueuse. Points forts : montage cohérent et durable, freins fiables, cadre alu tolérant et facile à entretenir, présence d'inserts pour porte-bagages/garde-boue le rendant crédible pour un usage quotidien toute l'année ; limites : poids élevé pénalisant en montée, périphériques d'entrée de gamme (roues et pneus basiques à surveiller/upgrader), confort en retrait d'un cadre carbone sur mauvais revêtements. La fiabilité générale est bonne pour la marque et le groupe GRX, sans problème structurel notoire signalé sur cette génération. Pour du vélotaf quotidien et du gravel léger, c'est un choix pertinent et rationnel, à condition d'accepter son poids et de budgéter éventuellement de meilleures roues/pneus.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 2x (double plateau), série non lisible précisément, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission avec chaîne graissée mais empoussiérée, cassette et plateaux sans usure marquée visible ; pneus à crampons avec sculpture encore présente. Cadre gris avec traces de boue/poussière et légères marques d'usure, disques de frein propres, vélo globalement fonctionnel mais sale par endroits. ⚠ À vérifier : Vélo souvent photographié sale (boue sur transmission et cadre) : vérifier l'usure réelle de la transmission et des roulements après nettoyage ; contrôler l'état des durites et la tige de selle télescopique éventuelle. La série exacte du groupe Shimano n'est pas lisible sur les photos. (confiance 55%)",
         "description_vendeur": "Vendo esta bicicleta de gravel Scott Speedster Gravel 40 gris, modelo 2024, en talla M.\n- Tipo de bicicleta: Bicicleta de gravel \n- Marca: Scott\n- Modelo: Speedster Gravel 40\n- Año: 2024\n- Talla del cuadro: M\nEstado nuevo\n\nColor Shark Grey\nCuadro Speedster Gravel Disc / D.Butted 6061 Alloy, SCOTT Gravel geometry / Replaceable Derailleur Hanger, Internal cable routing, Syncros fender kit ready\nPres",
@@ -2740,11 +2835,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -7247,7 +7342,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (50 favoris)",
+          "Annonce très regardée (51 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29218,7 +29313,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (9 favoris)",
+          "Annonce très regardée (10 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31336,5 +31431,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T18:02:09+00:00"
+  "genere_le": "2026-07-09T18:33:10+00:00"
 }
