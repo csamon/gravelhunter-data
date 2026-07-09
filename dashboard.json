@@ -1,5 +1,5 @@
 {
-  "total": 329,
+  "total": 330,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2724,6 +2724,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
+          "Annonce très regardée (11 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3214,7 +3215,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−49 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3793,6 +3794,98 @@
         {
           "date": "2026-07-06",
           "prix": 890.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Tour de Suisse Virage 2024 2024",
+      "url": "https://buycycle.com/product/virage-20246a3b1c73b931f-70156",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1000.0,
+      "cout_reel": 1245,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1253,
+      "prix_max_calcul": "1630€ (cote) × (0.62 + 0.28 × 84% fit) = 1392€ − 10 % (infos manquantes)",
+      "cote": 1630.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Tour de Suisse",
+      "modele": "Virage 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2624607/1c7025f1-2ca0-4cb2-8f99-6e8d16d789c8.webp",
+      "score": 8.0,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 8.1
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Tour de Suisse est une marque distribuée principalement par des enseignes de grande distribution/discount (type Lidl ou magasins de sport), et le Virage 2024 se positionne clairement en entrée de gamme du segment gravel/route polyvalent. Le montage en Shimano GRX est cependant un vrai point positif à ce niveau de prix, car il s'agit d'un groupe gravel dédié, plus fiable et mieux étagé qu'un Sora/Claris routier souvent vu sur cette catégorie. Le cadre est vraisemblablement en aluminium avec fourche carbone ou alu, sans technologie d'amorti particulière, ce qui donne un vélo robuste mais assez ferme et pas spécialement léger. L'usage visé est le gravel léger, les chemins roulants et le vélotaf, mais l'absence d'informations techniques précises (standards de transmission, passage de pneus réel, montage exact du GRX) rend l'évaluation difficile et invite à la prudence. Les limites concrètes sont le manque de traçabilité de la marque, la disponibilité incertaine des pièces spécifiques (cintre, tige, roues souvent bas de gamme) et une revente compliquée. Pour un vélotaf quotidien toute l'année, il peut convenir s'il dispose de fixations garde-boue et porte-bagages, mais vérifiez impérativement l'état réel, le dégagement pneus et la qualité des roues/pneus d'origine. En occasion, ce vélo ne se justifie qu'à un prix bas, car la réputation et la fiabilité long terme de la marque restent peu documentées.",
+        "vision": "",
+        "description_vendeur": "En perfecto estado, a excepción de algunas manchas por falta de uso.\nLo vendo solo debido a una lesión que, lamentablemente, me obliga a usar únicamente bicicletas eléctricas.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−39 % vs cote (~1630 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1000.0
         }
       ],
       "marche_modele": {
@@ -4565,6 +4658,110 @@
         {
           "date": "2026-07-05",
           "prix": 850.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Planet X London Road Shimano GRX RX820 Bike 2026 2026",
+      "url": "https://buycycle.com/product/london-road-shimano-grx-rx820-bike-2026-43209",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 650.0,
+      "cout_reel": 975,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "pneus gravel +80€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1065,
+      "prix_max_calcul": "1238€ (cote) × (0.62 + 0.28 × 86% fit) = 1065€",
+      "cote": 1238.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Planet X",
+      "modele": "London Road Shimano GRX RX820 Bike 2026",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2641674/619ada6a-651a-492e-ae29-dee32624d3fa.webp",
+      "score": 7.5,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 8.8
+      },
+      "verdict": "Bon dossier MAIS vélo sale/masqué à inspecter — CONTACTER pour lever le doute avant d'acheter.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano 105 mécanique, freins à disque, taille M, 2026, bleu. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Planet X London Road est un gravel/all-road polyvalent positionné en entrée-milieu de gamme chez ce spécialiste britannique du vente directe, ce qui explique un excellent rapport qualité/prix par rapport à des marques traditionnelles. Attention : l'intitulé est incohérent, car il annonce un groupe Shimano GRX RX820 (mécanique 12 vitesses, la gamme gravel haut de gamme mono/double plateau de Shimano) tout en mentionnant 'Shimano 105' ailleurs — il faut impérativement vérifier le groupe réel monté avant l'achat. Le cadre aluminium associé à une fourche carbone offre un compromis robustesse/confort/coût cohérent pour un usage mixte, avec freins à disque (probablement hydrauliques avec du GRX RX820) adaptés à toutes conditions. L'usage visé est clairement le vélotaf toute l'année, le bikepacking léger et le gravel roulant, favorisé par une géométrie plutôt endurance et la présence habituelle d'œillets pour garde-boue et porte-bagages sur ce modèle. Points forts : prix agressif, groupe GRX moderne et fiable si confirmé, polyvalence et facilité d'entretien du cadre alu ; limites : cadre alu plus rigide/lourd qu'un carbone, finitions et SAV Planet X parfois perfectibles (marque en ligne, pas de réseau de revendeurs), et poids global qui pénalise en montée. La fiabilité mécanique du GRX RX820 est excellente et bien documentée, mais l'occasion impose de contrôler l'usure des plateaux, cassette, chaîne et l'état des roues d'origine souvent basiques. Pour du vélotaf quotidien plus gravel léger, c'est un choix pertinent et endurant à condition de valider le montage exact et d'ajouter garde-boue/pneus adaptés.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano 105 2x11 (dérailleur arrière 105, pédalier slx), freins disque hydraulique, pneus 33 mm. État visuel : Transmission modérément usée avec chaîne et cassette encrassées mais dents de plateau et pignons en bon état, pneus cyclocross Challenge Grifo à crampons peu usés. Freins à disque hydrauliques Shimano (étrier marqué Japan) fonctionnels, disques et plaquettes corrects. ⚠ À vérifier : Vélo de cyclocross et non un GRX RX820 2026 comme annoncé : groupe réel Shimano 105 avec pédalier SLX (mélange), sticker lion abîmé et petit éclat de peinture sur le tube diagonal, cocktail de composants à vérifier (roues Mavic, tige Thomson). (confiance 82%)",
+        "description_vendeur": "Los frenos funcionan bien, hay arañazos que apenas se ven, el plato delantero es ovalado y se vende sin sillín.",
+        "plus_velo": [
+          "Groupe référence (Shimano 105)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−47 % vs cote (~1238 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano 105 2x11 (dérailleur arrière 105, pédalier SLX)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 33,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission modérément usée avec chaîne et cassette encrassées mais dents de plateau et pignons en bon état, pneus cyclocross Challenge Grifo à crampons peu usés. Freins à disque hydrauliques Shimano (étrier marqué Japan) fonctionnels, disques et plaquettes corrects.",
+        "points_attention": "Vélo de cyclocross et non un GRX RX820 2026 comme annoncé : groupe réel Shimano 105 avec pédalier SLX (mélange), sticker lion abîmé et petit éclat de peinture sur le tube diagonal, cocktail de composants à vérifier (roues Mavic, tige Thomson).",
+        "confiance": 0.82
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 800.0
+        },
+        {
+          "date": "2026-07-09",
+          "prix": 650.0
         }
       ],
       "marche_modele": {
@@ -5391,7 +5588,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -5412,11 +5609,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -6497,7 +6694,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−13 % vs cote (~1379 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12501,6 +12698,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−32 % vs cote (~1680 €)",
           "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -15008,105 +15206,6 @@
       }
     },
     {
-      "titre": "Planet X London Road Shimano GRX RX820 Bike 2026 2026",
-      "url": "https://buycycle.com/product/london-road-shimano-grx-rx820-bike-2026-43209",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "ATTENDRE",
-      "prix": 800.0,
-      "cout_reel": 1125,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "pneus gravel +80€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1065,
-      "prix_max_calcul": "1238€ (cote) × (0.62 + 0.28 × 86% fit) = 1065€",
-      "cote": 1238.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Planet X",
-      "modele": "London Road Shimano GRX RX820 Bike 2026",
-      "taille": "M",
-      "annee": 2026,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2641674/619ada6a-651a-492e-ae29-dee32624d3fa.webp",
-      "score": 6.5,
-      "fit_pct": 86,
-      "axes": {
-        "technique": 8.8,
-        "financier": 10.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 7.8
-      },
-      "verdict": "Correct (~86% du besoin) — ATTENDRE une baisse ou mieux.",
-      "infos_manquantes": [],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano 105 mécanique, freins à disque, taille M, 2026, bleu. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Planet X London Road est un gravel/all-road polyvalent positionné en entrée-milieu de gamme chez ce spécialiste britannique du vente directe, ce qui explique un excellent rapport qualité/prix par rapport à des marques traditionnelles. Attention : l'intitulé est incohérent, car il annonce un groupe Shimano GRX RX820 (mécanique 12 vitesses, la gamme gravel haut de gamme mono/double plateau de Shimano) tout en mentionnant 'Shimano 105' ailleurs — il faut impérativement vérifier le groupe réel monté avant l'achat. Le cadre aluminium associé à une fourche carbone offre un compromis robustesse/confort/coût cohérent pour un usage mixte, avec freins à disque (probablement hydrauliques avec du GRX RX820) adaptés à toutes conditions. L'usage visé est clairement le vélotaf toute l'année, le bikepacking léger et le gravel roulant, favorisé par une géométrie plutôt endurance et la présence habituelle d'œillets pour garde-boue et porte-bagages sur ce modèle. Points forts : prix agressif, groupe GRX moderne et fiable si confirmé, polyvalence et facilité d'entretien du cadre alu ; limites : cadre alu plus rigide/lourd qu'un carbone, finitions et SAV Planet X parfois perfectibles (marque en ligne, pas de réseau de revendeurs), et poids global qui pénalise en montée. La fiabilité mécanique du GRX RX820 est excellente et bien documentée, mais l'occasion impose de contrôler l'usure des plateaux, cassette, chaîne et l'état des roues d'origine souvent basiques. Pour du vélotaf quotidien plus gravel léger, c'est un choix pertinent et endurant à condition de valider le montage exact et d'ajouter garde-boue/pneus adaptés.",
-        "vision": "Cadre aluminium, fourche carbone, groupe shimano 105 2x11 (dérailleur arrière 105, pédalier slx), freins disque hydraulique, pneus 33 mm. État visuel : Transmission modérément usée avec chaîne et cassette encrassées mais dents de plateau et pignons en bon état, pneus cyclocross Challenge Grifo à crampons peu usés. Freins à disque hydrauliques Shimano (étrier marqué Japan) fonctionnels, disques et plaquettes corrects. ⚠ À vérifier : Vélo de cyclocross et non un GRX RX820 2026 comme annoncé : groupe réel Shimano 105 avec pédalier SLX (mélange), sticker lion abîmé et petit éclat de peinture sur le tube diagonal, cocktail de composants à vérifier (roues Mavic, tige Thomson). (confiance 82%)",
-        "description_vendeur": "Los frenos funcionan bien, hay arañazos que apenas se ven, el plato delantero es ovalado y se vende sin sillín.",
-        "plus_velo": [
-          "Groupe référence (Shimano 105)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2026)",
-          "Bien adapté à ton usage (86 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−35 % vs cote (~1238 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano 105",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "bleu",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": "Shimano 105 2x11 (dérailleur arrière 105, pédalier SLX)",
-        "freins": "disque hydraulique",
-        "fourche": "carbone",
-        "cadre": "aluminium",
-        "pneus_mm": 33,
-        "tubeless": null,
-        "fixations": false,
-        "etat_visuel": "Transmission modérément usée avec chaîne et cassette encrassées mais dents de plateau et pignons en bon état, pneus cyclocross Challenge Grifo à crampons peu usés. Freins à disque hydrauliques Shimano (étrier marqué Japan) fonctionnels, disques et plaquettes corrects.",
-        "points_attention": "Vélo de cyclocross et non un GRX RX820 2026 comme annoncé : groupe réel Shimano 105 avec pédalier SLX (mélange), sticker lion abîmé et petit éclat de peinture sur le tube diagonal, cocktail de composants à vérifier (roues Mavic, tige Thomson).",
-        "confiance": 0.82
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 800.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Giant TCX Advanced Pro 2 2018 2018",
       "url": "https://buycycle.com/product/tcx-advanced-pro-2-2018-87106",
       "source": "buycycle",
@@ -17292,7 +17391,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (31 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -24878,7 +24977,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29643,7 +29742,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30050,5 +30149,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T06:59:40+00:00"
+  "genere_le": "2026-07-09T07:30:39+00:00"
 }
