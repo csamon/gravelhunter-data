@@ -1862,7 +1862,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−48 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (70 favoris)",
+          "Annonce très regardée (71 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2096,11 +2096,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 3,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -21092,11 +21092,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 3,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -23676,94 +23676,6 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
-      }
-    },
-    {
-      "titre": "Cinelli Zydeco Lala 2022 2022",
-      "url": "https://buycycle.com/product/zydeco-lala-2022-59399",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 520.0,
-      "cout_reel": 765,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 361,
-      "prix_max_calcul": "600€ (cote) × (0.62 + 0.28 × 17% fit) = 401€ − 10 % (infos manquantes)",
-      "cote": 600.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Cinelli",
-      "modele": "Zydeco Lala 2022",
-      "taille": "M",
-      "annee": 2022,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2649290/1357f8d8-0c6a-4dd6-9b55-9adf7ff89a82.webp",
-      "score": 2.9,
-      "fit_pct": 17,
-      "axes": {
-        "technique": 3.5,
-        "financier": 7.9,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 6.1
-      },
-      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2022, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Hola, vendo bicicleta de gravel Cinelli Zydeco Lala, en condiciones casi perfectas.\nTiene el grupo Shimano Sora, excepto el cambio trasero que ha sido sustituido por un Shimano Acera. La bicicleta se vende con pedales de plataforma y una luz trasera; se vende sin portabidones.\nLas ruedas son unas Mavic All Road con neumáticos tubulares Panaracer muy rodadores.\nLa bicicleta es una talla 54, la vend",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Sora)",
-          "Peu adapté à ton usage (17 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−13 % vs cote (~600 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "orange",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-09",
-          "prix": 520.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -29497,7 +29409,7 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -30317,6 +30229,98 @@
         "base": "insuffisant",
         "resume": null
       }
+    },
+    {
+      "titre": "Cinelli Zydeco Shimano Sora 2022",
+      "url": "https://buycycle.com/product/zydeco-lala-2022-59399",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1000.0,
+      "cout_reel": 1245,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 361,
+      "prix_max_calcul": "600€ (cote) × (0.62 + 0.28 × 17% fit) = 401€ − 10 % (infos manquantes)",
+      "cote": 600.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cinelli",
+      "modele": "Zydeco Shimano Sora",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2649290/1357f8d8-0c6a-4dd6-9b55-9adf7ff89a82.webp",
+      "score": 0.0,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 2.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 0.0
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2022, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Hola, vendo bicicleta de gravel Cinelli Zydeco Lala, en condiciones casi perfectas.\nTiene el grupo Shimano Sora, excepto el cambio trasero que ha sido sustituido por un Shimano Acera. La bicicleta se vende con pedales de plataforma y una luz trasera; se vende sin portabidones.\nLas ruedas son unas Mavic All Road con neumáticos tubulares Panaracer muy rodadores.\nLa bicicleta es una talla 54, la vend",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~600 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 520.0
+        },
+        {
+          "date": "2026-07-09",
+          "prix": 1000.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
     }
   ],
   "budget_max": 1400.0,
@@ -30325,5 +30329,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T10:30:01+00:00"
+  "genere_le": "2026-07-09T11:00:19+00:00"
 }
