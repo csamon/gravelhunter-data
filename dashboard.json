@@ -1,5 +1,5 @@
 {
-  "total": 337,
+  "total": 339,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -4353,7 +4353,7 @@
           "Décote intéressante : ~−46 % vs cote (~2520 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5512,7 +5512,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−21 % vs cote (~1499 €)",
-          "Annonce très regardée (147 favoris)",
+          "Annonce très regardée (146 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7061,7 +7061,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (73 favoris)",
+          "Annonce très regardée (74 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10972,7 +10972,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12106,12 +12106,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 3,
         "prix_demande_median": 949.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 949 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12196,12 +12196,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 3,
         "prix_demande_median": 949.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 949 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12375,12 +12375,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 3,
         "prix_demande_median": 949.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 949 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12466,11 +12466,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 999.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 999 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12556,11 +12556,192 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 999.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 999 € (3 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Vélo Gravel NEUF Raymon Territ Pro – Taille M",
+      "url": "https://www.leboncoin.fr/ad/velos/3155107849",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1399.0,
+      "cout_reel": 1584,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1076,
+      "prix_max_calcul": "1399€ (prix affiché) × (0.62 + 0.28 × 84% fit) = 1195€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 115.1,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 3,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire | Garantie 24 mois",
+      "url": "https://www.leboncoin.fr/ad/velos/3230224538:0ce5c8d0-fe7c-4ccd-94bd-88a92836e20f",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1299.0,
+      "cout_reel": 1484,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1034,
+      "prix_max_calcul": "1299€ (prix affiché) × (0.62 + 0.28 × 94% fit) = 1149€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Jakar",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 94,
+      "axes": {
+        "technique": 8.0,
+        "financier": 6.8,
+        "usage": 10.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (94 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1299.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 999.0,
+        "n_en_vente": 3,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 999 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -14458,7 +14639,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (78 favoris)",
+          "Annonce très regardée (79 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18703,11 +18884,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -18791,11 +18972,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -19946,11 +20127,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -21108,11 +21289,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -21460,12 +21641,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 3,
         "prix_demande_median": 949.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 949 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -21550,12 +21731,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 3,
         "prix_demande_median": 949.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 949 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -21729,11 +21910,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -22081,12 +22262,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 3,
         "prix_demande_median": 949.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 949 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -22973,11 +23154,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -23772,11 +23953,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -23861,11 +24042,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 3,
-        "prix_demande_median": 799.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 824.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 799 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 824 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -26237,7 +26418,7 @@
           "Peu adapté à ton usage (20 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -26595,7 +26776,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (98 favoris)",
+          "Annonce très regardée (99 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30788,5 +30969,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T15:31:31+00:00"
+  "genere_le": "2026-07-09T16:01:47+00:00"
 }
