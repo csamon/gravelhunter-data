@@ -1,5 +1,5 @@
 {
-  "total": 347,
+  "total": 349,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2816,7 +2816,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Scott Speedster Gravel 40 2024 se situe en entrée de gamme gravel chez Scott, juste au-dessus du modèle 50 et sous les Speedster Gravel 30/20/10 mieux équipés. Il repose sur un cadre aluminium (alliage 6061) associé à une fourche carbone, une combinaison classique à ce niveau de prix qui privilégie la robustesse et le coût plutôt que la légèreté. Sa transmission Shimano GRX en 2x (généralement GRX 400/RX400 sur cette finition) offre une plage de développements confortable et une fiabilité éprouvée, avec freinage à disque hydraulique. L'usage visé est polyvalent : gravel roulant, chemins peu techniques, cyclotourisme léger et vélotaf, la géométrie étant relativement endurante et stable plutôt que joueuse. Points forts : montage cohérent et durable, freins fiables, cadre alu tolérant et facile à entretenir, présence d'inserts pour porte-bagages/garde-boue le rendant crédible pour un usage quotidien toute l'année ; limites : poids élevé pénalisant en montée, périphériques d'entrée de gamme (roues et pneus basiques à surveiller/upgrader), confort en retrait d'un cadre carbone sur mauvais revêtements. La fiabilité générale est bonne pour la marque et le groupe GRX, sans problème structurel notoire signalé sur cette génération. Pour du vélotaf quotidien et du gravel léger, c'est un choix pertinent et rationnel, à condition d'accepter son poids et de budgéter éventuellement de meilleures roues/pneus.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 2x (double plateau), série non lisible précisément, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission avec chaîne graissée mais empoussiérée, cassette et plateaux sans usure marquée visible ; pneus à crampons avec sculpture encore présente. Cadre gris avec traces de boue/poussière et légères marques d'usure, disques de frein propres, vélo globalement fonctionnel mais sale par endroits. ⚠ À vérifier : Vélo souvent photographié sale (boue sur transmission et cadre) : vérifier l'usure réelle de la transmission et des roulements après nettoyage ; contrôler l'état des durites et la tige de selle télescopique éventuelle. La série exacte du groupe Shimano n'est pas lisible sur les photos. (confiance 55%)",
         "description_vendeur": "Vendo esta bicicleta de gravel Scott Speedster Gravel 40 gris, modelo 2024, en talla M.\n- Tipo de bicicleta: Bicicleta de gravel \n- Marca: Scott\n- Modelo: Speedster Gravel 40\n- Año: 2024\n- Talla del cuadro: M\nEstado nuevo\n\nColor Shark Grey\nCuadro Speedster Gravel Disc / D.Butted 6061 Alloy, SCOTT Gravel geometry / Replaceable Derailleur Hanger, Internal cable routing, Syncros fender kit ready\nPres",
@@ -2839,11 +2839,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -2875,6 +2875,102 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1300 € (3 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Trek Checkpoint ALR 5 Gen 3 2026 2026",
+      "url": "https://buycycle.com/product/checkpoint-alr-5-gen-3-2026-10171",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1610.0,
+      "cout_reel": 1710,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1079,
+      "prix_max_calcul": "1199€ (cote) × (0.62 + 0.28 × 100% fit) = 1079€",
+      "cote": 1199.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Trek",
+      "modele": "Checkpoint ALR 5 Gen 3 2026",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2645556/ef5665f1-1328-4320-863c-dbfe41f69409.webp",
+      "score": 8.2,
+      "fit_pct": 100,
+      "axes": {
+        "technique": 10.0,
+        "financier": 3.1,
+        "usage": 10.0,
+        "plaisir": 6.5,
+        "valeur": 2.3
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1079€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Sram Apex Etap AXS électronique, freins à disque, taille M, 2026, bleu. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Checkpoint ALR 5 Gen 3 se situe en milieu de gamme dans la famille gravel de Trek : au-dessus des ALR d'entrée mais sous les modèles carbone SL/SLR, il offre le meilleur rapport qualité/prix de la série alu. Le cadre est en aluminium 300 Series Alpha hydroformé avec fourche carbone, câblage interne partiel et le système IsoSpeed découpleur à l'arrière (sur les Gen 3) qui améliore le confort sur terrain cassant, atout notable pour un cadre alu. Le montage 2026 en SRAM Apex eTap AXS apporte un passage de vitesses électronique sans fil fiable et sans entretien de câbles, en 1x généralement, avec grande cassette adaptée au gravel vallonné. L'usage visé est polyvalent : gravel léger à moyen, bikepacking modéré et route, avec de nombreux inserts (porte-bagages, garde-boue, fixations sur cadre/fourche) qui le rendent excellent pour le vélotaf toute l'année. Points forts : robustesse de l'alu, confort IsoSpeed, transmission électronique, freins à disque hydrauliques, géométrie endurance stable ; limites : poids supérieur au carbone, Apex reste le niveau d'entrée eTap (dérailleur plus lourd, pas d'AXS haut de gamme), et le 1x pénalise un peu l'étagement sur route rapide. La réputation Trek sur les ALR est solide en fiabilité et SAV, garantie cadre à vie ; c'est un choix pertinent en occasion pour un usage mixte quotidien exigeant.",
+        "vision": "Cadre aluminium, fourche carbone, groupe sram apex xplr 1x12, freins disque hydraulique, pneus 42 mm, tubeless, fixations garde-boue/rack. État visuel : La transmission montre une chaîne et une cassette légèrement grisées par un usage modéré mais sans usure marquée, les dents du plateau 40T X-SYNC restent nettes et les pneus Girona Pro conservent une sculpture bien présente. L'ensemble paraît propre et récent, avec des disques peu marqués et aucune corrosion visible. ⚠ À vérifier : Chaîne et cassette un peu encrassées/oxydées superficiellement, à nettoyer et vérifier l'usure à la jauge ; contrôler l'alignement du dérailleur Apex et la présence éventuelle de micro-rayures sur le cadre alu peint. (confiance 88%)",
+        "description_vendeur": "La bicicleta ha sido utilizada dos veces, no tiene más de 60-70 km, está prácticamente nueva, bien cuidada y sin golpes ni daños visibles.",
+        "plus_velo": [
+          "Groupe bon (Sram Apex Etap AXS)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (100 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1199 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Sram Apex Etap AXS",
+        "frame": "aluminium",
+        "shifting": "électronique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": 10.4,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex XPLR 1x12",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 42,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "La transmission montre une chaîne et une cassette légèrement grisées par un usage modéré mais sans usure marquée, les dents du plateau 40T X-SYNC restent nettes et les pneus Girona Pro conservent une sculpture bien présente. L'ensemble paraît propre et récent, avec des disques peu marqués et aucune corrosion visible.",
+        "points_attention": "Chaîne et cassette un peu encrassées/oxydées superficiellement, à nettoyer et vérifier l'usure à la jauge ; contrôler l'alignement du dérailleur Apex et la présence éventuelle de micro-rayures sur le cadre alu peint.",
+        "confiance": 0.88
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1610.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -2959,6 +3055,109 @@
         {
           "date": "2026-07-05",
           "prix": 750.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Romet Gravel 2026",
+      "url": "https://buycycle.com/product/gravel6a48c59d17066-72089",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 790.0,
+      "cout_reel": 950,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 678,
+      "prix_max_calcul": "894€ (cote) × (0.62 + 0.28 × 79% fit) = 753€ − 10 % (infos manquantes)",
+      "cote": 894.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Romet",
+      "modele": "Gravel",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2640668/a99b719c-317d-495a-91ec-25c62190d7a0.webp",
+      "score": 8.1,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 7.6,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 5.9
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~678€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2026. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Romet Gravel 2026 se positionne en entrée de gamme du segment gravel de la marque polonaise Romet, connue pour son bon rapport qualité-prix sur le marché d'Europe centrale plutôt que pour une image premium. La configuration cadre aluminium + fourche aluminium (et non carbone) le classe clairement dans l'offre accessible, ce qui pénalise le confort sur longues distances et la filtration des vibrations, un point sensible en gravel où une fourche carbone est souvent préférée. Le groupe SRAM Apex (probablement mono-plateau 1x, éventuellement en version électronique AXS selon la finition exacte) est un choix cohérent et fiable pour cet usage, avec une plage de vitesses correcte et une transmission simple à entretenir. Les freins à disque assurent un freinage constant par tout temps, ce qui est un atout réel pour le vélotaf quotidien à l'année. En usage vélotaf, la robustesse de l'aluminium et la présence probable d'inserts pour garde-boue/porte-bagages sont des avantages, mais il faut vérifier ces montages sur l'exemplaire précis. Ses limites concrètes : poids plus élevé qu'un cadre carbone, confort moindre sur le long, et une réputation de fiabilité correcte mais sans le suivi SAV ni la valeur de revente des grandes marques. Pour du gravel léger et un usage utilitaire quotidien, c'est un choix pragmatique à condition de l'acheter à un prix d'occasion réellement décoté.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe sram 1x (manettes/leviers sram, cassette ~8-9v, mono-plateau), freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne brillante et cassette peu marquée, pneus à crampons quasi neufs avec sculpture bien présente. Disques de frein propres sans traces de surchauffe, cadre gris sans rayures ni corrosion visibles. ⚠ À vérifier : Freins à disque mécaniques (câble et non durite hydraulique) ; étriers avec vis de réglage rouge type Tektro/mécanique. Vérifier la série exacte des manettes SRAM (probablement bas de gamme Apex ou équivalent) et la présence éventuelle de tubeless non lisible sur le flanc. (confiance 55%)",
+        "description_vendeur": "Bicicleta de gravel ROMET Boreas 1 totalmente nueva, gris antracita con cinta de manillar naranja dinámica, recibida el 19/06 como premio en un concurso. La bicicleta no ha rodado absolutamente nada (los \"pelillos\" de fábrica aún están en los neumáticos, la cadena y el cassette están impecables).\n\nEs la bicicleta ideal para ir al trabajo, salidas por carretera y caminos de bosque/grava o incluso p",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−12 % vs cote (~894 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM 1x (manettes/leviers SRAM, cassette ~8-9v, mono-plateau)",
+        "freins": "disque mécanique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne brillante et cassette peu marquée, pneus à crampons quasi neufs avec sculpture bien présente. Disques de frein propres sans traces de surchauffe, cadre gris sans rayures ni corrosion visibles.",
+        "points_attention": "Freins à disque mécaniques (câble et non durite hydraulique) ; étriers avec vis de réglage rouge type Tektro/mécanique. Vérifier la série exacte des manettes SRAM (probablement bas de gamme Apex ou équivalent) et la présence éventuelle de tubeless non lisible sur le flanc.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 800.0
+        },
+        {
+          "date": "2026-07-09",
+          "prix": 790.0
         }
       ],
       "marche_modele": {
@@ -3066,105 +3265,6 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "Romet Gravel 2026",
-      "url": "https://buycycle.com/product/gravel6a48c59d17066-72089",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 800.0,
-      "cout_reel": 960,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 678,
-      "prix_max_calcul": "894€ (cote) × (0.62 + 0.28 × 79% fit) = 753€ − 10 % (infos manquantes)",
-      "cote": 894.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Romet",
-      "modele": "Gravel",
-      "taille": "M",
-      "annee": 2026,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2640668/a99b719c-317d-495a-91ec-25c62190d7a0.webp",
-      "score": 8.0,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 7.5,
-        "usage": 8.5,
-        "plaisir": 5.5,
-        "valeur": 5.8
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~678€) — NÉGOCIER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2026. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Romet Gravel 2026 se positionne en entrée de gamme du segment gravel de la marque polonaise Romet, connue pour son bon rapport qualité-prix sur le marché d'Europe centrale plutôt que pour une image premium. La configuration cadre aluminium + fourche aluminium (et non carbone) le classe clairement dans l'offre accessible, ce qui pénalise le confort sur longues distances et la filtration des vibrations, un point sensible en gravel où une fourche carbone est souvent préférée. Le groupe SRAM Apex (probablement mono-plateau 1x, éventuellement en version électronique AXS selon la finition exacte) est un choix cohérent et fiable pour cet usage, avec une plage de vitesses correcte et une transmission simple à entretenir. Les freins à disque assurent un freinage constant par tout temps, ce qui est un atout réel pour le vélotaf quotidien à l'année. En usage vélotaf, la robustesse de l'aluminium et la présence probable d'inserts pour garde-boue/porte-bagages sont des avantages, mais il faut vérifier ces montages sur l'exemplaire précis. Ses limites concrètes : poids plus élevé qu'un cadre carbone, confort moindre sur le long, et une réputation de fiabilité correcte mais sans le suivi SAV ni la valeur de revente des grandes marques. Pour du gravel léger et un usage utilitaire quotidien, c'est un choix pragmatique à condition de l'acheter à un prix d'occasion réellement décoté.",
-        "vision": "Cadre aluminium, fourche aluminium, groupe sram 1x (manettes/leviers sram, cassette ~8-9v, mono-plateau), freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne brillante et cassette peu marquée, pneus à crampons quasi neufs avec sculpture bien présente. Disques de frein propres sans traces de surchauffe, cadre gris sans rayures ni corrosion visibles. ⚠ À vérifier : Freins à disque mécaniques (câble et non durite hydraulique) ; étriers avec vis de réglage rouge type Tektro/mécanique. Vérifier la série exacte des manettes SRAM (probablement bas de gamme Apex ou équivalent) et la présence éventuelle de tubeless non lisible sur le flanc. (confiance 55%)",
-        "description_vendeur": "Bicicleta de gravel ROMET Boreas 1 totalmente nueva, gris antracita con cinta de manillar naranja dinámica, recibida el 19/06 como premio en un concurso. La bicicleta no ha rodado absolutamente nada (los \"pelillos\" de fábrica aún están en los neumáticos, la cadena y el cassette están impecables).\n\nEs la bicicleta ideal para ir al trabajo, salidas por carretera y caminos de bosque/grava o incluso p",
-        "plus_velo": [
-          "Groupe bon (SRAM Apex)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2026)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−11 % vs cote (~894 €)",
-          "Prix déjà baissé par le vendeur",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": "SRAM 1x (manettes/leviers SRAM, cassette ~8-9v, mono-plateau)",
-        "freins": "disque mécanique",
-        "fourche": "aluminium",
-        "cadre": "aluminium",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": true,
-        "etat_visuel": "Transmission propre avec chaîne brillante et cassette peu marquée, pneus à crampons quasi neufs avec sculpture bien présente. Disques de frein propres sans traces de surchauffe, cadre gris sans rayures ni corrosion visibles.",
-        "points_attention": "Freins à disque mécaniques (câble et non durite hydraulique) ; étriers avec vis de réglage rouge type Tektro/mécanique. Vérifier la série exacte des manettes SRAM (probablement bas de gamme Apex ou équivalent) et la présence éventuelle de tubeless non lisible sur le flanc.",
-        "confiance": 0.55
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 800.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 1,
         "liquidite_jours": null,
@@ -12746,11 +12846,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -13115,6 +13215,96 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "🟢🟢Nakamura allroad 250 taille 1m85 et + (XL) / RÉVISÉ",
+      "url": "https://www.leboncoin.fr/ad/velos/3230420729",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 850.0,
+      "cout_reel": 1035,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 658,
+      "prix_max_calcul": "850€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 731€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 196.6,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 850.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 4,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -17086,11 +17276,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -19345,11 +19535,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -19433,11 +19623,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -20678,11 +20868,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -21840,11 +22030,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -22461,11 +22651,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -23705,11 +23895,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -24504,11 +24694,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -24593,11 +24783,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -24673,11 +24863,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": 924.0,
-        "n_en_vente": 6,
+        "prix_demande_median": 850.0,
+        "n_en_vente": 7,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 924 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
       }
     },
     {
@@ -31693,5 +31883,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-09T21:02:55+00:00"
+  "genere_le": "2026-07-09T21:34:18+00:00"
 }
