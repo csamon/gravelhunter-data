@@ -1,5 +1,5 @@
 {
-  "total": 357,
+  "total": 358,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1294,7 +1294,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (54 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2920,7 +2920,7 @@
         "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Topstone 2 2024 se positionne en milieu de gamme de la série Topstone alu de Cannondale, au-dessus des versions 3/4 (Sora/Claris) mais sous le Topstone 1 et les versions Carbon plus onéreuses. Il combine un cadre aluminium SmartForm C2 avec une fourche carbone à inserts pour porte-bagages/garde-boue, mais attention : cette génération alu n'intègre PAS le système d'amortissement arrière Kingpin (réservé aux Topstone Carbon), l'amorti reposant donc uniquement sur les pneus et le confort du carbone en fourche. Il est équipé d'un groupe Shimano GRX (généralement RX400/RX600 en 2x sur ce niveau), avec freins à disque hydrauliques, orienté gravel polyvalent et endurance. Points forts : géométrie stable et confortable, robustesse de l'alu, nombreux inserts (garde-boue, porte-bagages, top tube) qui le rendent excellent pour le vélotaf toute l'année et le bikepacking léger ; limites : poids relativement élevé pour l'alu, absence d'amorti dédié, et un GRX d'entrée/milieu au rendement correct mais sans plus. La fiabilité Cannondale sur cette gamme est bonne, sans vice majeur connu, la maintenance restant classique. Pour un usage vélotaf quotidien + gravel léger c'est un choix pertinent et pérenne, à condition de vérifier l'état des roues (moyeux) et de la transmission sur l'occasion.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x10 (46/30t), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission quasi neuve : dents de plateaux et cassette nettes, chaîne propre et brillante sans allongement visible, pneus Vittoria Terreno Dry à sculpture pleine non usée. Disques et étriers hydrauliques propres, aucune rayure, impact ni corrosion notable, vélo globalement en excellent état. ⚠ À vérifier : Manettes/dérailleur GRX identifiés mais série exacte (RX400/RX600) non lisible sur les photos ; largeur pneu et mention tubeless illisibles sur les flancs. Pédales plates basiques (non d'origine gravel). (confiance 72%)",
-        "description_vendeur": "Op zoek naar een hoogwaardige gravelbike waarmee je zowel asfalt als onverhard terrein kunt verkennen? Deze Cannondale Topstone is de perfecte keuze voor wie houdt van veelzijdig fietsen. Ideaal voor lange afstanden, gravelroutes en sportieve avonturen.\n\nDe Cannondale Topstone is speciaal ontworpen voor gravelen. Met zijn robuuste frame, hydraulische schijfremmen en brede banden kun je zowel asfal",
+        "description_vendeur": "Looking for a high-quality gravel bike that allows you to explore both asphalt and unpaved terrain? This Cannondale Topstone is the perfect choice for those who love versatile cycling. Ideal for long distances, gravel routes, and sporty adventures.\n\nThe Cannondale Topstone is specifically designed for gravel riding. With its robust frame, hydraulic disc brakes, and wide tires, you can explore both",
         "plus_velo": [
           "Groupe référence (Shimano GRX)",
           "Freins hydrauliques (confort et sécurité sous la pluie)",
@@ -5234,7 +5234,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−8 % vs cote (~923 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (98 favoris)",
+          "Annonce très regardée (97 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13614,6 +13614,98 @@
       }
     },
     {
+      "titre": "KTM X-STRADA 20 2025 2025",
+      "url": "https://buycycle.com/product/x-strada-20-2025-55829",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1400.0,
+      "cout_reel": 1645,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1014,
+      "prix_max_calcul": "1320€ (cote) × (0.62 + 0.28 × 84% fit) = 1127€ − 10 % (infos manquantes)",
+      "cote": 1320.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "KTM",
+      "modele": "X-STRADA 20 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651937/c4ad18f7-5e84-4107-8df9-539ead1107be.webp",
+      "score": 7.0,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 5.4,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 4.5
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le KTM X-Strada 20 2025 se situe en entrée/milieu de gamme dans la famille gravel/all-road de KTM, positionné au-dessus des versions équipées en Shimano GRX 400/mécanique plus basique mais sous les déclinaisons GRX 800/Di2. Le cadre est en aluminium hydroformé (série X-Strada) avec fourche carbone, câblage partiellement intégré et standards modernes (freins à disque hydrauliques flat-mount, axes traversants 12 mm, montage de tubeless possible). L'usage visé est polyvalent : route rapide, chemins roulants et gravel léger, avec une géométrie orientée endurance/confort plutôt que compétition. Points forts : robustesse de l'alu, groupe GRX fiable et bien étagé, nombreux inserts pour porte-bagages/garde-boue qui en font une excellente base vélotaf. Limites concrètes : poids supérieur aux cadres carbone concurrents, confort dépendant du choix de pneus, et finition/composants périphériques (roues, cintre) plutôt basiques à ce niveau de gamme. La réputation KTM sur ces cadres alu est bonne en fiabilité mais la disponibilité SAV hors zone germanophone/autrichienne peut être un point de vigilance. Pour le vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent à condition de vérifier l'état du groupe GRX et des roulements sur un vélo d'occasion.",
+        "vision": "",
+        "description_vendeur": "Bicicleta nueva, nunca usada",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1320 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Olympia Handy Sram Apex 2024",
       "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
       "source": "buycycle",
@@ -20700,7 +20792,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−38 % vs cote (~1620 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (32 favoris)",
+          "Annonce très regardée (31 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -23197,7 +23289,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~780 €)",
-          "Annonce très regardée (54 favoris)",
+          "Annonce très regardée (53 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32636,5 +32728,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T15:08:30+00:00"
+  "genere_le": "2026-07-10T15:39:20+00:00"
 }
