@@ -4305,6 +4305,110 @@
       }
     },
     {
+      "titre": "SUPERIOR BIKES SUPERIOR BIKES Custom Shimano GRX 2024",
+      "url": "https://buycycle.com/product/superior-bikes-custom-32085",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1250.0,
+      "cout_reel": 1410,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 883,
+      "prix_max_calcul": "1140€ (cote) × (0.62 + 0.28 × 86% fit) = 981€ − 10 % (infos manquantes)",
+      "cote": 1140.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "SUPERIOR BIKES",
+      "modele": "SUPERIOR BIKES Custom Shimano GRX",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647011/67b57670-1a26-4467-9f40-d8b74061fa88.webp",
+      "score": 7.9,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 5.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 4.2
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~883€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2024, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Superior est une marque tchèque (groupe Kross) historiquement orientée VTT et vélos loisir/entrée-milieu de gamme, dont la présence en gravel/route reste secondaire et peu distribuée hors d'Europe centrale. La mention 'Custom Shimano GRX 2024' suggère un montage assemblé/configuré plutôt qu'un modèle catalogue clairement identifiable, ce qui complique le positionnement exact ; l'association cadre alu + fourche carbone + GRX place l'ensemble en entrée/milieu de gamme gravel, un standard répandu et sans spécificité technique remarquable. Le groupe GRX (probablement RX400/600 en 10-11v selon la configuration) est fiable, éprouvé et bien adapté au gravel, avec un bon compromis robustesse/coût. Usage visé cohérent : vélotaf toute l'année et gravel léger à modéré, le cadre alu tolérant sel/intempéries et les freins à disque assurant un freinage constant sous la pluie. Limites concrètes : cadre alu plus raide et moins confortable que le carbone sur longues distances, poids probablement moyen (autour de 10-11 kg), et surtout un réseau SAV/pièces spécifiques Superior peu dense qui peut poser problème en occasion. La réputation de fiabilité est correcte sur les composants (Shimano) mais l'incertitude porte sur la qualité réelle du cadre 'custom' et son millésime : exigez photos, numéro de série, référence précise du groupe et vérifiez montage/soudures avant achat.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : La transmission (cassette, plateau unique et chaîne) présente une usure légère à modérée avec quelques traces d'huile/salissures. Les pneus Challenge Gravel Grinder montrent des crampons encore présents et les disques de frein semblent en bon état sans corrosion notable. ⚠ À vérifier : Manette/dérailleur avant absent (configuration mono-plateau 1x visible sur les vues arrière), à confirmer avec l'annonce 'GRX' ; vérifier lisibilité exacte de la série GRX (RX400/600/800) non identifiable sur les photos. Roues DT Swiss E1800 (aluminium) et non carbone. Petits éclats/traces sur le cadre à contrôler. (confiance 55%)",
+        "description_vendeur": "Algunas marcas de desgaste en ciertos lugares",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1140 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "La transmission (cassette, plateau unique et chaîne) présente une usure légère à modérée avec quelques traces d'huile/salissures. Les pneus Challenge Gravel Grinder montrent des crampons encore présents et les disques de frein semblent en bon état sans corrosion notable.",
+        "points_attention": "Manette/dérailleur avant absent (configuration mono-plateau 1x visible sur les vues arrière), à confirmer avec l'annonce 'GRX' ; vérifier lisibilité exacte de la série GRX (RX400/600/800) non identifiable sur les photos. Roues DT Swiss E1800 (aluminium) et non carbone. Petits éclats/traces sur le cadre à contrôler.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-07",
+          "prix": 1350.0
+        },
+        {
+          "date": "2026-07-10",
+          "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Specialized Men's Diverge E5 Elite 2018 2018",
       "url": "https://buycycle.com/product/mens-diverge-e5-elite-2018-50509",
       "source": "buycycle",
@@ -5355,105 +5459,6 @@
         {
           "date": "2026-07-08",
           "prix": 600.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "SUPERIOR BIKES SUPERIOR BIKES Custom Shimano GRX 2024",
-      "url": "https://buycycle.com/product/superior-bikes-custom-32085",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 1350.0,
-      "cout_reel": 1510,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 883,
-      "prix_max_calcul": "1140€ (cote) × (0.62 + 0.28 × 86% fit) = 981€ − 10 % (infos manquantes)",
-      "cote": 1140.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "SUPERIOR BIKES",
-      "modele": "SUPERIOR BIKES Custom Shimano GRX",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647011/67b57670-1a26-4467-9f40-d8b74061fa88.webp",
-      "score": 7.4,
-      "fit_pct": 86,
-      "axes": {
-        "technique": 8.8,
-        "financier": 4.2,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 3.5
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~883€) — NÉGOCIER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2024, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Superior est une marque tchèque (groupe Kross) historiquement orientée VTT et vélos loisir/entrée-milieu de gamme, dont la présence en gravel/route reste secondaire et peu distribuée hors d'Europe centrale. La mention 'Custom Shimano GRX 2024' suggère un montage assemblé/configuré plutôt qu'un modèle catalogue clairement identifiable, ce qui complique le positionnement exact ; l'association cadre alu + fourche carbone + GRX place l'ensemble en entrée/milieu de gamme gravel, un standard répandu et sans spécificité technique remarquable. Le groupe GRX (probablement RX400/600 en 10-11v selon la configuration) est fiable, éprouvé et bien adapté au gravel, avec un bon compromis robustesse/coût. Usage visé cohérent : vélotaf toute l'année et gravel léger à modéré, le cadre alu tolérant sel/intempéries et les freins à disque assurant un freinage constant sous la pluie. Limites concrètes : cadre alu plus raide et moins confortable que le carbone sur longues distances, poids probablement moyen (autour de 10-11 kg), et surtout un réseau SAV/pièces spécifiques Superior peu dense qui peut poser problème en occasion. La réputation de fiabilité est correcte sur les composants (Shimano) mais l'incertitude porte sur la qualité réelle du cadre 'custom' et son millésime : exigez photos, numéro de série, référence précise du groupe et vérifiez montage/soudures avant achat.",
-        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : La transmission (cassette, plateau unique et chaîne) présente une usure légère à modérée avec quelques traces d'huile/salissures. Les pneus Challenge Gravel Grinder montrent des crampons encore présents et les disques de frein semblent en bon état sans corrosion notable. ⚠ À vérifier : Manette/dérailleur avant absent (configuration mono-plateau 1x visible sur les vues arrière), à confirmer avec l'annonce 'GRX' ; vérifier lisibilité exacte de la série GRX (RX400/600/800) non identifiable sur les photos. Roues DT Swiss E1800 (aluminium) et non carbone. Petits éclats/traces sur le cadre à contrôler. (confiance 55%)",
-        "description_vendeur": "Algunas marcas de desgaste en ciertos lugares",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)",
-          "Bien adapté à ton usage (86 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1140 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": "Shimano GRX 1x11",
-        "freins": "disque hydraulique",
-        "fourche": "carbone",
-        "cadre": "aluminium",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": true,
-        "etat_visuel": "La transmission (cassette, plateau unique et chaîne) présente une usure légère à modérée avec quelques traces d'huile/salissures. Les pneus Challenge Gravel Grinder montrent des crampons encore présents et les disques de frein semblent en bon état sans corrosion notable.",
-        "points_attention": "Manette/dérailleur avant absent (configuration mono-plateau 1x visible sur les vues arrière), à confirmer avec l'annonce 'GRX' ; vérifier lisibilité exacte de la série GRX (RX400/600/800) non identifiable sur les photos. Roues DT Swiss E1800 (aluminium) et non carbone. Petits éclats/traces sur le cadre à contrôler.",
-        "confiance": 0.55
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-07",
-          "prix": 1350.0
         }
       ],
       "marche_modele": {
@@ -12853,14 +12858,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13046,188 +13051,6 @@
       }
     },
     {
-      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
-      "url": "https://www.leboncoin.fr/ad/velos/3230284548:9b366df3-e558-4b5b-80cb-b39035e90d75",
-      "source": "leboncoin",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1299.0,
-      "cout_reel": 1484,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1034,
-      "prix_max_calcul": "1299€ (prix affiché) × (0.62 + 0.28 × 94% fit) = 1149€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "leboncoin",
-      "modele": "Jakar",
-      "taille": "M",
-      "annee": 2026,
-      "distance_km": 131.5,
-      "image": null,
-      "score": 7.0,
-      "fit_pct": 94,
-      "axes": {
-        "technique": 8.0,
-        "financier": 6.8,
-        "usage": 10.0,
-        "plaisir": 7.0,
-        "valeur": 5.0
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
-        "vision": "",
-        "description_vendeur": "",
-        "plus_velo": [
-          "Groupe référence (détecté)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2026)",
-          "Bien adapté à ton usage (94 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Description vendeur pauvre — specs et état à confirmer",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": null,
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-09",
-          "prix": 1299.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1314.0,
-        "n_en_vente": 4,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
-      }
-    },
-    {
-      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
-      "url": "https://www.leboncoin.fr/ad/velos/3230277636",
-      "source": "leboncoin",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1329.0,
-      "cout_reel": 1514,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1058,
-      "prix_max_calcul": "1329€ (prix affiché) × (0.62 + 0.28 × 94% fit) = 1175€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "leboncoin",
-      "modele": "Jakar",
-      "taille": "M",
-      "annee": 2026,
-      "distance_km": 131.5,
-      "image": null,
-      "score": 7.0,
-      "fit_pct": 94,
-      "axes": {
-        "technique": 8.0,
-        "financier": 6.8,
-        "usage": 10.0,
-        "plaisir": 7.0,
-        "valeur": 5.0
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
-        "vision": "",
-        "description_vendeur": "",
-        "plus_velo": [
-          "Groupe référence (détecté)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2026)",
-          "Bien adapté à ton usage (94 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Description vendeur pauvre — specs et état à confirmer",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": null,
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-09",
-          "prix": 1329.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1314.0,
-        "n_en_vente": 4,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
-      }
-    },
-    {
       "titre": "🟢🟢Nakamura allroad 250 taille 1m85 et + (XL) / RÉVISÉ",
       "url": "https://www.leboncoin.fr/ad/velos/3230420729",
       "source": "leboncoin",
@@ -13307,14 +13130,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17274,14 +17097,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -19639,14 +19462,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -19727,14 +19550,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20972,14 +20795,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22134,14 +21957,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22588,6 +22411,186 @@
       }
     },
     {
+      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3230284548:9b366df3-e558-4b5b-80cb-b39035e90d75",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1299.0,
+      "cout_reel": 1484,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 830,
+      "prix_max_calcul": "1299€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 922€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Jakar",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 3.5,
+      "fit_pct": 32,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.8,
+        "usage": 2.5,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (32 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1299.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3230277636",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1329.0,
+      "cout_reel": 1514,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 849,
+      "prix_max_calcul": "1329€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 943€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Jakar",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 3.5,
+      "fit_pct": 32,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.8,
+        "usage": 2.5,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (32 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-09",
+          "prix": 1329.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 2,
+        "prix_demande_median": 1314.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1314 € (4 en vente) — historique en cours"
+      }
+    },
+    {
       "titre": "Scott Arapahoe 2024",
       "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
       "source": "buycycle",
@@ -22755,14 +22758,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24089,14 +24092,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24888,14 +24891,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24977,14 +24980,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25057,14 +25060,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 850.0,
-        "n_en_vente": 7,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+        "cote_reelle": 799.0,
+        "ecart_type": 245.0,
+        "n_ventes": 5,
+        "prix_demande_median": 925.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -32253,5 +32256,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T09:37:23+00:00"
+  "genere_le": "2026-07-10T10:08:04+00:00"
 }
