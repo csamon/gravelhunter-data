@@ -1,5 +1,5 @@
 {
-  "total": 360,
+  "total": 361,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2104,6 +2104,105 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Adris L'aventure 2025 2025",
+      "url": "https://buycycle.com/product/laventure-20256a511bff74af4-96702",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1399.0,
+      "cout_reel": 1559,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1135,
+      "prix_max_calcul": "1499€ (cote) × (0.62 + 0.28 × 79% fit) = 1261€ − 10 % (infos manquantes)",
+      "cote": 1499.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Adris",
+      "modele": "L'aventure 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652053/5500be7a-ffa4-4e39-8df9-20a781f65b82.webp",
+      "score": 8.8,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.9,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.5
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1135€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille M, 2025, blanc. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le modèle Adris \"L'aventure\" 2025 n'est pas une marque/gamme identifiable de façon fiable dans le marché du vélo gravel/route ; \"Adris\" ne correspond à aucun fabricant reconnu, ce qui rend toute analyse spécifique impossible sans risque d'invention. Les indices fournis (cadre et fourche carbone, freins à disque, groupe Shimano GRX) décrivent une configuration gravel classique de milieu de gamme, mais ne permettent pas de situer ce vélo dans une gamme dont je n'ai aucune donnée vérifiable. Le groupe GRX est un choix pertinent et fiable pour le gravel, décliné en versions 10/11/12 vitesses selon le niveau, mais l'indice ne précise pas laquelle, ce qui empêche de juger le positionnement réel. Un cadre carbone avec freins disque conviendrait en théorie au gravel léger, mais le carbone est plus vulnérable aux chocs et moins idéal qu'un cadre alu/acier pour un usage vélotaf quotidien toute l'année (intempéries, garde-boues, porte-bagages, stationnement urbain). Sans réputation ni retours de fiabilité documentés pour cette marque, il faut se méfier : possible marque de distributeur, petite série ou dénomination locale/artisanale. Pour un achat d'occasion, exigez le numéro de série, la version exacte du GRX, le dégagement pneus réel et un examen minutieux du cadre carbone (chocs, fissures) avant toute décision.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx (2x, série non identifiable précisément), freins disque hydraulique, fixations garde-boue/rack. État visuel : Vélo en très bon état, transmission propre avec plateaux et chaîne peu marqués, disques et plaquettes sans usure notable. Pneus Vittoria Terreno Dry à la sculpture bien présente, aucune rayure ni corrosion visible, aspect quasi neuf. ⚠ À vérifier : Le cadre semble aluminium peint (crème brillant) alors que la fourche est carbone ; confirmer la nature réelle du cadre. Manettes Shimano visibles mais série GRX exacte non lisible sur les photos. (confiance 55%)",
+        "description_vendeur": "✅ Biketop te ofrece esta Adris L'Aventure de 2025 en talla M con descuento.\n\n✅ Montada con cuadro de carbono, equipada con Shimano GRX 400 y una geometría flexible, es la bicicleta perfecta para dar el primer paso en el mundo del gravel.\n\n✅ Disponible inmediatamente en Biketop.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−7 % vs cote (~1499 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "blanc",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX (2x, série non identifiable précisément)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Vélo en très bon état, transmission propre avec plateaux et chaîne peu marqués, disques et plaquettes sans usure notable. Pneus Vittoria Terreno Dry à la sculpture bien présente, aucune rayure ni corrosion visible, aspect quasi neuf.",
+        "points_attention": "Le cadre semble aluminium peint (crème brillant) alors que la fourche est carbone ; confirmer la nature réelle du cadre. Manettes Shimano visibles mais série GRX exacte non lisible sur les photos.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -6112,7 +6211,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−21 % vs cote (~1499 €)",
-          "Annonce très regardée (149 favoris)",
+          "Annonce très regardée (150 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32918,5 +33017,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T16:39:01+00:00"
+  "genere_le": "2026-07-10T17:09:53+00:00"
 }
