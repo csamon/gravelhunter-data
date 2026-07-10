@@ -1338,12 +1338,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -1436,12 +1436,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -1918,12 +1918,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -2103,12 +2103,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -6046,9 +6046,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -11259,12 +11259,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -11896,12 +11896,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -16362,9 +16362,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -17500,12 +17500,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -33475,5 +33475,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T23:10:29+00:00"
+  "genere_le": "2026-07-10T23:40:52+00:00"
 }
