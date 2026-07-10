@@ -3306,7 +3306,7 @@
       "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2022, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2022. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Ridley Kanzo 2022 en version cadre aluminium (probablement Kanzo A) se positionne en entrée de gamme gravel chez Ridley, sous les Kanzo Speed, Fast et Adventure en carbone. Il combine un cadre alu hydroformé avec une fourche carbone à insert alu au niveau du pivot, ce qui limite le poids sur l'avant et filtre partiellement les vibrations. Le groupe SRAM Apex 1x (mono-plateau) offre une transmission simple, robuste et facile d'entretien, bien adaptée au gravel, mais avec des sauts de développement plus marqués et une plage limitée pour les longues montées chargées. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie relativement stable mais moins joueuse que des gravels plus racing. Points forts : robustesse du cadre alu, tolérance aux chocs, coût d'entretien réduit, freins à disque (souvent mécaniques Apex ou hydrauliques selon config, à vérifier). Limites : poids assez élevé, confort du cadre alu inférieur au carbone, finition et détails d'assemblage parfois basiques. Pour le vélotaf quotidien toute l'année il est pertinent (cadre alu peu sensible aux rayures, dégagement pour pneus larges et garde-boue, œillets de fixation) et reste très à l'aise en gravel léger.",
         "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1 (1x11), freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission (cassette, chaîne, dérailleur SRAM Apex 1) et pneus type gravel présentent une usure modérée avec crampons encore marqués mais empoussiérés ; disques de frein propres et non voilés visuellement. Cadre alu gris avec quelques micro-rayures superficielles, aucun impact ni corrosion notable, vélo globalement sale/poussiéreux mais sain. ⚠ À vérifier : Freins à disque MÉCANIQUES (étrier Spyre à câble, pas de durite hydraulique) alors qu'un Kanzo récent est souvent hydraulique — vérifier si c'est le modèle d'origine ou un montage/rétrogradation. Vérifier l'usure de la chaîne à la jauge et l'état des plaquettes. (confiance 72%)",
         "description_vendeur": "Vendo esta bicicleta de carretera Ridley Kanzo en muy buen estado. Usada aproximadamente 500 km.",
@@ -3326,11 +3326,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -7561,7 +7561,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (74 favoris)",
+          "Annonce très regardée (75 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13149,14 +13149,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13512,14 +13512,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17479,14 +17479,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -19844,14 +19844,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -19932,14 +19932,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21261,14 +21261,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22423,105 +22423,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
-      }
-    },
-    {
-      "titre": "Scott Arapahoe 2024",
-      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 350.0,
-      "cout_reel": 535,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 222,
-      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 31% fit) = 247€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Scott",
-      "modele": "Arapahoe",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
-      "score": 3.8,
-      "fit_pct": 31,
-      "axes": {
-        "technique": 4.5,
-        "financier": 6.0,
-        "usage": 2.5,
-        "plaisir": 6.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Other, taille M, 2024. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
-        "vision": "",
-        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Other)",
-          "Peu adapté à ton usage (31 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Other",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 350.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23058,6 +22967,95 @@
       }
     },
     {
+      "titre": "Scott Arapahoe 2024",
+      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 350.0,
+      "cout_reel": 535,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 220,
+      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 28% fit) = 244€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Arapahoe",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
+      "score": 3.4,
+      "fit_pct": 28,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 6.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre acier, groupe Other mécanique, freins sur jante, taille M, 2024, rouge. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
+        "vision": "",
+        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Other)",
+          "Peu adapté à ton usage (28 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (30 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other",
+        "frame": "acier",
+        "shifting": "mécanique",
+        "brakes": "sur jante",
+        "size_cm": null,
+        "color": "rouge",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Specialized Gravel Diverge E5 T54",
       "url": "https://www.leboncoin.fr/ad/velos/3230073440",
       "source": "leboncoin",
@@ -23136,14 +23134,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24384,14 +24382,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25183,14 +25181,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25272,14 +25270,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25352,14 +25350,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 245.0,
-        "n_ventes": 5,
-        "prix_demande_median": 925.0,
-        "n_en_vente": 6,
+        "cote_reelle": 674.0,
+        "ecart_type": 244.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 5,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±245 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -32638,5 +32636,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T14:38:49+00:00"
+  "genere_le": "2026-07-10T15:08:30+00:00"
 }
