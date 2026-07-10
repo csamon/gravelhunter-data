@@ -3569,6 +3569,106 @@
       }
     },
     {
+      "titre": "KTM X-STRADA 20 2025 2025",
+      "url": "https://buycycle.com/product/x-strada-20-2025-55829",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1400.0,
+      "cout_reel": 1560,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1022,
+      "prix_max_calcul": "1320€ (cote) × (0.62 + 0.28 × 86% fit) = 1136€ − 10 % (infos manquantes)",
+      "cote": 1320.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "KTM",
+      "modele": "X-STRADA 20 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651937/c4ad18f7-5e84-4107-8df9-539ead1107be.webp",
+      "score": 8.1,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 5.4,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 4.5
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1022€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 55 cm, 2025, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le KTM X-Strada 20 2025 se situe en entrée/milieu de gamme dans la famille gravel/all-road de KTM, positionné au-dessus des versions équipées en Shimano GRX 400/mécanique plus basique mais sous les déclinaisons GRX 800/Di2. Le cadre est en aluminium hydroformé (série X-Strada) avec fourche carbone, câblage partiellement intégré et standards modernes (freins à disque hydrauliques flat-mount, axes traversants 12 mm, montage de tubeless possible). L'usage visé est polyvalent : route rapide, chemins roulants et gravel léger, avec une géométrie orientée endurance/confort plutôt que compétition. Points forts : robustesse de l'alu, groupe GRX fiable et bien étagé, nombreux inserts pour porte-bagages/garde-boue qui en font une excellente base vélotaf. Limites concrètes : poids supérieur aux cadres carbone concurrents, confort dépendant du choix de pneus, et finition/composants périphériques (roues, cintre) plutôt basiques à ce niveau de gamme. La réputation KTM sur ces cadres alu est bonne en fiabilité mais la disponibilité SAV hors zone germanophone/autrichienne peut être un point de vigilance. Pour le vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent à condition de vérifier l'état du groupe GRX et des roulements sur un vélo d'occasion.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano 105 + grx (pédalier 105 2x, freins grx), freins disque hydraulique, fixations garde-boue/rack. État visuel : Vélo à l'état neuf : transmission propre sans usure, plateaux et cassette impeccables, chaîne encore luisante d'huile d'usine. Pneus Schwalbe G-One Bite à sculpture complète non entamée, disques et plaquettes sans marque d'usure, aucune rayure ni corrosion visible. ⚠ À vérifier : Association de composants 105 (transmission/pédalier) et GRX (freins/dérailleur arrière possible) à confirmer ; largeur exacte des pneus et compatibilité tubeless non lisibles sur les flancs. (confiance 72%)",
+        "description_vendeur": "Bicicleta nueva, nunca usada",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1320 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano 105 + GRX (pédalier 105 2x, freins GRX)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Vélo à l'état neuf : transmission propre sans usure, plateaux et cassette impeccables, chaîne encore luisante d'huile d'usine. Pneus Schwalbe G-One Bite à sculpture complète non entamée, disques et plaquettes sans marque d'usure, aucune rayure ni corrosion visible.",
+        "points_attention": "Association de composants 105 (transmission/pédalier) et GRX (freins/dérailleur arrière possible) à confirmer ; largeur exacte des pneus et compatibilité tubeless non lisibles sur les flancs.",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "BH RX TEAM 3.0 2022 2022",
       "url": "https://buycycle.com/product/rx-team-30-2022-38564",
       "source": "buycycle",
@@ -3812,7 +3912,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−49 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13614,98 +13714,6 @@
       }
     },
     {
-      "titre": "KTM X-STRADA 20 2025 2025",
-      "url": "https://buycycle.com/product/x-strada-20-2025-55829",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1400.0,
-      "cout_reel": 1645,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1014,
-      "prix_max_calcul": "1320€ (cote) × (0.62 + 0.28 × 84% fit) = 1127€ − 10 % (infos manquantes)",
-      "cote": 1320.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "KTM",
-      "modele": "X-STRADA 20 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651937/c4ad18f7-5e84-4107-8df9-539ead1107be.webp",
-      "score": 7.0,
-      "fit_pct": 84,
-      "axes": {
-        "technique": 8.0,
-        "financier": 5.4,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 4.5
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le KTM X-Strada 20 2025 se situe en entrée/milieu de gamme dans la famille gravel/all-road de KTM, positionné au-dessus des versions équipées en Shimano GRX 400/mécanique plus basique mais sous les déclinaisons GRX 800/Di2. Le cadre est en aluminium hydroformé (série X-Strada) avec fourche carbone, câblage partiellement intégré et standards modernes (freins à disque hydrauliques flat-mount, axes traversants 12 mm, montage de tubeless possible). L'usage visé est polyvalent : route rapide, chemins roulants et gravel léger, avec une géométrie orientée endurance/confort plutôt que compétition. Points forts : robustesse de l'alu, groupe GRX fiable et bien étagé, nombreux inserts pour porte-bagages/garde-boue qui en font une excellente base vélotaf. Limites concrètes : poids supérieur aux cadres carbone concurrents, confort dépendant du choix de pneus, et finition/composants périphériques (roues, cintre) plutôt basiques à ce niveau de gamme. La réputation KTM sur ces cadres alu est bonne en fiabilité mais la disponibilité SAV hors zone germanophone/autrichienne peut être un point de vigilance. Pour le vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent à condition de vérifier l'état du groupe GRX et des roulements sur un vélo d'occasion.",
-        "vision": "",
-        "description_vendeur": "Bicicleta nueva, nunca usada",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)",
-          "Bien adapté à ton usage (84 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1320 €) — à négocier",
-          "Vendeur professionnel (marge possible, moins de négociation)",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-10",
-          "prix": 1400.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Olympia Handy Sram Apex 2024",
       "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
       "source": "buycycle",
@@ -15498,7 +15506,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (79 favoris)",
+          "Annonce très regardée (78 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22526,6 +22534,97 @@
       }
     },
     {
+      "titre": "Scott Arapahoe 2024",
+      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 350.0,
+      "cout_reel": 535,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 222,
+      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 31% fit) = 247€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Arapahoe",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
+      "score": 3.8,
+      "fit_pct": 31,
+      "axes": {
+        "technique": 4.5,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 6.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Other, taille M, 2024. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
+        "vision": "",
+        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Other)",
+          "Peu adapté à ton usage (31 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (30 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Scott Speedster Gravel 40 2024 2025",
       "url": "https://buycycle.com/product/speedster-gravel-40-202469383fd7d9351-42367",
       "source": "buycycle",
@@ -23059,95 +23158,6 @@
       }
     },
     {
-      "titre": "Scott Arapahoe 2024",
-      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 350.0,
-      "cout_reel": 535,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 220,
-      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 28% fit) = 244€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Scott",
-      "modele": "Arapahoe",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
-      "score": 3.4,
-      "fit_pct": 28,
-      "axes": {
-        "technique": 3.5,
-        "financier": 6.0,
-        "usage": 2.5,
-        "plaisir": 6.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre acier, groupe Other mécanique, freins sur jante, taille M, 2024, rouge. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
-        "vision": "",
-        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Other)",
-          "Peu adapté à ton usage (28 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Other",
-        "frame": "acier",
-        "shifting": "mécanique",
-        "brakes": "sur jante",
-        "size_cm": null,
-        "color": "rouge",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 350.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Specialized Gravel Diverge E5 T54",
       "url": "https://www.leboncoin.fr/ad/velos/3230073440",
       "source": "leboncoin",
@@ -23289,7 +23299,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~780 €)",
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (54 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -25863,7 +25873,7 @@
           "Peu adapté à ton usage (21 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (34 favoris)",
+          "Annonce très regardée (35 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -28264,7 +28274,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30610,7 +30620,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (11 favoris)",
+          "Annonce très regardée (12 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32728,5 +32738,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T15:39:20+00:00"
+  "genere_le": "2026-07-10T16:09:15+00:00"
 }
