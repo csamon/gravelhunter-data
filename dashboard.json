@@ -1,5 +1,5 @@
 {
-  "total": 353,
+  "total": 354,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -398,9 +398,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -1236,11 +1236,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1334,11 +1334,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1816,11 +1816,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1910,6 +1910,102 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Megamo JAKAR 20 2024 2024",
+      "url": "https://buycycle.com/product/jakar-20-2024-26570",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 980.0,
+      "cout_reel": 1080,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 827,
+      "prix_max_calcul": "959€ (cote) × (0.62 + 0.28 × 86% fit) = 827€",
+      "cote": 959.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Megamo",
+      "modele": "JAKAR 20 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651438/9e3d3019-dd45-4144-86bb-f51d5b1ca5e6.webp",
+      "score": 8.8,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 9.0,
+        "financier": 6.6,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 4.8
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~827€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2024, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Megamo JAKAR 20 2024 se positionne en entrée de gamme gravel dans la série JAKAR de la marque catalane Megamo, la numérotation (20) indiquant un niveau inférieur aux versions supérieures (JAKAR 30/40) mieux équipées. Il repose sur un cadre et une fourche en aluminium, choix cohérent avec son prix contenu mais qui pénalise le poids et le confort par rapport à une fourche carbone qu'on trouve sur les modèles voisins. Le groupe SRAM Apex (probablement Apex 1x11 mécanique) offre une transmission mono-plateau simple, robuste et à l'entretien facile, bien adaptée au gravel et au vélotaf, avec des freins à disque garantissant un freinage fiable par tous temps. L'usage visé est le gravel roulant/loisir et le trajet quotidien polyvalent, sans prétention sportive marquée. Points forts : robustesse de l'alu, entretien réduit du 1x, freinage disque, dégagement pneus généreux typique du gravel ; limites : poids élevé, absence d'amorti (rigidité alu+alu), composants d'entrée de gamme (roues, périphériques) qui bornent la performance. La réputation de Megamo reste correcte mais confidentielle hors Espagne, avec un réseau SAV et une disponibilité de pièces plus limités ailleurs. Pour du vélotaf toute l'année, il est pertinent à condition d'ajouter garde-boue et porte-bagages (vérifier la présence des inserts), et il convient bien au gravel léger sans terrains techniques.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe sram apex 1x11, freins disque hydraulique, pneus 38 mm, tubeless, fixations garde-boue/rack. État visuel : Vélo très propre présentant une usure minime : chaîne, cassette et plateau (SRAM Apex mono-plateau) sans usure marquée, pneus Vittoria Terreno Dry aux crampons bien pleins. Disques de frein et plaquettes semblent neufs, aucune rayure, impact ou corrosion visible sur le cadre gris satiné. ⚠ À vérifier : Manettes SRAM Apex Hydro (hydraulique confirmé sur la cocotte). Vérifier l'usure réelle de la chaîne à la jauge et l'état des disques de frein de près ; jantes marquées TR (tubeless ready) mais présence de valves tubeless à confirmer avec le vendeur. (confiance 82%)",
+        "description_vendeur": "La bicicleta está como nueva, ni golpes, rayas ni nada raro.",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~959 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": 38,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Vélo très propre présentant une usure minime : chaîne, cassette et plateau (SRAM Apex mono-plateau) sans usure marquée, pneus Vittoria Terreno Dry aux crampons bien pleins. Disques de frein et plaquettes semblent neufs, aucune rayure, impact ou corrosion visible sur le cadre gris satiné.",
+        "points_attention": "Manettes SRAM Apex Hydro (hydraulique confirmé sur la cocotte). Vérifier l'usure réelle de la chaîne à la jauge et l'état des disques de frein de près ; jantes marquées TR (tubeless ready) mais présence de valves tubeless à confirmer avec le vendeur.",
+        "confiance": 0.82
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 980.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -10580,11 +10676,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -11217,11 +11313,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -14472,7 +14568,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16730,11 +16826,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -30945,7 +31041,7 @@
           "Peu adapté à ton usage (21 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (57 favoris)",
+          "Annonce très regardée (58 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32256,5 +32352,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T10:37:54+00:00"
+  "genere_le": "2026-07-10T11:08:16+00:00"
 }
