@@ -1,5 +1,5 @@
 {
-  "total": 365,
+  "total": 366,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2295,6 +2295,94 @@
         {
           "date": "2026-07-05",
           "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Rondo RUUT CF1 2022 2022",
+      "url": "https://buycycle.com/product/ruut-cf1-2022-55492",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1275.0,
+      "cout_reel": 1435,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1260,
+      "prix_max_calcul": "2819€ (cote) × (0.62 + 0.28 × 79% fit) = 2375€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
+      "cote": 2819.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Rondo",
+      "modele": "RUUT CF1 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2555871/703c2788-2e5b-4263-b65e-003e4daffd03.webp",
+      "score": 8.7,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 9.4
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Force, taille M, 2022. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Rondo RUUT CF1 2022 se positionne en haut de la gamme gravel carbone de Rondo, au-dessus des versions CF2 (Rival/GRX) et des modèles aluminium AL, le CF1 recevant le meilleur montage (ici SRAM Force). Sa signature technique est le système TwinTip breveté : une pattes de fourche réversible qui modifie l'angle de direction et la hauteur de boîtier, permettant de basculer entre une géométrie route/rapide (position LO) et une géométrie plus stable/gravel (position HI). Le cadre et la fourche en carbone visent un usage gravel polyvalent et endurance, avec une capacité de portage (points de fixation multiples, montage bikepacking) et un cintre 'gravel' évasé. Points forts : polyvalence géométrique réelle, comportement joueur et vif, cadre carbone rigide au pédalage, freinage hydraulique fiable et esthétique soignée. Limites concrètes : confort parfois jugé ferme sur le CF1 (fourche rigide), la fiabilité de l'interface TwinTip demande un serrage soigné et un contrôle régulier, et la disponibilité SAV/pièces spécifiques Rondo est plus limitée qu'un grand fabricant. Pour le vélotaf quotidien toute l'année, il reste utilisable mais surdimensionné et coûteux : passage de câbles/durites, absence de garde-boue dédiés et roues carbone d'origine le rendent moins pertinent qu'un vélo dédié, alors qu'il excelle en gravel léger et sorties rapides sur mixte.",
+        "vision": "",
+        "description_vendeur": "Ofrezco mi bicicleta de gravel Rondo Ruut CF1, talla M, que acaba de salir del taller y ha sido completamente revisada. Es ideal para gravel y bikepacking, y siempre me ha dado un buen servicio. Se entrega con sillín, pedales y portabidones.\n\n* Cadena nueva\n* Neumático trasero nuevo\n* Cinta de manillar nueva\n* Pastillas de freno nuevas\n* Muchos puntos de anclaje para bolsas de bikepacking\n\nLa bici",
+        "plus_velo": [
+          "Groupe haut (SRAM Force)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−55 % vs cote (~2819 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Force",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 42
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1275.0
         }
       ],
       "marche_modele": {
@@ -33387,5 +33475,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T21:10:18+00:00"
+  "genere_le": "2026-07-10T21:40:34+00:00"
 }
