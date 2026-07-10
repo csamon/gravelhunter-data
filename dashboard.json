@@ -1,14 +1,14 @@
 {
-  "total": 363,
+  "total": 365,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
       "url": "https://buycycle.com/product/topstone-2-2024-15393",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 1080.0,
-      "cout_reel": 1240,
+      "action": "CONTACTER",
+      "prix": 995.0,
+      "cout_reel": 1155,
       "cout_reel_detail": [
         "tubeless +60€",
         "livraison +60€",
@@ -30,12 +30,12 @@
       "fit_pct": 97,
       "axes": {
         "technique": 8.8,
-        "financier": 7.4,
+        "financier": 8.4,
         "usage": 10.0,
         "plaisir": 7.0,
-        "valeur": 5.8
+        "valeur": 6.4
       },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1068€) — NÉGOCIER.",
+      "verdict": "Bon vélo pour ton usage (~97% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
         "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
@@ -51,7 +51,8 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−10 % vs cote (~1199 €)",
+          "Décote intéressante : ~−17 % vs cote (~1199 €)",
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -85,6 +86,10 @@
         {
           "date": "2026-07-05",
           "prix": 1080.0
+        },
+        {
+          "date": "2026-07-10",
+          "prix": 995.0
         }
       ],
       "marche_modele": {
@@ -8042,7 +8047,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (54 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13445,14 +13450,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13808,14 +13813,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17775,14 +17780,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20141,14 +20146,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20229,14 +20234,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21558,14 +21563,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22900,14 +22905,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23613,14 +23618,104 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "Vélo Gravel RONDO",
+      "url": "https://www.leboncoin.fr/ad/velos/3230920482",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 900.0,
+      "cout_reel": 1085,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 555,
+      "prix_max_calcul": "900€ (prix affiché) × (0.62 + 0.28 × 23% fit) = 617€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": 139.5,
+      "image": null,
+      "score": 3.4,
+      "fit_pct": 23,
+      "axes": {
+        "technique": 5.8,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~23% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (23 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 900.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
+        "n_en_vente": 4,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24238,7 +24333,7 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -24418,6 +24513,93 @@
         "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Marin DSX 2 2023 2023",
+      "url": "https://buycycle.com/product/dsx-2-2023-52032",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 950.0,
+      "cout_reel": 1195,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 587,
+      "prix_max_calcul": "960€ (cote) × (0.62 + 0.28 × 21% fit) = 652€ − 10 % (infos manquantes)",
+      "cote": 960.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Marin",
+      "modele": "DSX 2 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652327/e37c670a-5f0d-4555-9153-175d6119a512.webp",
+      "score": 3.2,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.1,
+        "usage": 1.0,
+        "plaisir": 5.5,
+        "valeur": 5.1
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Deore mécanique, freins à disque, taille M, 2023, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Algunos arañazos en los tirantes, mantenimiento rutinario regular.\nPlatos y bielas originales cambiados por unos RaceFace de 38T, también incluyo el de 36T para montaña.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~960 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Deore",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 950.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -24861,14 +25043,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25660,14 +25842,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25749,14 +25931,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25829,14 +26011,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": 799.0,
-        "ecart_type": 254.0,
-        "n_ventes": 7,
-        "prix_demande_median": 1025.0,
+        "cote_reelle": 824.0,
+        "ecart_type": 242.0,
+        "n_ventes": 8,
+        "prix_demande_median": 1050.0,
         "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 824 € ±242 € (8 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -27315,6 +27497,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30274,7 +30457,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31175,7 +31358,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (66 favoris)",
+          "Annonce très regardée (67 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33204,5 +33387,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T20:10:25+00:00"
+  "genere_le": "2026-07-10T20:40:18+00:00"
 }
