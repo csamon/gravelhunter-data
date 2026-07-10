@@ -3606,7 +3606,6 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~2700 €)",
-          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6357,7 +6356,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−24 % vs cote (~900 €)",
-          "Annonce très regardée (50 favoris)",
+          "Annonce très regardée (49 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -15822,7 +15821,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−39 % vs cote (~900 €)",
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16093,7 +16092,6 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18579,7 +18577,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19159,7 +19157,6 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31979,5 +31976,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T06:06:18+00:00"
+  "genere_le": "2026-07-10T06:36:25+00:00"
 }
