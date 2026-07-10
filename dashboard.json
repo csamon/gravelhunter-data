@@ -1,5 +1,5 @@
 {
-  "total": 362,
+  "total": 363,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2256,7 +2256,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−48 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (72 favoris)",
+          "Annonce très regardée (73 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3074,6 +3074,103 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Scott Speedster Gravel 30 2024 2024",
+      "url": "https://buycycle.com/product/speedster-gravel-30-2024-86314",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1250.0,
+      "cout_reel": 1410,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 980,
+      "prix_max_calcul": "1139€ (cote) × (0.62 + 0.28 × 86% fit) = 980€",
+      "cote": 1139.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Speedster Gravel 30 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652023/854adf40-be32-4664-aefe-7610f9992d44.webp",
+      "score": 8.4,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 6.0,
+        "valeur": 4.2
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~980€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Scott Speedster Gravel 30 2024 se situe en entrée/milieu de gamme gravel chez Scott, au-dessus du Gravel 40/50 (Claris/Sora) mais sous les versions Speedster Gravel 20/10 mieux équipées et les Addict Gravel carbone. Il combine un cadre aluminium 6061 hydroformé avec une fourche carbone à insert, standard classique pour cette catégorie, et une géométrie plutôt polyvalente/endurance sans prétention race. Le groupe Shimano GRX (probablement 1x ou 2x selon config, souvent GRX 400/600 sur ce niveau) offre une transmission fiable et une ergonomie de leviers pensée gravel, avec freins à disque hydrauliques adaptés au tout-temps. Usage visé : gravel léger/roulant, bikepacking modeste et surtout vélotaf polyvalent, où le cadre alu robuste et les points d'ancrage (garde-boue, porte-bagages selon millésime) sont des atouts concrets. Limites : poids contenu mais pas léger à cause de l'alu, roues d'entrée de gamme (jantes Syncros lourdes) qui bénéficieraient d'un upgrade, et un dégagement pneus correct mais pas extrême limitant le vrai gravel technique. Réputation Scott globalement bonne en fiabilité, GRX très éprouvé, peu de problèmes structurels connus sur ces cadres alu. Pour un vélotaf quotidien toute l'année plus gravel léger occasionnel, c'est un choix pertinent et durable, à condition de vérifier l'usure des plaquettes, l'état de la transmission et le montage éventuel de garde-boue.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne peu usée, plateau et cassette en bon état ; pneus Schwalbe G-One à crampons présentant une sculpture bien marquée sans usure notable. Ensemble globalement propre et bien entretenu, quelques poussières sur pédales plateformes mais pas de corrosion ni impact visible. ⚠ À vérifier : Pédales plateformes non d'origine (montées à la place de pédales route), à vérifier ; étrier de frein arrière et disques à contrôler pour usure des plaquettes. Cadre alu / fourche carbone (mono-plateau) ne correspond pas forcément à un Speedster Gravel 30 2x standard, vérifier le modèle exact. (confiance 55%)",
+        "description_vendeur": "Prácticamente sin signos de uso, ya que he utilizado la bicicleta muy pocas veces.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1139 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne peu usée, plateau et cassette en bon état ; pneus Schwalbe G-One à crampons présentant une sculpture bien marquée sans usure notable. Ensemble globalement propre et bien entretenu, quelques poussières sur pédales plateformes mais pas de corrosion ni impact visible.",
+        "points_attention": "Pédales plateformes non d'origine (montées à la place de pédales route), à vérifier ; étrier de frein arrière et disques à contrôler pour usure des plaquettes. Cadre alu / fourche carbone (mono-plateau) ne correspond pas forcément à un Speedster Gravel 30 2x standard, vérifier le modèle exact.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": 1225.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1225 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -8064,11 +8161,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1225.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1225 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -10254,11 +10351,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1225.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1225 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -12809,14 +12906,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -12899,14 +12996,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13078,14 +13175,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17216,11 +17313,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1225.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1225 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -20988,7 +21085,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -21614,7 +21711,7 @@
           "Peu adapté à ton usage (35 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (52 favoris)",
+          "Annonce très regardée (53 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22273,14 +22370,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22363,14 +22460,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23247,14 +23344,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23337,14 +23434,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23869,14 +23966,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 1199.0,
-        "ecart_type": 168.0,
-        "n_ventes": 5,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -30115,11 +30212,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1225.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1225 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -33107,5 +33204,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T18:39:45+00:00"
+  "genere_le": "2026-07-10T19:11:02+00:00"
 }
