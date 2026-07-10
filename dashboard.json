@@ -30220,10 +30220,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Microshift Acolyte mécanique, freins à disque, taille M, 2026, vert. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Microshift Acolyte, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "pequeño rasguño en la maneta derecha",
@@ -30245,11 +30247,11 @@
       },
       "specs": {
         "groupset": "Microshift Acolyte",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "vert",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -32353,5 +32355,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T11:37:42+00:00"
+  "genere_le": "2026-07-10T12:08:17+00:00"
 }
