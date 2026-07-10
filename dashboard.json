@@ -772,9 +772,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -3518,7 +3518,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (14 favoris)",
+          "Annonce très regardée (15 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6154,9 +6154,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -10062,7 +10062,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22077,7 +22077,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (22 favoris)",
+          "Annonce très regardée (23 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33387,5 +33387,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T20:40:18+00:00"
+  "genere_le": "2026-07-10T21:10:18+00:00"
 }
