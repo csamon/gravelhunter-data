@@ -1,5 +1,5 @@
 {
-  "total": 358,
+  "total": 360,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2049,7 +2049,7 @@
         "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2024, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo JAKAR 20 2024 se positionne en entrée de gamme gravel dans la série JAKAR de la marque catalane Megamo, la numérotation (20) indiquant un niveau inférieur aux versions supérieures (JAKAR 30/40) mieux équipées. Il repose sur un cadre et une fourche en aluminium, choix cohérent avec son prix contenu mais qui pénalise le poids et le confort par rapport à une fourche carbone qu'on trouve sur les modèles voisins. Le groupe SRAM Apex (probablement Apex 1x11 mécanique) offre une transmission mono-plateau simple, robuste et à l'entretien facile, bien adaptée au gravel et au vélotaf, avec des freins à disque garantissant un freinage fiable par tous temps. L'usage visé est le gravel roulant/loisir et le trajet quotidien polyvalent, sans prétention sportive marquée. Points forts : robustesse de l'alu, entretien réduit du 1x, freinage disque, dégagement pneus généreux typique du gravel ; limites : poids élevé, absence d'amorti (rigidité alu+alu), composants d'entrée de gamme (roues, périphériques) qui bornent la performance. La réputation de Megamo reste correcte mais confidentielle hors Espagne, avec un réseau SAV et une disponibilité de pièces plus limités ailleurs. Pour du vélotaf toute l'année, il est pertinent à condition d'ajouter garde-boue et porte-bagages (vérifier la présence des inserts), et il convient bien au gravel léger sans terrains techniques.",
         "vision": "Cadre aluminium, fourche aluminium, groupe sram apex 1x11, freins disque hydraulique, pneus 38 mm, tubeless, fixations garde-boue/rack. État visuel : Vélo très propre présentant une usure minime : chaîne, cassette et plateau (SRAM Apex mono-plateau) sans usure marquée, pneus Vittoria Terreno Dry aux crampons bien pleins. Disques de frein et plaquettes semblent neufs, aucune rayure, impact ou corrosion visible sur le cadre gris satiné. ⚠ À vérifier : Manettes SRAM Apex Hydro (hydraulique confirmé sur la cocotte). Vérifier l'usure réelle de la chaîne à la jauge et l'état des disques de frein de près ; jantes marquées TR (tubeless ready) mais présence de valves tubeless à confirmer avec le vendeur. (confiance 82%)",
-        "description_vendeur": "La bicicleta está como nueva, ni golpes, rayas ni nada raro.",
+        "description_vendeur": "The bike is like new, no dents, scratches, or anything unusual.",
         "plus_velo": [
           "Groupe bon (SRAM Apex)",
           "Freins hydrauliques (confort et sécurité sous la pluie)",
@@ -6199,7 +6199,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -6220,11 +6220,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -12713,11 +12713,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12803,11 +12803,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12982,11 +12982,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -13249,14 +13249,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13612,14 +13612,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14596,7 +14596,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (38 favoris)",
+          "Annonce très regardée (39 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -17579,14 +17579,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18008,6 +18008,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
+          "Annonce très regardée (10 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19944,14 +19945,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20032,14 +20033,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21361,14 +21362,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21875,7 +21876,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22091,6 +22092,96 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "SCOTT Scale Gravel 20 2025 Taille M - Vélo Gravel Musculaire",
+      "url": "https://www.leboncoin.fr/ad/velos/3230830988",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1149.0,
+      "cout_reel": 1334,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 734,
+      "prix_max_calcul": "1149€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 815€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 4.2,
+      "fit_pct": 32,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Orbea Terra : gravel léger et rapide, orienté performance mais utilisable au quotidien. Belle décote habituelle.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (32 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1149.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 4,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -22523,14 +22614,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22970,11 +23061,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -23060,11 +23151,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -23236,14 +23327,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23592,11 +23683,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 4,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "base": "demandes",
+        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -24484,14 +24575,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25283,14 +25374,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25372,14 +25463,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25452,14 +25543,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": 674.0,
-        "ecart_type": 244.0,
-        "n_ventes": 6,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "cote_reelle": 799.0,
+        "ecart_type": 254.0,
+        "n_ventes": 7,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 674 € ±244 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 799 € ±254 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -30567,6 +30658,95 @@
       }
     },
     {
+      "titre": "Bergamont Grandurance RD 3 silver 2022 2022",
+      "url": "https://buycycle.com/product/grandurance-rd-3-silver-2022-48730",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1000.0,
+      "cout_reel": 1245,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 432,
+      "prix_max_calcul": "719€ (cote) × (0.62 + 0.28 × 17% fit) = 480€ − 10 % (infos manquantes)",
+      "cote": 719.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Bergamont",
+      "modele": "Grandurance RD 3 silver 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652007/fdd874c5-4699-42db-9f82-4cfed4f54120.webp",
+      "score": 0.1,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 2.1,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 1.9
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille 53 cm, 2022, light gray. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Bici nueva. ¡Abandona la rutina diaria y lánzate a una aventura en carretera! Extremadamente práctica y versátil.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Claris)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~719 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Claris",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "53",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1000.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Van rysel Gravelbike Gravel Discovery AF Microshift Acolyte 1x8 Grün 2026 2026",
       "url": "https://buycycle.com/product/gravelbike-gravel-discovery-af-microshift-acolyte-1x8-grun-2026-43216",
       "source": "buycycle",
@@ -32738,5 +32918,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T16:09:15+00:00"
+  "genere_le": "2026-07-10T16:39:01+00:00"
 }
