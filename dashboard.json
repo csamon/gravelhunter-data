@@ -3026,7 +3026,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (12 favoris)",
+          "Annonce très regardée (14 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9864,8 +9864,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "NÉGOCIER",
-      "prix": 1700.0,
-      "cout_reel": 1945,
+      "prix": 1500.0,
+      "cout_reel": 1745,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -9888,10 +9888,10 @@
       "fit_pct": 87,
       "axes": {
         "technique": 8.0,
-        "financier": 9.4,
+        "financier": 10.0,
         "usage": 10.0,
         "plaisir": 7.0,
-        "valeur": 7.0
+        "valeur": 7.7
       },
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
       "infos_manquantes": [
@@ -9911,7 +9911,8 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−24 % vs cote (~2248 €)",
+          "Décote intéressante : ~−33 % vs cote (~2248 €)",
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9934,6 +9935,10 @@
         {
           "date": "2026-07-06",
           "prix": 1700.0
+        },
+        {
+          "date": "2026-07-10",
+          "prix": 1500.0
         }
       ],
       "marche_modele": {
@@ -32071,5 +32076,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T08:37:41+00:00"
+  "genere_le": "2026-07-10T09:07:20+00:00"
 }
