@@ -14860,110 +14860,6 @@
       }
     },
     {
-      "titre": "Felt Breed Shimano GRX 2021",
-      "url": "https://buycycle.com/product/breed-36228",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 900.0,
-      "cout_reel": 1145,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 522,
-      "prix_max_calcul": "690€ (cote) × (0.62 + 0.28 × 79% fit) = 580€ − 10 % (infos manquantes)",
-      "cote": 690.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": "fiche annonce « Shimano GRX » mais la photo semble montrer « SRAM Force 1x11 »",
-      "alerte": null,
-      "marque": "Felt",
-      "modele": "Breed Shimano GRX",
-      "taille": "M",
-      "annee": 2021,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2638810/2974180c-7098-4027-a7a5-1e46a7cb0cec.webp",
-      "score": 6.7,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 8.8,
-        "financier": 3.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 2.6
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~522€) — NÉGOCIER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Felt Breed 2021 se positionne comme un gravel polyvalent de milieu de gamme chez Felt, la version GRX étant souvent équipée du GRX 400/600 (souvent en simple ou double plateau selon les déclinaisons). Attention toutefois : le Breed 2021 existait en aluminium comme en carbone selon les finitions, donc la mention 'cadre carbone' doit être vérifiée sur l'annonce car cela change nettement la valeur et le comportement. Le Breed vise un usage gravel endurance/aventure avec une géométrie relativement stable et confortable, montures pour porte-bagages, garde-boue et multiples points de fixation (bidons, top-tube, fourche) qui le rendent pertinent pour le bikepacking et le vélotaf. Le groupe Shimano GRX est un vrai point fort : conçu spécifiquement pour le gravel, il offre un freinage hydraulique fiable et une transmission robuste, endurante et bien étagée. Points forts concrets : polyvalence, fiabilité mécanique du GRX, capacité d'emport ; limites : pneus d'origine parfois modestes, poids pas plume surtout en alu, et sur certaines finitions un seul plateau limite la plage sur route rapide. Pour le vélotaf quotidien toute l'année il est très adapté (freins disque, montures garde-boue, dégagement généreux), à condition d'entretenir la transmission et de vérifier l'usure des disques/plaquettes et le jeu de direction sur un modèle d'occasion. Réputation globalement solide et sans vice majeur connu, mais l'état réel (roulements, faisceau de câbles, éventuel montage électronique/mécanique) prime sur le millésime.",
-        "vision": "Cadre carbone, fourche carbone, groupe sram force 1x11, freins disque hydraulique. État visuel : Transmission SRAM Force 1x avec chaîne et cassette montrant une usure d'usage modérée mais fonctionnelle, pneus crampons type cyclocross avec sculpture encore présente. Ensemble globalement propre en boutique, sans corrosion ni impact majeur visible, quelques traces d'usure sur les composants. ⚠ À vérifier : Le titre indique Shimano GRX mais les photos montrent clairement un groupe SRAM Force 1x11 (mono-plateau) — incohérence à vérifier. Freins hydrauliques SRAM avec disques centerlock, contrôler l'usure des plaquettes et voile des disques. (confiance 72%)",
-        "description_vendeur": "None",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~690 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": "SRAM Force 1x11",
-        "freins": "disque hydraulique",
-        "fourche": "carbone",
-        "cadre": "carbone",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": null,
-        "etat_visuel": "Transmission SRAM Force 1x avec chaîne et cassette montrant une usure d'usage modérée mais fonctionnelle, pneus crampons type cyclocross avec sculpture encore présente. Ensemble globalement propre en boutique, sans corrosion ni impact majeur visible, quelques traces d'usure sur les composants.",
-        "points_attention": "Le titre indique Shimano GRX mais les photos montrent clairement un groupe SRAM Force 1x11 (mono-plateau) — incohérence à vérifier. Freins hydrauliques SRAM avec disques centerlock, contrôler l'usure des plaquettes et voile des disques.",
-        "confiance": 0.72
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1150.0
-        },
-        {
-          "date": "2026-07-05",
-          "prix": 900.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Rondo Ruut AL 2021 2021",
       "url": "https://buycycle.com/product/ruut-al-2021-23737",
       "source": "buycycle",
@@ -18906,6 +18802,113 @@
         {
           "date": "2026-07-05",
           "prix": 890.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Felt Breed Shimano GRX 2021",
+      "url": "https://buycycle.com/product/breed-36228",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1080.0,
+      "cout_reel": 1325,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 522,
+      "prix_max_calcul": "690€ (cote) × (0.62 + 0.28 × 79% fit) = 580€ − 10 % (infos manquantes)",
+      "cote": 690.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": "fiche annonce « Shimano GRX » mais la photo semble montrer « SRAM Force 1x11 »",
+      "alerte": null,
+      "marque": "Felt",
+      "modele": "Breed Shimano GRX",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2638810/2974180c-7098-4027-a7a5-1e46a7cb0cec.webp",
+      "score": 5.6,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 2.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 0.5
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~522€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Felt Breed 2021 se positionne comme un gravel polyvalent de milieu de gamme chez Felt, la version GRX étant souvent équipée du GRX 400/600 (souvent en simple ou double plateau selon les déclinaisons). Attention toutefois : le Breed 2021 existait en aluminium comme en carbone selon les finitions, donc la mention 'cadre carbone' doit être vérifiée sur l'annonce car cela change nettement la valeur et le comportement. Le Breed vise un usage gravel endurance/aventure avec une géométrie relativement stable et confortable, montures pour porte-bagages, garde-boue et multiples points de fixation (bidons, top-tube, fourche) qui le rendent pertinent pour le bikepacking et le vélotaf. Le groupe Shimano GRX est un vrai point fort : conçu spécifiquement pour le gravel, il offre un freinage hydraulique fiable et une transmission robuste, endurante et bien étagée. Points forts concrets : polyvalence, fiabilité mécanique du GRX, capacité d'emport ; limites : pneus d'origine parfois modestes, poids pas plume surtout en alu, et sur certaines finitions un seul plateau limite la plage sur route rapide. Pour le vélotaf quotidien toute l'année il est très adapté (freins disque, montures garde-boue, dégagement généreux), à condition d'entretenir la transmission et de vérifier l'usure des disques/plaquettes et le jeu de direction sur un modèle d'occasion. Réputation globalement solide et sans vice majeur connu, mais l'état réel (roulements, faisceau de câbles, éventuel montage électronique/mécanique) prime sur le millésime.",
+        "vision": "Cadre carbone, fourche carbone, groupe sram force 1x11, freins disque hydraulique. État visuel : Transmission SRAM Force 1x avec chaîne et cassette montrant une usure d'usage modérée mais fonctionnelle, pneus crampons type cyclocross avec sculpture encore présente. Ensemble globalement propre en boutique, sans corrosion ni impact majeur visible, quelques traces d'usure sur les composants. ⚠ À vérifier : Le titre indique Shimano GRX mais les photos montrent clairement un groupe SRAM Force 1x11 (mono-plateau) — incohérence à vérifier. Freins hydrauliques SRAM avec disques centerlock, contrôler l'usure des plaquettes et voile des disques. (confiance 72%)",
+        "description_vendeur": "None",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~690 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Force 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission SRAM Force 1x avec chaîne et cassette montrant une usure d'usage modérée mais fonctionnelle, pneus crampons type cyclocross avec sculpture encore présente. Ensemble globalement propre en boutique, sans corrosion ni impact majeur visible, quelques traces d'usure sur les composants.",
+        "points_attention": "Le titre indique Shimano GRX mais les photos montrent clairement un groupe SRAM Force 1x11 (mono-plateau) — incohérence à vérifier. Freins hydrauliques SRAM avec disques centerlock, contrôler l'usure des plaquettes et voile des disques.",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1150.0
+        },
+        {
+          "date": "2026-07-05",
+          "prix": 900.0
+        },
+        {
+          "date": "2026-07-10",
+          "prix": 1080.0
         }
       ],
       "marche_modele": {
@@ -31883,5 +31886,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T04:05:43+00:00"
+  "genere_le": "2026-07-10T04:35:44+00:00"
 }
