@@ -1,5 +1,5 @@
 {
-  "total": 361,
+  "total": 362,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -3619,7 +3619,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (5 favoris)",
+          "Annonce très regardée (6 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12809,14 +12809,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -12899,14 +12899,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13078,14 +13078,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22273,14 +22273,104 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "SCOTT Scale Gravel 20 2025 Taille M - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3230869567",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1149.0,
+      "cout_reel": 1334,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 734,
+      "prix_max_calcul": "1149€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 815€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 4.2,
+      "fit_pct": 32,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (32 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1149.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23157,14 +23247,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23247,14 +23337,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23779,14 +23869,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
-        "prix_demande_median": 949.0,
+        "cote_reelle": 1199.0,
+        "ecart_type": 168.0,
+        "n_ventes": 5,
+        "prix_demande_median": 1149.0,
         "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 949 € (3 en vente) — historique en cours"
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1199 € ±168 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -33017,5 +33107,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T17:09:53+00:00"
+  "genere_le": "2026-07-10T17:39:37+00:00"
 }
