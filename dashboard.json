@@ -18601,7 +18601,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20355,6 +20355,90 @@
         {
           "date": "2026-07-05",
           "prix": 890.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Genesis Cda 20 2021 2021",
+      "url": "https://buycycle.com/product/cda-20-2021-68773",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 600.0,
+      "cout_reel": 760,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 453,
+      "prix_max_calcul": "605€ (cote) × (0.62 + 0.28 × 46% fit) = 453€",
+      "cote": 605.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Genesis",
+      "modele": "Cda 20 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647156/4ee8729a-b755-4ae1-bd9f-aced00fdb9dc.webp",
+      "score": 4.6,
+      "fit_pct": 46,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.1,
+        "usage": 5.0,
+        "plaisir": 5.5,
+        "valeur": 5.1
+      },
+      "verdict": "Peu adapté à ton usage (~46% du besoin) — IGNORER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2021, vert. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Son gros avantage est d’être hyper polyvalent. Il convient pour faire du chemin, une course type vtt que de la randonnée et même du triathlon…\n\nIl comporte des traces d’usure (guidoline notamment) mais à part ça, il est en très bon état général.\n\nJe le vends avec 1 paire de pneus supplémentaires comme vous pouvez le voir dans le descriptif ci-dessous : \n* Cadre : aluminium\n* Fourche : acier chromo",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~605 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 600.0
         }
       ],
       "marche_modele": {
@@ -23576,92 +23660,6 @@
       }
     },
     {
-      "titre": "Genesis Cda 20 2021 2021",
-      "url": "https://buycycle.com/product/cda-20-2021-68773",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 600.0,
-      "cout_reel": 845,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 422,
-      "prix_max_calcul": "605€ (cote) × (0.62 + 0.28 × 28% fit) = 422€",
-      "cote": 605.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Genesis",
-      "modele": "Cda 20 2021",
-      "taille": "M",
-      "annee": 2021,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647156/4ee8729a-b755-4ae1-bd9f-aced00fdb9dc.webp",
-      "score": 3.2,
-      "fit_pct": 28,
-      "axes": {
-        "technique": 3.5,
-        "financier": 6.1,
-        "usage": 2.5,
-        "plaisir": 5.0,
-        "valeur": 5.1
-      },
-      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
-      "infos_manquantes": [],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2021, vert. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Su gran ventaja es que es súper versátil. Es adecuado tanto para caminos, una carrera tipo MTB, senderismo e incluso triatlón...\n\nPresenta signos de desgaste (especialmente en la cinta del manillar), pero aparte de eso, está en muy buen estado general.\n\nLo vendo con 2 regalos incluidos, como puede ver en la descripción a continuación:\n* Cuadro: aluminio\n* Horquilla: acero cromoly (súper resistente",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Sora)",
-          "Peu adapté à ton usage (28 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−1 % vs cote (~605 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "vert",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-08",
-          "prix": 600.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Parapera Anemos Campagnolo Ekar 2023",
       "url": "https://buycycle.com/product/anemos-23184",
       "source": "buycycle",
@@ -23706,7 +23704,7 @@
         "compte_rendu": "Groupe Campagnolo Ekar, taille M, 2023. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
-        "description_vendeur": "See photos. Used as a holiday/second bike for only approx. 2,500–3,000 km, rides perfectly. Cosmetic marks on the frame from a frame bag, as well as on the cranks. Three indentations on the handlebar tape fixed with electrical tape (caused by a rear carrier). No crashes. Last serviced by a specialist dealer in winter 2024/2025. Sold without pedals and without GoPro mount. Shipping possible from Ju",
+        "description_vendeur": "Siehe Fotos. Als Urlaubs-/Zweitrad nur ca. 2.500-3.000 km gefahren, fährt einwandfrei. Kosmetische Spuren am Rahmen von einer Rahmentasche, sowie an den Kurbeln. Drei durch Isolierband gefixte Eindellungen am Lenkerband (durch Heckträger). Kein Sturz. Eine Wartung im Fachhandel zuletzt Winter 2024/2025, Kette und Antrieb noch original. Mangels Keller oder Garage steht es seit Beginn warm und trock",
         "plus_velo": [
           "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
         ],
@@ -32355,5 +32353,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T12:08:17+00:00"
+  "genere_le": "2026-07-10T12:38:11+00:00"
 }
