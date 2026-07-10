@@ -1,5 +1,5 @@
 {
-  "total": 349,
+  "total": 350,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -149,7 +149,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−10 % vs cote (~1650 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (36 favoris)",
+          "Annonce très regardée (37 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9997,6 +9997,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−14 % vs cote (~1799 €)",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13305,6 +13306,97 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 850 € (7 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "CUBE Cross Race Shimano GRX 2023",
+      "url": "https://buycycle.com/product/cross-race-32318",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1400.0,
+      "cout_reel": 1645,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1260,
+      "prix_max_calcul": "1651€ (cote) × (0.62 + 0.28 × 84% fit) = 1410€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
+      "cote": 1651.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "CUBE",
+      "modele": "Cross Race Shimano GRX",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2640739/0e69bbda-fb56-4f27-97d5-14dcd31b61c2.webp",
+      "score": 7.0,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 8.1,
+        "usage": 7.0,
+        "plaisir": 9.0,
+        "valeur": 6.2
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le CUBE Cross Race est historiquement une gamme de cyclo-cross (cadre aluminium léger, géométrie orientée compétition CX), et non un gravel pur : attention, le nom prête à confusion car il s'agit d'un vélo de cross, pas de la gamme Nuroad (gravel) ni Attain (route) de CUBE. Le millésime 2023 en Shimano GRX correspond à un positionnement milieu de gamme accessible, avec cadre alu (Superlite/Aluminium) et généralement une fourche carbone pour filtrer les vibrations. L'usage visé est la compétition/pratique cyclo-cross, avec une géométrie plus nerveuse et un boîtier plus haut que sur un gravel, ce qui le rend vif mais moins confortable sur longues distances. Points forts : groupe GRX fiable et pensé pour le tout-terrain (embrayage de chape, ergonomie des leviers), freins à disque, cadre alu robuste et réparable ; limites : dégagement pneu typiquement limité aux standards CX (autour de 33-40 mm), confort moindre qu'un gravel dédié, et absence fréquente d'œillets pour porte-bagages/garde-boue complets selon finition. En vélotaf quotidien toute l'année, c'est jouable avec des garde-boue à fixation rapide et des pneus larges, mais l'absence de points de fixation et le dégagement contraint sont des handicaps réels face à un vrai gravel/trekking. Pour du gravel léger et roulant il conviendra, mais évitez-le pour du gravel technique ou du bikepacking chargé. La fiabilité mécanique du GRX est excellente, le cadre alu CUBE a bonne réputation de solidité, mais vérifiez sur l'occasion l'état des roulements, de la transmission et l'usure des freins.",
+        "vision": "",
+        "description_vendeur": "La bicicleta tiene 3 años, pero solo se ha usado dos veces y está prácticamente como nueva. Tiene un kilometraje de menos de 70 km.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−15 % vs cote (~1651 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -31886,5 +31978,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-10T04:35:44+00:00"
+  "genere_le": "2026-07-10T05:06:13+00:00"
 }
