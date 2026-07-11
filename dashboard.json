@@ -4088,7 +4088,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 55 cm, 2025, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le KTM X-Strada 20 2025 se situe en entrée/milieu de gamme dans la famille gravel/all-road de KTM, positionné au-dessus des versions équipées en Shimano GRX 400/mécanique plus basique mais sous les déclinaisons GRX 800/Di2. Le cadre est en aluminium hydroformé (série X-Strada) avec fourche carbone, câblage partiellement intégré et standards modernes (freins à disque hydrauliques flat-mount, axes traversants 12 mm, montage de tubeless possible). L'usage visé est polyvalent : route rapide, chemins roulants et gravel léger, avec une géométrie orientée endurance/confort plutôt que compétition. Points forts : robustesse de l'alu, groupe GRX fiable et bien étagé, nombreux inserts pour porte-bagages/garde-boue qui en font une excellente base vélotaf. Limites concrètes : poids supérieur aux cadres carbone concurrents, confort dépendant du choix de pneus, et finition/composants périphériques (roues, cintre) plutôt basiques à ce niveau de gamme. La réputation KTM sur ces cadres alu est bonne en fiabilité mais la disponibilité SAV hors zone germanophone/autrichienne peut être un point de vigilance. Pour le vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent à condition de vérifier l'état du groupe GRX et des roulements sur un vélo d'occasion.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 105 + grx (pédalier 105 2x, freins grx), freins disque hydraulique, fixations garde-boue/rack. État visuel : Vélo à l'état neuf : transmission propre sans usure, plateaux et cassette impeccables, chaîne encore luisante d'huile d'usine. Pneus Schwalbe G-One Bite à sculpture complète non entamée, disques et plaquettes sans marque d'usure, aucune rayure ni corrosion visible. ⚠ À vérifier : Association de composants 105 (transmission/pédalier) et GRX (freins/dérailleur arrière possible) à confirmer ; largeur exacte des pneus et compatibilité tubeless non lisibles sur les flancs. (confiance 72%)",
         "description_vendeur": "Bicicleta nueva, nunca usada",
@@ -4111,11 +4111,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -4977,9 +4977,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -6110,7 +6110,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−45 % vs cote (~2520 €)",
-          "Annonce très regardée (52 favoris)",
+          "Annonce très regardée (53 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6680,7 +6680,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -6701,11 +6701,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -8141,7 +8141,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (76 favoris)",
+          "Annonce très regardée (77 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12857,7 +12857,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1373€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2024, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Bergamont Grandurance Expert 2024 se positionne dans le haut de la gamme Grandurance en carbone, au-dessus des versions alu (RD/Sport) mais sous d'éventuelles variantes plus haut de gamme selon les millésimes. Il utilise un cadre et une fourche full carbone avec géométrie endurance/gravel polyvalente, plutôt orientée confort et longues distances qu'agressivité pure. Le groupe Shimano GRX (probablement 1x11 ou 2x11 selon config) est un choix fiable et éprouvé pour le gravel, avec freins à disque hydrauliques offrant un freinage constant par tous temps. L'usage visé couvre le gravel roulant, le bikepacking léger et les sorties route/chemins mixtes, avec de nombreux inserts (porte-bagages, garde-boue, bidons) qui le rendent pertinent pour le vélotaf. Points forts : polyvalence, confort du carbone, montage GRX cohérent, capacité à monter garde-boue et sacoches ; limites : poids non plume pour un carbone d'entrée/milieu, périphériques (roues, cockpit) souvent en aluminium de série qui bornent la performance. La réputation Bergamont sur cette série est correcte, sans défaut de fiabilité notable, mais la valeur de revente reste modeste. Pour un vélotaf quotidien toute l'année couplé à du gravel léger, c'est un bon compromis à condition d'ajouter garde-boue et éventuellement des pneus plus larges/robustes.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique, pneus 45 mm. État visuel : Transmission avec chaîne et cassette légèrement grisées mais dents de plateaux et pignons en bon état sans usure marquée, pneus Schwalbe G-One à crampons bien présents avec sculpture intacte. Cadre carbone gris propre sans rayures ni impacts visibles, disques et étriers hydrauliques en bon état, vélo globalement propre et récent. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (allongement) et la propreté de la transmission qui mérite un nettoyage ; contrôler l'alignement/frottement des étriers de frein. (confiance 72%)",
         "description_vendeur": "La bicicleta se ha usado un máximo de 150 km y el resto del tiempo ha estado colgada en la pared.\n\nPedales Shimano EH500\nCandado plegable Abus Bordo",
@@ -12879,11 +12879,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -14614,7 +14614,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−32 % vs cote (~1680 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -17178,7 +17178,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−20 % vs cote (~749 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18298,7 +18298,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~874€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2024, noir. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Rondo Ruut AL 2 2024 se situe en entrée/milieu de gamme gravel chez Rondo, au-dessus du Ruut AL 1 (moins équipé) et sous les versions carbone (Ruut CF/ST). Son cadre et sa fourche en aluminium intègrent la technologie maison TwinTip, un insert réglable au niveau du pattes/axe de fourche permettant de modifier l'angle de direction et la hauteur de boîtier pour choisir entre une géométrie plus 'route/rapide' ou plus 'stable/gravel' — un vrai atout de polyvalence à ce prix. Le groupe SRAM Apex 1x (mono-plateau) est robuste, simple d'entretien et bien adapté au mixte, mais la plage de développements en mono-plateau peut manquer de finesse sur longues montées chargées ou de vitesse de pointe sur le plat. Freins à disque (hydrauliques selon finition) et dégagements généreux le rendent capable en gravel léger à moyen et polyvalent pour le vélotaf, avec des points de montage (garde-boue, porte-bagages, fourche cargo) appréciables au quotidien. Limites concrètes : poids élevé typique de l'alu, confort moindre qu'un carbone sur pistes longues, et finitions/roues d'entrée de gamme qu'on remplace vite. Réputation globalement correcte pour la fiabilité du cadre alu et du groupe Apex, la principale faiblesse étant les périphériques bas de gamme. Pour un usage vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent et durable, à condition d'accepter le poids et de prévoir garde-boue et éventuellement un jeu de pneus adapté.",
         "vision": "Cadre aluminium, fourche aluminium, groupe sram apex 1 1x11, freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Transmission bien rodée : chaîne encrassée/oxydée en surface et cassette avec usure visible, plateau mono encore correct. Pneus WTB Nano 700x40C avec sculpture présente mais entamée, disques AVID marqués/tachés (rouille de surface), manivelles avec rayures. ⚠ À vérifier : Étrier avant semble hydraulique (SRAM) mais présence d'un câble/gaine visible à vérifier ; chaîne à mesurer pour usure et disques à contrôler (rouille de surface). Manettes de type manettes route à confirmer compatibilité hydraulique. (confiance 60%)",
         "description_vendeur": "Gravel Rondo Ruut AL 2 | Sram Apex | M 168 - 178 cm",
@@ -18322,11 +18322,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -24415,7 +24415,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−17 % vs cote (~959 €)",
-          "Annonce très regardée (89 favoris)",
+          "Annonce très regardée (88 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34030,5 +34030,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T14:45:48+00:00"
+  "genere_le": "2026-07-11T15:15:25+00:00"
 }
