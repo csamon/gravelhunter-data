@@ -1,5 +1,5 @@
 {
-  "total": 369,
+  "total": 370,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1338,12 +1338,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -1436,12 +1436,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -1918,12 +1918,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -2103,12 +2103,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -4603,9 +4603,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -11258,12 +11258,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -11895,12 +11895,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -13988,6 +13988,100 @@
         {
           "date": "2026-07-10",
           "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Orbea Vector Shimano Tiagra 2023",
+      "url": "https://buycycle.com/product/vector-shimano-claris-39606",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 750.0,
+      "cout_reel": 935,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 652,
+      "prix_max_calcul": "750€ (prix affiché) × (0.62 + 0.28 × 89% fit) = 652€",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Orbea",
+      "modele": "Vector Shimano Tiagra",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652154/4bd29b4b-aebc-4330-9753-203c70604040.webp",
+      "score": 7.0,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 10.0,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 8.0,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo pour ton usage (~89% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille M, 2023, noir. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "L'Orbea Vector Tiagra 2023 est un vélo urbain/fitness (catégorie 'flat bar' ou route polyvalente selon version) positionné en entrée de gamme chez Orbea, en dessous des Avant (route) et Terra (gravel). Il repose sur un cadre aluminium hydroformé associé à une fourche carbone, ce qui améliore le confort et allège l'avant, un bon compromis à ce prix. Le groupe Shimano Tiagra 4700 en 2x10 vitesses est fiable, robuste et facile à entretenir, mais reste basique et mécanique (pas d'électronique). Les freins à disque (souvent mécaniques ou hydrauliques selon finition) apportent un freinage sécurisant par tous les temps, atout réel pour le vélotaf annuel. Ses limites : géométrie orientée confort/polyvalence plutôt que performance ou vrai gravel, dégagement pneu limité qui restreint l'usage tout-terrain, et composants d'entrée de gamme (roues, freins) qu'on remplace vite en usage intensif. La fiabilité globale Orbea est bonne et le Tiagra est éprouvé. Pour le vélotaf quotidien toute l'année il est très adapté (montage garde-boue/porte-bagages selon modèle), mais pour du gravel il restera cantonné aux chemins roulants et pistes légères.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano tiagra 2x10 (pédalier fsa compact double), freins disque hydraulique, pneus 40 mm, tubeless. État visuel : Transmission encrassée mais peu usée, chaîne et cassette poussiéreuses sans usure marquée des dents; pneus Goodyear Peak à crampons agressifs (montage non d'origine) avec bonne sculpture restante. Plaquettes/disques d'aspect correct, quelques traces d'usage et poussière, cadre globalement propre sans impact visible. ⚠ À vérifier : Montage de pneus VTT à gros crampons Goodyear Peak 700x40C au lieu de pneus gravel d'origine; nettoyer et vérifier l'usure réelle de la transmission une fois dégraissée, ainsi que l'épaisseur des plaquettes. (confiance 70%)",
+        "description_vendeur": "Orbea Vector Drop 23 – Como nueva | 750€ negociables\n\nBicicleta Orbea Vector Drop 23 en muy buen estado, lista para rodar sin necesitar nada.\nMarcas de uso y solo necesita cambiar la cinta del manillar.\n\nIdeal para ciudad, carretera y paseos más largos. Muy cómoda y rápida — perfecta para quien busca una bicicleta versátil.\n\nCaracterísticas principales:\n\nCuadro de aluminio ligero\n\nHorquilla de car",
+        "plus_velo": [
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Tiagra",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano Tiagra 2x10 (pédalier FSA compact double)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": true,
+        "fixations": null,
+        "etat_visuel": "Transmission encrassée mais peu usée, chaîne et cassette poussiéreuses sans usure marquée des dents; pneus Goodyear Peak à crampons agressifs (montage non d'origine) avec bonne sculpture restante. Plaquettes/disques d'aspect correct, quelques traces d'usage et poussière, cadre globalement propre sans impact visible.",
+        "points_attention": "Montage de pneus VTT à gros crampons Goodyear Peak 700x40C au lieu de pneus gravel d'origine; nettoyer et vérifier l'usure réelle de la transmission une fois dégraissée, ainsi que l'épaisseur des plaquettes.",
+        "confiance": 0.7
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 750.0
         }
       ],
       "marche_modele": {
@@ -17498,12 +17592,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1075.0,
-        "n_en_vente": 6,
+        "n_ventes": 2,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -33743,5 +33837,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T09:43:38+00:00"
+  "genere_le": "2026-07-11T10:14:41+00:00"
 }
