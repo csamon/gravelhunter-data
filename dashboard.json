@@ -9626,7 +9626,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−9 % vs cote (~1499 €)",
-          "Annonce très regardée (38 favoris)",
+          "Annonce très regardée (39 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -15529,7 +15529,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18536,6 +18536,95 @@
       }
     },
     {
+      "titre": "FRM CICLOCROSS - GRAVEL 2016",
+      "url": "https://buycycle.com/product/ciclocross-gravel6a01c683616c6-12592",
+      "source": "buycycle",
+      "categorie": "cyclocross",
+      "action": "ATTENDRE",
+      "prix": 899.0,
+      "cout_reel": 1144,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1120,
+      "prix_max_calcul": "1620€ (cote) × (0.62 + 0.28 × 53% fit) = 1244€ − 10 % (infos manquantes)",
+      "cote": 1620.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "FRM",
+      "modele": "CICLOCROSS - GRAVEL",
+      "taille": "M",
+      "annee": 2016,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2547816/220df167-cef1-4c5e-af4e-330929c44e5c.webp",
+      "score": 6.2,
+      "fit_pct": 53,
+      "axes": {
+        "technique": 7.3,
+        "financier": 10.0,
+        "usage": 3.0,
+        "plaisir": 5.0,
+        "valeur": 8.6
+      },
+      "verdict": "Cyclocross, pas un gravel — à considérer seulement si prix exceptionnel.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Force, taille M, 2016. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "FRM (Fabbrica Ruote Modena) est une marque italienne surtout connue pour ses roues, et son offre cadres/vélos complets reste confidentielle et peu documentée ; ce 'Ciclocross - Gravel 2016' relève donc d'une production de niche difficile à situer précisément dans une gamme structurée. Sur ce millésime, il s'agit typiquement d'un cadre polyvalent cyclocross/gravel de la première vague 'gravel' où beaucoup de fabricants recyclaient des géométries cyclocross (boîtier plus haut, angles vifs, empattement court) pas idéales pour le confort longue distance. Le montage SRAM Force est un groupe route/CX haut de gamme mécanique 10/11v fiable et léger, ce qui tire l'ensemble vers le milieu/haut de gamme, mais il faut vérifier s'il s'agit de freins à disque ou cantilever car 2016 est une année charnière. Points forts probables : rigidité et rendement type CX, groupe Force endurant et facile à entretenir ; limites : géométrie potentiellement nerveuse peu confortable, dégagements pneus souvent limités (~35-40 mm sur base CX), absence probable d'œillets porte-bagages/garde-boue selon version. Pour du vélotaf quotidien toute l'année, la fiabilité mécanique de Force est un atout mais l'absence de fixations, le passage de gaines et les dégagements restreints peuvent gêner (garde-boue, pneus larges cloutés). Pour du gravel léger sur chemins roulants c'est cohérent, mais la traçabilité pièces/SAV FRM et l'usure d'un cadre de ~2016 imposent d'inspecter transmission, roulements et surtout l'état exact du groupe avant achat.",
+        "vision": "",
+        "description_vendeur": "Original bicycle from the Italian FRM Racing Factory team (year 2016), used as a spare bike for trials and testing by professional athlete A. Gambino.\nCompletely overhauled in every part, ready to use.\nSize 55, L, for heights from approximately 175 to 185 cm.\nOriginal Made in Italy FRM Easton Ultralight frame with carbon fork (original paint, superficial marks from transport present).\nOriginal Mad",
+        "plus_velo": [
+          "Groupe haut (SRAM Force)"
+        ],
+        "moins_velo": [
+          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−45 % vs cote (~1620 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Force",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 899.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Ghost Road Rage Essential 2023 2023",
       "url": "https://buycycle.com/product/road-rage-essential-2023-88500",
       "source": "buycycle",
@@ -19059,95 +19148,6 @@
         {
           "date": "2026-07-05",
           "prix": 939.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "FRM CICLOCROSS - GRAVEL 2016",
-      "url": "https://buycycle.com/product/ciclocross-gravel6a01c683616c6-12592",
-      "source": "buycycle",
-      "categorie": "cyclocross",
-      "action": "ATTENDRE",
-      "prix": 899.0,
-      "cout_reel": 1144,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1111,
-      "prix_max_calcul": "1620€ (cote) × (0.62 + 0.28 × 51% fit) = 1234€ − 10 % (infos manquantes)",
-      "cote": 1620.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "FRM",
-      "modele": "CICLOCROSS - GRAVEL",
-      "taille": "M",
-      "annee": 2016,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2547816/220df167-cef1-4c5e-af4e-330929c44e5c.webp",
-      "score": 5.9,
-      "fit_pct": 51,
-      "axes": {
-        "technique": 6.5,
-        "financier": 10.0,
-        "usage": 3.0,
-        "plaisir": 5.0,
-        "valeur": 8.6
-      },
-      "verdict": "Cyclocross, pas un gravel — à considérer seulement si prix exceptionnel.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Force, taille M, 2016. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "FRM (Fabbrica Ruote Modena) est une marque italienne surtout connue pour ses roues, et son offre cadres/vélos complets reste confidentielle et peu documentée ; ce 'Ciclocross - Gravel 2016' relève donc d'une production de niche difficile à situer précisément dans une gamme structurée. Sur ce millésime, il s'agit typiquement d'un cadre polyvalent cyclocross/gravel de la première vague 'gravel' où beaucoup de fabricants recyclaient des géométries cyclocross (boîtier plus haut, angles vifs, empattement court) pas idéales pour le confort longue distance. Le montage SRAM Force est un groupe route/CX haut de gamme mécanique 10/11v fiable et léger, ce qui tire l'ensemble vers le milieu/haut de gamme, mais il faut vérifier s'il s'agit de freins à disque ou cantilever car 2016 est une année charnière. Points forts probables : rigidité et rendement type CX, groupe Force endurant et facile à entretenir ; limites : géométrie potentiellement nerveuse peu confortable, dégagements pneus souvent limités (~35-40 mm sur base CX), absence probable d'œillets porte-bagages/garde-boue selon version. Pour du vélotaf quotidien toute l'année, la fiabilité mécanique de Force est un atout mais l'absence de fixations, le passage de gaines et les dégagements restreints peuvent gêner (garde-boue, pneus larges cloutés). Pour du gravel léger sur chemins roulants c'est cohérent, mais la traçabilité pièces/SAV FRM et l'usure d'un cadre de ~2016 imposent d'inspecter transmission, roulements et surtout l'état exact du groupe avant achat.",
-        "vision": "",
-        "description_vendeur": "Bicicletta originale del team italiano FRM Racing Factory (anno 2016), utilizzata come muletto per prove e test dall’atleta professionista A. Gambino.\nTotalmente revisionata in ogni sua parte, pronta all’uso.\nTaglia 55, L , per altezza da 175 a 185 circa.\nTelaio originale Made in Italy FRM Easton Ultralight con forcella in carbonio (vernice originale, presenti segni superficiali da trasporto).\nCom",
-        "plus_velo": [
-          "Groupe haut (SRAM Force)"
-        ],
-        "moins_velo": [
-          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−45 % vs cote (~1620 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Force",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 899.0
         }
       ],
       "marche_modele": {
@@ -34030,5 +34030,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T15:15:25+00:00"
+  "genere_le": "2026-07-11T15:45:33+00:00"
 }
