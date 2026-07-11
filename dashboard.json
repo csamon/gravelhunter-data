@@ -4484,6 +4484,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~2700 €)",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6022,7 +6023,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−41 % vs cote (~1860 €)",
-          "Annonce très regardée (29 favoris)",
+          "Annonce très regardée (30 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14159,7 +14160,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−15 % vs cote (~1651 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (17 favoris)",
+          "Annonce très regardée (19 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14444,7 +14445,7 @@
           "Décote intéressante : ~−10 % vs cote (~1559 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (41 favoris)",
+          "Annonce très regardée (42 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14894,7 +14895,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−32 % vs cote (~1680 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (22 favoris)",
+          "Annonce très regardée (23 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -17259,7 +17260,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−25 % vs cote (~1593 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -21365,8 +21366,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 959,
-      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 1066€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 945,
+      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 47% fit) = 1050€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -21378,7 +21379,7 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2391687/209bff8d-1eef-40eb-ac8f-80f22b8f220e.webp",
       "score": 4.8,
-      "fit_pct": 51,
+      "fit_pct": 47,
       "axes": {
         "technique": 6.5,
         "financier": 6.0,
@@ -21388,12 +21389,10 @@
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe SRAM Force mécanique, freins à disque, taille 54 cm, 2015, noir. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Revisión completa de cadena, rodamientos y pastillas de freno.\n\nDisponible (NO INCLUIDA EN EL PRECIO) también rueda de entrenamiento de aluminio Mavic Ksyrium.",
@@ -21413,11 +21412,11 @@
       },
       "specs": {
         "groupset": "SRAM Force",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -32485,9 +32484,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -34485,5 +34484,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T23:17:50+00:00"
+  "genere_le": "2026-07-11T23:48:05+00:00"
 }
