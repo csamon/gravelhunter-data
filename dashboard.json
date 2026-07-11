@@ -3256,9 +3256,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -20943,7 +20943,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29656,7 +29656,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (99 favoris)",
+          "Annonce très regardée (100 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34029,5 +34029,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T13:45:34+00:00"
+  "genere_le": "2026-07-11T14:15:26+00:00"
 }
