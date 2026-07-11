@@ -1338,12 +1338,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1436,12 +1436,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1918,12 +1918,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -2103,12 +2103,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -3112,7 +3112,7 @@
         "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Topstone 2 2024 se positionne en milieu de gamme de la série Topstone alu de Cannondale, au-dessus des versions 3/4 (Sora/Claris) mais sous le Topstone 1 et les versions Carbon plus onéreuses. Il combine un cadre aluminium SmartForm C2 avec une fourche carbone à inserts pour porte-bagages/garde-boue, mais attention : cette génération alu n'intègre PAS le système d'amortissement arrière Kingpin (réservé aux Topstone Carbon), l'amorti reposant donc uniquement sur les pneus et le confort du carbone en fourche. Il est équipé d'un groupe Shimano GRX (généralement RX400/RX600 en 2x sur ce niveau), avec freins à disque hydrauliques, orienté gravel polyvalent et endurance. Points forts : géométrie stable et confortable, robustesse de l'alu, nombreux inserts (garde-boue, porte-bagages, top tube) qui le rendent excellent pour le vélotaf toute l'année et le bikepacking léger ; limites : poids relativement élevé pour l'alu, absence d'amorti dédié, et un GRX d'entrée/milieu au rendement correct mais sans plus. La fiabilité Cannondale sur cette gamme est bonne, sans vice majeur connu, la maintenance restant classique. Pour un usage vélotaf quotidien + gravel léger c'est un choix pertinent et pérenne, à condition de vérifier l'état des roues (moyeux) et de la transmission sur l'occasion.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x10 (46/30t), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission quasi neuve : dents de plateaux et cassette nettes, chaîne propre et brillante sans allongement visible, pneus Vittoria Terreno Dry à sculpture pleine non usée. Disques et étriers hydrauliques propres, aucune rayure, impact ni corrosion notable, vélo globalement en excellent état. ⚠ À vérifier : Manettes/dérailleur GRX identifiés mais série exacte (RX400/RX600) non lisible sur les photos ; largeur pneu et mention tubeless illisibles sur les flancs. Pédales plates basiques (non d'origine gravel). (confiance 72%)",
-        "description_vendeur": "Looking for a high-quality gravel bike that allows you to explore both asphalt and unpaved terrain? This Cannondale Topstone is the perfect choice for those who love versatile cycling. Ideal for long distances, gravel routes, and sporty adventures.\n\nThe Cannondale Topstone is specifically designed for gravel riding. With its robust frame, hydraulic disc brakes, and wide tires, you can explore both",
+        "description_vendeur": "¿Buscas una bicicleta de gravel de alta calidad con la que puedas explorar tanto asfalto como terrenos sin pavimentar? Esta Cannondale Topstone es la elección perfecta para quienes disfrutan del ciclismo versátil. Ideal para largas distancias, rutas de gravel y aventuras deportivas.\n\nLa Cannondale Topstone está diseñada específicamente para el gravel. Con su cuadro robusto, frenos de disco hidrául",
         "plus_velo": [
           "Groupe référence (Shimano GRX)",
           "Freins hydrauliques (confort et sécurité sous la pluie)",
@@ -11259,12 +11259,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -11896,12 +11896,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -17500,12 +17500,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1000.0,
-        "n_en_vente": 5,
+        "n_ventes": 1,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1000 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -24211,7 +24211,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−51 % vs cote (~2460 €)",
-          "Annonce très regardée (35 favoris)",
+          "Annonce très regardée (34 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32250,7 +32250,7 @@
           "Peu adapté à ton usage (21 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (58 favoris)",
+          "Annonce très regardée (57 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33561,5 +33561,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T06:12:40+00:00"
+  "genere_le": "2026-07-11T06:42:57+00:00"
 }
