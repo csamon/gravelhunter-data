@@ -1,5 +1,5 @@
 {
-  "total": 374,
+  "total": 376,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1287,7 +1287,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~908€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, rouge. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant Revolt 1 2022 se situe en milieu de gamme dans la famille gravel de Giant, au-dessus du Revolt 2 (groupe inférieur) et sous les versions Advanced en carbone. Il repose sur un cadre aluminium ALUXX SL avec fourche carbone Advanced-Grade et tige de selle D-Fuse (profil en D) censée filtrer les vibrations, une signature Giant appréciée pour le confort sur terrain irrégulier. La génération 2022 introduit surtout le système de pattes arrière RideSense/flip-chip permettant d'ajuster l'empattement et la géométrie, un vrai atout de polyvalence. Le groupe Shimano GRX 2x (mono ou double selon versions/marchés) offre une plage de développements large et un freinage à disque hydraulique fiable et endurant. Points forts : robustesse du cadre alu, confort D-Fuse, freinage puissant, géométrie stable et polyvalente ; limites : poids conséquent typique de l'alu, roues d'origine (Giant SLR) correctes mais lourdes et peu rigides, et absence d'inserts multiples parfois limitante pour le bikepacking selon finitions. Réputation solide et fiable, entretien GRX sans surprise. Pour le vélotaf quotidien toute l'année il est pertinent (montage garde-boue/porte-bagages possible, pneus larges, freins fiables), et il gère très bien le gravel léger à moyen, un peu limité en gravel très technique par sa géométrie plutôt orientée endurance/polyvalence.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x (double plateau, dérailleur arrière grx rx400/rx810, manettes grx st), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, pneus Giant CrossCut AT2 à sculpture crantée quasi neuve, plaquettes et disques (RT type ice-tech) en bon état sans usure marquée. Cadre rouge globalement propre avec quelques micro-rayures/éclats de peinture sur le tube diagonal et près du bras de frein. ⚠ À vérifier : Petit éclat de peinture / marque blanche sur le bbase arrière près de l'étrier à vérifier (impact superficiel ?), et rayures cosmétiques sur le tube diagonal. Vérifier serrage et alignement disque. La désignation exacte de la série GRX (RX400 10v ou RX810 11v) n'est pas totalement lisible. (confiance 55%)",
         "description_vendeur": "Hay un pequeño rasguño en el tubo diagonal, así como en la parte trasera del cuadro. También hay un pequeño rasguño en la palanca de cambio izquierda.",
@@ -1308,11 +1308,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "rouge",
+        "color": null,
         "condition": null,
         "poids_kg": 10.2,
         "degagement_mm": 45
@@ -4573,7 +4573,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~1739 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13194,8 +13194,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -13284,8 +13284,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -13463,8 +13463,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -20906,6 +20906,94 @@
       }
     },
     {
+      "titre": "WELT Stroke 1 2026 - Vélo Gravel Musculaire",
+      "url": "https://www.leboncoin.fr/ad/velos/3231364839:30a2598b-3684-477e-b5ba-74168222d2cd",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 899.0,
+      "cout_reel": 1084,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 592,
+      "prix_max_calcul": "899€ (prix affiché) × (0.62 + 0.28 × 40% fit) = 658€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 5.1,
+      "fit_pct": 40,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 3.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~40% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 899.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
       "titre": "Cannondale Cannondale CaadX Tiagra 2015 2015",
       "url": "https://buycycle.com/product/cannondale-caadx-tiagra-20156a36f6024b3cb-54705",
       "source": "buycycle",
@@ -22235,6 +22323,93 @@
       }
     },
     {
+      "titre": "Générique Générique Custom Shimano 105 2023",
+      "url": "https://buycycle.com/product/generique-custom-37993",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1000.0,
+      "cout_reel": 1245,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 446,
+      "prix_max_calcul": "600€ (cote) × (0.62 + 0.28 × 73% fit) = 495€ − 10 % (infos manquantes)",
+      "cote": 600.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Générique",
+      "modele": "Générique Custom Shimano 105",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2653777/3386d60f-4ce3-4425-bacc-72b67fe8f86d.webp",
+      "score": 4.3,
+      "fit_pct": 73,
+      "axes": {
+        "technique": 6.5,
+        "financier": 2.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 0.0
+      },
+      "verdict": "Peu adapté à ton usage (~73% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 55 cm, 2023, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Cuadro genérico Pinarello.\nTransmisión nueva, cassette, cadena y bielas, así como pastillas de freno.",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (73 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~600 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 1000.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Spiuk Hi-cross 1996",
       "url": "https://buycycle.com/product/hi-cross69e4ab4cefcec-31839",
       "source": "buycycle",
@@ -23039,8 +23214,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -23129,8 +23304,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -24010,8 +24185,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -24100,8 +24275,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -24811,8 +24986,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -26896,12 +27071,10 @@
       },
       "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2020. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre acier, groupe Shimano Sora mécanique, freins à disque, taille M, 2020, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Bicicleta fabricada a partir de un cuadro CdF 20. Cuadro de tubos de cromoly Reynolds 725. Pequeños arañazos en el tubo horizontal. No tiene absolutamente nada de óxido en ninguna parte. Cadena recién cambiada. Necesita pequeños ajustes estándar (tensión de cables y aprietes). Siempre guardada en interior, nunca ha sufrido accidentes. Bicicleta muy versátil, adecuada para entrenamiento y cicloturi",
@@ -26922,11 +27095,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "acier",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "orange",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -34222,5 +34395,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T17:46:38+00:00"
+  "genere_le": "2026-07-11T18:16:25+00:00"
 }
