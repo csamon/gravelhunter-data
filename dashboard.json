@@ -95,12 +95,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -1050,12 +1050,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -1242,12 +1242,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -3161,12 +3161,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -7530,12 +7530,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -9553,12 +9553,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -10089,12 +10089,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": 1250.0,
-        "n_en_vente": 5,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1250 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1250 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -33837,5 +33837,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T11:44:18+00:00"
+  "genere_le": "2026-07-11T12:14:20+00:00"
 }
