@@ -2924,7 +2924,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 55 cm, 2020, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2020. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Bergamont E-Grandurance Elite 2020 est un gravel/endurance à assistance électrique se positionnant en milieu de gamme dans la série E-Grandurance, au-dessus des versions de base mais sous les finitions supérieures. Il combine un cadre aluminium et une fourche carbone, choix classique pour maîtriser le coût tout en filtrant partiellement les vibrations à l'avant, l'arrière restant plus ferme sans amortisseur. Le groupe Shimano GRX (spécifique gravel, avec leviers ergonomiques et plateau adapté) est un vrai atout côté transmission et freinage disque hydraulique fiable. La motorisation est généralement de type moteur pédalier (souvent Bosch ou équivalent selon la déclinaison) avec batterie intégrée, orientant l'usage vers le trajet quotidien assisté et le gravel roulant plutôt que le tout-terrain engagé. Points forts : polyvalence vélotaf/loisir, freinage GRX efficace, position endurance confortable ; limites : poids élevé propre aux e-gravel, cadre alu moins amortissant, et la dépendance à la disponibilité des pièces moteur/batterie sur un modèle 2020 en occasion. Fiabilité correcte pour un usage quotidien toute l'année à condition de vérifier l'état de la batterie (cycles, capacité résiduelle) et l'usure de la transmission. Adéquation vélotaf quotidien bonne avec ajout de garde-boue/porte-bagages et éclairage ; gravel léger tout à fait envisageable, gravel technique déconseillé.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission bien marquée : cassette et chaîne sales avec traces d'usure, pneus gravel à crampons encore corrects mais sales. Cadre alu (AL-6061 butted, taille 55) avec quelques éraflures/rayures superficielles, ensemble fonctionnel mais nécessitant un nettoyage complet. ⚠ À vérifier : Motorisation avec 3.951 km au compteur et batterie à 52%, vérifier l'état/santé de la batterie et du moteur ; chaîne à contrôler pour usure (jauge) vu l'encrassement. (confiance 78%)",
         "description_vendeur": "Cubiertas prácticamente nuevas. Eficiencia del motor al 100% (ver foto). 4000 km totales. Algunos arañazos en las bielas, el resto del cuadro está muy bien cuidado. Si queréis, puedo dejar el portaequipajes Ortlieb y el caballete. También está disponible el portaherramientas para colocar en lugar del motor-batería.",
@@ -2944,11 +2944,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -3798,7 +3798,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (17 favoris)",
+          "Annonce très regardée (18 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9626,7 +9626,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−9 % vs cote (~1499 €)",
-          "Annonce très regardée (39 favoris)",
+          "Annonce très regardée (41 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34030,5 +34030,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T15:45:33+00:00"
+  "genere_le": "2026-07-11T16:15:49+00:00"
 }
