@@ -5829,7 +5829,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−41 % vs cote (~1860 €)",
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7137,7 +7137,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (114 favoris)",
+          "Annonce très regardée (115 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13357,14 +13357,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1299.0,
+        "ecart_type": 152.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13447,14 +13447,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1299.0,
+        "ecart_type": 152.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13628,14 +13628,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1299.0,
+        "ecart_type": 152.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13719,14 +13719,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1299.0,
+        "ecart_type": 152.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13810,14 +13810,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1299.0,
+        "ecart_type": 152.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22353,7 +22353,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -23893,14 +23893,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1299.0,
+        "ecart_type": 152.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -33837,5 +33837,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T11:13:55+00:00"
+  "genere_le": "2026-07-11T11:44:18+00:00"
 }
