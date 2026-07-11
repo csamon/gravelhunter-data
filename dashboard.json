@@ -1,5 +1,5 @@
 {
-  "total": 372,
+  "total": 374,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -14275,6 +14275,197 @@
         {
           "date": "2026-07-11",
           "prix": 750.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Pinarello Grevil Shimano 105 2023",
+      "url": "https://buycycle.com/product/grevil-78667",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 720.0,
+      "cout_reel": 965,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 590,
+      "prix_max_calcul": "780€ (cote) × (0.62 + 0.28 × 79% fit) = 656€ − 10 % (infos manquantes)",
+      "cote": 780.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Pinarello",
+      "modele": "Grevil Shimano 105",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2653623/dacd75fa-cc24-4f55-b25c-bbeadf586d3e.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 7.1,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.6
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~590€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 55 cm, 2023, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Pinarello Grevil (attention : le modèle historique s'appelle Grevil, la version 'F' plus récente étant le Grevil F) se positionne comme le gravel de la marque italienne, ici en configuration abordable milieu de gamme grâce au groupe Shimano 105. Sur ce millésime 2023, le cadre carbone conserve l'ADN Pinarello avec ses lignes asymétriques et un tube de direction issu de la route, privilégiant le rendement et le comportement dynamique plutôt qu'un confort de type 'gravel aventure'. L'équipement 105 mécanique (probablement R7000 11v ou R7020 avec freins hydrauliques) est fiable, éprouvé et facile à entretenir, mais alourdit l'ensemble par rapport aux versions haut de gamme en Ultegra/Dura-Ace montées sur cadre Grevil F. Points forts : géométrie plutôt sportive et réactive, rigidité du pédalage, qualité de fabrication et prestige de la marque, freins à disque endurants. Limites concrètes : dégagement pneus limité par rapport aux gravels modernes orientés tout-terrain, confort perfectible sur pistes cassantes, tarif d'occasion souvent élevé car on paie le nom Pinarello. Réputation globalement bonne en fiabilité mécanique, mais pièces spécifiques (tige de selle, potence intégrée selon versions) parfois coûteuses. Pour du vélotaf quotidien toute l'année il est correct mais peu adapté aux garde-boue et à un usage intensif salé/pluvieux qui abîmerait un cadre premium ; il conviendra surtout à un gravel léger roulant et à la route rapide.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano 105 mono-plateau 1x, freins disque hydraulique. État visuel : Transmission propre avec chaîne et cassette peu usées, plateau unique aux dents nettes ; pneus Michelin Power Adventure présentant une sculpture encore correcte. Aucune rayure profonde, impact ou corrosion visible, vélo globalement propre et bien entretenu. ⚠ À vérifier : Montage inhabituel : cadre de type route/aéro (cintre intégré Deda Talon Ultra) avec un seul plateau à l'avant et pneus de type gravel Michelin Power Adventure sur roues Mavic Cosmic/aéro — configuration hybride à vérifier, ne correspond pas typiquement au modèle 'Grevil' annoncé. Vérifier compatibilité durite/étrier et absence de fissure au niveau du boîtier. (confiance 55%)",
+        "description_vendeur": "Cuadro genérico, pero que funciona muy bien",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−8 % vs cote (~780 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano 105 mono-plateau 1x",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission propre avec chaîne et cassette peu usées, plateau unique aux dents nettes ; pneus Michelin Power Adventure présentant une sculpture encore correcte. Aucune rayure profonde, impact ou corrosion visible, vélo globalement propre et bien entretenu.",
+        "points_attention": "Montage inhabituel : cadre de type route/aéro (cintre intégré Deda Talon Ultra) avec un seul plateau à l'avant et pneus de type gravel Michelin Power Adventure sur roues Mavic Cosmic/aéro — configuration hybride à vérifier, ne correspond pas typiquement au modèle 'Grevil' annoncé. Vérifier compatibilité durite/étrier et absence de fissure au niveau du boîtier.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 720.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Giant Revolt Advanced 3 2022 2022",
+      "url": "https://buycycle.com/product/revolt-advanced-3-2022-50434",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1399.0,
+      "cout_reel": 1644,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1249,
+      "prix_max_calcul": "1559€ (cote) × (0.62 + 0.28 × 97% fit) = 1388€ − 10 % (infos manquantes)",
+      "cote": 1559.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Revolt Advanced 3 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2610837/ff891053-f5e6-4760-b712-e773b8c1b25f.webp",
+      "score": 7.0,
+      "fit_pct": 97,
+      "axes": {
+        "technique": 8.8,
+        "financier": 7.4,
+        "usage": 10.0,
+        "plaisir": 8.5,
+        "valeur": 5.8
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1249€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant Revolt Advanced 3 2022 se situe en entrée de la gamme carbone (Advanced) de Giant, au-dessus des Revolt en aluminium mais sous les Advanced 2/1/0 mieux équipés (roues carbone, GRX supérieur). Le cadre utilise du carbone Advanced-grade avec la fourche full-composite et le système D-Fuse (tige de selle et cintre en D) pour filtrer les vibrations sur terrain irrégulier, ainsi que le montage flip-chip au niveau des pattes arrière permettant d'ajuster empattement et comportement. L'usage visé est le gravel polyvalent, l'aventure sur longue distance et le tout-chemin, avec une géométrie endurance relativement stable plutôt que nerveuse. Points forts : cadre carbone confortable et léger pour le prix, passage de pneus généreux, transmission GRX fiable et pensée pour le gravel ; limites concrètes sur cette version 3 : équipement d'entrée (roues alu Giant assez lourdes, GRX 400/600 selon config, souvent en 2x ou 1x basique) qui bride le potentiel du cadre et alourdit l'ensemble. La fiabilité GRX est excellente et le cadre Giant a bonne réputation, mais surveiller sur l'occasion l'état des roulements, du boîtier de pédalier et d'éventuelles microfissures autour des inserts. Pour le vélotaf quotidien toute l'année il convient bien (freins à disque hydrauliques, dégagement pour pneus larges, œillets pour garde-boue et porte-bagages), à condition d'accepter l'usure d'un cadre carbone en usage intensif, et il excelle en gravel léger à moyen.",
+        "vision": "",
+        "description_vendeur": "Arañazos típicos del uso en el cambio trasero.\n\nTija, sillín y manillar cambiados. Full carbono.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (97 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−10 % vs cote (~1559 €)",
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (41 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": 9.7,
+        "degagement_mm": 45
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 1399.0
         }
       ],
       "marche_modele": {
@@ -34030,5 +34221,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T16:15:49+00:00"
+  "genere_le": "2026-07-11T16:46:35+00:00"
 }
