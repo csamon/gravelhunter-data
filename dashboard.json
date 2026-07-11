@@ -1,5 +1,5 @@
 {
-  "total": 370,
+  "total": 371,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -393,6 +393,102 @@
         {
           "date": "2026-07-10",
           "prix": 1290.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Focus ATLAS 6.9 2022 2022",
+      "url": "https://buycycle.com/product/atlas-69-2022-76486",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1339.0,
+      "cout_reel": 1439,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1400.0,
+      "prix_max_calcul": "1619€ (cote) × (0.62 + 0.28 × 100% fit) = 1457€, plafonné à ton budget 1400€",
+      "cote": 1619.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Focus",
+      "modele": "ATLAS 6.9 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652045/055e1fa1-5f3d-483a-aa2f-7aca75f7b200.webp",
+      "score": 10.0,
+      "fit_pct": 100,
+      "axes": {
+        "technique": 10.0,
+        "financier": 10.0,
+        "usage": 10.0,
+        "plaisir": 6.5,
+        "valeur": 6.4
+      },
+      "verdict": "Bon vélo pour ton usage (~100% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Focus ATLAS 6.9 2022 se positionne en entrée/milieu de gamme dans la série gravel ATLAS de Focus, au-dessus des versions purement mécaniques mais sous les déclinaisons carbone ou à groupe supérieur (GRX 810/815). Il combine un cadre en aluminium moderne avec une fourche carbone, ce qui limite le poids sur l'avant et filtre partiellement les vibrations, tout en gardant un tarif accessible. Le groupe Shimano GRX (probablement 400/600 en 1x ou 2x selon config) offre un étagement adapté au gravel avec un bon compromis fiabilité/entretien, et les freins à disque hydrauliques assurent un freinage constant par tous temps. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie plutôt endurante et confortable, adaptée aux longues sorties mixtes route/chemins. Points forts : robustesse du cadre alu, montages d'accessoires (porte-bagages, garde-boue, œillets multiples) qui le rendent excellent pour le bikepacking et le vélotaf ; limites : poids supérieur aux modèles carbone et confort inférieur sur pistes très cassantes. La réputation de fiabilité est bonne, le GRX étant réputé durable, mais surveiller l'usure de la transmission et l'état des roulements sur un vélo d'occasion. Pour le vélotaf quotidien toute l'année, c'est un excellent choix grâce aux fixations garde-boue/porte-bagages et à la solidité de l'alu, et il reste très pertinent en gravel léger.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (dérailleur arrière grx rx810/812, mono-plateau grx), freins disque hydraulique, pneus 50 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission propre avec plateau et cassette peu marqués, chaîne encore brillante ; pneus Schwalbe Marathon E-Plus à sculpture bien présente et faiblement usée. Aucune corrosion visible, disques et étriers en bon état, ensemble propre avec seulement quelques micro-rayures d'usage. ⚠ À vérifier : Le pneu avant indique 27.5x2.0 (50-584) tandis que l'annonce suggère un gravel ; vérifier la cohérence des roues (DT Swiss) et la compatibilité, ainsi que l'usure réelle de la chaîne à la jauge. Mono-plateau (pas de dérailleur avant) alors qu'un ATLAS 6.9 est souvent en 2x — vérifier l'origine du montage. (confiance 72%)",
+        "description_vendeur": "Vendo la bicicleta porque, por motivos de salud, tengo que cambiarme a una bicicleta eléctrica. El color de la bicicleta se llama Milkbrown. Lamentablemente, no se podía seleccionar este color.\nLos accesorios montados por una tienda especializada (soporte para bicicleta y portaequipajes ligero) se pueden desmontar sin dejar rastro.\n\nLa bicicleta se compró en julio de 2023.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (100 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−17 % vs cote (~1619 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": 10.8,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11 (dérailleur arrière GRX RX810/812, mono-plateau GRX)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 50,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec plateau et cassette peu marqués, chaîne encore brillante ; pneus Schwalbe Marathon E-Plus à sculpture bien présente et faiblement usée. Aucune corrosion visible, disques et étriers en bon état, ensemble propre avec seulement quelques micro-rayures d'usage.",
+        "points_attention": "Le pneu avant indique 27.5x2.0 (50-584) tandis que l'annonce suggère un gravel ; vérifier la cohérence des roues (DT Swiss) et la compatibilité, ainsi que l'usure réelle de la chaîne à la jauge. Mono-plateau (pas de dérailleur avant) alors qu'un ATLAS 6.9 est souvent en 2x — vérifier l'origine du montage.",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 1339.0
         }
       ],
       "marche_modele": {
@@ -6488,7 +6584,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -6509,11 +6605,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -33837,5 +33933,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T12:14:20+00:00"
+  "genere_le": "2026-07-11T12:45:17+00:00"
 }
