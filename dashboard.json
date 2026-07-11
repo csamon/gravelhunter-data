@@ -1,5 +1,5 @@
 {
-  "total": 371,
+  "total": 372,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -489,6 +489,102 @@
         {
           "date": "2026-07-11",
           "prix": 1339.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Giant Revolt Advanced 2 2022 2022",
+      "url": "https://buycycle.com/product/revolt-advanced-2-2022-12388",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1400.0,
+      "cout_reel": 1500,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1400.0,
+      "prix_max_calcul": "1679€ (cote) × (0.62 + 0.28 × 82% fit) = 1424€, plafonné à ton budget 1400€",
+      "cote": 1679.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Revolt Advanced 2 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2653279/270f8217-4e22-406b-bc52-5b8fe5f8775f.webp",
+      "score": 10.0,
+      "fit_pct": 82,
+      "axes": {
+        "technique": 9.8,
+        "financier": 8.3,
+        "usage": 9.3,
+        "plaisir": 8.5,
+        "valeur": 6.3
+      },
+      "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille M, 2022, blanc. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant Revolt Advanced 2 2022 se situe dans le milieu de gamme carbone de la famille Revolt : au-dessus des versions aluminium (Revolt et Revolt Advanced Sport en alu) mais en dessous des Advanced 1/0 et Advanced Pro mieux équipés (transmission plus haut de gamme, roues carbone). Il reprend le cadre Advanced-Grade Composite avec fourche carbone et l'axe modulable D-Fuse (tige de selle et cintre D-Fuse) qui filtre les vibrations, plus le montage semi-intégré/off-set flip-chip à l'arrière permettant d'ajuster l'empattement pour un comportement plus sportif ou plus stable. Le groupe Shimano 105 R7000 mécanique 2x11 est fiable et endurant, avec freins à disque hydrauliques, ce qui en fait un bon compromis polyvalent pour du gravel roulant, de l'endurance route et du bikepacking léger. Points forts : cadre confortable et rigide, géométrie endurance équilibrée, gros dégagement pneus, montage cohérent et durable. Limites : roues et pneus d'origine (Giant SLR/S-X2) corrects mais lourds et sans être haut de gamme, poids global moyen pour du carbone, montages tubeless à finaliser soi-même. Réputation solide et fiabilité éprouvée, entretien facile grâce au 105 mécanique très répandu. Pour le vélotaf quotidien toute l'année, c'est jouable mais le cadre carbone et l'absence de passages/fixations dédiés garde-boue pleins peuvent limiter en usage intensif hivernal ; en revanche il excelle en gravel léger à moyen et sur longues distances.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11 (pédalier praxis), freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Transmission avec usure modérée (chaîne et cassette encrassées mais sculpture des pneus WTB à flancs beige encore correcte). Freins à disque hydrauliques avec disques présentant des traces d'usure normales, cadre globalement propre. ⚠ À vérifier : Impact/éclat visible sur le tube diagonal (photo rapprochée montrant deux points de peinture écaillée avec possible entame du carbone) — à faire inspecter pour intégrité structurelle. Zone près du boîtier de pédalier montre aussi des marques. (confiance 70%)",
+        "description_vendeur": "GRAVEL GIANT REVOLT 2, talla M/L cuadro de carbono, para una altura de 178/185, bicicleta en excelentes condiciones, algunas marcas en el cuadro como se muestra en las fotos debido al uso off-road, vendo por cambio a MTB.",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (82 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−17 % vs cote (~1679 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "blanc",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano 105 2x11 (pédalier Praxis)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission avec usure modérée (chaîne et cassette encrassées mais sculpture des pneus WTB à flancs beige encore correcte). Freins à disque hydrauliques avec disques présentant des traces d'usure normales, cadre globalement propre.",
+        "points_attention": "Impact/éclat visible sur le tube diagonal (photo rapprochée montrant deux points de peinture écaillée avec possible entame du carbone) — à faire inspecter pour intégrité structurelle. Zone près du boîtier de pédalier montre aussi des marques.",
+        "confiance": 0.7
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-11",
+          "prix": 1400.0
         }
       ],
       "marche_modele": {
@@ -1395,7 +1491,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (54 favoris)",
+          "Annonce très regardée (55 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2357,7 +2453,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−48 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (73 favoris)",
+          "Annonce très regardée (74 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3120,7 +3216,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -3702,7 +3798,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (16 favoris)",
+          "Annonce très regardée (17 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4106,7 +4202,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~1859 €)",
-          "Annonce très regardée (37 favoris)",
+          "Annonce très regardée (38 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4476,7 +4572,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~1739 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7233,7 +7329,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (115 favoris)",
+          "Annonce très regardée (116 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10245,7 +10341,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (29 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16981,7 +17077,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -21374,7 +21470,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−38 % vs cote (~1620 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22088,7 +22184,7 @@
           "Peu adapté à ton usage (35 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (54 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22449,7 +22545,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31003,7 +31099,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33933,5 +34029,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-11T13:14:37+00:00"
+  "genere_le": "2026-07-11T13:45:34+00:00"
 }
