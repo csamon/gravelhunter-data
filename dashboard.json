@@ -3799,7 +3799,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (22 favoris)",
+          "Annonce très regardée (23 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6794,6 +6794,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−12 % vs cote (~1139 €)",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7331,7 +7332,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (116 favoris)",
+          "Annonce très regardée (117 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -8143,7 +8144,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (78 favoris)",
+          "Annonce très regardée (79 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20545,9 +20546,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -28772,7 +28773,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (12 favoris)",
+          "Annonce très regardée (13 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34581,5 +34582,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T09:21:40+00:00"
+  "genere_le": "2026-07-12T09:51:38+00:00"
 }
