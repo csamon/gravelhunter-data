@@ -1,5 +1,5 @@
 {
-  "total": 384,
+  "total": 386,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -6149,11 +6149,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1175.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -11796,7 +11796,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−19 % vs cote (~1110 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (17 favoris)",
+          "Annonce très regardée (18 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16280,7 +16280,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~1980 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (23 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16498,6 +16498,106 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Giant TCX Advanced Pro 2 2019 2019",
+      "url": "https://buycycle.com/product/tcx-advanced-pro-2-2019-65052",
+      "source": "buycycle",
+      "categorie": "cyclocross",
+      "action": "IGNORER",
+      "prix": 1150.0,
+      "cout_reel": 1395,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1174,
+      "prix_max_calcul": "1603€ (cote) × (0.62 + 0.28 × 69% fit) = 1304€ − 10 % (infos manquantes)",
+      "cote": 1603.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "TCX Advanced Pro 2 2019",
+      "taille": "M",
+      "annee": 2019,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654892/41482b1a-dfe0-4d93-96d3-150c25fdb9b9.webp",
+      "score": 6.8,
+      "fit_pct": 69,
+      "axes": {
+        "technique": 8.8,
+        "financier": 10.0,
+        "usage": 7.0,
+        "plaisir": 8.5,
+        "valeur": 7.3
+      },
+      "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe SRAM Rival mécanique, freins à disque, taille M, 2019, blanc. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant TCX Advanced Pro 2 2019 est un vélo de cyclocross de compétition positionné dans le haut de gamme Giant, juste sous le TCX Advanced Pro 1 (qui reçoit un groupe supérieur et parfois des roues carbone) et au-dessus des versions alu TCX SLR. Il repose sur un cadre carbone Advanced-grade avec fourche carbone full, montage SRAM Rival 1x (mono-plateau) et freins à disque hydrauliques avec axes traversants 12 mm, standards typiques du cyclocross moderne de l'époque. Conçu prioritairement pour la course de CX (géométrie relevée à l'avant, boîtier surélevé, dégagement boue), il se prête aussi au gravel léger et à des sorties rapides, mais reste une machine de course exigeante, peu polyvalente pour le chargement (peu ou pas de points de fixation porte-bagages/garde-boue selon les tailles). Points forts : rigidité et rendement du cadre, transmission 1x simple et fiable, freinage disque performant ; limites : monoplateau peu étagé pour le vélotaf vallonné ou chargé, confort ferme et absence d'œillets pratiques. La fiabilité générale est bonne (SRAM Rival 1x éprouvé, cadre Giant réputé solide), mais l'usure des plaquettes/disques et le passage de câbles peuvent demander de l'entretien en usage quotidien toute l'année. Pour du vélotaf hivernal quotidien il est jouable mais sous-optimal (peu de fixations, dégagement pensé boue plus que pneus larges confort), tandis qu'il excelle en gravel léger et rapide.",
+        "vision": "Cadre carbone, fourche carbone, freins disque hydraulique. État visuel : Transmission mono-plateau propre sans usure marquée visible, pneus à crampons de cyclocross avec sculpture encore présente. Aucune rayure ou impact notable sur le cadre carbone, ensemble propre et bien entretenu. ⚠ À vérifier : Configuration en mono-plateau (1x) visible sur le pédalier, à confirmer le nombre exact de vitesses et la série du groupe (leviers/dérailleur non lisibles en gros plan). Disques et plaquettes non inspectables en détail. (confiance 45%)",
+        "description_vendeur": "Bicicleta usada poco, con signos de uso normal por el paso del tiempo. Al lado de la pinza del freno trasero tiene una muesca superficial en la pintura, nada que afecte al funcionamiento; el resto está bien.",
+        "plus_velo": [
+          "Groupe bon (SRAM Rival)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Bien adapté à ton usage (69 % du besoin)"
+        ],
+        "moins_velo": [
+          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−28 % vs cote (~1603 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Rival",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "blanc",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": null,
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission mono-plateau propre sans usure marquée visible, pneus à crampons de cyclocross avec sculpture encore présente. Aucune rayure ou impact notable sur le cadre carbone, ensemble propre et bien entretenu.",
+        "points_attention": "Configuration en mono-plateau (1x) visible sur le pédalier, à confirmer le nombre exact de vitesses et la série du groupe (leviers/dérailleur non lisibles en gros plan). Disques et plaquettes non inspectables en détail.",
+        "confiance": 0.45
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1150.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 1175.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -17678,11 +17778,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1175.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -17737,7 +17837,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18256,11 +18356,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1175.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -21920,8 +22020,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 945,
-      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 47% fit) = 1050€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 959,
+      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 1066€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -21933,7 +22033,7 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2391687/209bff8d-1eef-40eb-ac8f-80f22b8f220e.webp",
       "score": 4.8,
-      "fit_pct": 47,
+      "fit_pct": 51,
       "axes": {
         "technique": 6.5,
         "financier": 6.0,
@@ -21943,10 +22043,12 @@
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe SRAM Force mécanique, freins à disque, taille 54 cm, 2015, noir. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Revisión completa de cadena, rodamientos y pastillas de freno.\n\nDisponible (NO INCLUIDA EN EL PRECIO) también rueda de entrenamiento de aluminio Mavic Ksyrium.",
@@ -21966,11 +22068,11 @@
       },
       "specs": {
         "groupset": "SRAM Force",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -24480,6 +24582,90 @@
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "Giant Giant Custom Shimano Deore XT Di2 2021",
+      "url": "https://buycycle.com/product/giant-custom-12026",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1250.0,
+      "cout_reel": 1495,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 887,
+      "prix_max_calcul": "1250€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 887€",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Giant Custom Shimano Deore XT Di2",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654888/3a4e333b-98bf-4b92-881e-57fa2ba32640.webp",
+      "score": 4.0,
+      "fit_pct": 32,
+      "axes": {
+        "technique": 6.0,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 8.5,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano Deore XT Di2 électronique, freins à disque, taille M, 2021, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Hola, tengo a la venta una bicicleta de ciclocross Giant TCX de 2021 con pintura personalizada de Barbara Borowiecka (sobre Liv).\n\nTalla del cuadro: M\nMaterial del cuadro: Carbono\nBicicleta equipada con grupo eléctrico Shimano Deore XT, cassette 11–32 (Ultegra).\nPlato delantero: absoluteBLACK 42T\nBielas: Ultegra 172,5 mm\nRuedas: Giant PR-2 con bujes Novatec\nTamaño de rueda: 28”\nPotencia: PRO Vibe ",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (32 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Deore XT Di2",
+        "frame": "carbone",
+        "shifting": "électronique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -35137,5 +35323,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T13:22:51+00:00"
+  "genere_le": "2026-07-12T13:53:22+00:00"
 }
