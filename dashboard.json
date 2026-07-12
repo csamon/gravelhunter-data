@@ -885,6 +885,102 @@
       }
     },
     {
+      "titre": "Focus ATLAS 6.8 2021 2021",
+      "url": "https://buycycle.com/product/atlas-68-2021-39861",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1300.0,
+      "cout_reel": 1460,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1147,
+      "prix_max_calcul": "1319€ (cote) × (0.62 + 0.28 × 89% fit) = 1147€",
+      "cote": 1319.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Focus",
+      "modele": "ATLAS 6.8 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654999/adb7a651-cd90-4f79-9e7d-39221141ffc0.webp",
+      "score": 9.9,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 10.0,
+        "financier": 8.0,
+        "usage": 8.5,
+        "plaisir": 6.5,
+        "valeur": 5.1
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1147€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Focus Atlas 6.8 2021 se positionne en entrée/milieu de gamme dans la série Atlas, la famille gravel de Focus qui succède aux anciens Paralane 'aventure' ; il vise le gravel polyvalent et le bikepacking léger plutôt que la performance pure. Le cadre est en aluminium (série 6.x) associé à une fourche carbone, un compromis logique pour maîtriser le coût tout en gardant un peu de filtrage à l'avant, alors que les versions 8.x supérieures passent au cadre carbone. Le groupe Shimano GRX (probablement RX600/RX400 en 1x ou 2x selon la déclinaison) est un vrai atout : mécanique fiable, plage de développements adaptée au gravel, freins hydrauliques efficaces et endurants. Les nombreux inserts (porte-bagages, garde-boue, fixations multiples sur cadre et fourche) et la géométrie plutôt confortable en font un candidat crédible pour le vélotaf toute l'année, à condition d'y ajouter garde-boue et éclairage. Limites concrètes : poids notable dû à l'aluminium et à l'équipement d'entrée de gamme, cadre alu qui filtre moins bien les vibrations que le carbone (partiellement compensé par des pneus larges), et composants périphériques (roues, cintre) basiques qui bornent le rendement. La fiabilité générale est bonne, Focus étant sérieux sur la fabrication et le GRX étant réputé robuste ; c'est un bon achat d'occasion si l'état du cadre alu (chocs, corrosion aux inserts) et l'usure transmission/plaquettes sont vérifiés.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx rx400/rx600 2x10 (plateaux 46-30, cassette 10v), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission peu usée : plateaux GRX (46-30 NF) et chaîne en bon état sans allongement visible, cassette propre, pneus WTB Vittoria à crampons peu marqués. Disques de frein légèrement rodés mais sains, cadre vert propre avec quelques micro-rayures superficielles sans impact ni corrosion. ⚠ À vérifier : Vérifier l'usure réelle de la chaîne à la jauge (légère patine visible), et confirmer la référence GRX exacte (marquage RX400 vs RX600 non lisible sur le dérailleur AR). Œillets de fixation présents sur fourche et haubans. (confiance 72%)",
+        "description_vendeur": "La bicicleta se encuentra en un estado general muy bueno, con uso. Presenta algunos rasguños cosméticos menores causados por el gravel. Por supuesto, la bicicleta nunca ha sufrido caídas. Kilometraje de aprox. 2500 km. Factura disponible.\n\nManillar (Ritchey WCS ErgoMax Road 31.8, ancho 42 cm) y potencia (Ritchey Comp 4-Axis-44 - 84D - 11/8\" - 31.8, longitud: 60 mm) reemplazados.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~1319 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX RX400/RX600 2x10 (plateaux 46-30, cassette 10v)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission peu usée : plateaux GRX (46-30 NF) et chaîne en bon état sans allongement visible, cassette propre, pneus WTB Vittoria à crampons peu marqués. Disques de frein légèrement rodés mais sains, cadre vert propre avec quelques micro-rayures superficielles sans impact ni corrosion.",
+        "points_attention": "Vérifier l'usure réelle de la chaîne à la jauge (légère patine visible), et confirmer la référence GRX exacte (marquage RX400 vs RX600 non lisible sur le dérailleur AR). Œillets de fixation présents sur fourche et haubans.",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1300.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "CUBE CROSS RACE C:62 PRO 2024 2024",
       "url": "https://buycycle.com/product/cross-race-c62-pro-2024-95524",
       "source": "buycycle",
@@ -1539,104 +1635,6 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1100 € (3 en vente) — historique en cours"
-      }
-    },
-    {
-      "titre": "Focus ATLAS 6.8 2021 2021",
-      "url": "https://buycycle.com/product/atlas-68-2021-39861",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 1300.0,
-      "cout_reel": 1460,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1024,
-      "prix_max_calcul": "1319€ (cote) × (0.62 + 0.28 × 87% fit) = 1138€ − 10 % (infos manquantes)",
-      "cote": 1319.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Focus",
-      "modele": "ATLAS 6.8 2021",
-      "taille": "M",
-      "annee": 2021,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654999/adb7a651-cd90-4f79-9e7d-39221141ffc0.webp",
-      "score": 9.5,
-      "fit_pct": 87,
-      "axes": {
-        "technique": 9.1,
-        "financier": 8.0,
-        "usage": 8.5,
-        "plaisir": 6.5,
-        "valeur": 5.1
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1024€) — NÉGOCIER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Focus Atlas 6.8 2021 se positionne en entrée/milieu de gamme dans la série Atlas, la famille gravel de Focus qui succède aux anciens Paralane 'aventure' ; il vise le gravel polyvalent et le bikepacking léger plutôt que la performance pure. Le cadre est en aluminium (série 6.x) associé à une fourche carbone, un compromis logique pour maîtriser le coût tout en gardant un peu de filtrage à l'avant, alors que les versions 8.x supérieures passent au cadre carbone. Le groupe Shimano GRX (probablement RX600/RX400 en 1x ou 2x selon la déclinaison) est un vrai atout : mécanique fiable, plage de développements adaptée au gravel, freins hydrauliques efficaces et endurants. Les nombreux inserts (porte-bagages, garde-boue, fixations multiples sur cadre et fourche) et la géométrie plutôt confortable en font un candidat crédible pour le vélotaf toute l'année, à condition d'y ajouter garde-boue et éclairage. Limites concrètes : poids notable dû à l'aluminium et à l'équipement d'entrée de gamme, cadre alu qui filtre moins bien les vibrations que le carbone (partiellement compensé par des pneus larges), et composants périphériques (roues, cintre) basiques qui bornent le rendement. La fiabilité générale est bonne, Focus étant sérieux sur la fabrication et le GRX étant réputé robuste ; c'est un bon achat d'occasion si l'état du cadre alu (chocs, corrosion aux inserts) et l'usure transmission/plaquettes sont vérifiés.",
-        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx rx400/rx600 2x10 (plateaux 46-30, cassette 10v), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission peu usée : plateaux GRX (46-30 NF) et chaîne en bon état sans allongement visible, cassette propre, pneus WTB Vittoria à crampons peu marqués. Disques de frein légèrement rodés mais sains, cadre vert propre avec quelques micro-rayures superficielles sans impact ni corrosion. ⚠ À vérifier : Vérifier l'usure réelle de la chaîne à la jauge (légère patine visible), et confirmer la référence GRX exacte (marquage RX400 vs RX600 non lisible sur le dérailleur AR). Œillets de fixation présents sur fourche et haubans. (confiance 72%)",
-        "description_vendeur": "La bicicleta se encuentra en general en un estado de uso muy bueno. Presenta algunos rasguños cosméticos menores causados por el gravel. Por supuesto, la bicicleta nunca ha sufrido caídas. Kilometraje de aprox. 2500 km. Factura disponible.",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (87 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−1 % vs cote (~1319 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "vert",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": "Shimano GRX RX400/RX600 2x10 (plateaux 46-30, cassette 10v)",
-        "freins": "disque hydraulique",
-        "fourche": "carbone",
-        "cadre": "aluminium",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": true,
-        "etat_visuel": "Transmission peu usée : plateaux GRX (46-30 NF) et chaîne en bon état sans allongement visible, cassette propre, pneus WTB Vittoria à crampons peu marqués. Disques de frein légèrement rodés mais sains, cadre vert propre avec quelques micro-rayures superficielles sans impact ni corrosion.",
-        "points_attention": "Vérifier l'usure réelle de la chaîne à la jauge (légère patine visible), et confirmer la référence GRX exacte (marquage RX400 vs RX600 non lisible sur le dérailleur AR). Œillets de fixation présents sur fourche et haubans.",
-        "confiance": 0.72
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-12",
-          "prix": 1300.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
       }
     },
     {
@@ -14484,9 +14482,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -31150,7 +31148,7 @@
           "Peu adapté à ton usage (20 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31328,7 +31326,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35891,5 +35889,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T17:25:19+00:00"
+  "genere_le": "2026-07-12T17:53:57+00:00"
 }
