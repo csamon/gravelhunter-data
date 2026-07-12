@@ -1,5 +1,5 @@
 {
-  "total": 387,
+  "total": 389,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1685,7 +1685,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (54 favoris)",
+          "Annonce très regardée (55 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -4679,7 +4679,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~2700 €)",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5526,7 +5526,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -11080,7 +11080,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−14 % vs cote (~1799 €)",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13930,8 +13930,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -14293,8 +14293,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -14758,8 +14758,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -15123,6 +15123,103 @@
         {
           "date": "2026-07-05",
           "prix": 855.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Bianchi Impulso Allroad GRX 600 2020 2020",
+      "url": "https://buycycle.com/product/impulso-allroad-grx-600-2020-43134",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1280.0,
+      "cout_reel": 1525,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 807,
+      "prix_max_calcul": "1050€ (cote) × (0.62 + 0.28 × 84% fit) = 897€ − 10 % (infos manquantes)",
+      "cote": 1050.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Bianchi",
+      "modele": "Impulso Allroad GRX 600 2020",
+      "taille": "M",
+      "annee": 2020,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2517514/f3646a89-3e41-4b02-9d66-fd4ae264ce34.webp",
+      "score": 6.9,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 3.8,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 3.2
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2020. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Bianchi Impulso Allroad GRX 600 2020 se positionne en milieu de gamme dans l'offre gravel/allroad de la marque, au-dessus des versions Claris/Sora d'entrée de gamme mais sous les cadres carbone type Arcadex. Le cadre est en aluminium hydroformé triple-butted avec une fourche carbone, offrant une géométrie polyvalente plus proche d'un endurance-road capable d'avaler du chemin que d'un vrai gravel agressif. Le groupe Shimano GRX RX600 (2x11, souvent 46/30 avec cassette 11-34) est un vrai point fort : fiable, éprouvé, avec un dérailleur arrière à chape stabilisée et des leviers ergonomiques adaptés au mixte, et freinage à disque hydraulique. C'est un vélo confortable et endurant, bien adapté au vélotaf quotidien toute l'année à condition d'ajouter garde-boue et éclairage, avec suffisamment de dégagement et des points de fixation. Ses limites : poids assez élevé (aluminium + roues d'entrée de gamme lourdes type Fulcrum Racing), dégagement pneu limité pour du gravel technique, et une géométrie qui bride en tout-terrain marqué. Réputation globalement fiable côté cadre et groupe GRX, mais surveiller l'usure des roulements de moyeux/roues et l'état des disques/plaquettes sur un usage intensif hivernal. Pour du gravel léger (chemins roulants, pistes) et du trajet urbain quotidien, c'est un choix cohérent et polyvalent.",
+        "vision": "",
+        "description_vendeur": "Bici comprada durante el Covid y usada muy poco (máx. 4000/5000 km). Guardada en el garaje desde hace años. En su momento compré un kit con alforjas laterales usadas solo una vez. El único defecto es un arañazo en el cuadro cerca de la cadena. Bici perfecta que se vende para comprar una bici de crono. Los portaequipajes se venden por separado de la bici.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (34 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1050 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1350.0
+        },
+        {
+          "date": "2026-07-12",
+          "prix": 1280.0
         }
       ],
       "marche_modele": {
@@ -18651,98 +18748,6 @@
       }
     },
     {
-      "titre": "Bianchi Impulso Allroad GRX 600 2020 2020",
-      "url": "https://buycycle.com/product/impulso-allroad-grx-600-2020-43134",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1350.0,
-      "cout_reel": 1595,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 807,
-      "prix_max_calcul": "1050€ (cote) × (0.62 + 0.28 × 84% fit) = 897€ − 10 % (infos manquantes)",
-      "cote": 1050.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Bianchi",
-      "modele": "Impulso Allroad GRX 600 2020",
-      "taille": "M",
-      "annee": 2020,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2517514/f3646a89-3e41-4b02-9d66-fd4ae264ce34.webp",
-      "score": 6.5,
-      "fit_pct": 84,
-      "axes": {
-        "technique": 8.0,
-        "financier": 3.1,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 2.7
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2020. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Bianchi Impulso Allroad GRX 600 2020 se positionne en milieu de gamme dans l'offre gravel/allroad de la marque, au-dessus des versions Claris/Sora d'entrée de gamme mais sous les cadres carbone type Arcadex. Le cadre est en aluminium hydroformé triple-butted avec une fourche carbone, offrant une géométrie polyvalente plus proche d'un endurance-road capable d'avaler du chemin que d'un vrai gravel agressif. Le groupe Shimano GRX RX600 (2x11, souvent 46/30 avec cassette 11-34) est un vrai point fort : fiable, éprouvé, avec un dérailleur arrière à chape stabilisée et des leviers ergonomiques adaptés au mixte, et freinage à disque hydraulique. C'est un vélo confortable et endurant, bien adapté au vélotaf quotidien toute l'année à condition d'ajouter garde-boue et éclairage, avec suffisamment de dégagement et des points de fixation. Ses limites : poids assez élevé (aluminium + roues d'entrée de gamme lourdes type Fulcrum Racing), dégagement pneu limité pour du gravel technique, et une géométrie qui bride en tout-terrain marqué. Réputation globalement fiable côté cadre et groupe GRX, mais surveiller l'usure des roulements de moyeux/roues et l'état des disques/plaquettes sur un usage intensif hivernal. Pour du gravel léger (chemins roulants, pistes) et du trajet urbain quotidien, c'est un choix cohérent et polyvalent.",
-        "vision": "",
-        "description_vendeur": "Bici comprada durante el Covid y usada muy poco (máx. 4000/5000 km). Guardada en el garaje desde hace años. En su momento compré un kit con alforjas laterales usadas solo una vez. El único defecto es un arañazo en el cuadro cerca de la cadena. Bici perfecta que se vende para comprar una bici de crono. Los portaequipajes se venden por separado de la bici.",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (84 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (33 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1050 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1350.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Ridley Astr - Sram Rival XPLR 1x13 2025 2025",
       "url": "https://buycycle.com/product/astr-sram-rival-xplr-1x13-2025-46793",
       "source": "buycycle",
@@ -19013,8 +19018,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -21563,8 +21568,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -21651,8 +21656,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -21832,6 +21837,94 @@
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1149 € ±153 € (7 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "Vélo Giant Roam 2",
+      "url": "https://www.leboncoin.fr/ad/velos/3206090082",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 555.0,
+      "cout_reel": 740,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 358,
+      "prix_max_calcul": "555€ (prix affiché) × (0.62 + 0.28 × 35% fit) = 398€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 5.3,
+      "image": null,
+      "score": 5.0,
+      "fit_pct": 35,
+      "axes": {
+        "technique": 6.0,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 8.5,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (35 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 555.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23158,8 +23251,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -24587,8 +24680,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -24675,8 +24768,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -24753,6 +24846,97 @@
         {
           "date": "2026-07-12",
           "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Scott Arapahoe 2024",
+      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 350.0,
+      "cout_reel": 535,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 222,
+      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 31% fit) = 247€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Arapahoe",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
+      "score": 3.8,
+      "fit_pct": 31,
+      "axes": {
+        "technique": 4.5,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 6.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Other, taille M, 2024. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
+        "vision": "",
+        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Other)",
+          "Peu adapté à ton usage (31 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (30 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 350.0
         }
       ],
       "marche_modele": {
@@ -25300,95 +25484,6 @@
       }
     },
     {
-      "titre": "Scott Arapahoe 2024",
-      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 350.0,
-      "cout_reel": 535,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 220,
-      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 28% fit) = 244€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Scott",
-      "modele": "Arapahoe",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
-      "score": 3.4,
-      "fit_pct": 28,
-      "axes": {
-        "technique": 3.5,
-        "financier": 6.0,
-        "usage": 2.5,
-        "plaisir": 6.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre acier, groupe Other mécanique, freins sur jante, taille M, 2024, rouge. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
-        "vision": "",
-        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Other)",
-          "Peu adapté à ton usage (28 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Other",
-        "frame": "acier",
-        "shifting": "mécanique",
-        "brakes": "sur jante",
-        "size_cm": null,
-        "color": "rouge",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 350.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Specialized Gravel Diverge E5 T54",
       "url": "https://www.leboncoin.fr/ad/velos/3230073440",
       "source": "leboncoin",
@@ -25470,8 +25565,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -25560,8 +25655,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -26455,6 +26550,94 @@
       }
     },
     {
+      "titre": "Cannondale Topstone 3 2023 2023",
+      "url": "https://buycycle.com/product/topstone-3-2023-43837",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 870.0,
+      "cout_reel": 1115,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 540,
+      "prix_max_calcul": "899€ (cote) × (0.62 + 0.28 × 17% fit) = 600€ − 10 % (infos manquantes)",
+      "cote": 899.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cannondale",
+      "modele": "Topstone 3 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2655058/f677fc5f-15d5-4d51-b4c8-6a76df53ac50.webp",
+      "score": 3.2,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.5,
+        "usage": 1.5,
+        "plaisir": 7.0,
+        "valeur": 5.3
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 55 cm, 2023, light gray. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Cannondale Topstone : endurance-gravel confortable (micro-suspension Kingpin sur les Carbon), très polyvalent. Valeur sûre pour rouler tous les jours. (Éviter les versions Lefty.)",
+        "vision": "",
+        "description_vendeur": "Vendo mi querida Cannondale Topstone 3 (modelo 2023).\n\nHe usado la bicicleta exactamente 2 años y la compré nueva. La factura original está, por supuesto, disponible y se incluye.\n\nEquipamiento:\n\nCuadro: SmartForm C2 de aluminio\nHorquilla: Carbono completo\nTransmisión: Shimano Sora, 2x9\nFrenos de disco hidráulicos\nTalla del cuadro: M\nColor: Gris\n\nLa bicicleta se encuentra en buen estado. No ha ten",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−3 % vs cote (~899 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 870.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Diamond Diamond Custom Shimano Tourney 2008",
       "url": "https://buycycle.com/product/diamond-custom-54382",
       "source": "buycycle",
@@ -26895,8 +27078,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -27694,8 +27877,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -27783,8 +27966,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -27863,8 +28046,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 302.0,
         "n_ventes": 11,
-        "prix_demande_median": 890.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 870.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
@@ -31399,7 +31582,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (11 favoris)",
+          "Annonce très regardée (12 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35421,5 +35604,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T14:53:50+00:00"
+  "genere_le": "2026-07-12T15:23:32+00:00"
 }
