@@ -4758,6 +4758,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -15173,7 +15174,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−32 % vs cote (~1680 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16180,7 +16181,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~1980 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31278,10 +31279,12 @@
       },
       "verdict": "Peu adapté à ton usage (~19% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2025, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2025. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Trek Checkpoint : gravel endurance réputé. L'ALR (alu) est un excellent rapport qualité/prix, fixations à foison, parfait pour charger.",
         "vision": "",
         "description_vendeur": "Recorrido de solo 50 km, siempre guardada en casa, nunca expuesta al agua. Por 200 € adicionales también vendo: CASCO TREK Circuit WaveCel, ciclocomputador GEOID CC600, bomba BTWIN 500, soporte de taller como se muestra en la foto, 2 bidones, pedales con calas MTB, cámara de aire de repuesto, zapatillas Decathlon n.º 42. Todo con su caja original, excepto los bidones y las zapatillas. TODO IGUAL A",
@@ -31303,11 +31306,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -34860,5 +34863,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T10:52:05+00:00"
+  "genere_le": "2026-07-12T11:22:15+00:00"
 }
