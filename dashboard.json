@@ -1,5 +1,5 @@
 {
-  "total": 381,
+  "total": 382,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -14849,6 +14849,104 @@
       }
     },
     {
+      "titre": "Giant Revolt X 1 2024 2024",
+      "url": "https://buycycle.com/product/revolt-x-1-2024-30986",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1600.0,
+      "cout_reel": 1845,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1362,
+      "prix_max_calcul": "1619€ (cote) × (0.62 + 0.28 × 79% fit) = 1362€",
+      "cote": 1619.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Revolt X 1 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654728/55b172d3-0fb5-4c03-8b8b-a6e602774160.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.2,
+        "usage": 9.8,
+        "plaisir": 10.0,
+        "valeur": 5.1
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1362€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM X1 mécanique, freins à disque, taille M, 2024, noir. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant Revolt X 1 2024 est la déclinaison 'X' du Revolt, c'est-à-dire la version gravel avec suspension avant : il intègre une fourche suspendue (RockShox Rudy ou similaire à débattement court, ~30-40mm) qui le distingue nettement des Revolt classiques à fourche rigide carbone. Positionné en milieu de gamme (le '1' étant supérieur au '2' mais sous d'éventuelles finitions carbone/haut de gamme), il repose sur un cadre aluminium ALUXX SL avec haubans conçus pour un peu de flex (D-Fuse partiel selon versions) et une transmission SRAM mono-plateau X1 1x11/1x12 robuste et simple d'entretien. L'usage visé est le gravel engagé/aventure sur terrains cassants où la suspension apporte confort et contrôle, plutôt que la performance pure sur route. Points forts : polyvalence tout-terrain, confort supérieur grâce à la fourche active, mono-plateau fiable, freins à disque hydrauliques ; limites : poids élevé pour un gravel (la suspension et l'alu pénalisent), rendement moindre sur asphalte, entretien de la fourche suspendue, et plage de développement parfois juste en mono-plateau pour les longues montées ou le plat rapide. Fiabilité globale bonne, Giant étant réputé pour ses cadres et le X1 étant éprouvé, mais la fourche suspendue ajoute un point de maintenance. Pour du vélotaf quotidien toute l'année il fonctionne (dégagements généreux pour pneus larges et garde-boue possibles, freins puissants), mais son poids et sa fourche suspendue le rendent surdimensionné et moins efficace qu'un gravel rigide pour ce seul usage ; il excelle davantage en gravel léger à moyen.",
+        "vision": "Cadre carbone, fourche carbone, groupe sram apex 1x12 (mono-plateau 40t x-sync, dérailleur arrière apex xplr), freins disque hydraulique. État visuel : Transmission en bon état avec plateau 40T aux dents saines, chaîne propre et cassette peu marquée; pneus type Maxxis à crampons présentant une sculpture bien conservée. Peinture globalement propre et brillante, avec quelques micro-rayures superficielles sur le tube supérieur près du logo REVOLT X. ⚠ À vérifier : Fourche suspendue RockShox (débattement court type Rudy XPLR) à vérifier (fonctionnement, fuites); griffures/éclats de vernis visibles sur le tube supérieur; propreté à confirmer près du boîtier de pédalier (léger encrassement). (confiance 72%)",
+        "description_vendeur": "None",
+        "plus_velo": [
+          "Groupe bon (SRAM X1)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~1619 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM X1",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 53
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 1x12 (mono-plateau 40T X-Sync, dérailleur arrière Apex XPLR)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission en bon état avec plateau 40T aux dents saines, chaîne propre et cassette peu marquée; pneus type Maxxis à crampons présentant une sculpture bien conservée. Peinture globalement propre et brillante, avec quelques micro-rayures superficielles sur le tube supérieur près du logo REVOLT X.",
+        "points_attention": "Fourche suspendue RockShox (débattement court type Rudy XPLR) à vérifier (fonctionnement, fuites); griffures/éclats de vernis visibles sur le tube supérieur; propreté à confirmer près du boîtier de pédalier (léger encrassement).",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Olympia Handy Sram Apex 2024",
       "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
       "source": "buycycle",
@@ -29050,7 +29148,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (15 favoris)",
+          "Annonce très regardée (16 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -30841,7 +30939,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (8 favoris)",
+          "Annonce très regardée (10 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34863,5 +34961,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T11:52:31+00:00"
+  "genere_le": "2026-07-12T12:23:04+00:00"
 }
