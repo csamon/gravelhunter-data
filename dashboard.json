@@ -1,5 +1,5 @@
 {
-  "total": 378,
+  "total": 381,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -345,7 +345,7 @@
       "verdict": "Bon vélo pour ton usage (~89% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Cannondale Topstone Neo SL 2 2023 est un gravel électrique d'entrée/milieu de gamme dans la famille Topstone Neo, positionné sous les Topstone Neo Carbon (moteur Bosch et suspension Kingpin) : ici pas de Kingpin ni de fourche suspendue, mais un cadre aluminium avec fourche carbone et un système 'SL' (Super Light) reposant sur le moteur Hyena/Mahle X35 dans le moyeu arrière et une batterie intégrée de 250 Wh, plus compact et léger qu'un mid-drive classique. L'équipement Shimano GRX (transmission 1x ou 2x selon version) et les freins à disque hydrauliques offrent une base fiable et cohérente pour l'usage. Usage visé : vélotaf longue distance, sorties gravel roulantes et cyclotourisme léger, où l'assistance discrète du moyeu suffit sur terrain peu accidenté. Points forts : légèreté relative pour un e-gravel, comportement proche d'un vélo musculaire, entretien simple, look sobre ; limites concrètes : couple et autonomie modestes (moteur ~40 Nm, 250 Wh) peu adaptés aux fortes pentes ou au chargement lourd, batterie non extensible sans range-extender, moteur moyeu moins vivant en gravel technique, et réparabilité de l'électronique Mahle plus délicate. Fiabilité globalement correcte, le système X35 étant éprouvé, mais surveiller l'état de la batterie et les capteurs sur une occasion. Pour le vélotaf quotidien toute l'année il est pertinent (garde-boue et porte-bagages montables, pneus larges), à condition d'accepter l'autonomie limitée et de soigner la protection de l'électronique face à l'humidité et au sel hivernal.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x (leviers grx + dérailleurs grx/slx, pédalier fsa gossamer pro agx 46/30), freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Transmission avec chaîne et cassette assez sales/oxydées mais dents de plateaux et pignons peu usés ; pneus Vittoria Terreno crampons encore bien marqués et disques de frein en bon état. Cadre alu propre dans l'ensemble mais présente plusieurs micro-rayures et un impact/éclat de peinture visible sur le tube diagonal. ⚠ À vérifier : Éclat de peinture/impact sur le tube diagonal à vérifier (choc ?), chaîne à nettoyer/regraisser et éventuellement mesurer l'usure ; groupe mixte (leviers GRX + dérailleur arrière type SLX) suggérant un montage non 100% GRX d'origine. (confiance 70%)",
         "description_vendeur": "Cannondale Topstone Neo | Taglia M | Mahle X35 | Gravel elettrica in alluminio\n\nLa Topstone Neo è una delle gravel elettriche più apprezzate grazie al motore Mahle X35, silenzioso e perfettamente integrato, che offre un'assistenza naturale mantenendo il feeling di una bici muscolare.\n\nQuesta bicicletta presenta numerosi segni estetici dovuti al precedente utilizzo nel nostro servizio di noleggio. ",
@@ -368,11 +368,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 45
@@ -585,6 +585,102 @@
         {
           "date": "2026-07-11",
           "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Orbea TERRA H30 2021 2021",
+      "url": "https://buycycle.com/product/terra-h30-2021-22246",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1119.0,
+      "cout_reel": 1219,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1131,
+      "prix_max_calcul": "1259€ (cote) × (0.62 + 0.28 × 99% fit) = 1131€",
+      "cote": 1259.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Orbea",
+      "modele": "TERRA H30 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654418/b2abf9ce-bf44-45a9-ba21-c0523410274f.webp",
+      "score": 10.0,
+      "fit_pct": 99,
+      "axes": {
+        "technique": 9.8,
+        "financier": 8.6,
+        "usage": 10.0,
+        "plaisir": 8.0,
+        "valeur": 5.9
+      },
+      "verdict": "Bon vélo pour ton usage (~99% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Terra H30 2021 se situe dans le milieu de gamme gravel d'Orbea, au-dessus des versions H40/H41 plus basiques et nettement en dessous des Terra M-series à cadre carbone (M20/M30). Il combine un cadre aluminium hydroformé avec une fourche carbone, standard courant sur ce segment pour gagner en confort et réduire le poids frontal. Le groupe Shimano GRX (probablement RX400 2x10 ou RX600 1x/2x11 selon lot) est spécifiquement conçu pour le gravel, avec ergonomie adaptée aux terrains cassants et bonne fiabilité. L'usage visé est polyvalent : gravel roulant, bikepacking léger, et il se prête très bien au vélotaf grâce aux nombreux points de fixation (garde-boue, porte-bagage) et à la géométrie endurance relativement stable. Points forts : robustesse du cadre alu, fourche carbone filtrante, GRX éprouvé et facile à entretenir ; limites : poids supérieur aux modèles carbone, cadre alu moins confortable sur longues distances, et sur l'occasion il faut vérifier l'usure du GRX (galets, chaîne, plaquettes) et l'état des roulements. C'est un choix pertinent et durable pour un usage quotidien toute l'année plus gravel léger le week-end, à condition d'un prix cohérent avec l'âge.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Transmission (cassette, chaîne, étrier GRX) présentant une usure modérée d'usage régulier avec traces de graisse, pneus Schwalbe G-One Allround à sculpture encore bien présente. Cocottes Shimano avec caoutchouc marqué/craquelé et guidoline usée, ensemble globalement propre. ⚠ À vérifier : Caoutchouc des cocottes très marqué/usé (à vérifier), guidoline abîmée à remplacer, disques de frein à contrôler pour usure. Absence de plateaux visibles multiples confirme un montage mono-plateau probable. (confiance 60%)",
+        "description_vendeur": "La bicicleta es una bicicleta de buen tiempo y siempre se ha guardado en el sótano. Kilometraje estimado: 2500 kilómetros.\n\n¿Qué se ha cambiado?\nEl sillín es nuevo.\nLos neumáticos se cambiaron por unos Schwalbe G-One Allround, tienen unos 800 kilómetros de uso. Las cámaras son nuevas.\nLa cadena se cambió hace 200 kilómetros.\nEl pedalier se ha renovado esta semana.\nLas pastillas de freno también se",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (99 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−11 % vs cote (~1259 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": 10.5,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission (cassette, chaîne, étrier GRX) présentant une usure modérée d'usage régulier avec traces de graisse, pneus Schwalbe G-One Allround à sculpture encore bien présente. Cocottes Shimano avec caoutchouc marqué/craquelé et guidoline usée, ensemble globalement propre.",
+        "points_attention": "Caoutchouc des cocottes très marqué/usé (à vérifier), guidoline abîmée à remplacer, disques de frein à contrôler pour usure. Absence de plateaux visibles multiples confirme un montage mono-plateau probable.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1119.0
         }
       ],
       "marche_modele": {
@@ -3594,7 +3690,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Scott Speedster Gravel 40 2024 se situe en entrée de gamme gravel chez Scott, juste au-dessus du modèle 50 et sous les Speedster Gravel 30/20/10 mieux équipés. Il repose sur un cadre aluminium (alliage 6061) associé à une fourche carbone, une combinaison classique à ce niveau de prix qui privilégie la robustesse et le coût plutôt que la légèreté. Sa transmission Shimano GRX en 2x (généralement GRX 400/RX400 sur cette finition) offre une plage de développements confortable et une fiabilité éprouvée, avec freinage à disque hydraulique. L'usage visé est polyvalent : gravel roulant, chemins peu techniques, cyclotourisme léger et vélotaf, la géométrie étant relativement endurante et stable plutôt que joueuse. Points forts : montage cohérent et durable, freins fiables, cadre alu tolérant et facile à entretenir, présence d'inserts pour porte-bagages/garde-boue le rendant crédible pour un usage quotidien toute l'année ; limites : poids élevé pénalisant en montée, périphériques d'entrée de gamme (roues et pneus basiques à surveiller/upgrader), confort en retrait d'un cadre carbone sur mauvais revêtements. La fiabilité générale est bonne pour la marque et le groupe GRX, sans problème structurel notoire signalé sur cette génération. Pour du vélotaf quotidien et du gravel léger, c'est un choix pertinent et rationnel, à condition d'accepter son poids et de budgéter éventuellement de meilleures roues/pneus.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 2x (double plateau), série non lisible précisément, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission avec chaîne graissée mais empoussiérée, cassette et plateaux sans usure marquée visible ; pneus à crampons avec sculpture encore présente. Cadre gris avec traces de boue/poussière et légères marques d'usure, disques de frein propres, vélo globalement fonctionnel mais sale par endroits. ⚠ À vérifier : Vélo souvent photographié sale (boue sur transmission et cadre) : vérifier l'usure réelle de la transmission et des roulements après nettoyage ; contrôler l'état des durites et la tige de selle télescopique éventuelle. La série exacte du groupe Shimano n'est pas lisible sur les photos. (confiance 55%)",
         "description_vendeur": "Vendo esta bicicleta de gravel Scott Speedster Gravel 40 gris, modelo 2024, en talla M.\n- Tipo de bicicleta: Bicicleta de gravel \n- Marca: Scott\n- Modelo: Speedster Gravel 40\n- Año: 2024\n- Talla del cuadro: M\nEstado nuevo\n\nColor Shark Grey\nCuadro Speedster Gravel Disc / D.Butted 6061 Alloy, SCOTT Gravel geometry / Replaceable Derailleur Hanger, Internal cable routing, Syncros fender kit ready\nPres",
@@ -3617,11 +3713,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "light gray",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -13556,7 +13652,7 @@
         "ecart_type": 149.0,
         "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
@@ -13646,7 +13742,7 @@
         "ecart_type": 149.0,
         "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
@@ -13732,14 +13828,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13827,7 +13923,7 @@
         "ecart_type": 149.0,
         "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
@@ -13918,7 +14014,7 @@
         "ecart_type": 149.0,
         "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
@@ -14009,7 +14105,7 @@
         "ecart_type": 149.0,
         "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
@@ -14095,14 +14191,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14559,14 +14655,196 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3231598911",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1299.0,
+      "cout_reel": 1484,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1034,
+      "prix_max_calcul": "1299€ (prix affiché) × (0.62 + 0.28 × 94% fit) = 1149€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Jakar",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 94,
+      "axes": {
+        "technique": 8.0,
+        "financier": 6.8,
+        "usage": 10.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (94 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1299.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1299.0,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire | Garantie 24 mois",
+      "url": "https://www.leboncoin.fr/ad/velos/3231562127",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1299.0,
+      "cout_reel": 1484,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1034,
+      "prix_max_calcul": "1299€ (prix affiché) × (0.62 + 0.28 × 94% fit) = 1149€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Jakar",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 94,
+      "axes": {
+        "technique": 8.0,
+        "financier": 6.8,
+        "usage": 10.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (94 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1299.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1299.0,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18434,14 +18712,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20897,14 +21175,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20985,14 +21263,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21367,8 +21645,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 959,
-      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 1066€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 945,
+      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 47% fit) = 1050€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -21380,7 +21658,7 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2391687/209bff8d-1eef-40eb-ac8f-80f22b8f220e.webp",
       "score": 4.8,
-      "fit_pct": 51,
+      "fit_pct": 47,
       "axes": {
         "technique": 6.5,
         "financier": 6.0,
@@ -21390,12 +21668,10 @@
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe SRAM Force mécanique, freins à disque, taille 54 cm, 2015, noir. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Revisión completa de cadena, rodamientos y pastillas de freno.\n\nDisponible (NO INCLUIDA EN EL PRECIO) también rueda de entrenamiento de aluminio Mavic Ksyrium.",
@@ -21415,11 +21691,11 @@
       },
       "specs": {
         "groupset": "SRAM Force",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -22404,14 +22680,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23833,14 +24109,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23921,14 +24197,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24458,7 +24734,7 @@
         "ecart_type": 149.0,
         "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
@@ -24632,14 +24908,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24722,14 +24998,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -26057,14 +26333,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -26856,14 +27132,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -26945,14 +27221,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -27025,14 +27301,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 310.0,
-        "n_ventes": 9,
+        "cote_reelle": 850.0,
+        "ecart_type": 302.0,
+        "n_ventes": 11,
         "prix_demande_median": 890.0,
-        "n_en_vente": 5,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±310 € (9 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 850 € ±302 € (11 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -34431,10 +34707,12 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, blanc. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Marca: Stevens\nModelo: Gavere\nMaterial: Aluminio\nGrupo: Shimano CUES U6000 1×10 velocidades\nBicicleta eléctrica: No\nTipo de freno: Tektro MD-C550 // Disco mecánico\nDesviador trasero: Shimano CUES U6000 Shadow RD-U6020-10-SGS // 10 velocidades\nManillar: Scorpo Aero Gravel\nPotencia: Scorpo\nTija de sillín: Scorpo\nSillín: Oxygen Triton 2.0\nJuego de ruedas: Oxygen G25 Disc // 25 x 622\nNeumáticos: Schwa",
@@ -34456,11 +34734,11 @@
       },
       "specs": {
         "groupset": "Shimano CUES",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "blanc",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -34582,5 +34860,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T09:51:38+00:00"
+  "genere_le": "2026-07-12T10:22:36+00:00"
 }
