@@ -1,5 +1,5 @@
 {
-  "total": 382,
+  "total": 384,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -4300,7 +4300,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~1859 €)",
-          "Annonce très regardée (40 favoris)",
+          "Annonce très regardée (41 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5632,7 +5632,7 @@
           "Décote intéressante : ~−46 % vs cote (~2520 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (31 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13293,8 +13293,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -13383,8 +13383,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -13562,8 +13562,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -14258,6 +14258,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−15 % vs cote (~1651 €)",
           "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (20 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16739,7 +16740,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (82 favoris)",
+          "Annonce très regardée (83 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19731,6 +19732,93 @@
       }
     },
     {
+      "titre": "Gravel giant revolt",
+      "url": "https://www.leboncoin.fr/ad/velos/3231586273",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "ATTENDRE",
+      "prix": 1600.0,
+      "cout_reel": 1725,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 554,
+      "prix_max_calcul": "800€ (cote) × (0.62 + 0.28 × 53% fit) = 616€ − 10 % (infos manquantes)",
+      "cote": 800.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Revolt",
+      "taille": "M",
+      "annee": null,
+      "distance_km": 7.2,
+      "image": null,
+      "score": 6.0,
+      "fit_pct": 53,
+      "axes": {
+        "technique": 7.5,
+        "financier": 2.0,
+        "usage": 5.8,
+        "plaisir": 10.0,
+        "valeur": 0.0
+      },
+      "verdict": "Coup de cœur : à considérer seulement si le prix baisse nettement.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : 'leboncoin Revolt' n'est pas une marque/modèle cohérent. Leboncoin est une plateforme de petites annonces française, pas un fabricant de vélos ; 'Revolt' désigne en réalité la gamme gravel de Giant (Giant Revolt), probablement vue en annonce sur Leboncoin. Sans le millésime ni le niveau exact (Revolt Advanced en carbone vs Revolt en aluminium ALUXX SL, groupe Shimano GRX ou Sora/Tiagra), il est impossible de situer précisément le modèle dans la gamme ou d'évaluer sa valeur. La gamme Giant Revolt est globalement un gravel polyvalent bien réputé, avec géométrie endurance, tige de selle D-Fuse pour l'amorti et bons dégagements pneus, adapté au gravel léger comme au vélotaf. Sans détails, on ne peut ni confirmer le matériau, ni le poids, ni le groupe, ni l'état d'usure (transmission, roulements, fissures cadre carbone), points critiques en occasion. Pour un achat sérieux, exigez le modèle exact (ex. 'Giant Revolt Advanced 2 2021'), le groupe, la taille et des photos détaillées avant toute décision.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Cannondale Fatty Gravel 2024",
       "url": "https://buycycle.com/product/default66fc6cc3b1a61-74151",
       "source": "buycycle",
@@ -21453,8 +21541,96 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "WELT Stroke 1 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3231640613:e3399326-260a-4c65-9464-633ba3b62519",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 899.0,
+      "cout_reel": 1084,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 592,
+      "prix_max_calcul": "899€ (prix affiché) × (0.62 + 0.28 × 40% fit) = 658€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 5.1,
+      "fit_pct": 40,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 3.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~40% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 899.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1074.0,
+        "ecart_type": 162.0,
+        "n_ventes": 6,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -23019,7 +23195,7 @@
           "Peu adapté à ton usage (35 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (53 favoris)",
+          "Annonce très regardée (54 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -23681,8 +23857,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -23771,8 +23947,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -24652,8 +24828,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -24742,8 +24918,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -25453,8 +25629,8 @@
         "cote_reelle": 1074.0,
         "ecart_type": 162.0,
         "n_ventes": 6,
-        "prix_demande_median": 1149.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1024.0,
+        "n_en_vente": 4,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1074 € ±162 € (6 ventes) · liquidité méd. 1 j"
@@ -34961,5 +35137,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T12:23:04+00:00"
+  "genere_le": "2026-07-12T12:52:28+00:00"
 }
