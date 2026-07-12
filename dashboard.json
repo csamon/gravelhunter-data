@@ -1,5 +1,5 @@
 {
-  "total": 390,
+  "total": 392,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -879,6 +879,105 @@
         "n_ventes": 2,
         "prix_demande_median": null,
         "n_en_vente": 0,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "CUBE CROSS RACE C:62 PRO 2024 2024",
+      "url": "https://buycycle.com/product/cross-race-c62-pro-2024-95524",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1350.0,
+      "cout_reel": 1510,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1180,
+      "prix_max_calcul": "1559€ (cote) × (0.62 + 0.28 × 79% fit) = 1311€ − 10 % (infos manquantes)",
+      "cote": 1559.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "CUBE",
+      "modele": "CROSS RACE C:62 PRO 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2655329/53046b6f-17e8-44c7-bd3e-bb4482d16e49.webp",
+      "score": 9.9,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 7.9,
+        "usage": 8.5,
+        "plaisir": 9.0,
+        "valeur": 6.1
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1180€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille 53 cm, 2024, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le CUBE Cross Race C:62 Pro 2024 est un vélo de cyclo-cross en carbone (cadre C:62, la qualité de fibre intermédiaire de CUBE, en dessous du C:68X haut de gamme), positionné en milieu de gamme dans la famille Cross Race. C'est avant tout une machine de compétition cyclo-cross : géométrie typée course (boîtier haut pour le passage d'obstacles, angles agressifs, position basse), et non un vrai gravel polyvalent. Le groupe Shimano GRX (probablement GRX 600 mécanique 11v ou 2x11) apporte fiabilité et pertinence pour le mixte, avec freins à disque hydrauliques efficaces. Points forts : cadre carbone léger et réactif, comportement vif, GRX robuste et éprouvé, freinage sûr toutes conditions. Limites concrètes pour un usage quotidien : dégagement pneu limité par les standards CX (généralement autour de 33-40 mm, loin des 45-50 mm d'un gravel moderne), absence probable d'œillets pour porte-bagages/garde-boue complets, géométrie nerveuse peu confortable sur longues distances, et fragilité relative du carbone aux chocs urbains. La réputation CUBE est bonne en rapport qualité/prix et fiabilité mécanique. Pour du vélotaf quotidien toute l'année, il est mal adapté (peu de fixations, dégagement restreint, position engagée) ; il convient en revanche bien au gravel léger rapide et à la compétition CX.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu marquées, plateau en bon état ; pneus Schwalbe X-One Allround aux crampons bien présents. Cadre carbone gris/orange sans rayure ni impact notable, ensemble très propre et bien entretenu. ⚠ À vérifier : Disques de frein présentant un léger dépôt/coloration à contrôler (usure plaquettes), et pédales plates/mixtes en place. Vérifier le montage tubeless réel et la largeur exacte des pneus non lisible sur les photos. (confiance 55%)",
+        "description_vendeur": "Arañazos en el tubo diagonal",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−13 % vs cote (~1559 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "53",
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne et cassette peu marquées, plateau en bon état ; pneus Schwalbe X-One Allround aux crampons bien présents. Cadre carbone gris/orange sans rayure ni impact notable, ensemble très propre et bien entretenu.",
+        "points_attention": "Disques de frein présentant un léger dépôt/coloration à contrôler (usure plaquettes), et pédales plates/mixtes en place. Vérifier le montage tubeless réel et la largeur exacte des pneus non lisible sur les photos.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -8525,7 +8624,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (57 favoris)",
+          "Annonce très regardée (58 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14357,7 +14456,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−15 % vs cote (~1651 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14642,7 +14741,7 @@
           "Décote intéressante : ~−10 % vs cote (~1559 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (43 favoris)",
+          "Annonce très regardée (44 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16474,7 +16573,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16884,6 +16983,103 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Scott Speedster Gravel 40 EQ 2022 2022",
+      "url": "https://buycycle.com/product/speedster-gravel-40-eq-2022-14976",
+      "source": "buycycle",
+      "categorie": "cyclocross",
+      "action": "IGNORER",
+      "prix": 1000.0,
+      "cout_reel": 1160,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 698,
+      "prix_max_calcul": "959€ (cote) × (0.62 + 0.28 × 67% fit) = 775€ − 10 % (infos manquantes)",
+      "cote": 959.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Speedster Gravel 40 EQ 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2655339/9ca101fc-b8e4-49e4-8ec2-73cc61c355b7.webp",
+      "score": 6.8,
+      "fit_pct": 67,
+      "axes": {
+        "technique": 7.3,
+        "financier": 6.6,
+        "usage": 6.5,
+        "plaisir": 6.0,
+        "valeur": 4.7
+      },
+      "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille M, 2022, orange. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Scott Speedster Gravel 40 EQ 2022 se situe en entrée de gamme gravel chez Scott, sous les Speedster Gravel 20/30 et loin des Addict Gravel en carbone : c'est la déclinaison la plus abordable, ici en version 'EQ' (equipped) livrée avec garde-boue et porte-bagages/éclairage selon marché, ce qui la destine explicitement au vélotaf et au voyage léger. Le cadre en aluminium 6061 avec fourche carbone offre un bon compromis rigidité/confort pour le prix, mais reste rustique face aux cadres plus travaillés ; le montage Shimano Tiagra 2x10 est fiable et facile à entretenir, tout en restant mécaniquement daté (10 vitesses, pas de mono-plateau moderne). Les freins à disque, souvent mécaniques (type TRP Spyre) plutôt qu'hydrauliques sur ce niveau, assurent un freinage correct mais demandent des réglages réguliers. L'usage visé est clairement polyvalent route/chemins roulants et trajets quotidiens : pas un gravel sportif ni pour du terrain technique. Points forts : robustesse, entretien simple, équipement complet 'prêt à rouler', bon rapport qualité/prix en occasion ; limites : poids élevé, groupe entrée de gamme, dégagement pneu limité qui bride le vrai gravel. Réputation globalement solide et sans vice majeur, typique d'un alu Scott fiable, ce qui en fait un excellent vélotaf toute l'année et un gravel light occasionnel, à condition de surveiller usure des plaquettes mécaniques et de la transmission.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano tiagra 4700 2x10, freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec légère usure normale sur cassette et plateaux, chaîne sans rouille visible. Pneus Schwalbe G-One à crampons peu usés, disques et étriers en bon état, cadre propre avec quelques micro-rayures sans impact notable. ⚠ À vérifier : Freins à disque mécaniques (câble visible, étriers type TRP/Tektro Spyre), pas hydrauliques comme le suggère parfois l'appellation 'EQ' — à vérifier. Levier de frein droit Tiagra, dérailleur arrière Tiagra 10v. Cintre/potence Syncros aluminium. (confiance 72%)",
+        "description_vendeur": "Rasguño visible presente en el tirante trasero derecho.\nOtros pequeños rasguños presentes en el cuadro.",
+        "plus_velo": [
+          "Bien adapté à ton usage (67 % du besoin)"
+        ],
+        "moins_velo": [
+          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~959 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Tiagra",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano Tiagra 4700 2x10",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec légère usure normale sur cassette et plateaux, chaîne sans rouille visible. Pneus Schwalbe G-One à crampons peu usés, disques et étriers en bon état, cadre propre avec quelques micro-rayures sans impact notable.",
+        "points_attention": "Freins à disque mécaniques (câble visible, étriers type TRP/Tektro Spyre), pas hydrauliques comme le suggère parfois l'appellation 'EQ' — à vérifier. Levier de frein droit Tiagra, dérailleur arrière Tiagra 10v. Cintre/potence Syncros aluminium.",
+        "confiance": 0.72
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1000.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -24951,6 +25147,97 @@
       }
     },
     {
+      "titre": "Scott Arapahoe 2024",
+      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 350.0,
+      "cout_reel": 535,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 222,
+      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 31% fit) = 247€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Arapahoe",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
+      "score": 3.8,
+      "fit_pct": 31,
+      "axes": {
+        "technique": 4.5,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 6.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Other, taille M, 2024. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
+        "vision": "",
+        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Other)",
+          "Peu adapté à ton usage (31 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (30 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Scott Speedster Gravel 40 2024 2025",
       "url": "https://buycycle.com/product/speedster-gravel-40-202469383fd7d9351-42367",
       "source": "buycycle",
@@ -25481,95 +25768,6 @@
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
-      }
-    },
-    {
-      "titre": "Scott Arapahoe 2024",
-      "url": "https://buycycle.com/product/arapahoe698c54a0ab0db-69835",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 350.0,
-      "cout_reel": 535,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 220,
-      "prix_max_calcul": "350€ (prix affiché) × (0.62 + 0.28 × 28% fit) = 244€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Scott",
-      "modele": "Arapahoe",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2383919/0690aace-2fe4-472e-8a6a-b05c94900352.webp",
-      "score": 3.4,
-      "fit_pct": 28,
-      "axes": {
-        "technique": 3.5,
-        "financier": 6.0,
-        "usage": 2.5,
-        "plaisir": 6.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~28% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre acier, groupe Other mécanique, freins sur jante, taille M, 2024, rouge. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Scott Arapahoe : vélo urbain/fitness plus que gravel — pratique en ville, limité sur les chemins.",
-        "vision": "",
-        "description_vendeur": "Hello, I am selling this magnificent Scott Arapahoe.\nAll parts are new, the frame is in great condition.\nIdeal for a person measuring between 1.65m and 1.85m.\n\n🟢 Frame: chromoly steel\n🟢 fork: steel\n🟢 headset: stronglight\n🟢 stem: killstem 100mm\n🟢 handlebar: ergotec\n🟢 seatpost: ritchey\n🟢 grips: esi grips\n🟢 saddle: Selle San Marco\n🟢 crankset: 38t\n🟢 cassette: 11 - 31 8s\n🟢 chain: kmc\n🟢 derailleur: shim",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Other)",
-          "Peu adapté à ton usage (28 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (30 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Other",
-        "frame": "acier",
-        "shifting": "mécanique",
-        "brakes": "sur jante",
-        "size_cm": null,
-        "color": "rouge",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 350.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
       }
     },
     {
@@ -33568,7 +33766,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (15 favoris)",
+          "Annonce très regardée (16 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35693,5 +35891,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T16:53:49+00:00"
+  "genere_le": "2026-07-12T17:25:19+00:00"
 }
