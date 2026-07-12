@@ -3691,7 +3691,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1079€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Sram Apex Etap AXS électronique, freins à disque, taille M, 2026, bleu. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Sram Apex Etap AXS, taille M, 2026. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Checkpoint ALR 5 Gen 3 se situe en milieu de gamme dans la famille gravel de Trek : au-dessus des ALR d'entrée mais sous les modèles carbone SL/SLR, il offre le meilleur rapport qualité/prix de la série alu. Le cadre est en aluminium 300 Series Alpha hydroformé avec fourche carbone, câblage interne partiel et le système IsoSpeed découpleur à l'arrière (sur les Gen 3) qui améliore le confort sur terrain cassant, atout notable pour un cadre alu. Le montage 2026 en SRAM Apex eTap AXS apporte un passage de vitesses électronique sans fil fiable et sans entretien de câbles, en 1x généralement, avec grande cassette adaptée au gravel vallonné. L'usage visé est polyvalent : gravel léger à moyen, bikepacking modéré et route, avec de nombreux inserts (porte-bagages, garde-boue, fixations sur cadre/fourche) qui le rendent excellent pour le vélotaf toute l'année. Points forts : robustesse de l'alu, confort IsoSpeed, transmission électronique, freins à disque hydrauliques, géométrie endurance stable ; limites : poids supérieur au carbone, Apex reste le niveau d'entrée eTap (dérailleur plus lourd, pas d'AXS haut de gamme), et le 1x pénalise un peu l'étagement sur route rapide. La réputation Trek sur les ALR est solide en fiabilité et SAV, garantie cadre à vie ; c'est un choix pertinent en occasion pour un usage mixte quotidien exigeant.",
         "vision": "Cadre aluminium, fourche carbone, groupe sram apex xplr 1x12, freins disque hydraulique, pneus 42 mm, tubeless, fixations garde-boue/rack. État visuel : La transmission montre une chaîne et une cassette légèrement grisées par un usage modéré mais sans usure marquée, les dents du plateau 40T X-SYNC restent nettes et les pneus Girona Pro conservent une sculpture bien présente. L'ensemble paraît propre et récent, avec des disques peu marqués et aucune corrosion visible. ⚠ À vérifier : Chaîne et cassette un peu encrassées/oxydées superficiellement, à nettoyer et vérifier l'usure à la jauge ; contrôler l'alignement du dérailleur Apex et la présence éventuelle de micro-rayures sur le cadre alu peint. (confiance 88%)",
         "description_vendeur": "La bicicleta ha sido utilizada dos veces, no tiene más de 60-70 km, está prácticamente nueva, bien cuidada y sin golpes ni daños visibles.",
@@ -3713,11 +3713,11 @@
       },
       "specs": {
         "groupset": "Sram Apex Etap AXS",
-        "frame": "aluminium",
-        "shifting": "électronique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "bleu",
+        "color": null,
         "condition": null,
         "poids_kg": 10.4,
         "degagement_mm": 45
@@ -11698,7 +11698,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−19 % vs cote (~1110 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (16 favoris)",
+          "Annonce très regardée (17 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13552,13 +13552,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 152.0,
-        "n_ventes": 5,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13642,13 +13642,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 152.0,
-        "n_ventes": 5,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13823,13 +13823,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 152.0,
-        "n_ventes": 5,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -13914,13 +13914,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 152.0,
-        "n_ventes": 5,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14005,13 +14005,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 152.0,
-        "n_ventes": 5,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -24452,13 +24452,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 152.0,
-        "n_ventes": 5,
+        "ecart_type": 149.0,
+        "n_ventes": 6,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±152 € (5 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -30473,6 +30473,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
+          "Annonce très regardée (8 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34485,5 +34486,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T06:50:21+00:00"
+  "genere_le": "2026-07-12T07:20:35+00:00"
 }
