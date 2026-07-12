@@ -18459,8 +18459,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 617,
-      "prix_max_calcul": "750€ (prix affiché) × (0.62 + 0.28 × 73% fit) = 617€",
+      "prix_max_conseille": 623,
+      "prix_max_calcul": "750€ (prix affiché) × (0.62 + 0.28 × 75% fit) = 623€",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -18472,25 +18472,25 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652593/04946d53-645c-48c7-bcf9-42ff6fbd4af1.webp",
       "score": 6.5,
-      "fit_pct": 73,
+      "fit_pct": 75,
       "axes": {
-        "technique": 6.3,
+        "technique": 7.3,
         "financier": 6.0,
         "usage": 8.5,
         "plaisir": 5.0,
         "valeur": 5.0
       },
-      "verdict": "Correct (~73% du besoin) — ATTENDRE une baisse ou mieux.",
+      "verdict": "Correct (~75% du besoin) — ATTENDRE une baisse ou mieux.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano 105 Di2 électronique, freins sur jante, taille 54 cm, 2018, light gray. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105 Di2, taille M, 2018. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le LOMBARDO Imola 4.0 2018 est un vélo de route positionné dans le milieu de gamme de cette marque italienne (Palermo), l'Imola étant une famille route classique nettement en dessous des modèles compétition haut de gamme. La mention 'Shimano 105 Di2' est incohérente pour ce modèle/millésime : en 2018 le 105 n'existait qu'en version mécanique (5800 puis R7000), le Di2 n'étant proposé que sur Ultegra/Dura-Ace — il s'agit donc probablement d'un 105 mécanique 11v, à vérifier impérativement sur pièces. Le vélo est annoncé cadre et fourche carbone avec freins sur jante (patins), configuration typique route sport d'entraînement/cyclosportive, pas orientée gravel. LOMBARDO reste une marque à faible notoriété et faible valeur de revente, avec des cadres corrects mais un montage souvent économique (roues, périphériques d'entrée de gamme) qui pèse sur les performances réelles. Pour le vélotaf toute l'année, les freins sur jante perdent en efficacité sous la pluie et usent la jante, le dégagement pneu est limité et il n'y a généralement pas de fixations garde-boue/porte-bagages, ce qui le rend peu adapté à un usage quotidien intensif. Pour le gravel léger il est inadapté (géométrie route, pneus étroits, freins sur jante). À l'achat d'occasion, la priorité est de contrôler l'état du cadre carbone (chocs, fissures aux zones de contrainte), l'usure des jantes (pistes de freinage) et la réalité exacte du groupe.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11, freins patins, pneus 25 mm. État visuel : Transmission Shimano 105 (11v) avec plateaux et chaîne présentant une usure modérée et des traces de graisse noircie, pneus Vittoria avec sculpture encore correcte mais flancs marqués. Patins de frein sur jantes Fulcrum Racing Sport, ensemble globalement propre mais poussiéreux, quelques micro-rayures cosmétiques sur cadre et fourche. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne/cassette (transmission encrassée), état des patins et surface de freinage des jantes ; contrôler la fourche carbone 'imola' pour tout impact caché. (confiance 82%)",
         "description_vendeur": "pequeñas rozaduras en las pegatinas",
         "plus_velo": [
           "Groupe bon (Shimano 105 Di2)",
           "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (73 % du besoin)"
+          "Bien adapté à ton usage (75 % du besoin)"
         ],
         "moins_velo": [
           "Freins mécaniques / sur jante"
@@ -18504,11 +18504,11 @@
       },
       "specs": {
         "groupset": "Shimano 105 Di2",
-        "frame": "carbone",
-        "shifting": "électronique",
-        "brakes": "sur jante",
-        "size_cm": "54",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -34484,5 +34484,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T04:49:30+00:00"
+  "genere_le": "2026-07-12T05:19:48+00:00"
 }
