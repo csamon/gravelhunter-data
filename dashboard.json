@@ -17458,7 +17458,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−20 % vs cote (~749 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33578,8 +33578,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "IGNORER",
-      "prix": 1400.0,
-      "cout_reel": 1645,
+      "prix": 1300.0,
+      "cout_reel": 1545,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -33602,10 +33602,10 @@
       "fit_pct": 17,
       "axes": {
         "technique": 3.5,
-        "financier": 2.0,
+        "financier": 2.9,
         "usage": 1.0,
         "plaisir": 5.0,
-        "valeur": 1.7
+        "valeur": 2.5
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
@@ -33626,6 +33626,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33649,6 +33650,10 @@
         {
           "date": "2026-07-05",
           "prix": 1400.0
+        },
+        {
+          "date": "2026-07-12",
+          "prix": 1300.0
         }
       ],
       "marche_modele": {
@@ -34576,5 +34581,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-12T08:51:33+00:00"
+  "genere_le": "2026-07-12T09:21:40+00:00"
 }
