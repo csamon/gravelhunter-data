@@ -6969,7 +6969,7 @@
       "verdict": "Bon vélo pour ton usage (~79% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2019, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2019. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grail CF SL 7.0 2019 se situe en entrée/milieu de gamme carbone de la série Grail, au-dessus des versions alu (Grail AL) mais nettement en dessous des CF SLX haut de gamme (cadre plus rigide et léger, meilleurs groupes). Sa signature technologique est le fameux cintre 'Hover Bar' double-pont (cockpit CP07 à deux niveaux), pensé pour amortir les vibrations sur terrain roulant et offrir une position basse aéro plus une position haute confortable. Le montage Shimano 105 (11 vitesses, mécanique) est fiable, cohérent avec le prix, mais les freins à disque de cette génération sont souvent hydrauliques 105 corrects ; vérifier l'usure des plaquettes/disques et l'état des durites. Points forts : cadre et fourche carbone confortables, géométrie gravel polyvalente, bon rapport qualité/prix à l'origine ; limites concrètes : le cintre intégré double-pont est clivant (ergonomie, réglages limités, remplacement coûteux et difficile en cas de casse ou d'inadaptation), et les roues/pneus d'origine sont assez basiques. Fiabilité globale correcte pour un usage gravel léger et route, mais surveiller les inserts et la potence intégrée propriétaire. Pour le vélotaf quotidien toute l'année, c'est jouable (freins disque, dégagement pneus, confort) mais le cockpit spécifique complique l'ajout d'accessoires (sacoches de cintre, éclairage, compteur) et il faudra prévoir garde-boue compatibles et pneus plus increvables.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11 (mixé, dérailleur arrière type gs), freins disque hydraulique. État visuel : Transmission propre avec chaîne et plateaux montrant une usure modérée sans dents crochues visibles ; pneus type gravel/CX à crampons à l'usure encore correcte. Étriers hydrauliques présents (durites visibles), disques et cadre en bon état apparent, quelques traces d'usage sur la guidoline mais globalement propre. ⚠ À vérifier : Guidoline usée/décollée par endroits ; combinaison de composants (manettes Shimano, plateau visible marqué 'SD') à vérifier pour cohérence du groupe ; vérifier état des plaquettes et voile des disques de près. (confiance 55%)",
         "description_vendeur": "Buen estado general. \nPrever cambio de cinta de manillar. \nArañazos por desgaste en las vainas debido al roce de las zapatillas con el cuadro.",
@@ -6991,11 +6991,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -7670,8 +7670,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 1200.0,
-      "cout_reel": 1445,
+      "prix": 1150.0,
+      "cout_reel": 1395,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -7694,10 +7694,10 @@
       "fit_pct": 94,
       "axes": {
         "technique": 8.0,
-        "financier": 6.5,
+        "financier": 6.9,
         "usage": 10.0,
         "plaisir": 6.0,
-        "valeur": 4.6
+        "valeur": 4.9
       },
       "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
@@ -7719,7 +7719,8 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (116 favoris)",
+          "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (117 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7743,6 +7744,10 @@
         {
           "date": "2026-07-05",
           "prix": 1200.0
+        },
+        {
+          "date": "2026-07-13",
+          "prix": 1150.0
         }
       ],
       "marche_modele": {
@@ -12119,9 +12124,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -15477,7 +15482,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (34 favoris)",
+          "Annonce très regardée (35 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16310,7 +16315,7 @@
         ],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (40 favoris)",
+          "Annonce très regardée (41 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22693,8 +22698,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 945,
-      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 47% fit) = 1050€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 959,
+      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 1066€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -22706,7 +22711,7 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2391687/209bff8d-1eef-40eb-ac8f-80f22b8f220e.webp",
       "score": 4.8,
-      "fit_pct": 47,
+      "fit_pct": 51,
       "axes": {
         "technique": 6.5,
         "financier": 6.0,
@@ -22716,10 +22721,12 @@
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe SRAM Force mécanique, freins à disque, taille 54 cm, 2015, noir. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Revisión completa de cadena, rodamientos y pastillas de freno.\n\nDisponible (NO INCLUIDA EN EL PRECIO) también rueda de entrenamiento de aluminio Mavic Ksyrium.",
@@ -22739,11 +22746,11 @@
       },
       "specs": {
         "groupset": "SRAM Force",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -35764,7 +35771,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -36265,5 +36272,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T09:59:29+00:00"
+  "genere_le": "2026-07-13T10:30:21+00:00"
 }
