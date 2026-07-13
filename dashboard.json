@@ -21699,7 +21699,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (31 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -25518,6 +25518,100 @@
       }
     },
     {
+      "titre": "Marin DSX 2 2025 2025",
+      "url": "https://buycycle.com/product/dsx-2-2025-14119",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 880.0,
+      "cout_reel": 1065,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 542,
+      "prix_max_calcul": "839€ (cote) × (0.62 + 0.28 × 35% fit) = 602€ − 10 % (infos manquantes)",
+      "cote": 839.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Marin",
+      "modele": "DSX 2 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2596517/34254844-c094-47fa-ba35-5bea8739aba3.webp",
+      "score": 4.1,
+      "fit_pct": 35,
+      "axes": {
+        "technique": 6.0,
+        "financier": 5.5,
+        "usage": 2.5,
+        "plaisir": 5.5,
+        "valeur": 4.6
+      },
+      "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Deore, taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "La bicicleta se vende con las ruedas originales y los neumáticos nuevos que mencioné, configurados como tubeless.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (35 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~839 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Deore",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1000.0
+        },
+        {
+          "date": "2026-07-13",
+          "prix": 880.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Cannondale Slate Ultegra 2017 2017",
       "url": "https://buycycle.com/product/slate-ultegra-2017-13572",
       "source": "buycycle",
@@ -27426,7 +27520,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−51 % vs cote (~2460 €)",
-          "Annonce très regardée (37 favoris)",
+          "Annonce très regardée (38 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -27548,95 +27642,6 @@
         "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "Marin DSX 2 2025 2025",
-      "url": "https://buycycle.com/product/dsx-2-2025-14119",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 1000.0,
-      "cout_reel": 1185,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 542,
-      "prix_max_calcul": "839€ (cote) × (0.62 + 0.28 × 35% fit) = 602€ − 10 % (infos manquantes)",
-      "cote": 839.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Marin",
-      "modele": "DSX 2 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2596517/34254844-c094-47fa-ba35-5bea8739aba3.webp",
-      "score": 3.2,
-      "fit_pct": 35,
-      "axes": {
-        "technique": 6.0,
-        "financier": 4.1,
-        "usage": 2.5,
-        "plaisir": 5.5,
-        "valeur": 3.5
-      },
-      "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Deore, taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "La bicicleta se vende con las ruedas originales y los neumáticos nuevos que mencioné, configurados como tubeless.",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (35 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~839 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Deore",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1000.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -33036,7 +33041,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (17 favoris)",
+          "Annonce très regardée (18 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -37148,5 +37153,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T17:32:09+00:00"
+  "genere_le": "2026-07-13T18:02:18+00:00"
 }
