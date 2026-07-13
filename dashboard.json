@@ -1,5 +1,5 @@
 {
-  "total": 398,
+  "total": 399,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -6833,6 +6833,105 @@
       }
     },
     {
+      "titre": "CUBE NUROAD, RACE FE 2026 2026",
+      "url": "https://buycycle.com/product/nuroad-race-fe-2026-72408",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1290.0,
+      "cout_reel": 1450,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 737,
+      "prix_max_calcul": "959€ (cote) × (0.62 + 0.28 × 84% fit) = 819€ − 10 % (infos manquantes)",
+      "cote": 959.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "CUBE",
+      "modele": "NUROAD, RACE FE 2026",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2656767/76827719-3319-4c80-a9ee-97a2d207eeae.webp",
+      "score": 7.1,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.0,
+        "financier": 2.5,
+        "usage": 8.7,
+        "plaisir": 9.0,
+        "valeur": 2.2
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~737€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2026, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Cube Nuroad : gravel bien né, finition et équipement au-dessus du prix. Les FE tirent vers la route, l'EX vers l'aventure.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 2x (manettes grx, pédivelle grx), freins disque hydraulique, fixations garde-boue/rack. État visuel : La chaîne présente une corrosion/rouille superficielle marquée et la transmission est encrassée (poussière), plateaux et cassette semblent peu usés. Les pneus à crampons montrent une sculpture bien présente, cadre globalement propre avec quelques traces de poussière mais sans impacts majeurs visibles. ⚠ À vérifier : Chaîne rouillée à nettoyer/remplacer et à vérifier l'usure ; contrôler l'état de la cassette et la tension des câbles. Vérifier plaquettes et disques non clairement visibles. (confiance 55%)",
+        "description_vendeur": "La Cube Nuroad Race FE 2026 se encuentra en muy buen estado y ha sido utilizada muy poco. La vendo porque, personalmente, la forma o posición del manillar no me resulta cómoda. La bicicleta ha sido tratada con cuidado y no presenta daños significativos. Se ha formado un ligero óxido superficial en la cadena debido a que fue encerada. Aparte de esto, la bicicleta se encuentra en muy buen estado tan",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~959 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x (manettes GRX, pédivelle GRX)",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "La chaîne présente une corrosion/rouille superficielle marquée et la transmission est encrassée (poussière), plateaux et cassette semblent peu usés. Les pneus à crampons montrent une sculpture bien présente, cadre globalement propre avec quelques traces de poussière mais sans impacts majeurs visibles.",
+        "points_attention": "Chaîne rouillée à nettoyer/remplacer et à vérifier l'usure ; contrôler l'état de la cassette et la tension des câbles. Vérifier plaquettes et disques non clairement visibles.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1290.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Cannondale Slate Apex 2017 2017",
       "url": "https://buycycle.com/product/slate-apex-2017-81699",
       "source": "buycycle",
@@ -7819,7 +7918,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (117 favoris)",
+          "Annonce très regardée (118 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22166,9 +22265,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -26844,7 +26943,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−51 % vs cote (~2460 €)",
-          "Annonce très regardée (36 favoris)",
+          "Annonce très regardée (37 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -36472,5 +36571,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T13:31:00+00:00"
+  "genere_le": "2026-07-13T14:01:51+00:00"
 }
