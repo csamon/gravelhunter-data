@@ -1,5 +1,5 @@
 {
-  "total": 400,
+  "total": 402,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -3567,6 +3567,104 @@
       }
     },
     {
+      "titre": "Bottecchia 47 BR GRAVEL MONSTER Shimano GRX 400 2026",
+      "url": "https://buycycle.com/product/47-br-gravel-monster-shimano-grx-4006a54f84b34fa3-19383",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1250.0,
+      "cout_reel": 1410,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 968,
+      "prix_max_calcul": "1250€ (prix affiché) × (0.62 + 0.28 × 86% fit) = 1075€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Bottecchia",
+      "modele": "47 BR GRAVEL MONSTER Shimano GRX 400",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2656928/032e1442-d86a-4b02-a510-67bf9c41a088.webp",
+      "score": 8.5,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo pour ton usage (~86% du besoin) — CONTACTER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, taille 53 cm, 2026, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Bottecchia 47 BR Gravel Monster 2026 se positionne en entrée/milieu de gamme gravel chez ce fabricant italien historique, aujourd'hui davantage connu pour son rapport qualité/prix que pour l'exclusivité technique. Le cadre aluminium associé à une fourche carbone est une combinaison classique et éprouvée dans ce segment : robustesse et coût maîtrisé côté cadre, filtrage et gain de poids sur l'avant. Le groupe Shimano GRX RX400 (2x10 vitesses) est fiable et parfaitement adapté au gravel, avec un étagement large, un embrayage de chape limitant les déraillements, et une bonne disponibilité de pièces, mais reste l'échelon d'accès de la gamme GRX (freinage hydraulique généralement présent selon finition). Usage visé : gravel roulant, chemins et pistes, bikepacking léger et polyvalence route/piste, sans prétention à la performance haute ou au gravel très technique. Points forts : durabilité de l'alu, entretien simple, coût d'entrée bas, GRX endurant ; limites concrètes : poids supérieur aux cadres carbone, confort dépendant des pneus/tige de selle, et un rendement moins vif que des modèles plus haut de gamme. La réputation de fiabilité Bottecchia sur l'alu est correcte sans être exceptionnelle, la valeur résiduelle en occasion restant modeste. Pour le vélotaf quotidien toute l'année, c'est un choix cohérent (freins à disque, dégagement pneus, points de fixation probables pour garde-boue/porte-bagages), à condition de vérifier l'état réel de la transmission et des roulements.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx rx400 2x10, freins disque hydraulique, fixations garde-boue/rack. État visuel : Vélo d'apparence quasi neuve : transmission propre avec plateaux/chaîne sans usure visible et pneus à crampons non entamés. Aucune rayure, impact ni corrosion notable, ensemble très propre. ⚠ À vérifier : Les manettes/leviers portent la mention Shimano mais la série exacte (GRX 400) n'est pas lisible à 100%, à confirmer sur les dérailleurs ; dimensions et mention tubeless des pneus non lisibles sur les flancs. (confiance 55%)",
+        "description_vendeur": "Vendo bicicleta nueva por problemas físicos... nueva, preciosa, ni siquiera 200 km, ¡¡¡una verdadera ganga!!!",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": null,
+        "size_cm": "53",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX RX400 2x10",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Vélo d'apparence quasi neuve : transmission propre avec plateaux/chaîne sans usure visible et pneus à crampons non entamés. Aucune rayure, impact ni corrosion notable, ensemble très propre.",
+        "points_attention": "Les manettes/leviers portent la mention Shimano mais la série exacte (GRX 400) n'est pas lisible à 100%, à confirmer sur les dérailleurs ; dimensions et mention tubeless des pneus non lisibles sur les flancs.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Ridley Kanzo Adventure Alu - Shimano GRX400 2x10sp 2024 2024",
       "url": "https://buycycle.com/product/kanzo-adventure-alu-shimano-grx400-2x10sp-2024-74312",
       "source": "buycycle",
@@ -4286,7 +4384,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7364,7 +7462,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Conway GRV 6.0 2023 se positionne en entrée/milieu de gamme gravel chez Conway (marque du groupe allemand Hermann Hartje), au-dessus des versions équipées de groupes Shimano de niveau inférieur mais sous les déclinaisons GRV 8.0/haut de gamme carbone. Il combine typiquement un cadre alu avec fourche carbone, un compromis classique visant à limiter le coût tout en gagnant en confort et poids sur l'avant. Le groupe Shimano GRX (probablement RX400/RX600 en 10 ou 11 vitesses selon la finition exacte) est un vrai atout : fiable, endurant, avec ergonomie pensée pour le gravel et compatibilité freins à disque hydrauliques. L'usage visé est le gravel polyvalent et le bikepacking léger, avec une géométrie plutôt confort/endurance qu'agressive. Points forts : robustesse du cadre alu, fourche carbone, groupe éprouvé, bon rapport prix/prestations en occasion ; limites : poids contenu mais pas léger, cadre alu moins filtrant qu'un carbone, périphériques (roues, cintre, tige) souvent premier prix qui bornent la performance. La réputation Conway est correcte sans être prestigieuse, avec une fiabilité générale honnête pour un usage loisir/quotidien. Pour le vélotaf toute l'année il est pertinent (montage disque, dégagement pneus, œillets probables pour garde-boue/porte-bagages), et il reste adapté au gravel léger sans prétendre à la haute performance.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x11, freins disque hydraulique. État visuel : Transmission très encrassée avec chaîne et cassette sales mais dents de plateau et pignons encore correctes sans usure marquée, pneus Continental Terra Trail à crampons présentant une sculpture encore bien présente. Disques de frein en bon état, vélo globalement sale/poussiéreux nécessitant un nettoyage complet mais sans corrosion ni impact visible majeur. ⚠ À vérifier : Vérifier l'usure exacte de la chaîne (jauge) vu l'encrassement important, contrôler le jeu de la roue-guide du dérailleur arrière et l'état du galet, nettoyer pour inspecter le cadre alu et les jantes carbone (EC90) sous la saleté. (confiance 55%)",
         "description_vendeur": "Conway gravel bike in perfect condition, I have added the following upgrades:\nFulcrum Rapid Red 5 wheels\nRITCHEY Comp Beacon handlebar\nNew Vittoria Terreno tires\nUpgraded 11-42 cassette\nSuspension stem",
@@ -7385,11 +7483,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -7923,7 +8021,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−24 % vs cote (~900 €)",
-          "Annonce très regardée (54 favoris)",
+          "Annonce très regardée (55 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -8015,7 +8113,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (118 favoris)",
+          "Annonce très regardée (119 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9016,7 +9114,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (58 favoris)",
+          "Annonce très regardée (59 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -25828,9 +25926,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -34403,6 +34501,96 @@
       }
     },
     {
+      "titre": "Fuji Jari 2.5 2025 2025",
+      "url": "https://buycycle.com/product/jari-25-2025-44656",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 699.0,
+      "cout_reel": 944,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 310,
+      "prix_max_calcul": "517€ (cote) × (0.62 + 0.28 × 17% fit) = 345€ − 10 % (infos manquantes)",
+      "cote": 517.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Fuji",
+      "modele": "Jari 2.5 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2656924/ce73939e-e6f6-4beb-bd55-c9e22d4d7356.webp",
+      "score": 0.3,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 2.5,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 2.2
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Altus mécanique, freins à disque, taille 54 cm, 2025, light gray. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Bicicleta nueva, con todos los accesorios, empaquetada en una caja.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Altus)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~517 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Altus",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 699.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Bergamont Grandurance RD 3 silver 2022 2022",
       "url": "https://buycycle.com/product/grandurance-rd-3-silver-2022-48730",
       "source": "buycycle",
@@ -36670,5 +36858,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T14:32:26+00:00"
+  "genere_le": "2026-07-13T15:02:12+00:00"
 }
