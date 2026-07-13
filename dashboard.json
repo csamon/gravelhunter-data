@@ -7720,7 +7720,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (117 favoris)",
+          "Annonce très regardée (116 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -8532,7 +8532,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (79 favoris)",
+          "Annonce très regardée (77 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -10732,7 +10732,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (28 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -11089,6 +11089,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (19 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12087,7 +12088,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−19 % vs cote (~1110 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (19 favoris)",
+          "Annonce très regardée (18 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -36263,5 +36264,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T06:28:29+00:00"
+  "genere_le": "2026-07-13T06:58:27+00:00"
 }
