@@ -22668,6 +22668,97 @@
       }
     },
     {
+      "titre": "Marin DSX 2 2025 2025",
+      "url": "https://buycycle.com/product/dsx-2-2025-14119",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 880.0,
+      "cout_reel": 1065,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 571,
+      "prix_max_calcul": "839€ (cote) × (0.62 + 0.28 × 48% fit) = 634€ − 10 % (infos manquantes)",
+      "cote": 839.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Marin",
+      "modele": "DSX 2 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2596517/34254844-c094-47fa-ba35-5bea8739aba3.webp",
+      "score": 5.2,
+      "fit_pct": 48,
+      "axes": {
+        "technique": 7.0,
+        "financier": 5.5,
+        "usage": 4.0,
+        "plaisir": 5.5,
+        "valeur": 4.6
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~571€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Deore, taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Marin DSX 2 2025 se situe en milieu de gamme dans la famille DSX de Marin, au-dessus du DSX 1 (transmission plus basique) et sous d'éventuelles versions supérieures, avec un cadre aluminium Series 3 doté d'une géométrie orientée fitness/gravel urbain et non pure performance route. Il se distingue par une transmission Shimano Deore 1x (mono-plateau) offrant une large plage de développements bien adaptée au polyvalent, un freinage à disque hydraulique, un cintre plat type flat-bar et des passages de gaines/câbles conventionnels facilitant l'entretien. L'usage visé est clairement le trekking/gravel léger et le déplacement urbain plutôt que le gravel engagé ou la longue distance sur chemins techniques. Points forts : robustesse du cadre alu, fiabilité éprouvée du Deore, position droite confortable et confortable en ville, capacité à monter garde-boue et porte-bagages via inserts. Limites concrètes : poids assez élevé typique de l'alu d'entrée/milieu, cintre plat moins polyvalent qu'un cintre route pour les longues sorties, et composants milieu de gamme (roues, périphériques) qui bornent la performance. La réputation Marin sur ces gammes est correcte en fiabilité mais sans éclat technologique, avec un rapport qualité/prix moyen. Pour du vélotaf quotidien toute l'année il est pertinent (montage garde-boue/éclairage/porte-bagages, entretien simple), et il reste honnête en gravel léger sans prétendre au tout-terrain exigeant.",
+        "vision": "",
+        "description_vendeur": "La bicicleta fue comprada el 01/03/2026 y ha tenido un uso ligero. Está en excelentes condiciones.\n\nMejoras:\n\nConfiguración tubeless con neumáticos de gravel WTB Vulpine TCS Light Fast Rolling SG2 700 × 40 (aproximadamente 400 km de uso).\nSillín Selle Italia Talisman Flow (aproximadamente 200 km de uso).\n\nVendo la bicicleta porque voy a cambiar a una disciplina de ciclismo diferente.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~839 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Deore",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1000.0
+        },
+        {
+          "date": "2026-07-13",
+          "prix": 880.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Scott Scale L-TWOO GRT 2026",
       "url": "https://buycycle.com/product/scale-81401",
       "source": "buycycle",
@@ -25515,100 +25606,6 @@
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1149 € ±148 € (9 ventes) · liquidité méd. 2 j"
-      }
-    },
-    {
-      "titre": "Marin DSX 2 2025 2025",
-      "url": "https://buycycle.com/product/dsx-2-2025-14119",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 880.0,
-      "cout_reel": 1065,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 542,
-      "prix_max_calcul": "839€ (cote) × (0.62 + 0.28 × 35% fit) = 602€ − 10 % (infos manquantes)",
-      "cote": 839.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Marin",
-      "modele": "DSX 2 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2596517/34254844-c094-47fa-ba35-5bea8739aba3.webp",
-      "score": 4.1,
-      "fit_pct": 35,
-      "axes": {
-        "technique": 6.0,
-        "financier": 5.5,
-        "usage": 2.5,
-        "plaisir": 5.5,
-        "valeur": 4.6
-      },
-      "verdict": "Peu adapté à ton usage (~35% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Deore, taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "La bicicleta se vende con las ruedas originales y los neumáticos nuevos que mencioné, configurados como tubeless.",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (35 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~839 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Deore",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1000.0
-        },
-        {
-          "date": "2026-07-13",
-          "prix": 880.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
       }
     },
     {
@@ -37153,5 +37150,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T18:02:18+00:00"
+  "genere_le": "2026-07-13T18:32:38+00:00"
 }
