@@ -1,5 +1,5 @@
 {
-  "total": 395,
+  "total": 396,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -5562,6 +5562,101 @@
         {
           "date": "2026-07-10",
           "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "RIVERSIDE Riverside Touring 920 2020",
+      "url": "https://buycycle.com/product/riverside-touring-9206a53ed4ae3c80-33185",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1200.0,
+      "cout_reel": 1360,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1020,
+      "prix_max_calcul": "1200€ (prix affiché) × (0.62 + 0.28 × 82% fit) = 1020€",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": "fiche annonce « SRAM Rival » mais la photo semble montrer « SRAM Apex 1x11 »",
+      "alerte": null,
+      "marque": "RIVERSIDE",
+      "modele": "Riverside Touring 920",
+      "taille": "M",
+      "annee": 2020,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2655641/2f4f7c5b-6a48-4527-a4f9-07073b0765a0.webp",
+      "score": 7.9,
+      "fit_pct": 82,
+      "axes": {
+        "technique": 7.5,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Rival mécanique, freins à disque, taille 53 cm, 2020, vert. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le RIVERSIDE Touring 920 2020 est un vélo de voyage/randonnée longue distance positionné en haut de la gamme cyclotourisme de Decathlon, au-dessus des Touring 500/520 plus grand public. Il se distingue par un cadre aluminium associé à une fourche acier, choix orienté confort et robustesse pour le chargement plutôt que légèreté, avec géométrie relevée typée endurance/touring. L'équipement SRAM Rival (transmission route/gravel fiable et réparable) et les freins à disque le rendent apte au vélotaf toute l'année et aux longues sorties chargées, avec généralement des œillets pour porte-bagages et garde-boue. Points forts : capacité d'emport, confort sur longue distance, standards répandus facilitant l'entretien, bon rapport prix/équipement. Limites concrètes : poids élevé (fourche acier + cadre alu robuste), dynamisme modéré, dégagement pneus plus orienté 40-45 mm que gravel large, et disponibilité incertaine des pièces spécifiques Decathlon à revendre. La fiabilité de la base mécanique est correcte, mais sur l'occasion il faut vérifier l'usure de la transmission, l'état des roulements et des freins. Pour un usage vélotaf quotidien + gravel léger il est pertinent, à condition d'accepter son poids et son caractère plus tourisme que sportif.",
+        "vision": "Cadre acier, fourche acier, groupe sram apex 1x11, freins disque mécanique, pneus 47 mm, fixations garde-boue/rack. État visuel : Transmission mono-plateau SRAM propre avec chaîne et cassette peu marquées, pneus Vittoria Terreno à sculpture encore bien présente. Cadre acier vert kaki globalement propre, quelques traces d'usage possibles mais pas d'impact ou de corrosion visible. ⚠ À vérifier : Freins à disque mécaniques (câble visible, pas de durite hydraulique) - à vérifier tension/plaquettes ; monté en config bikepacking lourdement chargé, contrôler l'usure réelle des pneus et le jeu de direction. Selle Brooks et cintre type 'butterfly/trekking' non d'origine. (confiance 60%)",
+        "description_vendeur": "sin arañazos visibles",
+        "plus_velo": [
+          "Groupe bon (SRAM Rival)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (82 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Rival",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "53",
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 1x11",
+        "freins": "disque mécanique",
+        "fourche": "acier",
+        "cadre": "acier",
+        "pneus_mm": 47,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission mono-plateau SRAM propre avec chaîne et cassette peu marquées, pneus Vittoria Terreno à sculpture encore bien présente. Cadre acier vert kaki globalement propre, quelques traces d'usage possibles mais pas d'impact ou de corrosion visible.",
+        "points_attention": "Freins à disque mécaniques (câble visible, pas de durite hydraulique) - à vérifier tension/plaquettes ; monté en config bikepacking lourdement chargé, contrôler l'usure réelle des pneus et le jeu de direction. Selle Brooks et cintre type 'butterfly/trekking' non d'origine.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1200.0
         }
       ],
       "marche_modele": {
@@ -36168,5 +36263,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T04:27:48+00:00"
+  "genere_le": "2026-07-13T04:58:38+00:00"
 }
