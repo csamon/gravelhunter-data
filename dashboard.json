@@ -1,5 +1,5 @@
 {
-  "total": 396,
+  "total": 398,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -2079,7 +2079,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−20 % vs cote (~1499 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (20 favoris)",
+          "Annonce très regardée (21 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2692,6 +2692,105 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Megamo JAKAR 30 2025 2025",
+      "url": "https://buycycle.com/product/jakar-30-2025-72308",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1020.0,
+      "cout_reel": 1180,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 789,
+      "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 86% fit) = 877€ − 10 % (infos manquantes)",
+      "cote": 1019.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Megamo",
+      "modele": "JAKAR 30 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2656438/5dbc51e5-7595-4352-a9bd-e79fb67e3f52.webp",
+      "score": 8.8,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.8,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~789€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2025, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Megamo JAKAR 30 2025 se positionne en entrée/milieu de gamme dans la série gravel JAKAR du fabricant espagnol Megamo, marque relativement confidentielle hors de la péninsule ibérique. Il combine un cadre en aluminium (économique et robuste mais moins confortable qu'un carbone) avec une fourche carbone qui filtre une partie des vibrations sur l'avant, un choix pertinent à ce niveau de prix. La transmission Shimano GRX (probablement en configuration 1x ou 2x d'entrée, type RX400/RX600 selon la déclinaison exacte) est spécifiquement conçue pour le gravel avec une ergonomie adaptée et une bonne fiabilité éprouvée. Les freins à disque hydrauliques assurent un freinage constant par tous temps, un atout majeur pour le vélotaf annuel. Points forts : polyvalence route/chemins, robustesse du cadre alu, GRX fiable et facile à entretenir ; limites : poids probablement supérieur à 10 kg, absence probable de fixations complètes (garde-boue/porte-bagages à vérifier impérativement pour un usage vélotaf), et pièces périphériques (roues, cintre) souvent de gamme basique pour tenir le prix. La réputation Megamo est correcte mais le SAV et la disponibilité des pièces cadre-spécifiques peuvent être limités hors Espagne. Pour un usage vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent à condition de vérifier les fixations accessoires et le dégagement pneu réel.",
+        "vision": "Cadre aluminium, fourche carbone, freins disque hydraulique, fixations garde-boue/rack. État visuel : Le vélo paraît en très bon état général, transmission et plateau propres sans usure marquée visible, pneus à crampons présentant une sculpture bien présente. Aucune rayure, impact ou trace de corrosion notable ; l'ensemble est propre et bien entretenu. ⚠ À vérifier : Guidoline avant partiellement usée/décollée sur le cintre ; groupe non identifiable précisément sur les photos (manettes double commande à disque hydraulique visibles mais séries des dérailleurs illisibles). Vérifier le double plateau exact et le nombre de vitesses. (confiance 40%)",
+        "description_vendeur": "Pequeño arañazo en la maneta derecha. Pequeño arañazo en el cambio de piñones. Algunas marcas de piedras en el cuadro, normales del uso por grava.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1019 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": null,
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Le vélo paraît en très bon état général, transmission et plateau propres sans usure marquée visible, pneus à crampons présentant une sculpture bien présente. Aucune rayure, impact ou trace de corrosion notable ; l'ensemble est propre et bien entretenu.",
+        "points_attention": "Guidoline avant partiellement usée/décollée sur le cintre ; groupe non identifiable précisément sur les photos (manettes double commande à disque hydraulique visibles mais séries des dérailleurs illisibles). Vérifier le double plateau exact et le nombre de vitesses.",
+        "confiance": 0.4
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1020.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": 1110.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -3885,7 +3984,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Scott Speedster Gravel 40 2024 se situe en entrée de gamme gravel chez Scott, juste au-dessus du modèle 50 et sous les Speedster Gravel 30/20/10 mieux équipés. Il repose sur un cadre aluminium (alliage 6061) associé à une fourche carbone, une combinaison classique à ce niveau de prix qui privilégie la robustesse et le coût plutôt que la légèreté. Sa transmission Shimano GRX en 2x (généralement GRX 400/RX400 sur cette finition) offre une plage de développements confortable et une fiabilité éprouvée, avec freinage à disque hydraulique. L'usage visé est polyvalent : gravel roulant, chemins peu techniques, cyclotourisme léger et vélotaf, la géométrie étant relativement endurante et stable plutôt que joueuse. Points forts : montage cohérent et durable, freins fiables, cadre alu tolérant et facile à entretenir, présence d'inserts pour porte-bagages/garde-boue le rendant crédible pour un usage quotidien toute l'année ; limites : poids élevé pénalisant en montée, périphériques d'entrée de gamme (roues et pneus basiques à surveiller/upgrader), confort en retrait d'un cadre carbone sur mauvais revêtements. La fiabilité générale est bonne pour la marque et le groupe GRX, sans problème structurel notoire signalé sur cette génération. Pour du vélotaf quotidien et du gravel léger, c'est un choix pertinent et rationnel, à condition d'accepter son poids et de budgéter éventuellement de meilleures roues/pneus.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 2x (double plateau), série non lisible précisément, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission avec chaîne graissée mais empoussiérée, cassette et plateaux sans usure marquée visible ; pneus à crampons avec sculpture encore présente. Cadre gris avec traces de boue/poussière et légères marques d'usure, disques de frein propres, vélo globalement fonctionnel mais sale par endroits. ⚠ À vérifier : Vélo souvent photographié sale (boue sur transmission et cadre) : vérifier l'usure réelle de la transmission et des roulements après nettoyage ; contrôler l'état des durites et la tige de selle télescopique éventuelle. La série exacte du groupe Shimano n'est pas lisible sur les photos. (confiance 55%)",
         "description_vendeur": "Vendo esta bicicleta de gravel Scott Speedster Gravel 40 gris, modelo 2024, en talla M.\n- Tipo de bicicleta: Bicicleta de gravel \n- Marca: Scott\n- Modelo: Speedster Gravel 40\n- Año: 2024\n- Talla del cuadro: M\nEstado nuevo\n\nColor Shark Grey\nCuadro Speedster Gravel Disc / D.Butted 6061 Alloy, SCOTT Gravel geometry / Replaceable Derailleur Hanger, Internal cable routing, Syncros fender kit ready\nPres",
@@ -3908,11 +4007,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -4293,7 +4392,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (7 favoris)",
+          "Annonce très regardée (8 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6969,7 +7068,7 @@
       "verdict": "Bon vélo pour ton usage (~79% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano 105, taille M, 2019. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2019, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grail CF SL 7.0 2019 se situe en entrée/milieu de gamme carbone de la série Grail, au-dessus des versions alu (Grail AL) mais nettement en dessous des CF SLX haut de gamme (cadre plus rigide et léger, meilleurs groupes). Sa signature technologique est le fameux cintre 'Hover Bar' double-pont (cockpit CP07 à deux niveaux), pensé pour amortir les vibrations sur terrain roulant et offrir une position basse aéro plus une position haute confortable. Le montage Shimano 105 (11 vitesses, mécanique) est fiable, cohérent avec le prix, mais les freins à disque de cette génération sont souvent hydrauliques 105 corrects ; vérifier l'usure des plaquettes/disques et l'état des durites. Points forts : cadre et fourche carbone confortables, géométrie gravel polyvalente, bon rapport qualité/prix à l'origine ; limites concrètes : le cintre intégré double-pont est clivant (ergonomie, réglages limités, remplacement coûteux et difficile en cas de casse ou d'inadaptation), et les roues/pneus d'origine sont assez basiques. Fiabilité globale correcte pour un usage gravel léger et route, mais surveiller les inserts et la potence intégrée propriétaire. Pour le vélotaf quotidien toute l'année, c'est jouable (freins disque, dégagement pneus, confort) mais le cockpit spécifique complique l'ajout d'accessoires (sacoches de cintre, éclairage, compteur) et il faudra prévoir garde-boue compatibles et pneus plus increvables.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11 (mixé, dérailleur arrière type gs), freins disque hydraulique. État visuel : Transmission propre avec chaîne et plateaux montrant une usure modérée sans dents crochues visibles ; pneus type gravel/CX à crampons à l'usure encore correcte. Étriers hydrauliques présents (durites visibles), disques et cadre en bon état apparent, quelques traces d'usage sur la guidoline mais globalement propre. ⚠ À vérifier : Guidoline usée/décollée par endroits ; combinaison de composants (manettes Shimano, plateau visible marqué 'SD') à vérifier pour cohérence du groupe ; vérifier état des plaquettes et voile des disques de près. (confiance 55%)",
         "description_vendeur": "Buen estado general. \nPrever cambio de cinta de manillar. \nArañazos por desgaste en las vainas debido al roce de las zapatillas con el cuadro.",
@@ -6991,11 +7090,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -9752,7 +9851,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−7 % vs cote (~1500 €)",
-          "Annonce très regardée (22 favoris)",
+          "Annonce très regardée (23 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12215,11 +12314,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1110.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -16703,11 +16802,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1110.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -16885,11 +16984,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1110.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -18811,7 +18910,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−27 % vs cote (~1530 €)",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19597,6 +19696,103 @@
         {
           "date": "2026-07-11",
           "prix": 750.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Giant Tcx SRAM Rival 2017",
+      "url": "https://buycycle.com/product/tcx-77398",
+      "source": "buycycle",
+      "categorie": "cyclocross",
+      "action": "IGNORER",
+      "prix": 999.0,
+      "cout_reel": 1324,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "pneus gravel +80€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 755,
+      "prix_max_calcul": "999€ (prix affiché) × (0.62 + 0.28 × 49% fit) = 755€",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Tcx SRAM Rival",
+      "taille": "M",
+      "annee": 2017,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2656379/8d2935e2-f284-4da8-86c3-59353e1586ff.webp",
+      "score": 6.5,
+      "fit_pct": 49,
+      "axes": {
+        "technique": 7.3,
+        "financier": 6.0,
+        "usage": 4.5,
+        "plaisir": 8.5,
+        "valeur": 5.0
+      },
+      "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Rival mécanique, freins à disque, taille M, 2017, bleu. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant TCX SLR 2 (ou déclinaison SRAM Rival) de 2017 est un vélo de cyclocross positionné en milieu de gamme dans la lignée TCX de Giant, sous les versions haut de gamme en carbone (TCX Advanced). Il combine un cadre aluminium ALUXX SL hydroformé avec une fourche carbone Advanced, ce qui allège l'avant et filtre un peu les vibrations. La géométrie est typée cyclocross (boîtier de pédalier plus haut, angles orientés maniabilité), donc plus nerveuse et moins confortable sur longues distances qu'un vrai gravel moderne. Le groupe SRAM Rival 1x ou 2x offre un freinage à disque (souvent mécanique BB5/BB7 sur cette gamme, moins performant que l'hydraulique) fiable mais basique. Points forts : robustesse du cadre alu, fourche carbone, polyvalence CX/chemins, entretien facile ; limites : dégagement pneu limité par l'orientation cyclocross (typiquement ~700x33-38c homologué UCI), passages de câbles et freins mécaniques datés, confort perfectible. Pour le vélotaf quotidien toute l'année il est solide et fiable mais l'absence d'œillets généreux pour porte-bagages/garde-boue complets peut poser problème selon la finition exacte. En gravel léger il fonctionne bien sur pistes roulantes, moins à l'aise sur du gravel technique ou du bikepacking chargé.",
+        "vision": "Cadre carbone, fourche carbone, groupe sram rival 1x11 (mono-plateau), pédalier fsa gossamer 40t, freins disque mécanique, pneus 33 mm. État visuel : Transmission bien marquée : chaîne et cassette sombres/encrassées, plateau FSA 40T avec dents encore correctes ; pneus Schwalbe/Giant CrossCut avec sculpture présente mais salis par la boue. Disque de frein Tektro portant des traces d'usure et étrier mécanique (câble visible, pas de durite), cadre carbone globalement propre avec petites traces d'usure sous le tube diagonal. ⚠ À vérifier : Configuration modifiée par rapport au modèle d'origine (mono-plateau SRAM Rival 1 + pédalier FSA Gossamer, roues Fulcrum, pédales plates, freins Tektro mécaniques au lieu de disque hydraulique) ; vérifier l'usure de la chaîne/cassette (encrassement) et l'état des plaquettes/disque Tektro. Contrôler d'éventuelles rayures sur le tube diagonal. (confiance 75%)",
+        "description_vendeur": "- ligeros arañazos debido a la bolsa de bicicleta\n- buen estado general\n- sería necesaria una revisión\n- incluyo cinta de manillar nueva",
+        "plus_velo": [
+          "Groupe bon (SRAM Rival)"
+        ],
+        "moins_velo": [
+          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Rival",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 38
+      },
+      "vision_brute": {
+        "groupe": "SRAM Rival 1x11 (mono-plateau), pédalier FSA Gossamer 40T",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": 33,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission bien marquée : chaîne et cassette sombres/encrassées, plateau FSA 40T avec dents encore correctes ; pneus Schwalbe/Giant CrossCut avec sculpture présente mais salis par la boue. Disque de frein Tektro portant des traces d'usure et étrier mécanique (câble visible, pas de durite), cadre carbone globalement propre avec petites traces d'usure sous le tube diagonal.",
+        "points_attention": "Configuration modifiée par rapport au modèle d'origine (mono-plateau SRAM Rival 1 + pédalier FSA Gossamer, roues Fulcrum, pédales plates, freins Tektro mécaniques au lieu de disque hydraulique) ; vérifier l'usure de la chaîne/cassette (encrassement) et l'état des plaquettes/disque Tektro. Contrôler d'éventuelles rayures sur le tube diagonal.",
+        "confiance": 0.75
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 999.0
         }
       ],
       "marche_modele": {
@@ -21226,11 +21422,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
+        "prix_demande_median": 1110.0,
+        "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -32250,7 +32446,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (13 favoris)",
+          "Annonce très regardée (14 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -36272,5 +36468,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T10:30:21+00:00"
+  "genere_le": "2026-07-13T11:01:13+00:00"
 }
