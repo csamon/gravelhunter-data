@@ -1867,7 +1867,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2025, orange. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2025. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo JAKAR 20 2025 se positionne dans le milieu de gamme de la série gravel JAKAR de la marque espagnole Megamo, au-dessus des versions d'entrée équipées en groupes plus basiques et sous les déclinaisons carbone ou électroniques plus onéreuses. Il combine un cadre en aluminium (souvent hydroformé) avec une fourche en carbone, ce qui filtre partiellement les vibrations tout en gardant un coût contenu, et adopte des standards actuels (freins à disque hydrauliques, passages de gaines internes, axes traversants probables). Le groupe SRAM Apex, en mono-plateau 1x11 ou 1x12 selon la version, offre une transmission simple, robuste et adaptée au gravel avec une bonne plage de développements, mais reste un cran en dessous des Rival/Force en finition et en poids. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie plutôt endurance qui convient aussi au vélotaf grâce à des points de fixation (garde-boue, porte-bagages selon modèle). Points forts : rapport équipement/prix correct, fourche carbone, freinage fiable, montage cohérent pour débuter le gravel ; limites : poids typique d'un alu de cette gamme, périphériques (roues, cintre) d'entrée souvent lourds et à remplacer pour progresser. Megamo est une marque à diffusion surtout ibérique, avec un réseau et une revente limités hors Espagne, ce qui pèse sur la valeur d'occasion et le suivi SAV. Pour un vélotaf quotidien toute l'année, il est adapté si l'exemplaire accepte garde-boue et pneus larges, mais vérifiez l'usure de la transmission SRAM Apex et l'état des roulements/roues avant achat.",
         "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1 1x11, freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Vélo en état quasi neuf : transmission propre sans usure visible, chaîne brillante, plateau et cassette aux dents intactes. Pneus WTB Riddler à crampons neufs, disques et plaquettes sans marque d'usure, aucune rayure ni corrosion apparente. ⚠ À vérifier : Monoplateau SRAM Apex avec cassette large (type 11-42) et dérailleur à chape longue avec embrayage; vérifier la référence exacte des manettes et le montage tubeless (pneus WTB à flanc marron 'tan'). Étiquettes encore présentes sur les leviers, suggérant un modèle neuf/expo. (confiance 70%)",
         "description_vendeur": "None",
@@ -1889,11 +1889,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -11129,7 +11129,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -21498,7 +21498,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (29 favoris)",
+          "Annonce très regardée (30 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32746,7 +32746,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (16 favoris)",
+          "Annonce très regardée (17 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -36858,5 +36858,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T15:02:12+00:00"
+  "genere_le": "2026-07-13T15:32:33+00:00"
 }
