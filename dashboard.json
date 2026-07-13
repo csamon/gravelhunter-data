@@ -1,5 +1,5 @@
 {
-  "total": 403,
+  "total": 405,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1168,6 +1168,104 @@
       }
     },
     {
+      "titre": "Megamo JAKAR 20 2025 2025",
+      "url": "https://buycycle.com/product/jakar-20-2025-16984",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1025.0,
+      "cout_reel": 1185,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 989,
+      "prix_max_calcul": "1139€ (cote) × (0.62 + 0.28 × 89% fit) = 989€",
+      "cote": 1139.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Megamo",
+      "modele": "JAKAR 20 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657090/00ef7857-1b2c-4cac-bf54-740baa45216b.webp",
+      "score": 9.7,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 9.8,
+        "financier": 8.2,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 5.8
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~989€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2025, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Megamo JAKAR 20 2025 se positionne dans le milieu de gamme de la série gravel JAKAR de la marque espagnole Megamo, au-dessus des versions d'entrée équipées en groupes plus basiques et sous les déclinaisons carbone ou électroniques plus onéreuses. Il combine un cadre en aluminium (souvent hydroformé) avec une fourche en carbone, ce qui filtre partiellement les vibrations tout en gardant un coût contenu, et adopte des standards actuels (freins à disque hydrauliques, passages de gaines internes, axes traversants probables). Le groupe SRAM Apex, en mono-plateau 1x11 ou 1x12 selon la version, offre une transmission simple, robuste et adaptée au gravel avec une bonne plage de développements, mais reste un cran en dessous des Rival/Force en finition et en poids. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie plutôt endurance qui convient aussi au vélotaf grâce à des points de fixation (garde-boue, porte-bagages selon modèle). Points forts : rapport équipement/prix correct, fourche carbone, freinage fiable, montage cohérent pour débuter le gravel ; limites : poids typique d'un alu de cette gamme, périphériques (roues, cintre) d'entrée souvent lourds et à remplacer pour progresser. Megamo est une marque à diffusion surtout ibérique, avec un réseau et une revente limités hors Espagne, ce qui pèse sur la valeur d'occasion et le suivi SAV. Pour un vélotaf quotidien toute l'année, il est adapté si l'exemplaire accepte garde-boue et pneus larges, mais vérifiez l'usure de la transmission SRAM Apex et l'état des roulements/roues avant achat.",
+        "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1 12v (1x12), freins disque hydraulique, pneus 45 mm, fixations garde-boue/rack. État visuel : Transmission quasi neuve : plateau SRAM Apex 40T aux dents intactes, chaîne propre avec maillon rapide coloré, cassette sans usure. Pneus Ritchey (700x45C) à crampons neufs, disques et plaquettes sans marque d'usure, vélo globalement à l'état neuf de magasin. ⚠ À vérifier : Vélo neuf en boutique (étiquettes prix encore présentes). Vérifier compatibilité mono-plateau 1x12 avec l'usage souhaité ; œillets présents sur fourreaux de fourche et haubans pour garde-boue/porte-bagage. (confiance 86%)",
+        "description_vendeur": "BICICLETA COMPLETAMENTE REVISADA\nPRESENTA DEFECTOS ESTÉTICOS (ARAÑAZOS)\nBIELAS 172.5",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−10 % vs cote (~1139 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 1 12v (1x12)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 45,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission quasi neuve : plateau SRAM Apex 40T aux dents intactes, chaîne propre avec maillon rapide coloré, cassette sans usure. Pneus Ritchey (700x45C) à crampons neufs, disques et plaquettes sans marque d'usure, vélo globalement à l'état neuf de magasin.",
+        "points_attention": "Vélo neuf en boutique (étiquettes prix encore présentes). Vérifier compatibilité mono-plateau 1x12 avec l'usage souhaité ; œillets présents sur fourreaux de fourche et haubans pour garde-boue/porte-bagage.",
+        "confiance": 0.86
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1025.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 2,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+      }
+    },
+    {
       "titre": "GT Grade Expert 2020 2020",
       "url": "https://buycycle.com/product/grade-expert-2020-37416",
       "source": "buycycle",
@@ -1822,11 +1920,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -1920,11 +2018,109 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "CUBE NUROAD PRO FE 2021 2021",
+      "url": "https://buycycle.com/product/nuroad-pro-fe-2021-55307",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 740.0,
+      "cout_reel": 900,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 572,
+      "prix_max_calcul": "749€ (cote) × (0.62 + 0.28 × 82% fit) = 636€ − 10 % (infos manquantes)",
+      "cote": 749.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": "fiche annonce « Shimano GRX » mais la photo semble montrer « Shimano 2x (série non lisible, probablement Tiagra/Sora 2x10) »",
+      "alerte": null,
+      "marque": "CUBE",
+      "modele": "NUROAD PRO FE 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657200/5714b8c2-ab4d-40c5-b231-a7983886bf60.webp",
+      "score": 9.2,
+      "fit_pct": 82,
+      "axes": {
+        "technique": 7.3,
+        "financier": 6.7,
+        "usage": 9.0,
+        "plaisir": 9.0,
+        "valeur": 5.1
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~572€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le CUBE Nuroad Pro FE 2021 se positionne en milieu de gamme dans la série Nuroad, au-dessus des versions de base et sous les Nuroad Race/C:62 (carbone) ; le suffixe FE signale l'orientation 'Fully Equipped' commuter/randonnée avec garde-boue, porte-bagages et éclairage intégré. Le cadre est en aluminium (Aluminium Superlite 6061) marié à une fourche carbone, ce qui filtre correctement les vibrations sur revêtements dégradés tout en gardant un coût contenu. Le groupe Shimano GRX (typiquement GRX 400/600 en 2x sur cette finition) offre un freinage disque hydraulique fiable et un étagement adapté au mixte route/chemins. L'usage visé est clairement le vélotaf toute l'année et le gravel léger/bikepacking : géométrie endurance stable, passages de câbles internes, nombreux inserts (fourche, cadre) et pneus assez larges d'origine. Points forts : équipement complet immédiatement utilisable au quotidien, robustesse du cadre alu, GRX endurant et facile à entretenir ; limites : poids élevé une fois équipé (garde-boue/porte-bagages), rigidité et confort inférieurs à un cadre carbone, et dégagement pneus bridé par les garde-boue pour le vrai gravel engagé. La réputation CUBE sur ces Nuroad est solide en fiabilité et rapport équipement/prix, avec un SAV correct en Europe. Pour un usage navette quotidien par tous temps plus escapades gravel roulantes, c'est un choix très pertinent ; pour du gravel technique/rapide, il montre vite ses limites.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano 2x (série non lisible, probablement tiagra/sora 2x10), freins disque mécanique, fixations garde-boue/rack. État visuel : La transmission montre une chaîne et une cassette avec un léger encrassement mais peu d'usure marquée, plateaux en bon état. Les pneus Schwalbe G-One Allround présentent une sculpture bien présente et l'ensemble paraît globalement propre et peu utilisé. ⚠ À vérifier : Étrier de frein avant semble mécanique (câble apparent, pas de durite claire) à vérifier ; garde-boue ACID et porte-bagage installés ; guidoline turquoise usée/salie par endroits ; vérifier le réglage/état des disques. (confiance 55%)",
+        "description_vendeur": "Solo algunos rasguños leves",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (82 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~749 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano 2x (série non lisible, probablement Tiagra/Sora 2x10)",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "La transmission montre une chaîne et une cassette avec un léger encrassement mais peu d'usure marquée, plateaux en bon état. Les pneus Schwalbe G-One Allround présentent une sculpture bien présente et l'ensemble paraît globalement propre et peu utilisé.",
+        "points_attention": "Étrier de frein avant semble mécanique (câble apparent, pas de durite claire) à vérifier ; garde-boue ACID et porte-bagage installés ; guidoline turquoise usée/salie par endroits ; vérifier le réglage/état des disques.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 740.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -2403,11 +2599,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -2588,11 +2784,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -4587,7 +4783,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (8 favoris)",
+          "Annonce très regardée (9 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6011,7 +6207,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6893,7 +7089,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−41 % vs cote (~1605 €)",
-          "Annonce très regardée (17 favoris)",
+          "Annonce très regardée (18 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12240,11 +12436,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -12877,11 +13073,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -19620,11 +19816,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 2,
-        "prix_demande_median": 1150.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 1088.0,
+        "n_en_vente": 6,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1150 € (5 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
       }
     },
     {
@@ -29790,10 +29986,12 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille 55 cm, 2024, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano CUES, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "usada poquísimo, unos 250/300 km\nbicicleta híbrida polivalente\ncuadro ligero y una transmisión simplificada Shimano CUES 1x con un amplio rango de marchas\nneumáticos anchos\nhorquilla de carbono\npeso total 11,8 kg\ntalla L (mido 1,80 m)\ndisponible prueba de compra y garantía",
@@ -29815,11 +30013,11 @@
       },
       "specs": {
         "groupset": "Shimano CUES",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "orange",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -36947,5 +37145,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T16:31:46+00:00"
+  "genere_le": "2026-07-13T17:04:13+00:00"
 }
