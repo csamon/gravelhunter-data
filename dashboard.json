@@ -348,7 +348,7 @@
         "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Cannondale Topstone Neo SL 2 2023 est un gravel électrique d'entrée/milieu de gamme dans la famille Topstone Neo, positionné sous les Topstone Neo Carbon (moteur Bosch et suspension Kingpin) : ici pas de Kingpin ni de fourche suspendue, mais un cadre aluminium avec fourche carbone et un système 'SL' (Super Light) reposant sur le moteur Hyena/Mahle X35 dans le moyeu arrière et une batterie intégrée de 250 Wh, plus compact et léger qu'un mid-drive classique. L'équipement Shimano GRX (transmission 1x ou 2x selon version) et les freins à disque hydrauliques offrent une base fiable et cohérente pour l'usage. Usage visé : vélotaf longue distance, sorties gravel roulantes et cyclotourisme léger, où l'assistance discrète du moyeu suffit sur terrain peu accidenté. Points forts : légèreté relative pour un e-gravel, comportement proche d'un vélo musculaire, entretien simple, look sobre ; limites concrètes : couple et autonomie modestes (moteur ~40 Nm, 250 Wh) peu adaptés aux fortes pentes ou au chargement lourd, batterie non extensible sans range-extender, moteur moyeu moins vivant en gravel technique, et réparabilité de l'électronique Mahle plus délicate. Fiabilité globalement correcte, le système X35 étant éprouvé, mais surveiller l'état de la batterie et les capteurs sur une occasion. Pour le vélotaf quotidien toute l'année il est pertinent (garde-boue et porte-bagages montables, pneus larges), à condition d'accepter l'autonomie limitée et de soigner la protection de l'électronique face à l'humidité et au sel hivernal.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x (leviers grx + dérailleurs grx/slx, pédalier fsa gossamer pro agx 46/30), freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Transmission avec chaîne et cassette assez sales/oxydées mais dents de plateaux et pignons peu usés ; pneus Vittoria Terreno crampons encore bien marqués et disques de frein en bon état. Cadre alu propre dans l'ensemble mais présente plusieurs micro-rayures et un impact/éclat de peinture visible sur le tube diagonal. ⚠ À vérifier : Éclat de peinture/impact sur le tube diagonal à vérifier (choc ?), chaîne à nettoyer/regraisser et éventuellement mesurer l'usure ; groupe mixte (leviers GRX + dérailleur arrière type SLX) suggérant un montage non 100% GRX d'origine. (confiance 70%)",
-        "description_vendeur": "Cannondale Topstone Neo | Taglia M | Mahle X35 | Gravel elettrica in alluminio\n\nLa Topstone Neo è una delle gravel elettriche più apprezzate grazie al motore Mahle X35, silenzioso e perfettamente integrato, che offre un'assistenza naturale mantenendo il feeling di una bici muscolare.\n\nQuesta bicicletta presenta numerosi segni estetici dovuti al precedente utilizzo nel nostro servizio di noleggio. ",
+        "description_vendeur": "Cannondale Topstone Neo | Size M | Mahle X35 | Aluminum electric gravel bike\n\nThe Topstone Neo is one of the most popular electric gravel bikes thanks to the Mahle X35 motor, which is quiet and perfectly integrated, offering natural assistance while maintaining the feel of a non-electric bike.\n\nThis bicycle has numerous aesthetic marks due to its previous use in our rental service. There are visib",
         "plus_velo": [
           "Groupe référence (Shimano GRX)",
           "Freins hydrauliques (confort et sécurité sous la pluie)",
@@ -4190,7 +4190,6 @@
         "plus_annonce": [
           "Décote intéressante : ~−12 % vs cote (~894 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (5 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12994,6 +12993,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (12 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13263,6 +13263,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−14 % vs cote (~1619 €)",
+          "Annonce très regardée (15 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32242,7 +32243,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (13 favoris)",
+          "Annonce très regardée (12 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -36264,5 +36265,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T06:58:27+00:00"
+  "genere_le": "2026-07-13T07:28:58+00:00"
 }
