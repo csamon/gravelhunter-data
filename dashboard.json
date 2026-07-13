@@ -6778,7 +6778,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1016€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2026, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Merida SILEX 400 2026 se positionne en entrée/milieu de gamme de la série SILEX, l'offre gravel de Merida orientée endurance avec une géométrie relevée (stack haut, reach court) inspirée du VTT, favorisant le confort et le contrôle sur terrain accidenté plutôt que la performance pure. Le cadre aluminium (technologie Merida triple-butted) associé à une fourche également en aluminium en fait un vélo robuste mais moins filtrant qu'une fourche carbone, ce qui pèse sur le confort et le poids. Le groupe Shimano GRX (probablement 400/RX400 10 vitesses ou 600 selon finition, à vérifier) est fiable, éprouvé et parfaitement adapté au gravel, avec freins à disque hydrauliques offrant un freinage constant par tous temps. L'usage visé est le gravel léger à moyen, les chemins roulants et le bikepacking d'initiation, avec de nombreux inserts (porte-bagages, garde-boue, fourche) qui le rendent excellent pour le vélotaf toute l'année. Points forts : polyvalence, robustesse, capacité d'emport, géométrie confortable et rassurante ; limites : poids élevé, cadre alu moins vif, montage souvent en entrée de gamme (roues et pneus lourds à améliorer). La réputation de la série SILEX est bonne en termes de fiabilité et de rapport qualité/prix, sans être un foudre de guerre. Pour un usage vélotaf quotidien plus gravel léger, c'est un choix cohérent et durable, à condition d'accepter son poids et d'éventuellement upgrader roues/pneus.",
         "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 2x (double plateau), freins disque hydraulique, pneus 45 mm, tubeless, fixations garde-boue/rack. État visuel : Vélo apparemment neuf ou très peu utilisé : transmission propre sans usure visible, chaîne brillante, dents de plateau et cassette intactes. Pneus Maxxis Rambler à sculpture pleine, disques et plaquettes neufs, aucune rayure, impact ni corrosion apparente. ⚠ À vérifier : Manettes et dérailleur arrière visibles semblent GRX mais la série exacte (RX400/RX600/RX810) n'est pas lisible ; vérifier la référence gravée. Pneus lus 700x45C sur le flanc (HYPR-X / EXO / TR = tubeless ready). (confiance 60%)",
         "description_vendeur": "¡Bicicleta nueva!",
@@ -6801,11 +6801,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -34218,12 +34218,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -34247,11 +34245,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -37535,5 +37533,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T20:33:51+00:00"
+  "genere_le": "2026-07-13T21:03:01+00:00"
 }
