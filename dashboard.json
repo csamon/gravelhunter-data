@@ -7168,7 +7168,7 @@
       "verdict": "Bon dossier MAIS analyse photo pas assez fiable (< 0.75), vélo sale/masqué à inspecter — CONTACTER pour lever le doute avant d'acheter.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille M, 2018, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2018. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant AnyRoad Advanced 1 2018 se positionne comme le haut de la gamme AnyRoad de Giant, avec un cadre en carbone Advanced-grade contrairement aux versions alu (AnyRoad 1/2) qui composent le reste de la série. Il inaugure une orientation gravel-endurance polyvalente, avec géométrie relâchée (stack haut, reach modéré), montage Shimano 105 5800/R7000 11 vitesses et freins à disque hydrauliques, qui étaient un vrai atout à cette période. Son usage visé est le roulage mixte route/chemins roulants et le confort longue distance plutôt que le gravel technique ou engagé. Points forts : cadre carbone confortable et léger pour la catégorie, freins disque efficaces, montage 105 fiable et abordable en entretien, passages de câbles et œillets pour garde-boue/porte-bagages selon finition. Limites concrètes : dégagement pneus limité pour un vrai gravel (adapté surtout aux sections roulantes), géométrie moins joueuse qu'un gravel moderne, et transmission mono-plateau absente (double plateau route). La réputation de fiabilité est bonne, Giant offrant une fabrication soignée, mais attention en occasion à l'usure des étriers/plaquettes et à l'état des roulements de moyeux. Pour le vélotaf quotidien toute l'année il convient bien (disques, confort, robustesse), et il assure un gravel léger honnête sans prétendre au tout-terrain exigeant.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 (dérailleur arrière 105), transmission mixte avec cassette/manivelle xtr - montage hybride à vérifier, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission avec chaîne et cassette encrassées mais peu usées visuellement, pneus type gravel à crampons présentant une sculpture correcte. Cadre carbone globalement propre avec quelques traces d'usage, autocollant taille M légèrement abîmé, aucun impact majeur visible. ⚠ À vérifier : Montage hétérogène surprenant : dérailleur arrière 105, mentions XTR (leviers/composants) et cassette d'allure VTT - vérifier la compatibilité et l'authenticité du groupe. Contrôler l'usure réelle de la transmission et l'état des disques/plaquettes non visibles nettement. (confiance 50%)",
         "description_vendeur": "Bicicleta perfecta, además monta también los mandos dobles de los frenos de disco mecánicos.",
@@ -7190,11 +7190,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 35
@@ -32497,7 +32497,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (29 favoris)",
+          "Annonce très regardée (30 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -37150,5 +37150,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T18:32:38+00:00"
+  "genere_le": "2026-07-13T19:02:30+00:00"
 }
