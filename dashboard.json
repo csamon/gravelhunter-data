@@ -1,5 +1,5 @@
 {
-  "total": 405,
+  "total": 408,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1071,6 +1071,104 @@
         {
           "date": "2026-07-13",
           "prix": 1400.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Focus ATLAS 6.7 EQP 2022 2022",
+      "url": "https://buycycle.com/product/atlas-67-eqp-2022-73153",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1100.0,
+      "cout_reel": 1260,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1017,
+      "prix_max_calcul": "1319€ (cote) × (0.62 + 0.28 × 84% fit) = 1130€ − 10 % (infos manquantes)",
+      "cote": 1319.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Focus",
+      "modele": "ATLAS 6.7 EQP 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657539/160688b3-12af-435e-8541-4df0c8dec2e9.webp",
+      "score": 9.8,
+      "fit_pct": 84,
+      "axes": {
+        "technique": 8.3,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 6.5,
+        "valeur": 6.3
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1017€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Focus Atlas 6.7 EQP 2022 se positionne en entrée/milieu de gamme dans la série Atlas de Focus, la gamme gravel aluminium de la marque, au-dessus des versions les plus basiques mais loin des Atlas carbone (8.x) plus légers et sophistiqués. La mention EQP (Equipped) indique une version équipée pour l'usage utilitaire/aventure, généralement livrée avec garde-boue, porte-bagages et éclairage intégré, ce qui la rend directement pertinente pour le vélotaf. Le cadre et la fourche en aluminium privilégient robustesse et coût maîtrisé au détriment du poids et du confort par rapport au carbone, l'amorti reposant essentiellement sur les pneus larges et une tige de selle éventuellement flexible. Le groupe Shimano GRX (probablement 400/600 sur ce niveau) est un choix fiable et cohérent, dédié au gravel avec freins à disque hydrauliques offrant un bon freinage par tous temps. Points forts : polyvalence, capacité de portage, dégagement pneu généreux, freinage sûr et endurance mécanique du GRX ; limites : poids élevé, rendement moyen sur route rapide et confort limité du triangle alu. La fiabilité générale est bonne, Focus étant sérieux sur l'assemblage, mais il faut vérifier l'usure des roulements, du boîtier et l'état des périphériques d'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, c'est une base cohérente et endurante, à condition d'accepter son gabarit et son poids.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx rx600 2x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateaux GRX en bon état ; pneus Vittoria Rubino avec sculpture correcte. Freins à disque hydrauliques avec disques et étriers propres, cadre alu gris mat sans impact notable. ⚠ À vérifier : Guidoline très craquelée/dégradée sur les cocottes (à remplacer). Vérifier l'usure exacte de la chaîne et l'épaisseur des plaquettes, et confirmer la dimension/tubeless des pneus non lisible sur les photos. (confiance 82%)",
+        "description_vendeur": "Comprada para cicloturismo, pero siempre usada en carretera.\nLos guardabarros y el portaequipajes no están montados, pero se enviarán junto con la bicicleta.\nBicicleta en excelentes condiciones, siempre guardada bajo techo y con mantenimiento puntual.\nMuy pocos arañazos presentes, en la vaina del cuadro, en las manetas y en el cambio (arañazos por apoyo).\nLa cadena y el cassette tienen unos 1000 k",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (84 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−17 % vs cote (~1319 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX RX600 2x11",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne et cassette peu usées, plateaux GRX en bon état ; pneus Vittoria Rubino avec sculpture correcte. Freins à disque hydrauliques avec disques et étriers propres, cadre alu gris mat sans impact notable.",
+        "points_attention": "Guidoline très craquelée/dégradée sur les cocottes (à remplacer). Vérifier l'usure exacte de la chaîne et l'épaisseur des plaquettes, et confirmer la dimension/tubeless des pneus non lisible sur les photos.",
+        "confiance": 0.82
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1100.0
         }
       ],
       "marche_modele": {
@@ -2407,6 +2505,101 @@
         "n_ventes": 1,
         "prix_demande_median": null,
         "n_en_vente": 0,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Ghost Road Rage Advanced 2022 2022",
+      "url": "https://buycycle.com/product/road-rage-advanced-2022-61567",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1290.0,
+      "cout_reel": 1390,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1095,
+      "prix_max_calcul": "1259€ (cote) × (0.62 + 0.28 × 89% fit) = 1095€",
+      "cote": 1259.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Ghost",
+      "modele": "Road Rage Advanced 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657531/75969016-7c27-482e-97ae-660e2031d8c4.webp",
+      "score": 8.9,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 10.0,
+        "financier": 5.8,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 4.8
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1095€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Ghost Road Rage Advanced 2022 est un gravel positionné en entrée/milieu de gamme dans le catalogue Ghost, avec un cadre aluminium plutôt qu'un carbone haut de gamme, ce qui le rend robuste mais plus lourd et moins confortable que les versions supérieures. La transmission Shimano GRX est un choix pertinent et cohérent pour le gravel, offrant une bonne ergonomie des leviers et un dérailleur à chape optimisée pour terrain accidenté. Les freins à disque (probablement hydrauliques ou mécaniques selon la finition GRX 400/600) assurent un freinage fiable par tous les temps, atout majeur pour le vélotaf. L'usage visé est le gravel léger, la route et les chemins roulants, ainsi qu'un usage polyvalent quotidien. Points forts : robustesse du cadre alu, GRX fiable, géométrie polyvalente et capacité à monter garde-boue/porte-bagages pour le vélotaf toute l'année ; limites : poids élevé, confort moindre qu'un carbone ou qu'une fourche carbone, et une fourche alu qui transmet davantage les vibrations. La réputation de Ghost est correcte, marque allemande au rapport qualité/prix honnête mais avec une revente modeste et un SAV parfois limité hors réseau. Globalement, c'est un choix crédible pour le vélotaf quotidien et le gravel léger, à condition d'accepter le compromis poids/confort inhérent à l'aluminium.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 2x (double plateau, série non lisible précisément), freins disque hydraulique, pneus 40 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission fonctionnelle avec plateaux et cassette présentant une usure et un encrassement modérés, chaîne légèrement sèche ; pneus Schwalbe G-One (flanc gomme/tan) avec sculpture encore bien présente et disques de frein en bon état sans voile visible. Cadre alu propre dans l'ensemble avec quelques micro-rayures d'usage normal, aucune corrosion ni impact majeur repéré. ⚠ À vérifier : Autocollant d'avertissement partiellement arraché sur le tube de direction ; vérifier l'usure exacte de la chaîne/cassette (encrassement) et l'état des plaquettes ; série précise du groupe GRX non identifiable sur les photos. (confiance 60%)",
+        "description_vendeur": "Tengo que deshacerme de la bicicleta debido a mis dolores de espalda; necesito volver a una bicicleta de montaña con una posición de asiento más erguida.\nEs una bicicleta estupenda, muy suave, rápida y ágil. Para mi 1,83 m es un poco pequeña, pero eso es cuestión de gustos.\n\nLa bicicleta siempre ha sido cuidada y mantenida adecuadamente: engrasada, limpiada, etc.\n\n¡Espero que encuentre un/a nuevo/",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1259 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x (double plateau, série non lisible précisément)",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission fonctionnelle avec plateaux et cassette présentant une usure et un encrassement modérés, chaîne légèrement sèche ; pneus Schwalbe G-One (flanc gomme/tan) avec sculpture encore bien présente et disques de frein en bon état sans voile visible. Cadre alu propre dans l'ensemble avec quelques micro-rayures d'usage normal, aucune corrosion ni impact majeur repéré.",
+        "points_attention": "Autocollant d'avertissement partiellement arraché sur le tube de direction ; vérifier l'usure exacte de la chaîne/cassette (encrassement) et l'état des plaquettes ; série précise du groupe GRX non identifiable sur les photos.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1290.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -7563,7 +7756,7 @@
       "verdict": "Bon vélo pour ton usage (~79% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2019, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2019. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grail CF SL 7.0 2019 se situe en entrée/milieu de gamme carbone de la série Grail, au-dessus des versions alu (Grail AL) mais nettement en dessous des CF SLX haut de gamme (cadre plus rigide et léger, meilleurs groupes). Sa signature technologique est le fameux cintre 'Hover Bar' double-pont (cockpit CP07 à deux niveaux), pensé pour amortir les vibrations sur terrain roulant et offrir une position basse aéro plus une position haute confortable. Le montage Shimano 105 (11 vitesses, mécanique) est fiable, cohérent avec le prix, mais les freins à disque de cette génération sont souvent hydrauliques 105 corrects ; vérifier l'usure des plaquettes/disques et l'état des durites. Points forts : cadre et fourche carbone confortables, géométrie gravel polyvalente, bon rapport qualité/prix à l'origine ; limites concrètes : le cintre intégré double-pont est clivant (ergonomie, réglages limités, remplacement coûteux et difficile en cas de casse ou d'inadaptation), et les roues/pneus d'origine sont assez basiques. Fiabilité globale correcte pour un usage gravel léger et route, mais surveiller les inserts et la potence intégrée propriétaire. Pour le vélotaf quotidien toute l'année, c'est jouable (freins disque, dégagement pneus, confort) mais le cockpit spécifique complique l'ajout d'accessoires (sacoches de cintre, éclairage, compteur) et il faudra prévoir garde-boue compatibles et pneus plus increvables.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11 (mixé, dérailleur arrière type gs), freins disque hydraulique. État visuel : Transmission propre avec chaîne et plateaux montrant une usure modérée sans dents crochues visibles ; pneus type gravel/CX à crampons à l'usure encore correcte. Étriers hydrauliques présents (durites visibles), disques et cadre en bon état apparent, quelques traces d'usage sur la guidoline mais globalement propre. ⚠ À vérifier : Guidoline usée/décollée par endroits ; combinaison de composants (manettes Shimano, plateau visible marqué 'SD') à vérifier pour cohérence du groupe ; vérifier état des plaquettes et voile des disques de près. (confiance 55%)",
         "description_vendeur": "Buen estado general. \nPrever cambio de cinta de manillar. \nArañazos por desgaste en las vainas debido al roce de las zapatillas con el cuadro.",
@@ -7585,11 +7778,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -14542,13 +14735,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14632,13 +14825,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14813,13 +15006,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14904,13 +15097,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -14995,13 +15188,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15641,13 +15834,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15732,13 +15925,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -26835,13 +27028,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 149.0,
-        "n_ventes": 6,
+        "ecart_type": 141.0,
+        "n_ventes": 7,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±149 € (6 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1299 € ±141 € (7 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -27517,7 +27710,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−51 % vs cote (~2460 €)",
-          "Annonce très regardée (39 favoris)",
+          "Annonce très regardée (40 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -29993,10 +30186,12 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille 55 cm, 2024, orange. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano CUES, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "usada poquísimo, unos 250/300 km\nbicicleta híbrida polivalente\ncuadro ligero y una transmisión simplificada Shimano CUES 1x con un amplio rango de marchas\nneumáticos anchos\nhorquilla de carbono\npeso total 11,8 kg\ntalla L (mido 1,80 m)\ndisponible prueba de compra y garantía",
@@ -30018,11 +30213,11 @@
       },
       "specs": {
         "groupset": "Shimano CUES",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "orange",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -31360,6 +31555,97 @@
         {
           "date": "2026-07-05",
           "prix": 799.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "TRIBAN Gravel Bike GRVL 120 2023 2023",
+      "url": "https://buycycle.com/product/gravel-bike-grvl-120-2023-79088",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 480.0,
+      "cout_reel": 725,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 261,
+      "prix_max_calcul": "427€ (cote) × (0.62 + 0.28 × 21% fit) = 290€ − 10 % (infos manquantes)",
+      "cote": 427.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "TRIBAN",
+      "modele": "Gravel Bike GRVL 120 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647529/517f6cbc-217a-4e69-b8f1-c441f41eba7c.webp",
+      "score": 2.3,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 4.8,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 4.0
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Other, taille M, 2023. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Triban (Décathlon) : gammes fiables et faciles à revendre, très bon rapport qualité/prix.",
+        "vision": "",
+        "description_vendeur": "Gravel Triban GRLV120. Signos normales de desgaste, pero sin arañazos visibles.\nCambio ajustado y pastillas de freno al 50 %.\nNeumáticos Hutchinson Overide al 70 %.\nRecorridos aproximadamente 1000 km en total.\nUtilizada principalmente en asfalto o caminos de tierra, no en terrenos difíciles.\nSe entrega con los pedales originales.\nNO HAGO ENVÍOS, lo siento.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (29 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~427 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 480.0
         }
       ],
       "marche_modele": {
@@ -37150,5 +37436,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-13T19:32:26+00:00"
+  "genere_le": "2026-07-13T20:05:03+00:00"
 }
