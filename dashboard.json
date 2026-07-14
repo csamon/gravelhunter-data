@@ -1,5 +1,5 @@
 {
-  "total": 417,
+  "total": 418,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -3860,9 +3860,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -31358,6 +31358,95 @@
       }
     },
     {
+      "titre": "Trek Checkpoint ALR 3 2025 2025",
+      "url": "https://buycycle.com/product/checkpoint-alr-3-2025-49686",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 850.0,
+      "cout_reel": 1095,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 472,
+      "prix_max_calcul": "779€ (cote) × (0.62 + 0.28 × 19% fit) = 525€ − 10 % (infos manquantes)",
+      "cote": 779.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Trek",
+      "modele": "Checkpoint ALR 3 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2658859/ae174d65-6a3c-4ac7-bb0a-81cff246344b.webp",
+      "score": 2.7,
+      "fit_pct": 19,
+      "axes": {
+        "technique": 4.3,
+        "financier": 5.6,
+        "usage": 1.0,
+        "plaisir": 6.5,
+        "valeur": 4.3
+      },
+      "verdict": "Peu adapté à ton usage (~19% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2025, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Trek Checkpoint : gravel endurance réputé. L'ALR (alu) est un excellent rapport qualité/prix, fixations à foison, parfait pour charger.",
+        "vision": "",
+        "description_vendeur": "Algunos rasguños en el manillar y en la parte baja del cuadro, pero en general la bicicleta está en excelentes condiciones.\nTras unos 2000 km, se revisó con la sustitución de la cadena y del cable del cambio. Además, se cambió la pastilla del freno delantero.\nA nivel mecánico, la bicicleta funciona perfectamente.\nRespecto al equipamiento de serie, la bicicleta monta pedales mixtos MTB M324 SPD de ",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)",
+          "Peu adapté à ton usage (19 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~779 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 850.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Orbea terra H30 bronze",
       "url": "https://www.leboncoin.fr/ad/velos/3220338633",
       "source": "leboncoin",
@@ -34571,7 +34660,7 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -34882,10 +34971,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -34909,11 +35000,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -38292,5 +38383,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T14:10:02+00:00"
+  "genere_le": "2026-07-14T14:39:13+00:00"
 }
