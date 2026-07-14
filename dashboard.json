@@ -3057,7 +3057,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (110 favoris)",
+          "Annonce très regardée (111 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31825,7 +31825,7 @@
         ],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (32 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -37582,10 +37582,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2022, orange. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2022. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Hola, vendo bicicleta de gravel Cinelli Zydeco Lala, en condiciones casi perfectas.\nTiene el grupo Shimano Sora, excepto el cambio trasero que ha sido sustituido por un Shimano Acera. La bicicleta se vende con pedales de plataforma y una luz trasera; se vende sin portabidones.\nLas ruedas son unas Mavic All Road con neumáticos tubulares Panaracer muy rodadores.\nLa bicicleta es una talla 54, la vend",
@@ -37606,11 +37608,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "orange",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -37644,5 +37646,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T08:37:43+00:00"
+  "genere_le": "2026-07-14T09:07:54+00:00"
 }
