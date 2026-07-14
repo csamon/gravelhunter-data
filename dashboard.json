@@ -1,5 +1,5 @@
 {
-  "total": 424,
+  "total": 425,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -3664,11 +3664,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1110.0,
-        "n_en_vente": 4,
+        "prix_demande_median": 1020.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -9712,7 +9712,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (81 favoris)",
+          "Annonce très regardée (82 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9897,7 +9897,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (62 favoris)",
+          "Annonce très regardée (63 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13391,11 +13391,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1110.0,
-        "n_en_vente": 4,
+        "prix_demande_median": 1020.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -16889,6 +16889,102 @@
       }
     },
     {
+      "titre": "Megamo JAKAR 30 2023 2023",
+      "url": "https://buycycle.com/product/jakar-30-2023-13538",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 999.0,
+      "cout_reel": 1159,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 652,
+      "prix_max_calcul": "757€ (cote) × (0.62 + 0.28 × 86% fit) = 652€",
+      "cote": 757.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Megamo",
+      "modele": "JAKAR 30 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659687/d234f2c7-80e9-4dc2-b120-92ee4c20ba1a.webp",
+      "score": 7.0,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 9.0,
+        "financier": 3.6,
+        "usage": 8.5,
+        "plaisir": 5.5,
+        "valeur": 2.4
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~652€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Megamo JAKAR 30 2023 se positionne dans le milieu de gamme gravel du fabricant espagnol Megamo, une marque relativement confidentielle hors du marché ibérique. Le cadre est en aluminium (l'alu étant la norme sur les JAKAR d'entrée/milieu de gamme, la fibre étant réservée aux versions supérieures ou à d'autres familles), avec une fourche carbone probable pour filtrer une partie des vibrations, dans une géométrie gravel polyvalente relativement confortable plutôt que radicalement sportive. Le groupe Shimano GRX (probablement 1x11 ou 2x, à vérifier précisément sur l'exemplaire) est un choix pertinent et fiable, spécifiquement conçu pour le gravel avec des freins à disque hydrauliques et un bon étagement. Ses points forts sont le rapport qualité/prix, la robustesse de l'alu et la fiabilité éprouvée du GRX ; ses limites tiennent au poids supérieur d'un cadre alu, à une revente compliquée par la faible notoriété de la marque, et à une disponibilité SAV/pièces cadre plus délicate hors Espagne. La réputation de Megamo reste correcte sur la qualité de fabrication mais sans historique de fiabilité aussi documenté que les grandes marques. Pour le vélotaf quotidien toute l'année il est adapté (disques, dégagements pour pneus larges, œillets probables pour garde-boue/porte-bagages), et il excelle en gravel léger à modéré, mais vérifiez impérativement la présence des points de fixation et l'état de la transmission sur l'occasion. En l'absence d'infos précises confirmées sur les composants exacts de ce millésime, exigez les photos détaillées et le numéro de série avant achat.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 1x, freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Le vélo paraît très peu utilisé (compteur affichant environ 194 km au total), transmission propre et pneus à crampons quasi neufs avec très peu d'usure. Aucune rayure, impact ou corrosion notable visible, ensemble globalement propre. ⚠ À vérifier : Manettes GRX visibles mais série précise (RX600/RX400) non lisible sur les photos ; monoplateau à l'avant, vérifier l'étagement de la cassette et l'état exact du plateau/chaîne de près. Pneu WTB Riddler 700x40 lisible sur le flanc, mention tubeless non vérifiable. (confiance 55%)",
+        "description_vendeur": "solo 200 km de uso",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~757 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Le vélo paraît très peu utilisé (compteur affichant environ 194 km au total), transmission propre et pneus à crampons quasi neufs avec très peu d'usure. Aucune rayure, impact ou corrosion notable visible, ensemble globalement propre.",
+        "points_attention": "Manettes GRX visibles mais série précise (RX600/RX400) non lisible sur les photos ; monoplateau à l'avant, vérifier l'étagement de la cassette et l'état exact du plateau/chaîne de près. Pneu WTB Riddler 700x40 lisible sur le flanc, mention tubeless non vérifiable.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 999.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": 1020.0,
+        "n_en_vente": 5,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
+      }
+    },
+    {
       "titre": "Olympia Handy Sram Apex 2024",
       "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
       "source": "buycycle",
@@ -18255,11 +18351,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1110.0,
-        "n_en_vente": 4,
+        "prix_demande_median": 1020.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -18436,11 +18532,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1110.0,
-        "n_en_vente": 4,
+        "prix_demande_median": 1020.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -19920,6 +20016,101 @@
       }
     },
     {
+      "titre": "Serious Gravix petrol 2023 2023",
+      "url": "https://buycycle.com/product/gravix-petrol-2023-45695",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 899.0,
+      "cout_reel": 1144,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 590,
+      "prix_max_calcul": "779€ (cote) × (0.62 + 0.28 × 79% fit) = 656€ − 10 % (infos manquantes)",
+      "cote": 779.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Serious",
+      "modele": "Gravix petrol 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2630107/4fee481f-b72e-40ec-abb8-dbd40db0cf8b.webp",
+      "score": 6.6,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 4.5,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 3.8
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Serious Gravix petrol 2023 est un gravel d'entrée de gamme, positionné comme une porte d'entrée abordable dans le segment gravel de la marque distribuée principalement par le vépéciste allemand Bike-Discount/Fahrrad.de. Le cadre est en aluminium avec fourche généralement en carbone, une construction classique et robuste plutôt qu'orientée performance, ce qui pénalise le poids mais favorise le rapport qualité-prix. Le groupe SRAM Apex 1x mono-plateau offre une transmission simple et fiable, bien adaptée au gravel roulant et au vélotaf, avec un freinage à disques hydrauliques ou mécaniques selon finition — vérifiez ce point car les Apex mécaniques sont nettement moins mordants. Usage visé : chemins roulants, pistes, trajets domicile-travail et cyclotourisme léger, mais pas le gravel technique ou engagé. Points forts : prix contenu, polyvalence, présence d'inserts (porte-bagages/garde-boue) rendant ce vélo pertinent pour le vélotaf toute l'année ; limites : poids élevé, périphériques bas de gamme (roues lourdes, pneus basiques) et confort du cadre alu moins filtrant qu'un carbone ou acier. Réputation correcte pour un usage utilitaire/loisir, sans historique de défaut majeur connu, mais la revente reste faible car marque peu premium. Pour du vélotaf quotidien plus gravel léger occasionnel, c'est un choix cohérent si le prix d'occasion est bas et l'état mécanique (freins, transmission, roulements) vérifié.",
+        "vision": "",
+        "description_vendeur": "Vendo esta Serious Gravix muy bien cuidada en color petróleo. La altura del cuadro es de 54 cm.\nDatos técnicos:\nAño del modelo 2023\nUnisex\nGrupo completo SRAM Apex 1x11\nFrenos de disco mecánicos Tektro MD-C610\nPara el resto de los datos técnicos, por favor consulte las imágenes 4-7.\nLa bicicleta viene con guardabarros diseñados específicamente para este modelo, lo que la hace perfecta tanto para c",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~779 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-06",
+          "prix": 999.0
+        },
+        {
+          "date": "2026-07-14",
+          "prix": 899.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Giant TCX Advanced Pro 2 2018 2018",
       "url": "https://buycycle.com/product/tcx-advanced-pro-2-2018-87106",
       "source": "buycycle",
@@ -20158,7 +20349,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille 55 cm, 2018, noir. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Tiagra, taille M, 2018. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Norco Threshold A Tiagra 2018 se situe en entrée de gamme de la famille Threshold, la ligne cyclocross/gravel de Norco, avec le cadre aluminium (le 'A') et le groupe Shimano Tiagra 10 vitesses, positionné sous les versions Ultegra/105 et sous les cadres carbone de la marque. À l'origine conçu comme vélo de cyclocross de compétition, sa géométrie est plus agressive et racée qu'un pur gravel moderne (boîtier plus haut pour le franchissement d'obstacles, position engagée), ce qui le rend plus vif mais moins confortable sur longues distances gravel que les gravels dédiés. Ses atouts concrets sont le cadre alu robuste, la fourche carbone qui filtre un peu et allège l'avant, les freins à disque (probablement mécaniques TRP/Tektro à ce niveau de gamme, moins puissants et plus exigeants en entretien que de l'hydraulique) et un passage de câbles/standards classiques faciles à entretenir. Ses limites : Tiagra reste correct mais basique (10v, ergonomie de leviers un cran en dessous du 105), dégagement pneus orienté cyclocross (typiquement autour de 33-40 mm, limité pour du gravel large), et absence d'œillets généreux pour porte-bagages selon la finition course. La fiabilité mécanique est bonne car les composants sont éprouvés et le cadre alu tolère les chocs, mais vérifier l'état des freins disque, la transmission usée et d'éventuelles fissures au cadre. Pour le vélotaf quotidien toute l'année il convient correctement (disques, robustesse) mais la géométrie course et le manque de fixations/garde-boue intégrés peuvent contraindre ; pour du gravel léger sur chemins roulants il est pertinent, mais moins polyvalent qu'un gravel contemporain à grand dégagement.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano tiagra 4700 2x10, freins disque mécanique, pneus 33 mm. État visuel : Transmission propre avec chaîne et cassette peu marquées, plateaux Tiagra en bon état ; pneus cyclocross type Challenge/Clement à crampons encore bien sculptés. Cadre alu (série X6) globalement propre avec quelques traces d'usage mais sans impact ni corrosion majeurs visibles. ⚠ À vérifier : Freins à disque mécaniques (durite absente, câble visible) donc moins performants qu'hydrauliques ; vérifier usure des disques/plaquettes et la selle qui semble être un remplacement non d'origine. Cadre en taille 55,5 cm (sticker). (confiance 82%)",
         "description_vendeur": "Sale without pedals",
@@ -20180,11 +20371,11 @@
       },
       "specs": {
         "groupset": "Shimano Tiagra",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -22694,96 +22885,6 @@
       }
     },
     {
-      "titre": "Serious Gravix petrol 2023 2023",
-      "url": "https://buycycle.com/product/gravix-petrol-2023-45695",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 999.0,
-      "cout_reel": 1244,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 590,
-      "prix_max_calcul": "779€ (cote) × (0.62 + 0.28 × 79% fit) = 656€ − 10 % (infos manquantes)",
-      "cote": 779.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Serious",
-      "modele": "Gravix petrol 2023",
-      "taille": "M",
-      "annee": 2023,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2630107/4fee481f-b72e-40ec-abb8-dbd40db0cf8b.webp",
-      "score": 5.8,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 3.2,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 2.7
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2023. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Serious Gravix petrol 2023 est un gravel d'entrée de gamme, positionné comme une porte d'entrée abordable dans le segment gravel de la marque distribuée principalement par le vépéciste allemand Bike-Discount/Fahrrad.de. Le cadre est en aluminium avec fourche généralement en carbone, une construction classique et robuste plutôt qu'orientée performance, ce qui pénalise le poids mais favorise le rapport qualité-prix. Le groupe SRAM Apex 1x mono-plateau offre une transmission simple et fiable, bien adaptée au gravel roulant et au vélotaf, avec un freinage à disques hydrauliques ou mécaniques selon finition — vérifiez ce point car les Apex mécaniques sont nettement moins mordants. Usage visé : chemins roulants, pistes, trajets domicile-travail et cyclotourisme léger, mais pas le gravel technique ou engagé. Points forts : prix contenu, polyvalence, présence d'inserts (porte-bagages/garde-boue) rendant ce vélo pertinent pour le vélotaf toute l'année ; limites : poids élevé, périphériques bas de gamme (roues lourdes, pneus basiques) et confort du cadre alu moins filtrant qu'un carbone ou acier. Réputation correcte pour un usage utilitaire/loisir, sans historique de défaut majeur connu, mais la revente reste faible car marque peu premium. Pour du vélotaf quotidien plus gravel léger occasionnel, c'est un choix cohérent si le prix d'occasion est bas et l'état mécanique (freins, transmission, roulements) vérifié.",
-        "vision": "",
-        "description_vendeur": "Vendo esta Serious Gravix muy bien cuidada en color petróleo. La altura del cuadro es de 54 cm.\nDatos técnicos:\nAño del modelo 2023\nUnisex\nGrupo completo SRAM Apex 1x11\nFrenos de disco mecánicos Tektro MD-C610\nPara el resto de los datos técnicos, por favor consulte las imágenes 4-7.\nLa bicicleta viene con guardabarros diseñados específicamente para este modelo, lo que la hace perfecta tanto para c",
-        "plus_velo": [
-          "Groupe bon (SRAM Apex)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~779 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-06",
-          "prix": 999.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Canyon Grail CF SL8.0",
       "url": "https://www.leboncoin.fr/ad/velos/3232300167",
       "source": "leboncoin",
@@ -22964,11 +23065,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 1,
-        "prix_demande_median": 1110.0,
-        "n_en_vente": 4,
+        "prix_demande_median": 1020.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1110 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -26439,7 +26540,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−46 % vs cote (~1439 €)",
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (39 favoris)",
+          "Annonce très regardée (40 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -38932,5 +39033,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T20:41:44+00:00"
+  "genere_le": "2026-07-14T21:12:27+00:00"
 }
