@@ -8705,7 +8705,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (119 favoris)",
+          "Annonce très regardée (120 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35368,6 +35368,102 @@
       }
     },
     {
+      "titre": "Van rysel Gravelbike Gravel Discovery AF Microshift Acolyte 1x8 Grün 2026 2026",
+      "url": "https://buycycle.com/product/gravelbike-gravel-discovery-af-microshift-acolyte-1x8-grun-2026-43216",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 620.0,
+      "cout_reel": 865,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 270,
+      "prix_max_calcul": "449€ (cote) × (0.62 + 0.28 × 17% fit) = 300€ − 10 % (infos manquantes)",
+      "cote": 449.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Van rysel",
+      "modele": "Gravelbike Gravel Discovery AF Microshift Acolyte 1x8 Grün 2026",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2642492/444b356d-665b-429d-af00-a585c218c0d3.webp",
+      "score": 0.1,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 2.2,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 2.0
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Microshift Acolyte, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "pequeño rasguño en la maneta derecha",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Annonce très regardée (17 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~449 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Microshift Acolyte",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 650.0
+        },
+        {
+          "date": "2026-07-14",
+          "prix": 620.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Bergamont Grandurance RD 3 silver 2022 2022",
       "url": "https://buycycle.com/product/grandurance-rd-3-silver-2022-48730",
       "source": "buycycle",
@@ -35443,97 +35539,6 @@
         {
           "date": "2026-07-10",
           "prix": 1000.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "Van rysel Gravelbike Gravel Discovery AF Microshift Acolyte 1x8 Grün 2026 2026",
-      "url": "https://buycycle.com/product/gravelbike-gravel-discovery-af-microshift-acolyte-1x8-grun-2026-43216",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 650.0,
-      "cout_reel": 895,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 270,
-      "prix_max_calcul": "449€ (cote) × (0.62 + 0.28 × 17% fit) = 300€ − 10 % (infos manquantes)",
-      "cote": 449.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Van rysel",
-      "modele": "Gravelbike Gravel Discovery AF Microshift Acolyte 1x8 Grün 2026",
-      "taille": "M",
-      "annee": 2026,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2642492/444b356d-665b-429d-af00-a585c218c0d3.webp",
-      "score": 0.0,
-      "fit_pct": 17,
-      "axes": {
-        "technique": 3.5,
-        "financier": 2.0,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 1.4
-      },
-      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Microshift Acolyte, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "pequeño rasguño en la maneta derecha",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2026)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (17 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Annonce très regardée (17 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~449 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Microshift Acolyte",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 650.0
         }
       ],
       "marche_modele": {
@@ -37635,5 +37640,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T06:36:26+00:00"
+  "genere_le": "2026-07-14T07:07:01+00:00"
 }
