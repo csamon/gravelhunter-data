@@ -1,5 +1,5 @@
 {
-  "total": 420,
+  "total": 422,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1660,6 +1660,95 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Vélo Gravel Canyon Grizl 6 1BY 2024 – Taille L",
+      "url": "https://www.leboncoin.fr/ad/velos/3233056402",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1390.0,
+      "cout_reel": 1490,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1124,
+      "prix_max_calcul": "1390€ (prix affiché) × (0.62 + 0.28 × 99% fit) = 1249€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": 147.8,
+      "image": null,
+      "score": 9.7,
+      "fit_pct": 99,
+      "axes": {
+        "technique": 9.8,
+        "financier": 6.0,
+        "usage": 10.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Canyon Grizl 6 1BY 2024 se situe en entrée de gamme de la série Grizl aluminium, sous les versions carbone CF et au-dessus il n'y a rien en alu, ce qui en fait le ticket d'entrée pour accéder à la plateforme Grizl orientée gravel aventure. Le cadre est en aluminium 6061 avec fourche carbone, géométrie volontairement typée endurance/bikepacking (angle de direction plus ouvert, empattement long, position relevée grâce à un cintre à flare) plutôt que gravel racing. La transmission '1BY' signifie mono-plateau, ici typiquement un groupe Shimano GRX 400/600 en 1x10 ou 1x11 vitesses selon la déclinaison, robuste mais avec une plage de développements limitée et des sauts plus grands entre pignons. Points forts : robustesse, capacité d'emport (nombreux inserts pour porte-bagages, garde-boue, bidons), pneus larges d'origine et grand confort sur longue distance ; limites : poids élevé pour l'alu d'entrée de gamme, freinage/composants basiques, et le SAV Canyon en vente directe peut compliquer une revente/entretien d'occasion. La fiabilité mécanique est bonne, sans techno fragile, ce qui rassure pour un achat d'occasion. Pour le vélotaf quotidien toute l'année c'est un excellent choix (montage garde-boue/porte-bagages, gros pneus, position confortable), et il reste très pertinent en gravel léger à modéré, moins à l'aise sur du gravel rapide/sportif à cause du poids et du mono-plateau.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe bon (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (99 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": 11.2,
+        "degagement_mm": 50
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1390.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 850.0,
+        "ecart_type": 248.0,
+        "n_ventes": 19,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -15222,8 +15311,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -15585,8 +15674,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -16050,8 +16139,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -16420,8 +16509,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -16605,6 +16694,106 @@
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1299 € ±135 € (8 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
+      "titre": "GIRS GIRS Custom SRAM Force 2015",
+      "url": "https://buycycle.com/product/girs-custom-26071",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1100.0,
+      "cout_reel": 1345,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1180,
+      "prix_max_calcul": "1710€ (cote) × (0.62 + 0.28 × 52% fit) = 1311€ − 10 % (infos manquantes)",
+      "cote": 1710.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "GIRS",
+      "modele": "GIRS Custom SRAM Force",
+      "taille": "M",
+      "annee": 2015,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659293/e4ba6a06-d6d0-4c48-8517-49d18e0347cc.webp",
+      "score": 7.0,
+      "fit_pct": 52,
+      "axes": {
+        "technique": 8.8,
+        "financier": 10.0,
+        "usage": 4.5,
+        "plaisir": 5.0,
+        "valeur": 7.9
+      },
+      "verdict": "Bon vélo pour ton usage (~52% du besoin) — CONTACTER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe SRAM Force mécanique, freins à disque, taille 55 cm, 2015, noir. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le 'GIRS Custom SRAM Force 2015' n'est pas un modèle de série identifiable d'une marque établie : 'GIRS' n'est pas un fabricant vélo reconnu, ce qui suggère soit un cadre custom/artisanal, soit une marque confidentielle, soit un montage personnel. Impossible donc de le positionner dans une 'gamme' cohérente ou de statuer sur une génération/techno spécifique à un millésime 2015. Le seul élément factuel est le groupe SRAM Force (2015), un groupe route haut de gamme/performance de l'époque, mécanique 11 vitesses, réputé fiable, léger et précis mais avec des leviers DoubleTap qui divisent et une usure des galets/chaînes à surveiller. Sans connaître le matériau du cadre, les standards (axe, boîtier, tirage de gaine), le dégagement pneu ni la géométrie, on ne peut juger ni l'usage réel (route pure vs gravel léger) ni l'aptitude au vélotaf toute l'année. Pour un achat d'occasion, la vigilance s'impose : un montage 'custom' impose de vérifier l'état du cadre (fissures, corrosion, réparations), la compatibilité des pièces, l'usure de la transmission Force et l'absence de bricolage douteux. Le groupe Force 2015 est un vrai atout s'il est en bon état, mais la valeur dépend entièrement de la qualité réelle du cadre inconnu, donc à inspecter de près et négocier prudemment.",
+        "vision": "Cadre carbone, fourche carbone, groupe sram force cx1 1x11, freins disque hydraulique. État visuel : Transmission monoplateau SRAM Force CX1 avec chaîne et cassette montrant une usure modérée mais fonctionnelle, pneus cyclocross à crampons encore bien sculptés. Cadre carbone Warthog propre avec quelques traces d'usage, selle marquée/usée sur les flancs et disques de frein présentant des marques de rodage normales. ⚠ À vérifier : Selle nettement usée (revêtement abîmé sur les côtés), vérifier l'usure exacte de la chaîne (jauge) et l'état des plaquettes/disques ; contrôler le carbone de la fourche et des haubans pour d'éventuels impacts non visibles. (confiance 78%)",
+        "description_vendeur": "Espléndida bicicleta de gravel Gir's modelo Warthog, talla M 55, para un ciclista de 1,72 m a 1,82 m. Equipada con SRAM Force monoplato de 11 velocidades y frenos de disco. Cuadro de carbono ligero y dinámico. Está equipada con una rueda de carbono en la parte trasera y una de aluminio en la delantera. La rueda trasera tiene un poco de descentrado y las manetas no están en muy buen estado. Funcion",
+        "plus_velo": [
+          "Groupe haut (SRAM Force)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Ancien (2015)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−36 % vs cote (~1710 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Force",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Force CX1 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission monoplateau SRAM Force CX1 avec chaîne et cassette montrant une usure modérée mais fonctionnelle, pneus cyclocross à crampons encore bien sculptés. Cadre carbone Warthog propre avec quelques traces d'usage, selle marquée/usée sur les flancs et disques de frein présentant des marques de rodage normales.",
+        "points_attention": "Selle nettement usée (revêtement abîmé sur les côtés), vérifier l'usure exacte de la chaîne (jauge) et l'état des plaquettes/disques ; contrôler le carbone de la fourche et des haubans pour d'éventuels impacts non visibles.",
+        "confiance": 0.78
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -19639,96 +19828,6 @@
       }
     },
     {
-      "titre": "GIRS GIRS Custom SRAM Force 2015",
-      "url": "https://buycycle.com/product/girs-custom-26071",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1100.0,
-      "cout_reel": 1345,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1172,
-      "prix_max_calcul": "1710€ (cote) × (0.62 + 0.28 × 51% fit) = 1302€ − 10 % (infos manquantes)",
-      "cote": 1710.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "GIRS",
-      "modele": "GIRS Custom SRAM Force",
-      "taille": "M",
-      "annee": 2015,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659293/e4ba6a06-d6d0-4c48-8517-49d18e0347cc.webp",
-      "score": 6.6,
-      "fit_pct": 51,
-      "axes": {
-        "technique": 6.5,
-        "financier": 10.0,
-        "usage": 4.5,
-        "plaisir": 5.0,
-        "valeur": 7.9
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le 'GIRS Custom SRAM Force 2015' n'est pas un modèle de série identifiable d'une marque établie : 'GIRS' n'est pas un fabricant vélo reconnu, ce qui suggère soit un cadre custom/artisanal, soit une marque confidentielle, soit un montage personnel. Impossible donc de le positionner dans une 'gamme' cohérente ou de statuer sur une génération/techno spécifique à un millésime 2015. Le seul élément factuel est le groupe SRAM Force (2015), un groupe route haut de gamme/performance de l'époque, mécanique 11 vitesses, réputé fiable, léger et précis mais avec des leviers DoubleTap qui divisent et une usure des galets/chaînes à surveiller. Sans connaître le matériau du cadre, les standards (axe, boîtier, tirage de gaine), le dégagement pneu ni la géométrie, on ne peut juger ni l'usage réel (route pure vs gravel léger) ni l'aptitude au vélotaf toute l'année. Pour un achat d'occasion, la vigilance s'impose : un montage 'custom' impose de vérifier l'état du cadre (fissures, corrosion, réparations), la compatibilité des pièces, l'usure de la transmission Force et l'absence de bricolage douteux. Le groupe Force 2015 est un vrai atout s'il est en bon état, mais la valeur dépend entièrement de la qualité réelle du cadre inconnu, donc à inspecter de près et négocier prudemment.",
-        "vision": "",
-        "description_vendeur": "Espléndida bicicleta de gravel Gir's modelo Warthog, talla M 55, para un ciclista de 1,72 m a 1,82 m. Equipada con SRAM Force monoplato de 11 velocidades y frenos de disco. Cuadro de carbono ligero y dinámico. Está equipada con una rueda de carbono en la parte trasera y una de aluminio en la delantera. La rueda trasera tiene un poco de descentrado y las manetas no están en muy buen estado. Funcion",
-        "plus_velo": [
-          "Groupe haut (SRAM Force)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Ancien (2015)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−36 % vs cote (~1710 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Force",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-14",
-          "prix": 1100.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Giant TCX Advanced Pro 2 2018 2018",
       "url": "https://buycycle.com/product/tcx-advanced-pro-2-2018-87106",
       "source": "buycycle",
@@ -20870,8 +20969,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -22670,8 +22769,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -23789,8 +23888,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -23877,8 +23976,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -24141,8 +24240,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -24326,6 +24425,93 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Vélo Gravel RONDO",
+      "url": "https://www.leboncoin.fr/ad/velos/3230920482",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 900.0,
+      "cout_reel": 1085,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 605,
+      "prix_max_calcul": "900€ (prix affiché) × (0.62 + 0.28 × 45% fit) = 672€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": 139.5,
+      "image": null,
+      "score": 4.9,
+      "fit_pct": 45,
+      "axes": {
+        "technique": 5.8,
+        "financier": 6.0,
+        "usage": 4.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~45% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Canyon Grizl 6 1BY 2024 se situe en entrée de gamme de la série Grizl aluminium, sous les versions carbone CF et au-dessus il n'y a rien en alu, ce qui en fait le ticket d'entrée pour accéder à la plateforme Grizl orientée gravel aventure. Le cadre est en aluminium 6061 avec fourche carbone, géométrie volontairement typée endurance/bikepacking (angle de direction plus ouvert, empattement long, position relevée grâce à un cintre à flare) plutôt que gravel racing. La transmission '1BY' signifie mono-plateau, ici typiquement un groupe Shimano GRX 400/600 en 1x10 ou 1x11 vitesses selon la déclinaison, robuste mais avec une plage de développements limitée et des sauts plus grands entre pignons. Points forts : robustesse, capacité d'emport (nombreux inserts pour porte-bagages, garde-boue, bidons), pneus larges d'origine et grand confort sur longue distance ; limites : poids élevé pour l'alu d'entrée de gamme, freinage/composants basiques, et le SAV Canyon en vente directe peut compliquer une revente/entretien d'occasion. La fiabilité mécanique est bonne, sans techno fragile, ce qui rassure pour un achat d'occasion. Pour le vélotaf quotidien toute l'année c'est un excellent choix (montage garde-boue/porte-bagages, gros pneus, position confortable), et il reste très pertinent en gravel léger à modéré, moins à l'aise sur du gravel rapide/sportif à cause du poids et du mono-plateau.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": 11.2,
+        "degagement_mm": 50
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 900.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 850.0,
+        "ecart_type": 248.0,
+        "n_ventes": 19,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -24763,9 +24949,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -25475,8 +25661,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -26904,8 +27090,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -26992,8 +27178,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -27789,8 +27975,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -27878,98 +28064,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
-        "liquidite_jours": 2.0,
-        "base": "ventes",
-        "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
-      }
-    },
-    {
-      "titre": "Vélo Gravel RONDO",
-      "url": "https://www.leboncoin.fr/ad/velos/3230920482",
-      "source": "leboncoin",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 900.0,
-      "cout_reel": 1085,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 555,
-      "prix_max_calcul": "900€ (prix affiché) × (0.62 + 0.28 × 23% fit) = 617€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "leboncoin",
-      "modele": null,
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": 139.5,
-      "image": null,
-      "score": 3.4,
-      "fit_pct": 23,
-      "axes": {
-        "technique": 5.8,
-        "financier": 6.0,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~23% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (23 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Description vendeur pauvre — specs et état à confirmer",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": null,
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-10",
-          "prix": 900.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": 850.0,
-        "ecart_type": 248.0,
-        "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -29302,8 +29398,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30105,8 +30201,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30194,8 +30290,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30274,8 +30370,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30363,8 +30459,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30452,8 +30548,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30541,8 +30637,97 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
+      }
+    },
+    {
+      "titre": "Gravel SERIOUS Grafix Taille M",
+      "url": "https://www.leboncoin.fr/ad/velos/3233058892",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 500.0,
+      "cout_reel": 685,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 306,
+      "prix_max_calcul": "500€ (prix affiché) × (0.62 + 0.28 × 21% fit) = 340€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 40.9,
+      "image": null,
+      "score": 3.0,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 500.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 850.0,
+        "ecart_type": 248.0,
+        "n_ventes": 19,
+        "prix_demande_median": 945.0,
+        "n_en_vente": 4,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -32658,7 +32843,7 @@
         ],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (33 favoris)",
+          "Annonce très regardée (35 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35150,10 +35335,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -35177,11 +35364,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -38560,5 +38747,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T17:40:37+00:00"
+  "genere_le": "2026-07-14T18:11:53+00:00"
 }
