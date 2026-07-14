@@ -1,5 +1,5 @@
 {
-  "total": 409,
+  "total": 410,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1463,6 +1463,102 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Cannondale Topstone 1 2021 2021",
+      "url": "https://buycycle.com/product/topstone-1-2021-87434",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1290.0,
+      "cout_reel": 1450,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1145,
+      "prix_max_calcul": "1319€ (cote) × (0.62 + 0.28 × 89% fit) = 1145€",
+      "cote": 1319.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cannondale",
+      "modele": "Topstone 1 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657367/ed5be8f0-2301-4d53-9614-253290ef6cd0.webp",
+      "score": 9.7,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 9.8,
+        "financier": 6.3,
+        "usage": 9.0,
+        "plaisir": 7.0,
+        "valeur": 5.2
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1145€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Topstone 1 2021 se situe en milieu de gamme dans la série Topstone alu de Cannondale, au-dessus des versions 2, 3 et 4 (Sora/Tiagra/moins équipées) mais nettement sous les Topstone Carbon Lefty et les Lefty avec suspension Kingpin. Cette génération conserve le cadre SmartForm C1 Alloy avec la technologie Kingpin, une flexion contrôlée du triangle arrière (jusqu'à ~30 mm de débattement passif) sans amortisseur, apportant du confort sur gravel sans surpoids notable. La fourche carbone, les montages internes et le standard d'axes traversants (12 mm) confirment son orientation gravel polyvalent. L'équipement GRX (groupe gravel dédié Shimano, généralement GRX 810/600 mono ou double selon millésime) est un vrai atout : ergonomie, fiabilité et freinage hydraulique disque efficaces et éprouvés. Points forts : confort Kingpin, robustesse du cadre alu, transmission GRX fiable, géométrie endurance stable ; limites : poids plus élevé qu'un cadre carbone, pivot Kingpin nécessitant surveillance/entretien à long terme, pas de suspension réelle malgré le marketing. Pour le vélotaf quotidien toute l'année, c'est très adapté (montage de garde-boue et porte-bagages possible via inserts, freins disque, pneus larges), et il excelle en gravel léger à moyen, moins en terrain très technique.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx rx400 2x10, freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec cassette et chaîne présentant une usure modérée sans oxydation notable ; pneus Schwalbe G-One Overland aux crampons bien marqués et peu usés. Le vélo est globalement très propre, sans corrosion, mais on note quelques rayures/marques sur le tube supérieur près du tube de selle. ⚠ À vérifier : Étrier de frein avant de type mécanique (câble visible, pas de durite hydraulique) — vérifier qu'il s'agit bien de freins mécaniques et non hydrauliques, ce qui serait inhabituel pour un Topstone 1. Rayures/griffures visibles sur le tube supérieur. (confiance 55%)",
+        "description_vendeur": "Arañazos en el tubo superior (ver foto)\n\nOfrezco aquí mi Cannondale Topstone 1\nDatos:\n\n* Cuadro de aluminio\n* Talla M / MD según Cannondale\n* Color slate grey (gris pizarra)\n* Transmisión Shimano GRX fiable\n* Frenos de disco para una potencia de frenado segura\n* Neumáticos anchos para un buen agarre en diferentes superficies; actualmente lleva montados los G-One Overland de 45 mm\n* No más de 3000 ",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−2 % vs cote (~1319 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 42
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX RX400 2x10",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec cassette et chaîne présentant une usure modérée sans oxydation notable ; pneus Schwalbe G-One Overland aux crampons bien marqués et peu usés. Le vélo est globalement très propre, sans corrosion, mais on note quelques rayures/marques sur le tube supérieur près du tube de selle.",
+        "points_attention": "Étrier de frein avant de type mécanique (câble visible, pas de durite hydraulique) — vérifier qu'il s'agit bien de freins mécaniques et non hydrauliques, ce qui serait inhabituel pour un Topstone 1. Rayures/griffures visibles sur le tube supérieur.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1290.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -4153,7 +4249,7 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -34223,10 +34319,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -34250,11 +34348,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -37538,5 +37636,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T05:36:17+00:00"
+  "genere_le": "2026-07-14T06:07:01+00:00"
 }
