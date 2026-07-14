@@ -1,5 +1,5 @@
 {
-  "total": 418,
+  "total": 420,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -3152,7 +3152,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (111 favoris)",
+          "Annonce très regardée (112 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -7190,7 +7190,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−8 % vs cote (~923 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (96 favoris)",
+          "Annonce très regardée (97 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -8056,7 +8056,7 @@
       "verdict": "Bon vélo pour ton usage (~79% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2019, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2019. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grail CF SL 7.0 2019 se situe en entrée/milieu de gamme carbone de la série Grail, au-dessus des versions alu (Grail AL) mais nettement en dessous des CF SLX haut de gamme (cadre plus rigide et léger, meilleurs groupes). Sa signature technologique est le fameux cintre 'Hover Bar' double-pont (cockpit CP07 à deux niveaux), pensé pour amortir les vibrations sur terrain roulant et offrir une position basse aéro plus une position haute confortable. Le montage Shimano 105 (11 vitesses, mécanique) est fiable, cohérent avec le prix, mais les freins à disque de cette génération sont souvent hydrauliques 105 corrects ; vérifier l'usure des plaquettes/disques et l'état des durites. Points forts : cadre et fourche carbone confortables, géométrie gravel polyvalente, bon rapport qualité/prix à l'origine ; limites concrètes : le cintre intégré double-pont est clivant (ergonomie, réglages limités, remplacement coûteux et difficile en cas de casse ou d'inadaptation), et les roues/pneus d'origine sont assez basiques. Fiabilité globale correcte pour un usage gravel léger et route, mais surveiller les inserts et la potence intégrée propriétaire. Pour le vélotaf quotidien toute l'année, c'est jouable (freins disque, dégagement pneus, confort) mais le cockpit spécifique complique l'ajout d'accessoires (sacoches de cintre, éclairage, compteur) et il faudra prévoir garde-boue compatibles et pneus plus increvables.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11 (mixé, dérailleur arrière type gs), freins disque hydraulique. État visuel : Transmission propre avec chaîne et plateaux montrant une usure modérée sans dents crochues visibles ; pneus type gravel/CX à crampons à l'usure encore correcte. Étriers hydrauliques présents (durites visibles), disques et cadre en bon état apparent, quelques traces d'usage sur la guidoline mais globalement propre. ⚠ À vérifier : Guidoline usée/décollée par endroits ; combinaison de composants (manettes Shimano, plateau visible marqué 'SD') à vérifier pour cohérence du groupe ; vérifier état des plaquettes et voile des disques de près. (confiance 55%)",
         "description_vendeur": "Buen estado general. \nPrever cambio de cinta de manillar. \nArañazos por desgaste en las vainas debido al roce de las zapatillas con el cuadro.",
@@ -8078,11 +8078,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "noir",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -12365,7 +12365,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−14 % vs cote (~1799 €)",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19625,6 +19625,96 @@
         {
           "date": "2026-07-06",
           "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "GIRS GIRS Custom SRAM Force 2015",
+      "url": "https://buycycle.com/product/girs-custom-26071",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1100.0,
+      "cout_reel": 1345,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1172,
+      "prix_max_calcul": "1710€ (cote) × (0.62 + 0.28 × 51% fit) = 1302€ − 10 % (infos manquantes)",
+      "cote": 1710.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "GIRS",
+      "modele": "GIRS Custom SRAM Force",
+      "taille": "M",
+      "annee": 2015,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659293/e4ba6a06-d6d0-4c48-8517-49d18e0347cc.webp",
+      "score": 6.6,
+      "fit_pct": 51,
+      "axes": {
+        "technique": 6.5,
+        "financier": 10.0,
+        "usage": 4.5,
+        "plaisir": 5.0,
+        "valeur": 7.9
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Force, taille M, 2015. SRAM Force/Red : haut de gamme, souvent 1× AXS sans fil. Léger et précis. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le 'GIRS Custom SRAM Force 2015' n'est pas un modèle de série identifiable d'une marque établie : 'GIRS' n'est pas un fabricant vélo reconnu, ce qui suggère soit un cadre custom/artisanal, soit une marque confidentielle, soit un montage personnel. Impossible donc de le positionner dans une 'gamme' cohérente ou de statuer sur une génération/techno spécifique à un millésime 2015. Le seul élément factuel est le groupe SRAM Force (2015), un groupe route haut de gamme/performance de l'époque, mécanique 11 vitesses, réputé fiable, léger et précis mais avec des leviers DoubleTap qui divisent et une usure des galets/chaînes à surveiller. Sans connaître le matériau du cadre, les standards (axe, boîtier, tirage de gaine), le dégagement pneu ni la géométrie, on ne peut juger ni l'usage réel (route pure vs gravel léger) ni l'aptitude au vélotaf toute l'année. Pour un achat d'occasion, la vigilance s'impose : un montage 'custom' impose de vérifier l'état du cadre (fissures, corrosion, réparations), la compatibilité des pièces, l'usure de la transmission Force et l'absence de bricolage douteux. Le groupe Force 2015 est un vrai atout s'il est en bon état, mais la valeur dépend entièrement de la qualité réelle du cadre inconnu, donc à inspecter de près et négocier prudemment.",
+        "vision": "",
+        "description_vendeur": "Espléndida bicicleta de gravel Gir's modelo Warthog, talla M 55, para un ciclista de 1,72 m a 1,82 m. Equipada con SRAM Force monoplato de 11 velocidades y frenos de disco. Cuadro de carbono ligero y dinámico. Está equipada con una rueda de carbono en la parte trasera y una de aluminio en la delantera. La rueda trasera tiene un poco de descentrado y las manetas no están en muy buen estado. Funcion",
+        "plus_velo": [
+          "Groupe haut (SRAM Force)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Ancien (2015)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−36 % vs cote (~1710 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Force",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1100.0
         }
       ],
       "marche_modele": {
@@ -34175,7 +34265,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34922,6 +35012,94 @@
         {
           "date": "2026-07-05",
           "prix": 1290.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "CUBE NUROAD, PRO 2026 2026",
+      "url": "https://buycycle.com/product/nuroad-pro-2026-55066",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1050.0,
+      "cout_reel": 1295,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 422,
+      "prix_max_calcul": "690€ (cote) × (0.62 + 0.28 × 21% fit) = 469€ − 10 % (infos manquantes)",
+      "cote": 690.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "CUBE",
+      "modele": "NUROAD, PRO 2026",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659296/71aad95a-2a60-45f7-862d-edd9940af7ea.webp",
+      "score": 1.4,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 2.0,
+        "usage": 1.5,
+        "plaisir": 9.0,
+        "valeur": 0.8
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, bleu. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Cube Nuroad : gravel bien né, finition et équipement au-dessus du prix. Les FE tirent vers la route, l'EX vers l'aventure.",
+        "vision": "",
+        "description_vendeur": "Completamente nueva. Regalo de graduación comprado el 15 de junio (tenemos el recibo). Entregado al cumpleañero un mes después (fuera del plazo de devolución). La bici es nueva, intacta. Lamentablemente era demasiado grande. En el precio está incluido el montaje, ya que la habíamos comprado por internet y la hicimos ensamblar por un mecánico.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~690 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano CUES",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1050.0
         }
       ],
       "marche_modele": {
@@ -38382,5 +38560,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T17:10:11+00:00"
+  "genere_le": "2026-07-14T17:40:37+00:00"
 }
