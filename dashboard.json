@@ -1,5 +1,5 @@
 {
-  "total": 425,
+  "total": 426,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -4826,6 +4826,102 @@
       }
     },
     {
+      "titre": "Canyon Grizl 7 1by 2023 2023",
+      "url": "https://buycycle.com/product/grizl-7-1by-2023-72531",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1350.0,
+      "cout_reel": 1450,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 971,
+      "prix_max_calcul": "1079€ (cote) × (0.62 + 0.28 × 100% fit) = 971€",
+      "cote": 1079.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Canyon",
+      "modele": "Grizl 7 1by 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659698/e6c61a65-7245-49a7-9282-1eab618b85fc.webp",
+      "score": 8.3,
+      "fit_pct": 100,
+      "axes": {
+        "technique": 10.0,
+        "financier": 3.5,
+        "usage": 10.0,
+        "plaisir": 5.0,
+        "valeur": 3.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~971€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Canyon Grizl 7 1by 2023 se positionne en entrée/milieu de gamme dans la série Grizl, au-dessus des versions de base mais sous les modèles carbone (CF) et les finitions supérieures (Grizl 8/9 avec GRX 800). Il repose sur un cadre aluminium associé à une fourche carbone, une combinaison typique pour maîtriser le coût tout en conservant un train avant plus léger et filtrant. La transmission GRX en configuration 1x (mono-plateau) simplifie l'entretien et réduit le risque de déraillement en tout-terrain, mais limite l'étagement et les grands développements sur route rapide ou longues descentes roulantes. Le Grizl est conçu comme un gravel réellement orienté aventure/bikepacking, avec géométrie endurante, nombreux inserts (fourche, cadre) et dégagements pneus généreux, ce qui le rend polyvalent pour le gravel léger comme pour le vélotaf. En usage quotidien toute l'année, le cadre alu tolère bien les agressions, les freins à disque hydrauliques GRX sont fiables et puissants par tous temps, et le passage de garde-boue est prévu, ce qui est un vrai atout. Les limites concrètes : poids plus élevé qu'un cadre carbone, absence de plateau supplémentaire pénalisante pour les trajets rapides, et sur l'occasion il faut vérifier l'usure de la transmission mono (chaîne/plateau/cassette) souvent plus sollicitée. Réputation globalement solide sur la fiabilité mécanique, avec les réserves habituelles Canyon sur le SAV et le montage vente directe (roulements de direction, serrage tige de selle à contrôler).",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (rx810/rx812 dérailleur arrière chape longue), freins disque hydraulique, pneus 40 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission propre et peu usée (dents de plateau et cassette en bon état, chaîne saine), pneus Schwalbe G-One Bite avec crampons bien présents. Aucune corrosion, cadre et fourche très propres, disques et plaquettes en bon état, l'ensemble semble récent et peu roulé. ⚠ À vérifier : Vérifier tubeless monté (valves violettes présentes mais jantes marquées 'TUBE TYPE / TUBELESS'), et contrôler l'absence d'impact sur le tube diagonal en carbone/alu (transition matériaux visible). Confirmer que le dérailleur avant est bien absent (config 1x). (confiance 82%)",
+        "description_vendeur": "Ruedas convertidas a tubeless, neumáticos a sustituir en breve. Cinta de manillar nueva, cuadro y cambio en excelentes condiciones. Incluye parches antiarañazos para proteger la pintura. Revisada al inicio de la temporada en un taller local. Presenta algunos rasguños leves en los frenos y en las bielas (ver fotografías).",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (100 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1079 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": 10.5,
+        "degagement_mm": 50
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11 (RX810/RX812 dérailleur arrière chape longue)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission propre et peu usée (dents de plateau et cassette en bon état, chaîne saine), pneus Schwalbe G-One Bite avec crampons bien présents. Aucune corrosion, cadre et fourche très propres, disques et plaquettes en bon état, l'ensemble semble récent et peu roulé.",
+        "points_attention": "Vérifier tubeless monté (valves violettes présentes mais jantes marquées 'TUBE TYPE / TUBELESS'), et contrôler l'absence d'impact sur le tube diagonal en carbone/alu (transition matériaux visible). Confirmer que le dérailleur avant est bien absent (config 1x).",
+        "confiance": 0.82
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Scott Speedster Gravel 40 2024 2024",
       "url": "https://buycycle.com/product/speedster-gravel-40-2024-47512",
       "source": "buycycle",
@@ -5272,7 +5368,7 @@
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (10 favoris)",
+          "Annonce très regardée (11 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5460,7 +5556,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2022, rouge. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le BH RX Team 3.0 (2022) est un gravel de milieu de gamme dans la série RX Team de BH, dotée d'un cadre et d'une fourche 100% carbone, ce qui le place au-dessus des modèles alu de la marque mais sous les versions à groupes GRX/Force plus haut de gamme. La version 3.0 correspond à l'entrée de la déclinaison carbone, équipée d'un Shimano 105 (11 vitesses) route dérivé, ce qui est un choix plus routier que le GRX spécifique gravel, avec un potentiel manque de plage de développement et une gestion de la chaîne moins optimisée en terrain accidenté. Usage visé : gravel léger, pistes roulantes et polyvalence route/chemins, plus qu'un vrai gravel engagé. Points forts : rigidité et légèreté du carbone, comportement vif et confort correct, bon rapport prix/performance en occasion ; limites : freins et transmission souvent en versions mécaniques d'entrée (105 non hydraulique selon config, à vérifier), dégagement pneus limité pour un usage gravel exigeant, et périphériques (roues/pneus) parfois basiques. La fiabilité BH est correcte mais le SAV et la disponibilité des pièces spécifiques (cintre/tige intégrés éventuels, standards de cadre) peuvent poser problème en occasion. Pour du vélotaf quotidien toute l'année, le cadre carbone est un peu fragile aux chocs et manque souvent de fixations garde-boue/porte-bagages complètes, mais reste jouable ; pour du gravel léger, il est bien adapté tant qu'on reste sur des pneus modérés.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique. État visuel : Vélo très sale/boueux (poussière et projections sur cadre, pédalier et roues), typique d'un usage cyclocross/gravel intensif. Transmission mono-plateau visiblement usée, pneus type cyclocross à crampons avec sculpture encore présente, disques de frein en bon état apparent. ⚠ À vérifier : Cadre carbone couvert de boue masquant d'éventuelles rayures/impacts : nettoyer et inspecter attentivement les zones de contact (tube diagonal, bases, potence carbone EC90). Vérifier l'usure réelle de la chaîne/cassette et l'état des roues Shimano. (confiance 50%)",
         "description_vendeur": "None",
@@ -5482,11 +5578,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -5754,7 +5850,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~2700 €)",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16022,7 +16118,7 @@
           "Décote intéressante : ~−10 % vs cote (~1559 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (45 favoris)",
+          "Annonce très regardée (46 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34736,7 +34832,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (26 favoris)",
+          "Annonce très regardée (27 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -39033,5 +39129,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T21:12:27+00:00"
+  "genere_le": "2026-07-14T21:42:47+00:00"
 }
