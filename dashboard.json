@@ -3140,7 +3140,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2022, orange. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2022. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo JAKAR 20 2022 se situe dans l'entrée à milieu de gamme de la série gravel JAKAR du fabricant espagnol Megamo, le numéro '20' indiquant un niveau d'équipement inférieur aux versions supérieures (JAKAR 30/40) mieux dotées. Il associe un cadre en aluminium à une fourche carbone, combinaison classique visant à limiter le poids et le coût tout en filtrant une partie des vibrations sur l'avant. Le groupe SRAM Apex 1x (mono-plateau probable) offre une transmission simple et robuste avec une large plage de développements, adaptée au gravel et au polyvalent, mais l'Apex reste le niveau d'entrée SRAM avec un rendement et une finition en retrait par rapport à Rival/Force. Les freins à disque (probablement mécaniques ou hydrauliques selon finition, à vérifier physiquement) assurent un freinage fiable par tous temps, atout réel pour le vélotaf toute l'année. Usage visé : gravel léger à modéré et route/chemins roulants, avec une géométrie plutôt polyvalente et endurante. Points forts : robustesse du cadre alu, fourche carbone, transmission mono simple d'entretien ; limites : poids probablement élevé pour l'entrée de gamme, périphériques (roues, pneus) basiques, marque à diffusion confidentielle hors Espagne compliquant SAV et revente. Pour le vélotaf quotidien il conviendra bien (fixations garde-boue/porte-bagages à vérifier, passage de pneus généreux), mais Megamo reste une marque à réputation limitée et peu documentée en fiabilité longue durée.",
         "vision": "Cadre aluminium, fourche carbone, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec plateau et chaîne peu usés, pneus à crampons présentant une sculpture bien marquée sans usure notable. Cadre alu couleur crème globalement propre, quelques traces de manipulation possibles mais aucun impact ni corrosion évidents. ⚠ À vérifier : Groupe non identifiable avec certitude (double plateau, manettes STI type Shimano non lisibles) ; vérifier la référence exacte du groupe et l'état des disques/plaquettes de frein sur place. Pédales plates basiques montées. (confiance 55%)",
         "description_vendeur": "None",
@@ -3162,11 +3162,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -9622,7 +9622,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (78 favoris)",
+          "Annonce très regardée (80 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -32199,7 +32199,7 @@
         ],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (32 favoris)",
+          "Annonce très regardée (33 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -38013,5 +38013,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T11:38:47+00:00"
+  "genere_le": "2026-07-14T12:09:25+00:00"
 }
