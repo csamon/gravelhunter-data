@@ -1,5 +1,5 @@
 {
-  "total": 414,
+  "total": 415,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -3140,7 +3140,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2022. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2022, orange. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo JAKAR 20 2022 se situe dans l'entrée à milieu de gamme de la série gravel JAKAR du fabricant espagnol Megamo, le numéro '20' indiquant un niveau d'équipement inférieur aux versions supérieures (JAKAR 30/40) mieux dotées. Il associe un cadre en aluminium à une fourche carbone, combinaison classique visant à limiter le poids et le coût tout en filtrant une partie des vibrations sur l'avant. Le groupe SRAM Apex 1x (mono-plateau probable) offre une transmission simple et robuste avec une large plage de développements, adaptée au gravel et au polyvalent, mais l'Apex reste le niveau d'entrée SRAM avec un rendement et une finition en retrait par rapport à Rival/Force. Les freins à disque (probablement mécaniques ou hydrauliques selon finition, à vérifier physiquement) assurent un freinage fiable par tous temps, atout réel pour le vélotaf toute l'année. Usage visé : gravel léger à modéré et route/chemins roulants, avec une géométrie plutôt polyvalente et endurante. Points forts : robustesse du cadre alu, fourche carbone, transmission mono simple d'entretien ; limites : poids probablement élevé pour l'entrée de gamme, périphériques (roues, pneus) basiques, marque à diffusion confidentielle hors Espagne compliquant SAV et revente. Pour le vélotaf quotidien il conviendra bien (fixations garde-boue/porte-bagages à vérifier, passage de pneus généreux), mais Megamo reste une marque à réputation limitée et peu documentée en fiabilité longue durée.",
         "vision": "Cadre aluminium, fourche carbone, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec plateau et chaîne peu usés, pneus à crampons présentant une sculpture bien marquée sans usure notable. Cadre alu couleur crème globalement propre, quelques traces de manipulation possibles mais aucun impact ni corrosion évidents. ⚠ À vérifier : Groupe non identifiable avec certitude (double plateau, manettes STI type Shimano non lisibles) ; vérifier la référence exacte du groupe et l'état des disques/plaquettes de frein sur place. Pédales plates basiques montées. (confiance 55%)",
         "description_vendeur": "None",
@@ -3162,11 +3162,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "orange",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -7396,7 +7396,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−41 % vs cote (~1860 €)",
-          "Annonce très regardée (31 favoris)",
+          "Annonce très regardée (33 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9266,7 +9266,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−13 % vs cote (~1379 €)",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13674,8 +13674,8 @@
       "source": "buycycle",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 1100.0,
-      "cout_reel": 1345,
+      "prix": 990.0,
+      "cout_reel": 1235,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
@@ -13698,10 +13698,10 @@
       "fit_pct": 81,
       "axes": {
         "technique": 7.0,
-        "financier": 6.1,
+        "financier": 7.5,
         "usage": 8.5,
         "plaisir": 5.0,
-        "valeur": 5.1
+        "valeur": 5.9
       },
       "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
       "infos_manquantes": [
@@ -13722,7 +13722,8 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−1 % vs cote (~1110 €)",
+          "Décote intéressante : ~−11 % vs cote (~1110 €)",
+          "Prix déjà baissé par le vendeur",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -13745,6 +13746,10 @@
         {
           "date": "2026-07-06",
           "prix": 1100.0
+        },
+        {
+          "date": "2026-07-14",
+          "prix": 990.0
         }
       ],
       "marche_modele": {
@@ -15213,14 +15218,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -15576,14 +15581,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -16041,14 +16046,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -16411,14 +16416,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -18410,7 +18415,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (9 favoris)",
+          "Annonce très regardée (10 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -18968,7 +18973,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (33 favoris)",
+          "Annonce très regardée (34 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19795,7 +19800,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−20 % vs cote (~749 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (27 favoris)",
+          "Annonce très regardée (28 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20682,14 +20687,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -21395,7 +21400,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (14 favoris)",
+          "Annonce très regardée (15 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -22482,14 +22487,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -22881,6 +22886,102 @@
         {
           "date": "2026-07-06",
           "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Specialized CruX Comp Disc Apex 2012 2012",
+      "url": "https://buycycle.com/product/crux-comp-disc-apex-2012-71829",
+      "source": "buycycle",
+      "categorie": "cyclocross",
+      "action": "IGNORER",
+      "prix": 1200.0,
+      "cout_reel": 1445,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 916,
+      "prix_max_calcul": "1200€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 916€",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Specialized",
+      "modele": "CruX Comp Disc Apex 2012",
+      "taille": "M",
+      "annee": 2012,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2658609/bcb0b835-930f-46f8-b03e-8aa9677abb7b.webp",
+      "score": 5.6,
+      "fit_pct": 51,
+      "axes": {
+        "technique": 8.3,
+        "financier": 6.0,
+        "usage": 4.5,
+        "plaisir": 6.5,
+        "valeur": 5.0
+      },
+      "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille 54 cm, 2012, blanc. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Specialized CruX Comp Disc Apex 2012 est un vélo de cyclocross positionné en milieu de gamme dans la première génération de CruX à disque, à une époque où Specialized introduisait les freins à disque mécaniques sur ses vélos de CX. Le cadre en aluminium (E5) associé à une fourche carbone offre un bon compromis rigidité/coût, mais reste plus lourd et moins confortable qu'un cadre carbone comme le CruX Pro/Expert de la même période. Le groupe SRAM Apex 10 vitesses (compact ou mono selon config) est fiable et robuste mais d'entrée de gamme, avec un cintre route et une géométrie orientée compétition CX (boîtier de pédalier haut, angles vifs), moins polyvalente que les gravels modernes. Les freins sont probablement des Avid BB5/BB7 mécaniques, endurants mais moins puissants et plus exigeants en réglage que l'hydraulique actuel. Pour le vélotaf toute l'année, c'est un choix viable et costaud (disques, dégagement pour pneus larges, possibilité de garde-boue avec bricolage), mais l'absence d'œillets dédiés et la position agressive limitent le confort urbain quotidien. En gravel léger il se débrouille sur chemins roulants, mais la géométrie CX nerveuse et le standard 10v vieillissant (pièces à surveiller) trahissent son âge ; sur l'occasion, vérifier l'état du cadre alu (fissures aux soudures), des roues et l'usure des plaquettes.",
+        "vision": "Cadre carbone, fourche carbone, groupe sram apex 2x10, freins disque mécanique. État visuel : Transmission et pneus à crampons présentant une usure d'utilisation modérée, cadre couvert de poussière/boue de sortie chemin. Douille de direction avec petites rayures et traces autour du logo, aucun impact structurel visible sur le carbone. ⚠ À vérifier : Frein à disque semble mécanique (câble rouge apparent, pas de durite hydraulique claire) : à confirmer. Rayures/traces sur la douille de direction et propreté à revoir ; vérifier usure plaquettes/disque non visibles en gros plan. (confiance 50%)",
+        "description_vendeur": "Arañazos y marcas, ¡normales para una bicicleta de ciclocross/gravel!\n\nTiene un desviador trasero NUEVO \"Sram x5 medium cage\".\n\nEnviaré un juego NUEVO de neumáticos \"Vittoria Zero 700x40c Gravel Light TLR\" y un juego de neumáticos \"Vittoria Corsa G2.0 TLR Folding Road Tyre - 700c\" con POCO USO (100 km).\nTambién añadiré un manillar NUEVO \"LEVELNINE Team-Gravel Di2 31.8 - 42mm\".",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)"
+        ],
+        "moins_velo": [
+          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)",
+          "Ancien (2012)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "blanc",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "SRAM Apex 2x10",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission et pneus à crampons présentant une usure d'utilisation modérée, cadre couvert de poussière/boue de sortie chemin. Douille de direction avec petites rayures et traces autour du logo, aucun impact structurel visible sur le carbone.",
+        "points_attention": "Frein à disque semble mécanique (câble rouge apparent, pas de durite hydraulique claire) : à confirmer. Rayures/traces sur la douille de direction et propreté à revoir ; vérifier usure plaquettes/disque non visibles en gros plan.",
+        "confiance": 0.5
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1200.0
         }
       ],
       "marche_modele": {
@@ -23505,14 +23606,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -23593,14 +23694,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -23857,14 +23958,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -24491,93 +24592,6 @@
       }
     },
     {
-      "titre": "Genesis Cda 20 2021 2021",
-      "url": "https://buycycle.com/product/cda-20-2021-68773",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 600.0,
-      "cout_reel": 760,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 408,
-      "prix_max_calcul": "605€ (cote) × (0.62 + 0.28 × 46% fit) = 453€ − 10 % (infos manquantes)",
-      "cote": 605.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Genesis",
-      "modele": "Cda 20 2021",
-      "taille": "M",
-      "annee": 2021,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647156/4ee8729a-b755-4ae1-bd9f-aced00fdb9dc.webp",
-      "score": 4.6,
-      "fit_pct": 46,
-      "axes": {
-        "technique": 3.5,
-        "financier": 6.1,
-        "usage": 5.0,
-        "plaisir": 5.5,
-        "valeur": 5.1
-      },
-      "verdict": "Peu adapté à ton usage (~46% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2021. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Son gros avantage est d’être hyper polyvalent. Il convient pour faire du chemin, une course type vtt que de la randonnée et même du triathlon…\n\nIl comporte des traces d’usure (guidoline notamment) mais à part ça, il est en très bon état général.\n\nJe le vends avec 1 paire de pneus supplémentaires comme vous pouvez le voir dans le descriptif ci-dessous : \n* Cadre : aluminium\n* Fourche : acier chromo",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Sora)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−1 % vs cote (~605 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-08",
-          "prix": 600.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Focus Mares Shimano Ultegra 2018",
       "url": "https://buycycle.com/product/mares-shimano-ultegra-29509",
       "source": "buycycle",
@@ -24831,6 +24845,93 @@
         {
           "date": "2026-07-09",
           "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Genesis Cda 20 2021 2021",
+      "url": "https://buycycle.com/product/cda-20-2021-68773",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 600.0,
+      "cout_reel": 760,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 408,
+      "prix_max_calcul": "605€ (cote) × (0.62 + 0.28 × 46% fit) = 453€ − 10 % (infos manquantes)",
+      "cote": 605.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Genesis",
+      "modele": "Cda 20 2021",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2647156/4ee8729a-b755-4ae1-bd9f-aced00fdb9dc.webp",
+      "score": 4.4,
+      "fit_pct": 46,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.1,
+        "usage": 5.0,
+        "plaisir": 5.0,
+        "valeur": 5.1
+      },
+      "verdict": "Peu adapté à ton usage (~46% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2021. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Its big advantage is being extremely versatile. It is suitable for trail riding, mountain bike-style racing, touring, and even triathlon…\n\nIt shows signs of wear (notably the handlebar tape), but apart from that, it is in very good general condition.\n\nI am selling it with 1 extra pair of tires as you can see in the description below:\n* Frame: aluminum\n* Fork: chromoly steel (extremely sturdy, Gene",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Sora)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~605 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Sora",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-08",
+          "prix": 600.0
         }
       ],
       "marche_modele": {
@@ -25191,14 +25292,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26620,14 +26721,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26708,14 +26809,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -27505,14 +27606,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -27594,14 +27695,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -27684,14 +27785,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -29018,14 +29119,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -29821,14 +29922,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -29910,14 +30011,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -29990,14 +30091,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30079,14 +30180,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30168,14 +30269,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 870.0,
-        "ecart_type": 268.0,
-        "n_ventes": 14,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 6,
+        "cote_reelle": 850.0,
+        "ecart_type": 264.0,
+        "n_ventes": 15,
+        "prix_demande_median": 750.0,
+        "n_en_vente": 5,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 870 € ±268 € (14 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 850 € ±264 € (15 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34603,10 +34704,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -34630,11 +34733,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -38013,5 +38116,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T12:09:25+00:00"
+  "genere_le": "2026-07-14T12:41:47+00:00"
 }
