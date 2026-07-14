@@ -5850,7 +5850,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~2700 €)",
-          "Annonce très regardée (24 favoris)",
+          "Annonce très regardée (25 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9204,9 +9204,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -18177,12 +18177,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1300.0,
-        "n_en_vente": 3,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1300 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -18267,12 +18267,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1300.0,
-        "n_en_vente": 3,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1300 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -20678,12 +20678,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1300.0,
-        "n_en_vente": 3,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1300 € (3 en vente) — historique en cours"
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -25772,9 +25772,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -30040,9 +30040,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -39129,5 +39129,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T23:12:16+00:00"
+  "genere_le": "2026-07-14T23:42:21+00:00"
 }
