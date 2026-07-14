@@ -1,5 +1,5 @@
 {
-  "total": 412,
+  "total": 413,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -13988,7 +13988,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (14 favoris)",
+          "Annonce très regardée (15 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -20181,7 +20181,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (55 favoris)",
+          "Annonce très regardée (56 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35010,6 +35010,94 @@
       }
     },
     {
+      "titre": "Bianchi Impulso Shimano Ultegra 2022",
+      "url": "https://buycycle.com/product/impulso-all-road-105-2018-40169",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1350.0,
+      "cout_reel": 1595,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 688,
+      "prix_max_calcul": "1124€ (cote) × (0.62 + 0.28 × 21% fit) = 764€ − 10 % (infos manquantes)",
+      "cote": 1124.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Bianchi",
+      "modele": "Impulso Shimano Ultegra",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654083/f3d2a7dc-369f-4514-bc53-0f71fad6cc53.webp",
+      "score": 0.8,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 4.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 3.4
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Ultegra mécanique, freins à disque, taille 55 cm, 2022, vert. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "algunos arañazos en el cuadro, debido al desgaste pero siempre bien cuidada",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1124 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Ultegra",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1350.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Custom Rennrad 2000",
       "url": "https://buycycle.com/product/rennrad-45542",
       "source": "buycycle",
@@ -37825,5 +37913,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T10:09:22+00:00"
+  "genere_le": "2026-07-14T10:38:28+00:00"
 }
