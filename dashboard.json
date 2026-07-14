@@ -1,5 +1,5 @@
 {
-  "total": 413,
+  "total": 414,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1279,6 +1279,102 @@
         "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Merida SILEX 400 2022 2022",
+      "url": "https://buycycle.com/product/silex-400-2022-57450",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1100.0,
+      "cout_reel": 1200,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1025,
+      "prix_max_calcul": "1141€ (cote) × (0.62 + 0.28 × 99% fit) = 1025€",
+      "cote": 1141.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Merida",
+      "modele": "SILEX 400 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2658475/2ad5b67a-3400-4857-a87b-f561ab168502.webp",
+      "score": 9.8,
+      "fit_pct": 99,
+      "axes": {
+        "technique": 9.8,
+        "financier": 6.5,
+        "usage": 10.0,
+        "plaisir": 5.0,
+        "valeur": 5.3
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1025€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, bleu. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Merida SILEX 400 2022 se positionne en milieu de gamme accessible dans la série SILEX, au-dessus des SILEX 200/300 équipés en Shimano mécanique 2x et sous les versions supérieures (SILEX 700/7000) à cadre plus léger et groupes GRX plus haut de gamme. Il combine un cadre aluminium triple butted (Silex Lite Alloy) avec une fourche carbone à insert alu, une géométrie typée endurance/gravel avec cockpit haut et empattement long pour la stabilité, inspirée du VTT pour le confort sur longues distances. Le groupe Shimano GRX (généralement RX400/RX600 en 2x10 sur le 400) est fiable, robuste et bien adapté au tout-terrain léger comme aux sorties route. Points forts : rapport qualité/prix, confort de position, capacité d'emport (nombreux inserts pour porte-bagages/garde-boue/bidons) qui le rend excellent pour le vélotaf toute l'année et le bikepacking. Limites : poids élevé du cadre alu, dégagement pneu correct mais pas énorme comparé à des gravels plus récents, et une position parfois jugée trop haute pour les amateurs de gravel rapide. Réputation solide et fiabilité éprouvée, c'est un choix pragmatique et polyvalent pour l'usage quotidien plus gravel modéré.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x10 (rx600, plateau 46-30), freins disque hydraulique, pneus 38 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission fonctionnelle mais sale avec chaîne oxydée/graisse noircie et dents de plateaux encore correctes ; pneus crantés à sculpture bien présente, disques et plaquettes présentant une usure normale sans voile visible. Cadre bleu mat globalement propre avec quelques marques d'usage mineures et poussière. ⚠ À vérifier : Chaîne encrassée/légère corrosion de surface à vérifier (jauge d'usure recommandée) ; guidon plat monté à la place d'un cintre route sur la photo d'ensemble alors que la vue de face montre un cintre courbé — cohérence des photos à confirmer. (confiance 82%)",
+        "description_vendeur": "Al principio se utilizó como Jobrad, pero pronto fue sustituida por una bicicleta de carretera, por lo que apenas se ha utilizado en los últimos 3 años. En consecuencia, el cuadro y todos los componentes están en muy buen estado.",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (99 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−4 % vs cote (~1141 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": 10.8,
+        "degagement_mm": 42
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x10 (RX600, plateau 46-30)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 38,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission fonctionnelle mais sale avec chaîne oxydée/graisse noircie et dents de plateaux encore correctes ; pneus crantés à sculpture bien présente, disques et plaquettes présentant une usure normale sans voile visible. Cadre bleu mat globalement propre avec quelques marques d'usage mineures et poussière.",
+        "points_attention": "Chaîne encrassée/légère corrosion de surface à vérifier (jauge d'usure recommandée) ; guidon plat monté à la place d'un cintre route sur la photo d'ensemble alors que la vue de face montre un cintre courbé — cohérence des photos à confirmer.",
+        "confiance": 0.82
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -4885,7 +4981,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (25 favoris)",
+          "Annonce très regardée (26 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6939,7 +7035,7 @@
         "ecart_type": null,
         "n_ventes": 0,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -9711,7 +9807,7 @@
           "Décote intéressante : ~−72 % vs cote (~3480 €)",
           "Prix déjà baissé par le vendeur",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (61 favoris)",
+          "Annonce très regardée (62 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -31773,6 +31869,105 @@
       }
     },
     {
+      "titre": "BULLS Grinder 1 2022 2022",
+      "url": "https://buycycle.com/product/grinder-1-2022-10012",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 711.0,
+      "cout_reel": 956,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 432,
+      "prix_max_calcul": "719€ (cote) × (0.62 + 0.28 × 17% fit) = 480€ − 10 % (infos manquantes)",
+      "cote": 719.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "BULLS",
+      "modele": "Grinder 1 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2634903/a85e45de-b7db-49c4-9131-e9665a41f3a9.webp",
+      "score": 2.4,
+      "fit_pct": 17,
+      "axes": {
+        "technique": 3.5,
+        "financier": 6.2,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 5.1
+      },
+      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Claris, taille M, 2022. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Hola a todos,\n\nVendo mi bicicleta de gravel Bulls Grinder 1, como nueva, en un precioso acabado en rojo mate.\n\nLa bicicleta se encuentra en un estado de ensueño absoluto (como nueva). Solo se ha utilizado en una única vuelta corta de aproximadamente 15 km. El resto del tiempo ha estado perfectamente protegida bajo nuestro cobertizo y, además, cuidadosamente cubierta con una lona de alta calidad. A",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Claris)",
+          "Peu adapté à ton usage (17 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−1 % vs cote (~719 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Claris",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-06",
+          "prix": 799.0
+        },
+        {
+          "date": "2026-07-07",
+          "prix": 790.0
+        },
+        {
+          "date": "2026-07-14",
+          "prix": 711.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "TRIBAN Triban RC 500 Gravel 2021",
       "url": "https://buycycle.com/product/triban-rc-500-gravel6a4d44436c214-46882",
       "source": "buycycle",
@@ -33546,101 +33741,6 @@
         {
           "date": "2026-07-06",
           "prix": 400.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "BULLS Grinder 1 2022 2022",
-      "url": "https://buycycle.com/product/grinder-1-2022-10012",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 790.0,
-      "cout_reel": 1035,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 432,
-      "prix_max_calcul": "719€ (cote) × (0.62 + 0.28 × 17% fit) = 480€ − 10 % (infos manquantes)",
-      "cote": 719.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "BULLS",
-      "modele": "Grinder 1 2022",
-      "taille": "M",
-      "annee": 2022,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2634903/a85e45de-b7db-49c4-9131-e9665a41f3a9.webp",
-      "score": 1.8,
-      "fit_pct": 17,
-      "axes": {
-        "technique": 3.5,
-        "financier": 5.0,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 4.2
-      },
-      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Claris, taille M, 2022. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Hola a todos,\n\nVendo mi bicicleta de gravel Bulls Grinder 1, como nueva, en un precioso acabado en rojo mate.\n\nLa bicicleta se encuentra en un estado de ensueño absoluto (como nueva). Solo se ha utilizado en una única vuelta corta de aproximadamente 15 km. El resto del tiempo ha estado perfectamente protegida bajo nuestro cobertizo y, además, cuidadosamente cubierta con una lona de alta calidad. A",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Claris)",
-          "Peu adapté à ton usage (17 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~719 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Claris",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-06",
-          "prix": 799.0
-        },
-        {
-          "date": "2026-07-07",
-          "prix": 790.0
         }
       ],
       "marche_modele": {
@@ -37913,5 +38013,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T10:38:28+00:00"
+  "genere_le": "2026-07-14T11:09:15+00:00"
 }
