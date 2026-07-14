@@ -1,5 +1,5 @@
 {
-  "total": 422,
+  "total": 423,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -16797,6 +16797,98 @@
       }
     },
     {
+      "titre": "lexon Lexon Custom SRAM Rival eTap AXS 2024",
+      "url": "https://buycycle.com/product/lexon-custom-29274",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1399.0,
+      "cout_reel": 1644,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1060,
+      "prix_max_calcul": "1399€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 1178€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "lexon",
+      "modele": "Lexon Custom SRAM Rival eTap AXS",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2421750/e8fd2363-48cb-49de-a084-a9b56e0bcf9a.webp",
+      "score": 7.0,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe SRAM Rival eTap AXS, taille M, 2024. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "La marque 'Lexon' n'est pas identifiable comme un fabricant de vélos établi (Lexon est surtout connu pour le design d'objets/accessoires), et l'appellation 'Custom' suggère un montage sur cadre générique ou une petite série artisanale plutôt qu'un modèle catalogue documenté. Impossible donc de situer ce vélo dans une 'gamme Lexon' faute de gamme identifiable, ni de statuer sur matériau (alu/carbone/acier), standards de boîtier, passage de câbles ou géométrie sans photos et fiche technique précises. Le seul élément fiable est le groupe SRAM Rival eTap AXS, un groupe électronique sans fil 12 vitesses de milieu de gamme, réputé fiable, à la transmission précise et facile à entretenir, mais aux batteries à recharger et au coût de remplacement non négligeable. Pour un usage vélotaf quotidien toute l'année, le Rival AXS convient (fonctionnement propre, freinage disque hydraulique probable), mais l'exposition électronique à la pluie/froid et l'absence d'infos sur fixations garde-boue/porte-bagages et dégagement pneus sont des inconnues rédhibitoires. Pour du gravel léger, tout dépend du cadre et du dégagement réels, non vérifiables ici. Sans marque de cadre crédible ni fiche technique, ce vélo doit être jugé exclusivement sur inspection physique (cadre, soudures, roues, état du groupe) et non sur une réputation de modèle, ce qui impose une grande prudence à l'achat d'occasion.",
+        "vision": "",
+        "description_vendeur": "Cuadro Lexon GFE, pedalier roscado ZTTO press fit. Batería y cargador (de repuesto) incluidos. Las roscas inferiores del portabultos están desgastadas y necesitan reparación.\n\nRuedas DT Swiss, con bujes Shimano.\n\n20/03/2026 - sillín nuevo instalado, Lexon X6 Carbon.",
+        "plus_velo": [
+          "Groupe bon (SRAM Rival eTap AXS)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (129 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Rival eTap AXS",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Olympia Handy Sram Apex 2024",
       "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
       "source": "buycycle",
@@ -32843,7 +32935,7 @@
         ],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (36 favoris)",
+          "Annonce très regardée (37 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -38752,5 +38844,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T19:10:46+00:00"
+  "genere_le": "2026-07-14T19:41:17+00:00"
 }
