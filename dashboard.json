@@ -154,7 +154,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−10 % vs cote (~1650 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (39 favoris)",
+          "Annonce très regardée (38 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -2226,12 +2226,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1098.0,
-        "n_en_vente": 4,
+        "n_ventes": 2,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1098 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -4788,7 +4788,7 @@
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Annonce très regardée (64 favoris)",
+          "Annonce très regardée (63 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5575,7 +5575,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−49 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -5754,7 +5754,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−40 % vs cote (~1739 €)",
-          "Annonce très regardée (21 favoris)",
+          "Annonce très regardée (22 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -6069,9 +6069,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -8054,7 +8054,7 @@
       "verdict": "Bon vélo pour ton usage (~79% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano 105, taille M, 2019. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2019, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grail CF SL 7.0 2019 se situe en entrée/milieu de gamme carbone de la série Grail, au-dessus des versions alu (Grail AL) mais nettement en dessous des CF SLX haut de gamme (cadre plus rigide et léger, meilleurs groupes). Sa signature technologique est le fameux cintre 'Hover Bar' double-pont (cockpit CP07 à deux niveaux), pensé pour amortir les vibrations sur terrain roulant et offrir une position basse aéro plus une position haute confortable. Le montage Shimano 105 (11 vitesses, mécanique) est fiable, cohérent avec le prix, mais les freins à disque de cette génération sont souvent hydrauliques 105 corrects ; vérifier l'usure des plaquettes/disques et l'état des durites. Points forts : cadre et fourche carbone confortables, géométrie gravel polyvalente, bon rapport qualité/prix à l'origine ; limites concrètes : le cintre intégré double-pont est clivant (ergonomie, réglages limités, remplacement coûteux et difficile en cas de casse ou d'inadaptation), et les roues/pneus d'origine sont assez basiques. Fiabilité globale correcte pour un usage gravel léger et route, mais surveiller les inserts et la potence intégrée propriétaire. Pour le vélotaf quotidien toute l'année, c'est jouable (freins disque, dégagement pneus, confort) mais le cockpit spécifique complique l'ajout d'accessoires (sacoches de cintre, éclairage, compteur) et il faudra prévoir garde-boue compatibles et pneus plus increvables.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11 (mixé, dérailleur arrière type gs), freins disque hydraulique. État visuel : Transmission propre avec chaîne et plateaux montrant une usure modérée sans dents crochues visibles ; pneus type gravel/CX à crampons à l'usure encore correcte. Étriers hydrauliques présents (durites visibles), disques et cadre en bon état apparent, quelques traces d'usage sur la guidoline mais globalement propre. ⚠ À vérifier : Guidoline usée/décollée par endroits ; combinaison de composants (manettes Shimano, plateau visible marqué 'SD') à vérifier pour cohérence du groupe ; vérifier état des plaquettes et voile des disques de près. (confiance 55%)",
         "description_vendeur": "Buen estado general. \nPrever cambio de cinta de manillar. \nArañazos por desgaste en las vainas debido al roce de las zapatillas con el cuadro.",
@@ -8076,11 +8076,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -8805,7 +8805,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (120 favoris)",
+          "Annonce très regardée (121 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9924,12 +9924,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1098.0,
-        "n_en_vente": 4,
+        "n_ventes": 2,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1098 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -10837,7 +10837,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−7 % vs cote (~1500 €)",
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -12114,12 +12114,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1098.0,
-        "n_en_vente": 4,
+        "n_ventes": 2,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1098 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -20401,12 +20401,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1098.0,
-        "n_en_vente": 4,
+        "n_ventes": 2,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1098 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -27937,7 +27937,7 @@
         ],
         "plus_annonce": [
           "Décote intéressante : ~−29 % vs cote (~780 €)",
-          "Annonce très regardée (58 favoris)",
+          "Annonce très regardée (59 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34971,12 +34971,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -35000,11 +34998,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -35198,12 +35196,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": 1098.0,
-        "n_en_vente": 4,
+        "n_ventes": 2,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1098 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -38383,5 +38381,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T15:39:30+00:00"
+  "genere_le": "2026-07-14T16:09:48+00:00"
 }
