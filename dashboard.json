@@ -695,6 +695,108 @@
       }
     },
     {
+      "titre": "Giant Revolt 1 2024 2024",
+      "url": "https://buycycle.com/product/revolt-1-2024-30809",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1000.0,
+      "cout_reel": 1160,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 934,
+      "prix_max_calcul": "1049€ (cote) × (0.62 + 0.28 × 97% fit) = 934€",
+      "cote": 1049.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Revolt 1 2024",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657597/e1cfdf90-24c7-4b09-b5e8-8e51b1892782.webp",
+      "score": 10.0,
+      "fit_pct": 97,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.7,
+        "usage": 10.0,
+        "plaisir": 8.5,
+        "valeur": 5.4
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~934€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, violet. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant Revolt 1 2024 se positionne en milieu de gamme du programme gravel alu de Giant, au-dessus du Revolt 2 (groupe inférieur) et sous les versions carbone Advanced. Il combine un cadre en aluminium ALUXX SL avec une fourche full carbone à guidage interne des câbles, tirant parti du concept D-Fuse (tige de selle et cintre) censé filtrer les vibrations sur terrain irrégulier. Le groupe Shimano GRX (mono ou double plateau selon config, souvent GRX 400/600 sur cette finition) offre un étagement adapté au gravel, avec freins à disque hydrauliques fiables et éprouvés. L'usage visé est polyvalent : gravel roulant à moyennement technique, bikepacking léger et sorties route grâce aux nombreux inserts (porte-bidons, garde-boue, porte-bagages). Points forts : géométrie endurance équilibrée, robustesse du cadre alu, montage cohérent et bon rapport prix/prestations sur l'occasion ; limites : poids supérieur aux modèles carbone, confort dépendant du D-Fuse plus que d'un vrai amortisseur, et finition GRX d'entrée moins valorisante que du GRX 800. Réputation solide et fiabilité reconnue pour la plateforme Revolt. Pour le vélotaf quotidien toute l'année, c'est un choix pertinent (dégagement pneus généreux, inserts garde-boue, freins fiables), et il reste très à l'aise en gravel léger.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano 1x (mono-plateau, dérailleur arrière type grx/deore non lisible précisément), freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateau monoplateau en bon état ; pneus Giant CrossCut avec sculpture bien présente. Disques et plaquettes semblent peu marqués, cadre bordeaux brillant globalement propre sans corrosion ni impact visible. ⚠ À vérifier : Étrier de frein avant à câble (durite absente) = frein à disque MÉCANIQUE et non hydraulique comme attendu sur un Revolt ; pédales plates d'entrée de gamme montées ; vérifier alignement roue avant et tension de la sangle/câble de frein. (confiance 50%)",
+        "description_vendeur": "None",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (97 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−5 % vs cote (~1049 €)",
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "violet",
+        "condition": null,
+        "poids_kg": 10.6,
+        "degagement_mm": 45
+      },
+      "vision_brute": {
+        "groupe": "Shimano 1x (mono-plateau, dérailleur arrière type GRX/Deore non lisible précisément)",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne et cassette peu usées, plateau monoplateau en bon état ; pneus Giant CrossCut avec sculpture bien présente. Disques et plaquettes semblent peu marqués, cadre bordeaux brillant globalement propre sans corrosion ni impact visible.",
+        "points_attention": "Étrier de frein avant à câble (durite absente) = frein à disque MÉCANIQUE et non hydraulique comme attendu sur un Revolt ; pédales plates d'entrée de gamme montées ; vérifier alignement roue avant et tension de la sangle/câble de frein.",
+        "confiance": 0.5
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-13",
+          "prix": 1100.0
+        },
+        {
+          "date": "2026-07-14",
+          "prix": 1000.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": 1075.0,
+        "n_en_vente": 4,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1075 € (4 en vente) — historique en cours"
+      }
+    },
+    {
       "titre": "Cannondale Topstone Shimano GRX 2024",
       "url": "https://buycycle.com/product/topstone-shimano-grx-26854",
       "source": "buycycle",
@@ -1369,103 +1471,6 @@
       }
     },
     {
-      "titre": "Giant Revolt 1 2024 2024",
-      "url": "https://buycycle.com/product/revolt-1-2024-30809",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 1100.0,
-      "cout_reel": 1260,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 934,
-      "prix_max_calcul": "1049€ (cote) × (0.62 + 0.28 × 97% fit) = 934€",
-      "cote": 1049.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Giant",
-      "modele": "Revolt 1 2024",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2657597/e1cfdf90-24c7-4b09-b5e8-8e51b1892782.webp",
-      "score": 9.7,
-      "fit_pct": 97,
-      "axes": {
-        "technique": 8.8,
-        "financier": 5.5,
-        "usage": 10.0,
-        "plaisir": 8.5,
-        "valeur": 4.6
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~934€) — NÉGOCIER.",
-      "infos_manquantes": [],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, violet. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Giant Revolt 1 2024 se positionne en milieu de gamme du programme gravel alu de Giant, au-dessus du Revolt 2 (groupe inférieur) et sous les versions carbone Advanced. Il combine un cadre en aluminium ALUXX SL avec une fourche full carbone à guidage interne des câbles, tirant parti du concept D-Fuse (tige de selle et cintre) censé filtrer les vibrations sur terrain irrégulier. Le groupe Shimano GRX (mono ou double plateau selon config, souvent GRX 400/600 sur cette finition) offre un étagement adapté au gravel, avec freins à disque hydrauliques fiables et éprouvés. L'usage visé est polyvalent : gravel roulant à moyennement technique, bikepacking léger et sorties route grâce aux nombreux inserts (porte-bidons, garde-boue, porte-bagages). Points forts : géométrie endurance équilibrée, robustesse du cadre alu, montage cohérent et bon rapport prix/prestations sur l'occasion ; limites : poids supérieur aux modèles carbone, confort dépendant du D-Fuse plus que d'un vrai amortisseur, et finition GRX d'entrée moins valorisante que du GRX 800. Réputation solide et fiabilité reconnue pour la plateforme Revolt. Pour le vélotaf quotidien toute l'année, c'est un choix pertinent (dégagement pneus généreux, inserts garde-boue, freins fiables), et il reste très à l'aise en gravel léger.",
-        "vision": "Cadre aluminium, fourche carbone, groupe shimano 1x (mono-plateau, dérailleur arrière type grx/deore non lisible précisément), freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateau monoplateau en bon état ; pneus Giant CrossCut avec sculpture bien présente. Disques et plaquettes semblent peu marqués, cadre bordeaux brillant globalement propre sans corrosion ni impact visible. ⚠ À vérifier : Étrier de frein avant à câble (durite absente) = frein à disque MÉCANIQUE et non hydraulique comme attendu sur un Revolt ; pédales plates d'entrée de gamme montées ; vérifier alignement roue avant et tension de la sangle/câble de frein. (confiance 50%)",
-        "description_vendeur": "None",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)",
-          "Bien adapté à ton usage (97 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1049 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "violet",
-        "condition": null,
-        "poids_kg": 10.6,
-        "degagement_mm": 45
-      },
-      "vision_brute": {
-        "groupe": "Shimano 1x (mono-plateau, dérailleur arrière type GRX/Deore non lisible précisément)",
-        "freins": "disque mécanique",
-        "fourche": "carbone",
-        "cadre": "aluminium",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": true,
-        "etat_visuel": "Transmission propre avec chaîne et cassette peu usées, plateau monoplateau en bon état ; pneus Giant CrossCut avec sculpture bien présente. Disques et plaquettes semblent peu marqués, cadre bordeaux brillant globalement propre sans corrosion ni impact visible.",
-        "points_attention": "Étrier de frein avant à câble (durite absente) = frein à disque MÉCANIQUE et non hydraulique comme attendu sur un Revolt ; pédales plates d'entrée de gamme montées ; vérifier alignement roue avant et tension de la sangle/câble de frein.",
-        "confiance": 0.5
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-13",
-          "prix": 1100.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1100.0,
-        "n_en_vente": 4,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
-      }
-    },
-    {
       "titre": "Cannondale Topstone 1 2021 2021",
       "url": "https://buycycle.com/product/topstone-1-2021-87434",
       "source": "buycycle",
@@ -2024,11 +2029,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1100.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -7323,12 +7328,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1175.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -12382,11 +12387,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1100.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -13379,11 +13384,11 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
-        "prix_demande_median": 1100.0,
+        "prix_demande_median": 1075.0,
         "n_en_vente": 4,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1100 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1075 € (4 en vente) — historique en cours"
       }
     },
     {
@@ -18061,12 +18066,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1175.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -19444,12 +19449,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1175.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -20022,12 +20027,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": 1175.0,
-        "n_en_vente": 4,
+        "n_ventes": 1,
+        "prix_demande_median": 1150.0,
+        "n_en_vente": 3,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1175 € (4 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1150 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -31820,7 +31825,7 @@
         ],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (30 favoris)",
+          "Annonce très regardée (31 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -33522,7 +33527,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (23 favoris)",
+          "Annonce très regardée (24 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -34319,12 +34324,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -34348,11 +34351,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -37641,5 +37644,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-14T08:07:59+00:00"
+  "genere_le": "2026-07-14T08:37:43+00:00"
 }
