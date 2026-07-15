@@ -1,5 +1,5 @@
 {
-  "total": 428,
+  "total": 430,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -4861,7 +4861,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~971€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grizl 7 1by 2023 se positionne en entrée/milieu de gamme dans la série Grizl, au-dessus des versions de base mais sous les modèles carbone (CF) et les finitions supérieures (Grizl 8/9 avec GRX 800). Il repose sur un cadre aluminium associé à une fourche carbone, une combinaison typique pour maîtriser le coût tout en conservant un train avant plus léger et filtrant. La transmission GRX en configuration 1x (mono-plateau) simplifie l'entretien et réduit le risque de déraillement en tout-terrain, mais limite l'étagement et les grands développements sur route rapide ou longues descentes roulantes. Le Grizl est conçu comme un gravel réellement orienté aventure/bikepacking, avec géométrie endurante, nombreux inserts (fourche, cadre) et dégagements pneus généreux, ce qui le rend polyvalent pour le gravel léger comme pour le vélotaf. En usage quotidien toute l'année, le cadre alu tolère bien les agressions, les freins à disque hydrauliques GRX sont fiables et puissants par tous temps, et le passage de garde-boue est prévu, ce qui est un vrai atout. Les limites concrètes : poids plus élevé qu'un cadre carbone, absence de plateau supplémentaire pénalisante pour les trajets rapides, et sur l'occasion il faut vérifier l'usure de la transmission mono (chaîne/plateau/cassette) souvent plus sollicitée. Réputation globalement solide sur la fiabilité mécanique, avec les réserves habituelles Canyon sur le SAV et le montage vente directe (roulements de direction, serrage tige de selle à contrôler).",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (rx810/rx812 dérailleur arrière chape longue), freins disque hydraulique, pneus 40 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission propre et peu usée (dents de plateau et cassette en bon état, chaîne saine), pneus Schwalbe G-One Bite avec crampons bien présents. Aucune corrosion, cadre et fourche très propres, disques et plaquettes en bon état, l'ensemble semble récent et peu roulé. ⚠ À vérifier : Vérifier tubeless monté (valves violettes présentes mais jantes marquées 'TUBE TYPE / TUBELESS'), et contrôler l'absence d'impact sur le tube diagonal en carbone/alu (transition matériaux visible). Confirmer que le dérailleur avant est bien absent (config 1x). (confiance 82%)",
         "description_vendeur": "Ruedas convertidas a tubeless, neumáticos a sustituir en breve. Cinta de manillar nueva, cuadro y cambio en excelentes condiciones. Incluye parches antiarañazos para proteger la pintura. Revisada al inicio de la temporada en un taller local. Presenta algunos rasguños leves en los frenos y en las bielas (ver fotografías).",
@@ -4883,11 +4883,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "orange",
         "condition": null,
         "poids_kg": 10.5,
         "degagement_mm": 50
@@ -14867,7 +14867,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -14957,7 +14957,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -15136,7 +15136,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -17175,6 +17175,96 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1020 € (5 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "BH GravelX 1 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3233316500:3d4a7b78-cf4d-4466-beec-7c2a0157ea5c",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 999.0,
+      "cout_reel": 1184,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 785,
+      "prix_max_calcul": "999€ (prix affiché) × (0.62 + 0.28 × 90% fit) = 872€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 90,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 10.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe bon (détecté)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (90 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-15",
+          "prix": 999.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1049.0,
+        "ecart_type": 149.0,
+        "n_ventes": 10,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -24637,7 +24727,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -24725,7 +24815,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -27221,7 +27311,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -27311,7 +27401,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -28283,7 +28373,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -28373,7 +28463,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -28556,6 +28646,96 @@
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
+      }
+    },
+    {
+      "titre": "WELT Voyager 1 2026 - Vélo Gravel Musculaire | Garantie 24 mois",
+      "url": "https://www.leboncoin.fr/ad/velos/3233343938",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 949.0,
+      "cout_reel": 1134,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 580,
+      "prix_max_calcul": "949€ (prix affiché) × (0.62 + 0.28 × 21% fit) = 645€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 3.5,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-15",
+          "prix": 949.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1049.0,
+        "ecart_type": 149.0,
+        "n_ventes": 10,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -28994,7 +29174,7 @@
         "ecart_type": 149.0,
         "n_ventes": 10,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 2,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -39332,5 +39512,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T10:17:09+00:00"
+  "genere_le": "2026-07-15T10:46:58+00:00"
 }
