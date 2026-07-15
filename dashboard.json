@@ -1,5 +1,5 @@
 {
-  "total": 426,
+  "total": 427,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -5759,7 +5759,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−49 % vs cote (~2100 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (22 favoris)",
+          "Annonce très regardée (23 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -9807,7 +9807,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Décote intéressante : ~−5 % vs cote (~899 €)",
-          "Annonce très regardée (82 favoris)",
+          "Annonce très regardée (83 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -14273,7 +14273,7 @@
         "moins_velo": [],
         "plus_annonce": [
           "Prix déjà baissé par le vendeur",
-          "Annonce très regardée (16 favoris)",
+          "Annonce très regardée (17 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -16507,6 +16507,105 @@
         {
           "date": "2026-07-12",
           "prix": 1600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Giant Giant Custom Shimano Deore XT Di2 2021",
+      "url": "https://buycycle.com/product/giant-custom-12026",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1100.0,
+      "cout_reel": 1345,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 840,
+      "prix_max_calcul": "1100€ (prix affiché) × (0.62 + 0.28 × 51% fit) = 840€",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Giant Custom Shimano Deore XT Di2",
+      "taille": "M",
+      "annee": 2021,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654888/3a4e333b-98bf-4b92-881e-57fa2ba32640.webp",
+      "score": 7.0,
+      "fit_pct": 51,
+      "axes": {
+        "technique": 8.3,
+        "financier": 6.0,
+        "usage": 4.5,
+        "plaisir": 8.5,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo pour ton usage (~51% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano Deore XT Di2 électronique, freins à disque, taille M, 2021, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "L'appellation 'Giant Custom Shimano Deore XT Di2 2021' ne correspond à aucun modèle catalogue Giant clairement identifiable : Deore XT Di2 est un groupe VTT (11 vitesses, transmission électronique désormais abandonnée par Shimano au profit du full-mechanical sur XT M8100), ce qui suggère soit un montage sur mesure/custom, soit un cadre VTT (type Anthem, Trance ou XTC) plutôt qu'un vrai gravel/route. Cette incohérence impose la plus grande prudence : un XT Di2 (M8050) est une transmission relativement rare, coûteuse à réparer et dont Shimano a arrêté le développement, avec disponibilité de pièces (dérailleurs, batterie interne) de plus en plus limitée. Si le cadre est carbone avec fourche carbone et freins à disque, l'usage réel dépend entièrement de la géométrie exacte (VTT XC vs gravel), impossible à trancher sans la référence précise du cadre. Point fort théorique : transmission électronique précise et cadre carbone léger ; limites concrètes : écosystème Di2 VTT en fin de vie, coût des composants en cas de panne, et incertitude totale sur le dégagement pneus. Pour du vélotaf quotidien toute l'année, un montage XT Di2 est mal adapté (fragilité électronique, batterie, surcoût inutile face à une transmission méca), et pour du gravel léger l'adéquation dépend d'un cadre qui n'est pas confirmé comme étant un gravel. En occasion, exiger impérativement la référence cadre exacte, l'état de la batterie Di2, l'historique et vérifier la disponibilité SAV avant tout achat.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano xt (dérailleur arrière xt visible, mono-plateau, groupe mixte non-di2 mécanique), freins disque hydraulique. État visuel : Transmission avec chaîne présentant une légère oxydation/manque de lubrification, cassette et plateau mono peu usés ; pneus à sculpture crantée (gravel) montrant une usure modérée avec traces de terre. Cadre carbone globalement propre mais avec poussière/salissures et reflets rendant difficile la détection de micro-rayures ou impacts. ⚠ À vérifier : Le titre annonce 'Deore XT Di2 2021' mais les photos montrent un dérailleur arrière XT MÉCANIQUE (câble visible, pas de servomoteur/durite électrique Di2) et des manettes route/gravel : incohérence à vérifier absolument. Vérifier compatibilité VTT/route du groupe, l'usure réelle de la chaîne (jauge) et l'état des flancs carbone au niveau des zones à contre-jour. (confiance 55%)",
+        "description_vendeur": "Hola, tengo a la venta una bicicleta de ciclocross Giant TCX de 2021 con pintura personalizada de Barbara Borowiecka (sobre Liv).\n\nTalla del cuadro: M\nMaterial del cuadro: Carbono\nBicicleta equipada con grupo eléctrico Shimano Deore XT, cassette 11–32 (Ultegra).\nPlato delantero: absoluteBLACK 42T\nBielas: Ultegra 172,5 mm\nRuedas: Giant PR-2 con bujes Novatec\nTamaño de rueda: 28”\nPotencia: PRO Vibe ",
+        "plus_velo": [
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Deore XT Di2",
+        "frame": "carbone",
+        "shifting": "électronique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano XT (dérailleur arrière XT visible, mono-plateau, groupe mixte non-Di2 mécanique)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission avec chaîne présentant une légère oxydation/manque de lubrification, cassette et plateau mono peu usés ; pneus à sculpture crantée (gravel) montrant une usure modérée avec traces de terre. Cadre carbone globalement propre mais avec poussière/salissures et reflets rendant difficile la détection de micro-rayures ou impacts.",
+        "points_attention": "Le titre annonce 'Deore XT Di2 2021' mais les photos montrent un dérailleur arrière XT MÉCANIQUE (câble visible, pas de servomoteur/durite électrique Di2) et des manettes route/gravel : incohérence à vérifier absolument. Vérifier compatibilité VTT/route du groupe, l'usure réelle de la chaîne (jauge) et l'état des flancs carbone au niveau des zones à contre-jour.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-12",
+          "prix": 1250.0
+        },
+        {
+          "date": "2026-07-15",
+          "prix": 1100.0
         }
       ],
       "marche_modele": {
@@ -18975,7 +19074,7 @@
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (15 favoris)",
+          "Annonce très regardée (16 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -19655,6 +19754,107 @@
         "n_ventes": 1,
         "prix_demande_median": null,
         "n_en_vente": 0,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Canyon Inflite CF SL 6 2023 2023",
+      "url": "https://buycycle.com/product/inflite-cf-sl-6-2023-28345",
+      "source": "buycycle",
+      "categorie": "cyclocross",
+      "action": "IGNORER",
+      "prix": 1399.0,
+      "cout_reel": 1644,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 878,
+      "prix_max_calcul": "1199€ (cote) × (0.62 + 0.28 × 69% fit) = 975€ − 10 % (infos manquantes)",
+      "cote": 1199.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Canyon",
+      "modele": "Inflite CF SL 6 2023",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659953/90046ba1-fa22-4826-89c9-4ccc3772308b.webp",
+      "score": 6.7,
+      "fit_pct": 69,
+      "axes": {
+        "technique": 8.8,
+        "financier": 4.3,
+        "usage": 7.0,
+        "plaisir": 5.0,
+        "valeur": 3.7
+      },
+      "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, blanc. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Canyon Inflite CF SL 6 2023 est un vélo de cyclocross (CX), et non un gravel ou route pur : c'est une distinction cruciale, car sa géométrie est agressive et orientée compétition/technicité, avec un boîtier de pédalier haut, une position typée cross et un comportement nerveux, moins confortable qu'un gravel dédié. Dans la gamme Canyon, l'Inflite CF SL constitue le milieu de gamme carbone (au-dessus des rares déclinaisons alu inexistantes ici, en dessous des CF SLX plus légers et haut de gamme), le '6' étant la finition d'entrée de cette famille carbone avec un groupe Shimano GRX (typiquement mécanique 1x ou 2x selon config, freins hydrauliques à disque). Le cadre affiche le tube supérieur descendant en 'S' caractéristique de l'Inflite, censé faciliter le portage lors des franchissements. Points forts : cadre et fourche carbone rigides et réactifs, freinage à disque fiable, groupe GRX robuste et bien adapté au tout-terrain. Limites concrètes : dégagement pneus limité (orienté CX autour de 33-40 mm), pas d'œillets pour porte-bagages/garde-boue complets, position sportive peu adaptée au confort quotidien, et la tige de selle Canyon intégrée/propriétaire complique certains réglages. La réputation Canyon est bonne sur le rapport qualité/prix mais le SAV à distance et la disponibilité des pièces propriétaires (potence/cintre, tige) sont des points de vigilance en occasion. Pour un vélotaf quotidien toute l'année, c'est un choix médiocre (peu de fixations, géométrie inconfortable, dégagement restreint) ; en revanche il excelle en gravel léger/rapide et sportif, et bien sûr en cyclocross.",
+        "vision": "Cadre carbone, fourche carbone, freins disque hydraulique. État visuel : Le vélo paraît en très bon état, quasi neuf, présenté devant son carton d'origine Canyon avec des pneus dont la sculpture semble intacte et une transmission propre. Aucune rayure, impact ou corrosion visible sur les photos, mais la résolution ne permet pas de détailler l'usure de la chaîne ou des plaquettes. ⚠ À vérifier : Impossible de lire la série exacte du groupe (dérailleurs/manettes non zoomés) ni les dimensions/mention tubeless sur le flanc des pneus ; vérifier le disque de frein avant apparemment fin et l'absence de photo rapprochée de la transmission. (confiance 40%)",
+        "description_vendeur": "Canyon Inflite CF SL 6 (2023) en excelente estado. La bicicleta ha sido usada muy poco y se encuentra en óptimas condiciones tanto estética como técnicamente. Siempre ha sido tratada con cuidado, mantenida regularmente y guardada exclusivamente en interiores. Nunca ha sufrido caídas y está lista para rodar. El cuadro de carbono ligero en combinación con el grupo de transmisión Shimano GRX hace que",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Bien adapté à ton usage (69 % du besoin)"
+        ],
+        "moins_velo": [
+          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
+        ],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1199 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "blanc",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": null,
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Le vélo paraît en très bon état, quasi neuf, présenté devant son carton d'origine Canyon avec des pneus dont la sculpture semble intacte et une transmission propre. Aucune rayure, impact ou corrosion visible sur les photos, mais la résolution ne permet pas de détailler l'usure de la chaîne ou des plaquettes.",
+        "points_attention": "Impossible de lire la série exacte du groupe (dérailleurs/manettes non zoomés) ni les dimensions/mention tubeless sur le flanc des pneus ; vérifier le disque de frein avant apparemment fin et l'absence de photo rapprochée de la transmission.",
+        "confiance": 0.4
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-15",
+          "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -25296,7 +25496,7 @@
         "plus_annonce": [
           "Décote intéressante : ~−38 % vs cote (~1620 €)",
           "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (32 favoris)",
+          "Annonce très regardée (33 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -27557,90 +27757,6 @@
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
-      }
-    },
-    {
-      "titre": "Giant Giant Custom Shimano Deore XT Di2 2021",
-      "url": "https://buycycle.com/product/giant-custom-12026",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 1250.0,
-      "cout_reel": 1495,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 887,
-      "prix_max_calcul": "1250€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 887€",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Giant",
-      "modele": "Giant Custom Shimano Deore XT Di2",
-      "taille": "M",
-      "annee": 2021,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2654888/3a4e333b-98bf-4b92-881e-57fa2ba32640.webp",
-      "score": 4.0,
-      "fit_pct": 32,
-      "axes": {
-        "technique": 6.0,
-        "financier": 6.0,
-        "usage": 2.5,
-        "plaisir": 8.5,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
-      "infos_manquantes": [],
-      "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano Deore XT Di2 électronique, freins à disque, taille M, 2021, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Hola, tengo a la venta una bicicleta de ciclocross Giant TCX de 2021 con pintura personalizada de Barbara Borowiecka (sobre Liv).\n\nTalla del cuadro: M\nMaterial del cuadro: Carbono\nBicicleta equipada con grupo eléctrico Shimano Deore XT, cassette 11–32 (Ultegra).\nPlato delantero: absoluteBLACK 42T\nBielas: Ultegra 172,5 mm\nRuedas: Giant PR-2 con bujes Novatec\nTamaño de rueda: 28”\nPotencia: PRO Vibe ",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (32 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Deore XT Di2",
-        "frame": "carbone",
-        "shifting": "électronique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "noir",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-12",
-          "prix": 1250.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
       }
     },
     {
@@ -33614,93 +33730,6 @@
       }
     },
     {
-      "titre": "Ridley Ridley Kalazy Claris MDB 2×8 2026",
-      "url": "https://buycycle.com/product/ridley-kalazy-claris-mdb-286a50b52242d58-34029",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 1190.0,
-      "cout_reel": 1435,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 637,
-      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 49% fit) = 637€",
-      "cote": 840.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Ridley",
-      "modele": "Ridley Kalazy Claris MDB 2×8",
-      "taille": "M",
-      "annee": 2026,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651228/8dc91fc8-6dbf-439d-9216-2ce05f5e275d.webp",
-      "score": 2.1,
-      "fit_pct": 49,
-      "axes": {
-        "technique": 6.0,
-        "financier": 2.0,
-        "usage": 4.5,
-        "plaisir": 6.0,
-        "valeur": 1.7
-      },
-      "verdict": "Peu adapté à ton usage (~49% du besoin) — IGNORER.",
-      "infos_manquantes": [],
-      "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille M, 2026, noir. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Marca Ridley\nModelo Kalazy\nDistanceia Gravel\nMaterial Aluminio\nGrupo Shimano Claris 2×8 velocidades\nBicicleta eléctrica No\nTipo de freno Montaje plano (freno de disco mecánico)\nSillín Selle Italia Model X\nEspacio libre máximo para neumáticos 700c 47 mm\nColor base Negro\nAcabado Brillante-mate\nLímite de peso N/A\nPedales No incluidos\nNivel de cuadro Serie Hydro",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2026)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Claris)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~840 €) — à négocier",
-          "Vendeur professionnel (marge possible, moins de négociation)",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Claris",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": null,
-        "color": "noir",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-10",
-          "prix": 1190.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Kross ESKER 2.0 2026 2026",
       "url": "https://buycycle.com/product/esker-20-2026-23476",
       "source": "buycycle",
@@ -34828,7 +34857,7 @@
           "Peu adapté à ton usage (17 % du besoin)"
         ],
         "plus_annonce": [
-          "Annonce très regardée (29 favoris)",
+          "Annonce très regardée (30 favoris)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
@@ -35032,6 +35061,93 @@
       "historique_prix": [
         {
           "date": "2026-07-05",
+          "prix": 1190.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Ridley Ridley Kalazy Claris MDB 2×8 2026",
+      "url": "https://buycycle.com/product/ridley-kalazy-claris-mdb-286a50b52242d58-34029",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 1190.0,
+      "cout_reel": 1435,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 630,
+      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 46% fit) = 630€",
+      "cote": 840.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Ridley",
+      "modele": "Ridley Kalazy Claris MDB 2×8",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651228/8dc91fc8-6dbf-439d-9216-2ce05f5e275d.webp",
+      "score": 1.6,
+      "fit_pct": 46,
+      "axes": {
+        "technique": 5.0,
+        "financier": 2.0,
+        "usage": 4.5,
+        "plaisir": 6.0,
+        "valeur": 1.7
+      },
+      "verdict": "Peu adapté à ton usage (~46% du besoin) — IGNORER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille M, 2026, noir. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Ridley Kanzo : gravel belge. L'Adventure (alu, GRX) est robuste et confortable ; le Fast est plus racing.",
+        "vision": "",
+        "description_vendeur": "Brand: Ridley\nModel: Kanzo\nCategory: Gravel\nMaterial: Aluminum\nGroupset: Shimano Claris 2x8 speed\nElectric bike: No\nBrake type: Flat mount (mechanical disc brake)\nSaddle: Selle Italia Model X\nMaximum tire clearance: 700c 47 mm\nBase color: Black\nFinish: Glossy-matte\nWeight limit: N/A\nPedals: Not included\nFrame level: Hydro Series",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Claris)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~840 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Claris",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
           "prix": 1190.0
         }
       ],
@@ -39125,5 +39241,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T06:14:34+00:00"
+  "genere_le": "2026-07-15T06:45:42+00:00"
 }
