@@ -1,5 +1,5 @@
 {
-  "total": 430,
+  "total": 431,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -14866,8 +14866,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -14956,8 +14956,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -15135,8 +15135,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -17260,8 +17260,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -24726,8 +24726,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -24814,8 +24814,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -27310,8 +27310,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -27400,8 +27400,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -28372,8 +28372,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -28462,8 +28462,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -28731,8 +28731,98 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
+      }
+    },
+    {
+      "titre": "WELT Voyager 1 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3233369411",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 949.0,
+      "cout_reel": 1134,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 580,
+      "prix_max_calcul": "949€ (prix affiché) × (0.62 + 0.28 × 21% fit) = 645€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 3.5,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-15",
+          "prix": 949.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1049.0,
+        "ecart_type": 149.0,
+        "n_ventes": 10,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -29173,8 +29263,8 @@
         "cote_reelle": 1049.0,
         "ecart_type": 149.0,
         "n_ventes": 10,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 949.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 1049 € ±149 € (10 ventes) · liquidité méd. 2 j"
@@ -37182,10 +37272,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Altus mécanique, freins à disque, taille 54 cm, 2025, light gray. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Altus, taille M, 2025. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Bicicleta nueva, con todos los accesorios, empaquetada en una caja.",
@@ -37208,11 +37300,11 @@
       },
       "specs": {
         "groupset": "Shimano Altus",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39510,5 +39602,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T11:17:12+00:00"
+  "genere_le": "2026-07-15T11:48:17+00:00"
 }
