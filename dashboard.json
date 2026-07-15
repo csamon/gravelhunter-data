@@ -23878,7 +23878,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille 54 cm, 2012, blanc. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2012. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Specialized CruX Comp Disc Apex 2012 est un vélo de cyclocross positionné en milieu de gamme dans la première génération de CruX à disque, à une époque où Specialized introduisait les freins à disque mécaniques sur ses vélos de CX. Le cadre en aluminium (E5) associé à une fourche carbone offre un bon compromis rigidité/coût, mais reste plus lourd et moins confortable qu'un cadre carbone comme le CruX Pro/Expert de la même période. Le groupe SRAM Apex 10 vitesses (compact ou mono selon config) est fiable et robuste mais d'entrée de gamme, avec un cintre route et une géométrie orientée compétition CX (boîtier de pédalier haut, angles vifs), moins polyvalente que les gravels modernes. Les freins sont probablement des Avid BB5/BB7 mécaniques, endurants mais moins puissants et plus exigeants en réglage que l'hydraulique actuel. Pour le vélotaf toute l'année, c'est un choix viable et costaud (disques, dégagement pour pneus larges, possibilité de garde-boue avec bricolage), mais l'absence d'œillets dédiés et la position agressive limitent le confort urbain quotidien. En gravel léger il se débrouille sur chemins roulants, mais la géométrie CX nerveuse et le standard 10v vieillissant (pièces à surveiller) trahissent son âge ; sur l'occasion, vérifier l'état du cadre alu (fissures aux soudures), des roues et l'usure des plaquettes.",
         "vision": "Cadre carbone, fourche carbone, groupe sram apex 2x10, freins disque mécanique. État visuel : Transmission et pneus à crampons présentant une usure d'utilisation modérée, cadre couvert de poussière/boue de sortie chemin. Douille de direction avec petites rayures et traces autour du logo, aucun impact structurel visible sur le carbone. ⚠ À vérifier : Frein à disque semble mécanique (câble rouge apparent, pas de durite hydraulique claire) : à confirmer. Rayures/traces sur la douille de direction et propreté à revoir ; vérifier usure plaquettes/disque non visibles en gros plan. (confiance 50%)",
         "description_vendeur": "Arañazos y marcas, ¡normales para una bicicleta de ciclocross/gravel!\n\nTiene un desviador trasero NUEVO \"Sram x5 medium cage\".\n\nEnviaré un juego NUEVO de neumáticos \"Vittoria Zero 700x40c Gravel Light TLR\" y un juego de neumáticos \"Vittoria Corsa G2.0 TLR Folding Road Tyre - 700c\" con POCO USO (100 km).\nTambién añadiré un manillar NUEVO \"LEVELNINE Team-Gravel Di2 31.8 - 42mm\".",
@@ -23898,11 +23898,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "blanc",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -36100,12 +36100,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Kona Rove : gravel/randonneuse increvable (acier ou alu), confort et robustesse — idéal vélotaf 4 saisons.",
         "vision": "",
         "description_vendeur": "New bike in its box!\nInvoice possible",
@@ -36129,11 +36127,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39512,5 +39510,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T10:46:58+00:00"
+  "genere_le": "2026-07-15T11:17:12+00:00"
 }
