@@ -1,5 +1,5 @@
 {
-  "total": 427,
+  "total": 428,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1744,8 +1744,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -15405,8 +15405,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -15768,8 +15768,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -16233,8 +16233,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -16702,8 +16702,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -20642,7 +20642,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Tiagra, taille M, 2018. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille 55 cm, 2018, noir. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Norco Threshold A Tiagra 2018 se situe en entrée de gamme de la famille Threshold, la ligne cyclocross/gravel de Norco, avec le cadre aluminium (le 'A') et le groupe Shimano Tiagra 10 vitesses, positionné sous les versions Ultegra/105 et sous les cadres carbone de la marque. À l'origine conçu comme vélo de cyclocross de compétition, sa géométrie est plus agressive et racée qu'un pur gravel moderne (boîtier plus haut pour le franchissement d'obstacles, position engagée), ce qui le rend plus vif mais moins confortable sur longues distances gravel que les gravels dédiés. Ses atouts concrets sont le cadre alu robuste, la fourche carbone qui filtre un peu et allège l'avant, les freins à disque (probablement mécaniques TRP/Tektro à ce niveau de gamme, moins puissants et plus exigeants en entretien que de l'hydraulique) et un passage de câbles/standards classiques faciles à entretenir. Ses limites : Tiagra reste correct mais basique (10v, ergonomie de leviers un cran en dessous du 105), dégagement pneus orienté cyclocross (typiquement autour de 33-40 mm, limité pour du gravel large), et absence d'œillets généreux pour porte-bagages selon la finition course. La fiabilité mécanique est bonne car les composants sont éprouvés et le cadre alu tolère les chocs, mais vérifier l'état des freins disque, la transmission usée et d'éventuelles fissures au cadre. Pour le vélotaf quotidien toute l'année il convient correctement (disques, robustesse) mais la géométrie course et le manque de fixations/garde-boue intégrés peuvent contraindre ; pour du gravel léger sur chemins roulants il est pertinent, mais moins polyvalent qu'un gravel contemporain à grand dégagement.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano tiagra 4700 2x10, freins disque mécanique, pneus 33 mm. État visuel : Transmission propre avec chaîne et cassette peu marquées, plateaux Tiagra en bon état ; pneus cyclocross type Challenge/Clement à crampons encore bien sculptés. Cadre alu (série X6) globalement propre avec quelques traces d'usage mais sans impact ni corrosion majeurs visibles. ⚠ À vérifier : Freins à disque mécaniques (durite absente, câble visible) donc moins performants qu'hydrauliques ; vérifier usure des disques/plaquettes et la selle qui semble être un remplacement non d'origine. Cadre en taille 55,5 cm (sticker). (confiance 82%)",
         "description_vendeur": "Sale without pedals",
@@ -20664,11 +20664,11 @@
       },
       "specs": {
         "groupset": "Shimano Tiagra",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -21545,8 +21545,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -21844,6 +21844,92 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
+      }
+    },
+    {
+      "titre": "Vélo gravel Van Rysel GRVL AF Discover (Decathlon) - Taille L - Comme neuf",
+      "url": "https://www.leboncoin.fr/ad/velos/3233282355",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 630.0,
+      "cout_reel": 670,
+      "cout_reel_detail": [
+        "révision +40€"
+      ],
+      "prix_max_conseille": 454,
+      "prix_max_calcul": "630€ (prix affiché) × (0.62 + 0.28 × 64% fit) = 504€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": 181.6,
+      "image": null,
+      "score": 6.4,
+      "fit_pct": 64,
+      "axes": {
+        "technique": 6.3,
+        "financier": 6.0,
+        "usage": 6.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Marin Gestalt (attention : Marin est la marque, 'leboncoin' n'est que la plateforme de vente) est un gravel/all-road en aluminium 6061 double butted qui constitue l'entrée de gamme gravel de Marin, positionné sous les versions Gestalt X (cadre alu plus travaillé) et le Headlands en carbone. Le millésime 2025 conserve la géométrie polyvalente et endurante de la série, avec une fourche carbone à inserts pour porte-bagages/gardes-boue, des œillets multiples (top tube, triple sur fourche) et un passage de gaines qui reste souvent externe ou semi-interne sur ce niveau de gamme, ce qui simplifie l'entretien. L'usage visé est le gravel roulant, le bikepacking léger et surtout le vélotaf, où sa robustesse alu, ses nombreux points de fixation et son montage typiquement mécanique (Shimano GRX/Sora ou Microshift selon versions, freins à disque hydrauliques ou mécaniques) le rendent pertinent toute l'année. Points forts : polyvalence, capacité d'emport, prix contenu, fiabilité mécanique et facilité de réparation. Limites concrètes : poids élevé face au carbone, cadre alu plus rigide/moins filtrant, et sur les versions basses un groupe d'entrée de gamme (freins mécaniques, cassette limitée) bridant le rendement. Réputation solide et sans surprise, marque fiable au SAV correct, valeur d'occasion raisonnable ; le point noir de cette annonce est l'absence totale d'info sur le groupe et le montage exact, à faire préciser impérativement avant achat. Pour du vélotaf quotidien plus gravel léger occasionnel, c'est un choix cohérent à condition de vérifier la version précise et le niveau de transmission/freinage.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (64 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 700
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-15",
+          "prix": 630.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 850.0,
+        "ecart_type": 248.0,
+        "n_ventes": 19,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -23255,8 +23341,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -24374,8 +24460,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -24462,8 +24548,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -24726,8 +24812,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -24993,8 +25079,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -26147,8 +26233,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -26322,8 +26408,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -27664,8 +27750,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -27752,8 +27838,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -28465,8 +28551,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -28554,8 +28640,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -29888,8 +29974,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30691,8 +30777,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30780,8 +30866,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -30860,8 +30946,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -31037,8 +31123,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -31126,8 +31212,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -31215,8 +31301,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -31304,8 +31390,8 @@
         "cote_reelle": 850.0,
         "ecart_type": 248.0,
         "n_ventes": 19,
-        "prix_demande_median": 700.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 675.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 850 € ±248 € (19 ventes) · liquidité méd. 2 j"
@@ -35091,8 +35177,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 630,
-      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 46% fit) = 630€",
+      "prix_max_conseille": 567,
+      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 46% fit) = 630€ − 10 % (infos manquantes)",
       "cote": 840.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -35113,9 +35199,12 @@
         "valeur": 1.7
       },
       "verdict": "Peu adapté à ton usage (~46% du besoin) — IGNORER.",
-      "infos_manquantes": [],
+      "infos_manquantes": [
+        "freins",
+        "cadre"
+      ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille M, 2026, noir. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Claris, taille M, 2026. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Ridley Kanzo : gravel belge. L'Adventure (alu, GRX) est robuste et confortable ; le Fast est plus racing.",
         "vision": "",
         "description_vendeur": "Brand: Ridley\nModel: Kanzo\nCategory: Gravel\nMaterial: Aluminum\nGroupset: Shimano Claris 2x8 speed\nElectric bike: No\nBrake type: Flat mount (mechanical disc brake)\nSaddle: Selle Italia Model X\nMaximum tire clearance: 700c 47 mm\nBase color: Black\nFinish: Glossy-matte\nWeight limit: N/A\nPedals: Not included\nFrame level: Hydro Series",
@@ -35137,11 +35226,11 @@
       },
       "specs": {
         "groupset": "Shimano Claris",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39243,5 +39332,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T08:46:07+00:00"
+  "genere_le": "2026-07-15T09:15:52+00:00"
 }
