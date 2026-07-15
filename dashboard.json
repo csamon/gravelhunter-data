@@ -37272,12 +37272,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Altus, taille M, 2025. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Altus mécanique, freins à disque, taille 54 cm, 2025, light gray. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Bicicleta nueva, con todos los accesorios, empaquetada en una caja.",
@@ -37300,11 +37298,11 @@
       },
       "specs": {
         "groupset": "Shimano Altus",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "light gray",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39602,5 +39600,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T11:48:17+00:00"
+  "genere_le": "2026-07-15T12:17:32+00:00"
 }
