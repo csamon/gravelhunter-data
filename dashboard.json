@@ -442,7 +442,7 @@
       "verdict": "Bon vélo pour ton usage (~100% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Focus ATLAS 6.9 2022 se positionne en entrée/milieu de gamme dans la série gravel ATLAS de Focus, au-dessus des versions purement mécaniques mais sous les déclinaisons carbone ou à groupe supérieur (GRX 810/815). Il combine un cadre en aluminium moderne avec une fourche carbone, ce qui limite le poids sur l'avant et filtre partiellement les vibrations, tout en gardant un tarif accessible. Le groupe Shimano GRX (probablement 400/600 en 1x ou 2x selon config) offre un étagement adapté au gravel avec un bon compromis fiabilité/entretien, et les freins à disque hydrauliques assurent un freinage constant par tous temps. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie plutôt endurante et confortable, adaptée aux longues sorties mixtes route/chemins. Points forts : robustesse du cadre alu, montages d'accessoires (porte-bagages, garde-boue, œillets multiples) qui le rendent excellent pour le bikepacking et le vélotaf ; limites : poids supérieur aux modèles carbone et confort inférieur sur pistes très cassantes. La réputation de fiabilité est bonne, le GRX étant réputé durable, mais surveiller l'usure de la transmission et l'état des roulements sur un vélo d'occasion. Pour le vélotaf quotidien toute l'année, c'est un excellent choix grâce aux fixations garde-boue/porte-bagages et à la solidité de l'alu, et il reste très pertinent en gravel léger.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (dérailleur arrière grx rx810/812, mono-plateau grx), freins disque hydraulique, pneus 50 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission propre avec plateau et cassette peu marqués, chaîne encore brillante ; pneus Schwalbe Marathon E-Plus à sculpture bien présente et faiblement usée. Aucune corrosion visible, disques et étriers en bon état, ensemble propre avec seulement quelques micro-rayures d'usage. ⚠ À vérifier : Le pneu avant indique 27.5x2.0 (50-584) tandis que l'annonce suggère un gravel ; vérifier la cohérence des roues (DT Swiss) et la compatibilité, ainsi que l'usure réelle de la chaîne à la jauge. Mono-plateau (pas de dérailleur avant) alors qu'un ATLAS 6.9 est souvent en 2x — vérifier l'origine du montage. (confiance 72%)",
         "description_vendeur": "Vendo la bicicleta porque, por motivos de salud, tengo que cambiarme a una bicicleta eléctrica. El color de la bicicleta se llama Milkbrown. Lamentablemente, no se podía seleccionar este color.\nLos accesorios montados por una tienda especializada (soporte para bicicleta y portaequipajes ligero) se pueden desmontar sin dejar rastro.\n\nLa bicicleta se compró en julio de 2023.",
@@ -464,11 +464,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": 10.8,
         "degagement_mm": 45
@@ -3486,8 +3486,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 1135,
-      "prix_max_calcul": "1499€ (cote) × (0.62 + 0.28 × 79% fit) = 1261€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 1161,
+      "prix_max_calcul": "1499€ (cote) × (0.62 + 0.28 × 86% fit) = 1290€ − 10 % (infos manquantes)",
       "cote": 1499.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -3499,7 +3499,7 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2652053/5500be7a-ffa4-4e39-8df9-20a781f65b82.webp",
       "score": 8.8,
-      "fit_pct": 79,
+      "fit_pct": 86,
       "axes": {
         "technique": 8.8,
         "financier": 6.9,
@@ -3507,12 +3507,12 @@
         "plaisir": 5.0,
         "valeur": 5.5
       },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1135€) — NÉGOCIER.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1161€) — NÉGOCIER.",
       "infos_manquantes": [
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille M, 2025, blanc. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le modèle Adris \"L'aventure\" 2025 n'est pas une marque/gamme identifiable de façon fiable dans le marché du vélo gravel/route ; \"Adris\" ne correspond à aucun fabricant reconnu, ce qui rend toute analyse spécifique impossible sans risque d'invention. Les indices fournis (cadre et fourche carbone, freins à disque, groupe Shimano GRX) décrivent une configuration gravel classique de milieu de gamme, mais ne permettent pas de situer ce vélo dans une gamme dont je n'ai aucune donnée vérifiable. Le groupe GRX est un choix pertinent et fiable pour le gravel, décliné en versions 10/11/12 vitesses selon le niveau, mais l'indice ne précise pas laquelle, ce qui empêche de juger le positionnement réel. Un cadre carbone avec freins disque conviendrait en théorie au gravel léger, mais le carbone est plus vulnérable aux chocs et moins idéal qu'un cadre alu/acier pour un usage vélotaf quotidien toute l'année (intempéries, garde-boues, porte-bagages, stationnement urbain). Sans réputation ni retours de fiabilité documentés pour cette marque, il faut se méfier : possible marque de distributeur, petite série ou dénomination locale/artisanale. Pour un achat d'occasion, exigez le numéro de série, la version exacte du GRX, le dégagement pneus réel et un examen minutieux du cadre carbone (chocs, fissures) avant toute décision.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx (2x, série non identifiable précisément), freins disque hydraulique, fixations garde-boue/rack. État visuel : Vélo en très bon état, transmission propre avec plateaux et chaîne peu marqués, disques et plaquettes sans usure notable. Pneus Vittoria Terreno Dry à la sculpture bien présente, aucune rayure ni corrosion visible, aspect quasi neuf. ⚠ À vérifier : Le cadre semble aluminium peint (crème brillant) alors que la fourche est carbone ; confirmer la nature réelle du cadre. Manettes Shimano visibles mais série GRX exacte non lisible sur les photos. (confiance 55%)",
         "description_vendeur": "✅ Biketop te ofrece esta Adris L'Aventure de 2025 en talla M con descuento.\n\n✅ Montada con cuadro de carbono, equipada con Shimano GRX 400 y una geometría flexible, es la bicicleta perfecta para dar el primer paso en el mundo del gravel.\n\n✅ Disponible inmediatamente en Biketop.",
@@ -3521,7 +3521,7 @@
           "Freins hydrauliques (confort et sécurité sous la pluie)",
           "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
           "Récent (2025)",
-          "Bien adapté à ton usage (79 % du besoin)"
+          "Bien adapté à ton usage (86 % du besoin)"
         ],
         "moins_velo": [],
         "plus_annonce": [
@@ -3534,11 +3534,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "blanc",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39600,5 +39600,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T15:52:01+00:00"
+  "genere_le": "2026-07-15T16:26:01+00:00"
 }
