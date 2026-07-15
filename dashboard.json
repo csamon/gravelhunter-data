@@ -1558,12 +1558,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -2507,12 +2507,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -2605,12 +2605,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -3280,12 +3280,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -3465,12 +3465,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -5555,7 +5555,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano 105, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins à disque, taille 54 cm, 2022, rouge. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le BH RX Team 3.0 (2022) est un gravel de milieu de gamme dans la série RX Team de BH, dotée d'un cadre et d'une fourche 100% carbone, ce qui le place au-dessus des modèles alu de la marque mais sous les versions à groupes GRX/Force plus haut de gamme. La version 3.0 correspond à l'entrée de la déclinaison carbone, équipée d'un Shimano 105 (11 vitesses) route dérivé, ce qui est un choix plus routier que le GRX spécifique gravel, avec un potentiel manque de plage de développement et une gestion de la chaîne moins optimisée en terrain accidenté. Usage visé : gravel léger, pistes roulantes et polyvalence route/chemins, plus qu'un vrai gravel engagé. Points forts : rigidité et légèreté du carbone, comportement vif et confort correct, bon rapport prix/performance en occasion ; limites : freins et transmission souvent en versions mécaniques d'entrée (105 non hydraulique selon config, à vérifier), dégagement pneus limité pour un usage gravel exigeant, et périphériques (roues/pneus) parfois basiques. La fiabilité BH est correcte mais le SAV et la disponibilité des pièces spécifiques (cintre/tige intégrés éventuels, standards de cadre) peuvent poser problème en occasion. Pour du vélotaf quotidien toute l'année, le cadre carbone est un peu fragile aux chocs et manque souvent de fixations garde-boue/porte-bagages complètes, mais reste jouable ; pour du gravel léger, il est bien adapté tant qu'on reste sur des pneus modérés.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique. État visuel : Vélo très sale/boueux (poussière et projections sur cadre, pédalier et roues), typique d'un usage cyclocross/gravel intensif. Transmission mono-plateau visiblement usée, pneus type cyclocross à crampons avec sculpture encore présente, disques de frein en bon état apparent. ⚠ À vérifier : Cadre carbone couvert de boue masquant d'éventuelles rayures/impacts : nettoyer et inspecter attentivement les zones de contact (tube diagonal, bases, potence carbone EC90). Vérifier l'usure réelle de la chaîne/cassette et l'état des roues Shimano. (confiance 50%)",
         "description_vendeur": "None",
@@ -5577,11 +5577,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "rouge",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -13116,12 +13116,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -13753,12 +13753,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -21262,12 +21262,12 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1088.0,
-        "n_en_vente": 6,
+        "n_ventes": 3,
+        "prix_demande_median": 1025.0,
+        "n_en_vente": 5,
         "liquidite_jours": null,
         "base": "demandes",
-        "resume": "prix demandés méd. 1088 € (6 en vente) — historique en cours"
+        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
       }
     },
     {
@@ -30868,6 +30868,94 @@
       }
     },
     {
+      "titre": "gravel Gravel Custom Shimano Exage 2023",
+      "url": "https://buycycle.com/product/gravel-custom-54924",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 600.0,
+      "cout_reel": 845,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 367,
+      "prix_max_calcul": "600€ (prix affiché) × (0.62 + 0.28 × 21% fit) = 408€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "gravel",
+      "modele": "Gravel Custom Shimano Exage",
+      "taille": "M",
+      "annee": 2023,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651039/1e46f51d-6228-4934-9fbd-2e480d4f2a01.webp",
+      "score": 3.0,
+      "fit_pct": 21,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Groupe Shimano Exage, taille M, 2023. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Bicicleta de gravel de nivel de entrada; se trata de una 26\" reconvertida a gravel para iniciarse en estas nuevas experiencias.\nLa bicicleta funciona perfectamente.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (21 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Exage",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-10",
+          "prix": 600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "VTT Rockrider 900S upgrade",
       "url": "https://www.leboncoin.fr/ad/velos/3231971947",
       "source": "leboncoin",
@@ -32284,92 +32372,6 @@
         {
           "date": "2026-07-08",
           "prix": 1400.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "gravel Gravel Custom Shimano Exage 2023",
-      "url": "https://buycycle.com/product/gravel-custom-54924",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 600.0,
-      "cout_reel": 845,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 363,
-      "prix_max_calcul": "600€ (prix affiché) × (0.62 + 0.28 × 18% fit) = 403€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "gravel",
-      "modele": "Gravel Custom Shimano Exage",
-      "taille": "M",
-      "annee": 2023,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2651039/1e46f51d-6228-4934-9fbd-2e480d4f2a01.webp",
-      "score": 2.6,
-      "fit_pct": 18,
-      "axes": {
-        "technique": 4.0,
-        "financier": 6.0,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~18% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Cadre acier, groupe Shimano Exage mécanique, freins sur jante, taille 53 cm, 2023, vert. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Bicicleta de gravel de nivel de entrada; se trata de una 26\" reconvertida a gravel para iniciarse en estas nuevas experiencias.\nLa bicicleta funciona perfectamente.",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (18 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Exage",
-        "frame": "acier",
-        "shifting": "mécanique",
-        "brakes": "sur jante",
-        "size_cm": "53",
-        "color": "vert",
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-10",
-          "prix": 600.0
         }
       ],
       "marche_modele": {
@@ -39241,5 +39243,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-15T06:45:42+00:00"
+  "genere_le": "2026-07-15T07:16:42+00:00"
 }
