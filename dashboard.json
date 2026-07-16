@@ -4765,7 +4765,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~917€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille 54 cm, 2021, rouge. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Trek Checkpoint ALR 4 2021 se positionne en entrée/milieu de gamme gravel chez Trek : c'est le modèle alu le mieux équipé de la série ALR (au-dessus de l'ALR 3), sous les versions carbone SL et SLR. Le cadre est en aluminium 300 Series Alpha hydroformé, associé à une fourche carbone (avec inserts pour porte-bidons/bagagerie), et adopte les standards de cette génération : axes traversants 12 mm, freins à disque à montage flat-mount, tube de selle IsoSpeed pour filtrer les vibrations à l'arrière, et douille de direction avec câblage semi-interne. Le groupe Shimano GRX 400/600 (2x10 ou 1x selon config, mono-plateau fréquent avec dérailleur à chape à galet stabilisé) est robuste et adapté au gravel, avec des roues Bontrager d'entrée de gamme et des pneus type 40 mm. Usage visé : gravel polyvalent, bikepacking léger et route dégradée, avec de nombreux points de fixation (garde-boue, porte-bagages, top tube) qui le rendent très pertinent pour le vélotaf toute l'année. Points forts : cadre fiable et abordable, IsoSpeed rare à ce prix, grande capacité d'emport et confort ; limites : poids plus élevé qu'un carbone, roues et pneus d'origine perfectibles, GRX 400 un peu juste en étagement pour le très vallonné. La réputation Trek/ALR est celle d'un ensemble durable et sans mauvaise surprise, idéal pour un usage quotidien intensif à condition d'ajouter garde-boue et éclairage. Pour du vélotaf hivernal plus gravel léger, c'est un excellent compromis, sous réserve de vérifier l'usure de la transmission et des roulements sur un modèle d'occasion.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x10 (mélange, dérailleur arrière grx rx400), freins disque hydraulique, pneus 40 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission propre avec cassette, chaîne et dents de plateau peu marquées, pneus Bontrager GR1 Comp à sculpture bien présente et flancs sains. Disques et plaquettes semblent peu usés, cadre brillant sans corrosion ni impact notable. ⚠ À vérifier : Vérifier compatibilité exacte du groupe (le dérailleur arrière Shimano n'affiche pas clairement la série GRX RX810/400 lisible); contrôler l'usure réelle chaîne au calibre et l'état des plaquettes hydrauliques. (confiance 60%)",
         "description_vendeur": "None",
@@ -4787,11 +4787,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": 10.4,
         "degagement_mm": 45
@@ -20145,96 +20145,6 @@
       }
     },
     {
-      "titre": "Lapierre FDJ Replica TDF 2010",
-      "url": "https://buycycle.com/product/default66f56b71cd202-66507",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 750.0,
-      "cout_reel": 995,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1029,
-      "prix_max_calcul": "1500€ (cote) × (0.62 + 0.28 × 51% fit) = 1143€ − 10 % (infos manquantes)",
-      "cote": 1500.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Lapierre",
-      "modele": "FDJ Replica TDF",
-      "taille": "M",
-      "annee": 2010,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/1053502/eb34576f-a02c-4443-915f-7ab8a05b31ab.webp",
-      "score": 6.6,
-      "fit_pct": 51,
-      "axes": {
-        "technique": 6.5,
-        "financier": 10.0,
-        "usage": 4.5,
-        "plaisir": 5.0,
-        "valeur": 9.0
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano 105, taille M, 2010. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "La Lapierre FDJ Replica TDF 2010 se situe dans la gamme route de Lapierre comme une réplique visuelle de la team pro FDJ, mais avec un montage nettement plus modeste que les vélos réellement utilisés en course : le cadre est en aluminium (série Audacio/Sensium alu selon les finitions), pas le carbone haut de gamme des coureurs. Le groupe Shimano 105 (5600/5700 selon la période) est un choix milieu de gamme fiable et durable, mais loin des Dura-Ace des pros. C'est un vélo route classique orienté loisir/cyclosportive, avec géométrie plutôt sportive et guidage 700c en pneus fins (23-25mm à l'époque). Points forts : robustesse de l'alu, entretien facile, transmission 105 endurante et économique en pièces ; la déco 'Replica' a une valeur sentimentale mais aucune valeur technique supérieure. Limites concrètes : cadre alu daté (confort moyen, rigidité parfois brutale), passage de pneus étroit typique des vélos route 2010, freins sur jante uniquement, standards anciens (boîtier fileté, roues 130mm, câbles externes). Réputation correcte et fiabilité honnête pour l'usage loisir, mais mécanique vieillissante à vérifier (usure transmission, jeux de direction/pédalier). Pour le vélotaf quotidien toute l'année c'est jouable mais peu adapté sans garde-boue ni gros dégagement, et le gravel léger est exclu : pneus trop fins et cadre non prévu pour ça.",
-        "vision": "",
-        "description_vendeur": "None",
-        "plus_velo": [
-          "Groupe bon (Shimano 105)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Ancien (2010)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−50 % vs cote (~1500 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano 105",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 750.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Fuji Cross 1.1 2016 2016",
       "url": "https://buycycle.com/product/cross-11-2016-77208",
       "source": "buycycle",
@@ -20973,6 +20883,106 @@
         {
           "date": "2026-07-05",
           "prix": 600.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Lapierre FDJ Replica TDF 2010",
+      "url": "https://buycycle.com/product/default66f56b71cd202-66507",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "ATTENDRE",
+      "prix": 750.0,
+      "cout_reel": 995,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1011,
+      "prix_max_calcul": "1500€ (cote) × (0.62 + 0.28 × 46% fit) = 1123€ − 10 % (infos manquantes)",
+      "cote": 1500.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Lapierre",
+      "modele": "FDJ Replica TDF",
+      "taille": "M",
+      "annee": 2010,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/1053502/eb34576f-a02c-4443-915f-7ab8a05b31ab.webp",
+      "score": 6.5,
+      "fit_pct": 46,
+      "axes": {
+        "technique": 6.3,
+        "financier": 10.0,
+        "usage": 4.5,
+        "plaisir": 5.0,
+        "valeur": 9.0
+      },
+      "verdict": "Correct (~46% du besoin) — ATTENDRE une baisse ou mieux.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe Shimano 105 mécanique, freins sur jante, taille 55 cm, 2010, noir. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "La Lapierre FDJ Replica TDF 2010 se situe dans la gamme route de Lapierre comme une réplique visuelle de la team pro FDJ, mais avec un montage nettement plus modeste que les vélos réellement utilisés en course : le cadre est en aluminium (série Audacio/Sensium alu selon les finitions), pas le carbone haut de gamme des coureurs. Le groupe Shimano 105 (5600/5700 selon la période) est un choix milieu de gamme fiable et durable, mais loin des Dura-Ace des pros. C'est un vélo route classique orienté loisir/cyclosportive, avec géométrie plutôt sportive et guidage 700c en pneus fins (23-25mm à l'époque). Points forts : robustesse de l'alu, entretien facile, transmission 105 endurante et économique en pièces ; la déco 'Replica' a une valeur sentimentale mais aucune valeur technique supérieure. Limites concrètes : cadre alu daté (confort moyen, rigidité parfois brutale), passage de pneus étroit typique des vélos route 2010, freins sur jante uniquement, standards anciens (boîtier fileté, roues 130mm, câbles externes). Réputation correcte et fiabilité honnête pour l'usage loisir, mais mécanique vieillissante à vérifier (usure transmission, jeux de direction/pédalier). Pour le vélotaf quotidien toute l'année c'est jouable mais peu adapté sans garde-boue ni gros dégagement, et le gravel léger est exclu : pneus trop fins et cadre non prévu pour ça.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano 105/tiagra mix (dérailleur arrière tiagra, pédalier 105, transmission 10v probable), freins patins. État visuel : Transmission avec chaîne présentant une oxydation/patine notable et plateaux marqués par l'usage mais dents non crochues visiblement; pneus lisses de type route sans sculpture particulière et jantes Mavic Ksyrium avec traces d'usure sur les flancs de freinage. Ensemble globalement usagé mais fonctionnel, propreté moyenne (photos sombres, poussière/patine). ⚠ À vérifier : Groupe hétérogène (dérailleur arrière Tiagra alors que pédalier 105) à vérifier vs annonce 'Replica TDF'; chaîne oxydée à mesurer pour usure; contrôler l'état des flancs de jante Mavic (usure freinage) et l'étrier arrière Tektro non conforme à un groupe haut de gamme. (confiance 55%)",
+        "description_vendeur": "None",
+        "plus_velo": [
+          "Groupe bon (Shimano 105)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Freins mécaniques / sur jante",
+          "Ancien (2010)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−50 % vs cote (~1500 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano 105",
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "sur jante",
+        "size_cm": "55",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano 105/Tiagra mix (dérailleur arrière Tiagra, pédalier 105, transmission 10v probable)",
+        "freins": "patins",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission avec chaîne présentant une oxydation/patine notable et plateaux marqués par l'usage mais dents non crochues visiblement; pneus lisses de type route sans sculpture particulière et jantes Mavic Ksyrium avec traces d'usure sur les flancs de freinage. Ensemble globalement usagé mais fonctionnel, propreté moyenne (photos sombres, poussière/patine).",
+        "points_attention": "Groupe hétérogène (dérailleur arrière Tiagra alors que pédalier 105) à vérifier vs annonce 'Replica TDF'; chaîne oxydée à mesurer pour usure; contrôler l'état des flancs de jante Mavic (usure freinage) et l'étrier arrière Tektro non conforme à un groupe haut de gamme.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 750.0
         }
       ],
       "marche_modele": {
@@ -40067,5 +40077,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-16T13:55:11+00:00"
+  "genere_le": "2026-07-16T14:15:41+00:00"
 }
