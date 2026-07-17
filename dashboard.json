@@ -33351,10 +33351,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2023, bleu. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2023. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Cannondale Topstone : endurance-gravel confortable (micro-suspension Kingpin sur les Carbon), très polyvalent. Valeur sûre pour rouler tous les jours. (Éviter les versions Lefty.)",
         "vision": "",
         "description_vendeur": "Cannondale Topstone 2 - año 2023 con factura de compra y garantía del fabricante; bicicleta de nivel de entrada para el mundo gravel; usada principalmente en carretera; vendo con el sillín montado en la compra, no el de la foto; vendo par adicional de llantas de serie de aluminio, con neumáticos Vittoria incluidos.",
@@ -33375,11 +33377,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "bleu",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -38290,12 +38292,10 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, light gray. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Bike in very good general condition, well-maintained and serviced. It works correctly and is ready to ride, ideal for regular rides as well as for enjoying it from day one.\nIt has no structural impacts or relevant damage. It is delivered serviced and prepared for use.\n\n✔️ Possibility to see and pick up in person\n✔️ Shipping available through Wallapop\n✔️ More photos or information upon request\n\nIf ",
@@ -38317,11 +38317,11 @@
       },
       "specs": {
         "groupset": "Shimano CUES",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "light gray",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39642,12 +39642,10 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, bleu. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "SIAMO RIVENDITORI UFFICIALI RAYMON\nBICICLETTA NUOVA 2026\nGARANZIA A VITA SU TELAIO",
@@ -39669,11 +39667,11 @@
       },
       "specs": {
         "groupset": "Shimano CUES",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "bleu",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -40798,5 +40796,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T06:49:25+00:00"
+  "genere_le": "2026-07-17T07:19:52+00:00"
 }
