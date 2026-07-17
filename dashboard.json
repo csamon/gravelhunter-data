@@ -23130,9 +23130,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -34309,9 +34309,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 1,
+        "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -41084,5 +41084,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T13:21:41+00:00"
+  "genere_le": "2026-07-17T13:52:14+00:00"
 }
