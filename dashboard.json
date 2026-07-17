@@ -1,5 +1,5 @@
 {
-  "total": 452,
+  "total": 454,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1744,8 +1744,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -4447,6 +4447,107 @@
       }
     },
     {
+      "titre": "lexon Lexon Custom SRAM Rival eTap AXS 2024",
+      "url": "https://buycycle.com/product/lexon-custom-29274",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1399.0,
+      "cout_reel": 1559,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1059,
+      "prix_max_calcul": "1399€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 1177€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": "fiche annonce « SRAM Rival eTap AXS » mais la photo semble montrer « Shimano GRX 1x (mono-plateau, dérailleur arrière chape longue) »",
+      "alerte": null,
+      "marque": "lexon",
+      "modele": "Lexon Custom SRAM Rival eTap AXS",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2421750/e8fd2363-48cb-49de-a084-a9b56e0bcf9a.webp",
+      "score": 8.5,
+      "fit_pct": 79,
+      "axes": {
+        "technique": 8.8,
+        "financier": 6.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Bon vélo pour ton usage (~79% du besoin) — CONTACTER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre carbone, groupe SRAM Rival eTap AXS électronique, freins à disque, taille 54 cm, 2024, violet. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "La marque 'Lexon' n'est pas identifiable comme un fabricant de vélos établi (Lexon est surtout connu pour le design d'objets/accessoires), et l'appellation 'Custom' suggère un montage sur cadre générique ou une petite série artisanale plutôt qu'un modèle catalogue documenté. Impossible donc de situer ce vélo dans une 'gamme Lexon' faute de gamme identifiable, ni de statuer sur matériau (alu/carbone/acier), standards de boîtier, passage de câbles ou géométrie sans photos et fiche technique précises. Le seul élément fiable est le groupe SRAM Rival eTap AXS, un groupe électronique sans fil 12 vitesses de milieu de gamme, réputé fiable, à la transmission précise et facile à entretenir, mais aux batteries à recharger et au coût de remplacement non négligeable. Pour un usage vélotaf quotidien toute l'année, le Rival AXS convient (fonctionnement propre, freinage disque hydraulique probable), mais l'exposition électronique à la pluie/froid et l'absence d'infos sur fixations garde-boue/porte-bagages et dégagement pneus sont des inconnues rédhibitoires. Pour du gravel léger, tout dépend du cadre et du dégagement réels, non vérifiables ici. Sans marque de cadre crédible ni fiche technique, ce vélo doit être jugé exclusivement sur inspection physique (cadre, soudures, roues, état du groupe) et non sur une réputation de modèle, ce qui impose une grande prudence à l'achat d'occasion.",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano grx 1x (mono-plateau, dérailleur arrière chape longue), freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne argentée peu marquée, plateau et cassette sans usure notable ; pneus Continental Race King à crampons bien dessinés, peu usés. Disques et étriers hydrauliques propres, cadre carbone violet brillant sans rayures ni impacts visibles, ensemble très propre. ⚠ À vérifier : Le titre annonce SRAM Rival eTap AXS alors que le pédalier et le dérailleur visibles sont clairement Shimano GRX (mécanique) : incohérence majeure à clarifier. Vérifier la largeur/tubeless des pneus non lisible et l'état exact du disque avant. (confiance 80%)",
+        "description_vendeur": "Cuadro Lexon GFE, pedalier roscado ZTTO press fit. Batería y cargador (de repuesto) incluidos. Las roscas inferiores del portabultos están desgastadas y necesitan reparación.\n\nRuedas DT Swiss, con bujes Shimano.\n\n20/03/2026 - sillín nuevo instalado, Lexon X6 Carbon.",
+        "plus_velo": [
+          "Groupe référence (SRAM Rival eTap AXS)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (79 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Prix déjà baissé par le vendeur",
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (130 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Rival eTap AXS",
+        "frame": "carbone",
+        "shifting": "électronique",
+        "brakes": "disque",
+        "size_cm": "54",
+        "color": "violet",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x (mono-plateau, dérailleur arrière chape longue)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne argentée peu marquée, plateau et cassette sans usure notable ; pneus Continental Race King à crampons bien dessinés, peu usés. Disques et étriers hydrauliques propres, cadre carbone violet brillant sans rayures ni impacts visibles, ensemble très propre.",
+        "points_attention": "Le titre annonce SRAM Rival eTap AXS alors que le pédalier et le dérailleur visibles sont clairement Shimano GRX (mécanique) : incohérence majeure à clarifier. Vérifier la largeur/tubeless des pneus non lisible et l'état exact du disque avant.",
+        "confiance": 0.8
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-14",
+          "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Ridley Kanzo Adventure Alu - Shimano GRX400 2x10sp 2024 2024",
       "url": "https://buycycle.com/product/kanzo-adventure-alu-shimano-grx400-2x10sp-2024-74312",
       "source": "buycycle",
@@ -6878,7 +6979,7 @@
       "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Rival mécanique, freins à disque, taille 53 cm, 2020, vert. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Rival, taille M, 2020. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le RIVERSIDE Touring 920 2020 est un vélo de voyage/randonnée longue distance positionné en haut de la gamme cyclotourisme de Decathlon, au-dessus des Touring 500/520 plus grand public. Il se distingue par un cadre aluminium associé à une fourche acier, choix orienté confort et robustesse pour le chargement plutôt que légèreté, avec géométrie relevée typée endurance/touring. L'équipement SRAM Rival (transmission route/gravel fiable et réparable) et les freins à disque le rendent apte au vélotaf toute l'année et aux longues sorties chargées, avec généralement des œillets pour porte-bagages et garde-boue. Points forts : capacité d'emport, confort sur longue distance, standards répandus facilitant l'entretien, bon rapport prix/équipement. Limites concrètes : poids élevé (fourche acier + cadre alu robuste), dynamisme modéré, dégagement pneus plus orienté 40-45 mm que gravel large, et disponibilité incertaine des pièces spécifiques Decathlon à revendre. La fiabilité de la base mécanique est correcte, mais sur l'occasion il faut vérifier l'usure de la transmission, l'état des roulements et des freins. Pour un usage vélotaf quotidien + gravel léger il est pertinent, à condition d'accepter son poids et son caractère plus tourisme que sportif.",
         "vision": "Cadre acier, fourche acier, groupe sram apex 1x11, freins disque mécanique, pneus 47 mm, fixations garde-boue/rack. État visuel : Transmission mono-plateau SRAM propre avec chaîne et cassette peu marquées, pneus Vittoria Terreno à sculpture encore bien présente. Cadre acier vert kaki globalement propre, quelques traces d'usage possibles mais pas d'impact ou de corrosion visible. ⚠ À vérifier : Freins à disque mécaniques (câble visible, pas de durite hydraulique) - à vérifier tension/plaquettes ; monté en config bikepacking lourdement chargé, contrôler l'usure réelle des pneus et le jeu de direction. Selle Brooks et cintre type 'butterfly/trekking' non d'origine. (confiance 60%)",
         "description_vendeur": "sin arañazos visibles",
@@ -6898,11 +6999,11 @@
       },
       "specs": {
         "groupset": "SRAM Rival",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "53",
-        "color": "vert",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -14872,8 +14973,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -14962,8 +15063,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -15141,8 +15242,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -15411,8 +15512,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -15774,8 +15875,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -16239,8 +16340,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -16708,8 +16809,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -16906,98 +17007,6 @@
       }
     },
     {
-      "titre": "lexon Lexon Custom SRAM Rival eTap AXS 2024",
-      "url": "https://buycycle.com/product/lexon-custom-29274",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1399.0,
-      "cout_reel": 1644,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1060,
-      "prix_max_calcul": "1399€ (prix affiché) × (0.62 + 0.28 × 79% fit) = 1178€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "lexon",
-      "modele": "Lexon Custom SRAM Rival eTap AXS",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2421750/e8fd2363-48cb-49de-a084-a9b56e0bcf9a.webp",
-      "score": 7.0,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 6.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 5.0
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Rival eTap AXS, taille M, 2024. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "La marque 'Lexon' n'est pas identifiable comme un fabricant de vélos établi (Lexon est surtout connu pour le design d'objets/accessoires), et l'appellation 'Custom' suggère un montage sur cadre générique ou une petite série artisanale plutôt qu'un modèle catalogue documenté. Impossible donc de situer ce vélo dans une 'gamme Lexon' faute de gamme identifiable, ni de statuer sur matériau (alu/carbone/acier), standards de boîtier, passage de câbles ou géométrie sans photos et fiche technique précises. Le seul élément fiable est le groupe SRAM Rival eTap AXS, un groupe électronique sans fil 12 vitesses de milieu de gamme, réputé fiable, à la transmission précise et facile à entretenir, mais aux batteries à recharger et au coût de remplacement non négligeable. Pour un usage vélotaf quotidien toute l'année, le Rival AXS convient (fonctionnement propre, freinage disque hydraulique probable), mais l'exposition électronique à la pluie/froid et l'absence d'infos sur fixations garde-boue/porte-bagages et dégagement pneus sont des inconnues rédhibitoires. Pour du gravel léger, tout dépend du cadre et du dégagement réels, non vérifiables ici. Sans marque de cadre crédible ni fiche technique, ce vélo doit être jugé exclusivement sur inspection physique (cadre, soudures, roues, état du groupe) et non sur une réputation de modèle, ce qui impose une grande prudence à l'achat d'occasion.",
-        "vision": "",
-        "description_vendeur": "Cuadro Lexon GFE, pedalier roscado ZTTO press fit. Batería y cargador (de repuesto) incluidos. Las roscas inferiores del portabultos están desgastadas y necesitan reparación.\n\nRuedas DT Swiss, con bujes Shimano.\n\n20/03/2026 - sillín nuevo instalado, Lexon X6 Carbon.",
-        "plus_velo": [
-          "Groupe bon (SRAM Rival eTap AXS)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (130 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Rival eTap AXS",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-14",
-          "prix": 1399.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Megamo JAKAR 30 2023 2023",
       "url": "https://buycycle.com/product/jakar-30-2023-13538",
       "source": "buycycle",
@@ -17176,8 +17185,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -17452,8 +17461,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -17905,8 +17914,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -17993,8 +18002,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -19214,14 +19223,13 @@
       "categorie": "cyclocross",
       "action": "IGNORER",
       "prix": 1400.0,
-      "cout_reel": 1585,
+      "cout_reel": 1500,
       "cout_reel_detail": [
-        "garde-boue+rack +85€",
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 1058,
-      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 78% fit) = 1175€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 1151,
+      "prix_max_calcul": "1400€ (prix affiché) × (0.62 + 0.28 × 72% fit) = 1151€",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -19233,7 +19241,7 @@
       "distance_km": null,
       "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2423196/3333eaf9-86a2-4ab8-9f5e-da2df967d692.webp",
       "score": 6.8,
-      "fit_pct": 78,
+      "fit_pct": 72,
       "axes": {
         "technique": 10.0,
         "financier": 6.0,
@@ -19242,20 +19250,17 @@
         "valeur": 5.0
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
+      "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, bleu. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Van Rysel RCX est le vélo de cyclocross/gravel compétition de Decathlon, à ne pas confondre avec les gravel bikes GRVL de la marque : le RCX vise avant tout le cyclocross et le gravel rapide/course, avec une géométrie plus agressive et joueuse qu'un gravel d'aventure. Sur le millésime 2024 en GRX, le cadre est en carbone avec passage de câbles semi-intégré et standards modernes (axes traversants, freins à disque flat-mount), positionnant ce modèle en milieu/haut de gamme accessible chez Van Rysel. La transmission Shimano GRX (souvent en 1x ou 2x selon version) est éprouvée, fiable et bien adaptée au mixte chemin/route, ce qui est un vrai point fort. Les limites concrètes tiennent au dégagement pneu relativement contenu (orienté cyclocross/UCI plutôt que gros pneus gravel), à l'absence fréquente de points de fixation pour porte-bagages/garde-boue complets, et à un confort moins prononcé qu'un gravel endurance. La réputation Van Rysel est bonne sur le rapport qualité/prix, avec des composants d'assemblage parfois d'entrée de gamme (roues, périphériques) qu'on remplace à l'usage. Pour le vélotaf quotidien toute l'année, c'est un choix moyen : géométrie sportive et dégagement/fixations limités le rendent moins polyvalent qu'un vrai gravel commuter, mais il excelle en gravel léger/rapide et sortie sportive. En occasion, vérifier l'état du cadre carbone (chocs, zones de serrage), l'usure transmission et roulements, typiques d'un usage cyclocross intensif.",
-        "vision": "",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Transmission avec chaîne et cassette présentant des traces d'usure et de saleté, plateau mono avec dents encore correctes ; pneus Hutchinson Caracal aux crampons peu marqués mais présents. Cadre carbone violet propre dans l'ensemble avec quelques micro-rayures et traces de boue, disques de frein légèrement teintés/oxydés en surface. ⚠ À vérifier : Manettes/leviers Shimano non-GRX en façade alors que le dérailleur arrière est GRX (montage possiblement mixte à vérifier) ; vérifier usure réelle de la chaîne et l'état des disques de frein. Guidon Deda carbone et roues Duke/Newmen carbone (montage non conforme au titre 'Van Rysel RCX' d'origine). (confiance 55%)",
         "description_vendeur": "Vendo RCX, Gravel / CX equipado con transmisión GRX 1x11 \n\nCassette SLX 11-42\n\nManillar Deda de carbono Superleggera 35 mm \n\nPotencia Deda light \n\nJuego de ruedas Newmen Evolution/Duke \n\nNeumáticos Hutchinson Caracal 700 x 40 mm con montaje tubeless \n\nSillín Fizik \n\nPeso 8,3 kg\n\nEra la bicicleta de mi mujer, que ha pasado a una bicicleta de viaje de acero.",
         "plus_velo": [
           "Groupe référence (Shimano GRX)",
           "Freins hydrauliques (confort et sécurité sous la pluie)",
           "Récent (2024)",
-          "Bien adapté à ton usage (78 % du besoin)"
+          "Bien adapté à ton usage (72 % du besoin)"
         ],
         "moins_velo": [
           "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
@@ -19271,16 +19276,27 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "bleu",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
       },
-      "vision_brute": null,
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": true,
+        "fixations": true,
+        "etat_visuel": "Transmission avec chaîne et cassette présentant des traces d'usure et de saleté, plateau mono avec dents encore correctes ; pneus Hutchinson Caracal aux crampons peu marqués mais présents. Cadre carbone violet propre dans l'ensemble avec quelques micro-rayures et traces de boue, disques de frein légèrement teintés/oxydés en surface.",
+        "points_attention": "Manettes/leviers Shimano non-GRX en façade alors que le dérailleur arrière est GRX (montage possiblement mixte à vérifier) ; vérifier usure réelle de la chaîne et l'état des disques de frein. Guidon Deda carbone et roues Duke/Newmen carbone (montage non conforme au titre 'Van Rysel RCX' d'origine).",
+        "confiance": 0.55
+      },
       "historique_prix": [
         {
           "date": "2026-07-05",
@@ -20168,7 +20184,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano 105 mécanique, freins à disque, taille 53 cm, 2020, light gray. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano 105, taille M, 2020. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le CUBE Cross Race Pro 2020 est un vélo de cyclocross, pas un gravel à proprement parler, ce qui est crucial pour un achat d'occasion : sa géométrie est orientée compétition CX (boîtier de pédalier haut, empattement court, position agressive), moins confortable qu'un gravel dédié sur longues distances. Dans la gamme CUBE, le 'Pro' se situe en milieu de gamme au-dessus des versions de base, avec cadre aluminium hydroformé, fourche carbone et groupe Shimano 105 mécanique 11 vitesses (fiable et facile à entretenir), mais sous les versions carbone (C:62) ou électroniques. Les freins à disque (probablement hydrauliques Shimano ou mécaniques selon finition exacte) et le passage de câbles internes sont dans les standards de l'époque, avec axes traversants 12mm avant/arrière. Points forts : cadre robuste, transmission éprouvée, bonne aptitude au vélotaf grâce aux dégagements pour pneus larges et à la possibilité de monter garde-boue sur certains montages, plus une polyvalence chemins/CX. Limites concrètes : géométrie CX peu idéale pour du vélotaf quotidien confortable, absence probable d'œillets porte-bagages complets (CX pur), et pneus d'origine étroits type 33mm peu adaptés au gravel léger — prévoir un remontage. La fiabilité globale CUBE/105 est bonne, mais vérifier l'usure des disques, l'état du boîtier de pédalier et les roues. Correct pour vélotaf toute l'année et gravel léger uniquement après adaptation pneus/accessoires, sinon un gravel dédié serait plus pertinent.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 105 2x11, freins disque hydraulique. État visuel : Transmission avec traces d'usure et de saleté sur chaîne/cassette mais dents de plateau 105 encore correctes, pneus Continental DoubleFighter à crampons présentant une sculpture bien marquée donc peu usés. Freins à disque hydrauliques 105 avec disques et plaquettes en bon état, quelques micro-rayures sur le cadre gris mais aucune corrosion ni impact majeur visible. ⚠ À vérifier : Ruban de cintre effiloché/abîmé aux extrémités (cocottes), chaîne à nettoyer/vérifier l'allongement, pédales plateforme XLC d'entrée de gamme non d'origine. (confiance 82%)",
         "description_vendeur": "La bicicleta se compró nueva en mayo de 2020 (factura disponible) y se ha usado muy poco en total (desde 2021 ha estado casi todo el tiempo en el sótano). Siempre ha sido tratada con cuidado y se encuentra en muy buen estado tanto técnica como visualmente (aunque necesitaría una limpieza).\n\nInformación:\n* Talla de cuadro: 53 cm\n* Color: Gris/Amarillo\n* Primera compra: 05/2020 (factura disponible)\n",
@@ -20191,11 +20207,11 @@
       },
       "specs": {
         "groupset": "Shimano 105",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "53",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -22578,8 +22594,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -22958,8 +22974,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -24480,8 +24496,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -25599,8 +25615,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -25687,8 +25703,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -25775,8 +25791,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -25863,8 +25879,96 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
+      }
+    },
+    {
+      "titre": "WELT Stroke 1 2026 - Vélo Gravel Musculaire | Garantie 24 mois",
+      "url": "https://www.leboncoin.fr/ad/velos/3234662719:e8b2660b-de79-4090-8ae6-e44658805038",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 879.0,
+      "cout_reel": 1064,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 579,
+      "prix_max_calcul": "879€ (prix affiché) × (0.62 + 0.28 × 40% fit) = 643€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Rove",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 5.1,
+      "fit_pct": 40,
+      "axes": {
+        "technique": 6.5,
+        "financier": 6.0,
+        "usage": 3.0,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~40% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin Rove 2026 » ne correspond à aucun modèle de vélo réel. Leboncoin est une plateforme française de petites annonces, pas un fabricant de vélos. Il existe bien une gamme « Rove » chez Kona (le Kona Rove, gravel/randonnée en acier ou aluminium), mais aucune marque « leboncoin » ne produit de vélos. Il s'agit donc très probablement d'une annonce sur leboncoin dont le libellé a été mal interprété : le nom du modèle réel (marque + gamme) est manquant. Impossible d'analyser un positionnement gamme, une génération technique, un usage visé ou une fiabilité sans le vrai constructeur et modèle. Pour un achat d'occasion sérieux, exige la marque exacte, l'année réelle, le groupe (ex. Shimano GRX/Sora), le matériau du cadre et le dégagement pneus. Si c'est un Kona Rove, ce sont d'excellents vélos acier polyvalents vélotaf/gravel léger, mais cela reste une hypothèse non confirmée.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-17",
+          "prix": 879.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 974.0,
+        "ecart_type": 131.0,
+        "n_ventes": 14,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -25951,8 +26055,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -26218,8 +26322,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -26305,8 +26409,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -26392,8 +26496,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -27638,8 +27742,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -27815,8 +27919,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -27902,8 +28006,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -28714,8 +28818,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -28804,8 +28908,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -28894,8 +28998,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -28984,8 +29088,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -29424,8 +29528,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -29512,8 +29616,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -29693,6 +29797,95 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1300 € (3 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Vélo gravel Nakamura allroad 125",
+      "url": "https://www.leboncoin.fr/ad/velos/3234667186",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 380.0,
+      "cout_reel": 565,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 243,
+      "prix_max_calcul": "380€ (prix affiché) × (0.62 + 0.28 × 32% fit) = 270€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": 192.8,
+      "image": null,
+      "score": 3.8,
+      "fit_pct": 32,
+      "axes": {
+        "technique": 5.0,
+        "financier": 6.0,
+        "usage": 2.5,
+        "plaisir": 5.0,
+        "valeur": 5.0
+      },
+      "verdict": "Peu adapté à ton usage (~32% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2025. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Marin Gestalt (attention : Marin est la marque, 'leboncoin' n'est que la plateforme de vente) est un gravel/all-road en aluminium 6061 double butted qui constitue l'entrée de gamme gravel de Marin, positionné sous les versions Gestalt X (cadre alu plus travaillé) et le Headlands en carbone. Le millésime 2025 conserve la géométrie polyvalente et endurante de la série, avec une fourche carbone à inserts pour porte-bagages/gardes-boue, des œillets multiples (top tube, triple sur fourche) et un passage de gaines qui reste souvent externe ou semi-interne sur ce niveau de gamme, ce qui simplifie l'entretien. L'usage visé est le gravel roulant, le bikepacking léger et surtout le vélotaf, où sa robustesse alu, ses nombreux points de fixation et son montage typiquement mécanique (Shimano GRX/Sora ou Microshift selon versions, freins à disque hydrauliques ou mécaniques) le rendent pertinent toute l'année. Points forts : polyvalence, capacité d'emport, prix contenu, fiabilité mécanique et facilité de réparation. Limites concrètes : poids élevé face au carbone, cadre alu plus rigide/moins filtrant, et sur les versions basses un groupe d'entrée de gamme (freins mécaniques, cassette limitée) bridant le rendement. Réputation solide et sans surprise, marque fiable au SAV correct, valeur d'occasion raisonnable ; le point noir de cette annonce est l'absence totale d'info sur le groupe et le montage exact, à faire préciser impérativement avant achat. Pour du vélotaf quotidien plus gravel léger occasionnel, c'est un choix cohérent à condition de vérifier la version précise et le niveau de transmission/freinage.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)"
+        ],
+        "moins_velo": [
+          "Peu adapté à ton usage (32 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 700
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-17",
+          "prix": 380.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 849.0,
+        "ecart_type": 279.0,
+        "n_ventes": 27,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
+        "liquidite_jours": 2.0,
+        "base": "ventes",
+        "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -29956,8 +30149,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -30046,8 +30239,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -30225,8 +30418,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -30315,8 +30508,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -30405,8 +30598,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -30674,8 +30867,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -31027,8 +31220,8 @@
         "cote_reelle": 974.0,
         "ecart_type": 131.0,
         "n_ventes": 14,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1149.0,
+        "n_en_vente": 3,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 974 € ±131 € (14 ventes) · liquidité méd. 2 j"
@@ -31921,8 +32114,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -32010,8 +32203,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -32724,8 +32917,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -32813,8 +33006,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -32893,8 +33086,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -33158,8 +33351,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -33247,8 +33440,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -33336,8 +33529,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -33425,8 +33618,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -34503,8 +34696,8 @@
         "cote_reelle": 849.0,
         "ecart_type": 279.0,
         "n_ventes": 27,
-        "prix_demande_median": 800.0,
-        "n_en_vente": 5,
+        "prix_demande_median": 670.0,
+        "n_en_vente": 6,
         "liquidite_jours": 2.0,
         "base": "ventes",
         "resume": "cote réelle 849 € ±279 € (27 ventes) · liquidité méd. 2 j"
@@ -41537,5 +41730,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T18:52:51+00:00"
+  "genere_le": "2026-07-17T19:23:49+00:00"
 }
