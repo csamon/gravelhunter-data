@@ -634,7 +634,7 @@
       "verdict": "Bon vélo pour ton usage (~99% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Terra H30 2021 se situe dans le milieu de gamme gravel d'Orbea, au-dessus des versions H40/H41 plus basiques et nettement en dessous des Terra M-series à cadre carbone (M20/M30). Il combine un cadre aluminium hydroformé avec une fourche carbone, standard courant sur ce segment pour gagner en confort et réduire le poids frontal. Le groupe Shimano GRX (probablement RX400 2x10 ou RX600 1x/2x11 selon lot) est spécifiquement conçu pour le gravel, avec ergonomie adaptée aux terrains cassants et bonne fiabilité. L'usage visé est polyvalent : gravel roulant, bikepacking léger, et il se prête très bien au vélotaf grâce aux nombreux points de fixation (garde-boue, porte-bagage) et à la géométrie endurance relativement stable. Points forts : robustesse du cadre alu, fourche carbone filtrante, GRX éprouvé et facile à entretenir ; limites : poids supérieur aux modèles carbone, cadre alu moins confortable sur longues distances, et sur l'occasion il faut vérifier l'usure du GRX (galets, chaîne, plaquettes) et l'état des roulements. C'est un choix pertinent et durable pour un usage quotidien toute l'année plus gravel léger le week-end, à condition d'un prix cohérent avec l'âge.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11, freins disque hydraulique, tubeless, fixations garde-boue/rack. État visuel : Transmission (cassette, chaîne, étrier GRX) présentant une usure modérée d'usage régulier avec traces de graisse, pneus Schwalbe G-One Allround à sculpture encore bien présente. Cocottes Shimano avec caoutchouc marqué/craquelé et guidoline usée, ensemble globalement propre. ⚠ À vérifier : Caoutchouc des cocottes très marqué/usé (à vérifier), guidoline abîmée à remplacer, disques de frein à contrôler pour usure. Absence de plateaux visibles multiples confirme un montage mono-plateau probable. (confiance 60%)",
         "description_vendeur": "La bicicleta es una bicicleta de buen tiempo y siempre se ha guardado en el sótano. Kilometraje estimado: 2500 kilómetros.\n\n¿Qué se ha cambiado?\nEl sillín es nuevo.\nLos neumáticos se cambiaron por unos Schwalbe G-One Allround, tienen unos 800 kilómetros de uso. Las cámaras son nuevas.\nLa cadena se cambió hace 200 kilómetros.\nEl pedalier se ha renovado esta semana.\nLas pastillas de freno también se",
@@ -656,11 +656,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": 10.5,
         "degagement_mm": 45
@@ -10870,97 +10870,6 @@
         {
           "date": "2026-07-05",
           "prix": 1299.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "BMC Urs Shimano GRX 2024",
-      "url": "https://buycycle.com/product/urs-shimano-grx-40245",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 1333.0,
-      "cout_reel": 1578,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1260,
-      "prix_max_calcul": "1799€ (cote) × (0.62 + 0.28 × 84% fit) = 1536€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
-      "cote": 1799.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "BMC",
-      "modele": "Urs Shimano GRX",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2405325/501f0306-55e0-4f84-9da3-f20f2246a173.webp",
-      "score": 7.0,
-      "fit_pct": 84,
-      "axes": {
-        "technique": 8.0,
-        "financier": 9.6,
-        "usage": 7.0,
-        "plaisir": 9.5,
-        "valeur": 7.1
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1260€) — NÉGOCIER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le BMC URS (UnReStricted) 2024 se positionne comme le gravel polyvalent à tendance aventure/all-road de BMC, distinct du Kaius plus orienté performance/course. La version équipée en Shimano GRX (probablement une déclinaison milieu de gamme type URS Two/Three selon le niveau exact du groupe, mécanique ou électronique Di2) repose sur un cadre carbone doté du système d'amorti arrière MTT (Micro Travel Technology) offrant environ 10 mm de flex contrôlé, plus une tige de selle et une potence conçues pour filtrer les vibrations sur terrain cassant. L'usage visé est clairement le gravel technique et engagé, la longue distance sur mauvais revêtements, avec une géométrie plus stable/relax qu'un pur gravel-race. Points forts : confort réel sur pistes, tenue de cap rassurante, dégagement pneus généreux, transmission GRX robuste et adaptée au tout-terrain ; limites : poids supérieur aux gravels sport, comportement moins vif sur route lisse, système MTT et cintre/potence intégrés compliquant certains réglages et l'installation d'accessoires de vélotaf (garde-boue, sacoches). Réputation de fiabilité globalement bonne, le GRX étant éprouvé, mais l'intégration propriétaire BMC pénalise l'entretien et la modularité. Pour un vélotaf quotidien toute l'année, il est surdimensionné et peu pratique (points d'ancrage limités, câblage intégré), même s'il excelle en gravel léger et sorties polyvalentes.",
-        "vision": "",
-        "description_vendeur": "Bicicleta de gravel muy buena, como nueva. Se vende porque se ha quedado pequeña para un atleta juvenil en rápido crecimiento, para que pueda adquirir una bicicleta nueva más grande.\n\nSistema de transmisión 1 x 11\ncon plato aero de 50T muy reciente de The Mechanic Parts en la parte delantera.\ncassette 11-42 en la parte trasera\n\nCinta de manillar nueva\nDiscos de freno nuevos y pastillas de freno nu",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)",
-          "Bien adapté à ton usage (84 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−26 % vs cote (~1799 €)",
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1333.0
         }
       ],
       "marche_modele": {
@@ -21740,6 +21649,105 @@
       }
     },
     {
+      "titre": "BMC Urs Shimano GRX 2024",
+      "url": "https://buycycle.com/product/urs-shimano-grx-40245",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "ATTENDRE",
+      "prix": 1333.0,
+      "cout_reel": 1598,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "pneus gravel +80€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1400.0,
+      "prix_max_calcul": "1799€ (cote) × (0.62 + 0.28 × 89% fit) = 1562€, plafonné à ton budget 1400€",
+      "cote": 1799.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "BMC",
+      "modele": "Urs Shimano GRX",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2405325/501f0306-55e0-4f84-9da3-f20f2246a173.webp",
+      "score": 6.5,
+      "fit_pct": 89,
+      "axes": {
+        "technique": 9.8,
+        "financier": 9.6,
+        "usage": 7.0,
+        "plaisir": 9.5,
+        "valeur": 7.1
+      },
+      "verdict": "Correct (~89% du besoin) — ATTENDRE une baisse ou mieux.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le BMC URS (UnReStricted) 2024 se positionne comme le gravel polyvalent à tendance aventure/all-road de BMC, distinct du Kaius plus orienté performance/course. La version équipée en Shimano GRX (probablement une déclinaison milieu de gamme type URS Two/Three selon le niveau exact du groupe, mécanique ou électronique Di2) repose sur un cadre carbone doté du système d'amorti arrière MTT (Micro Travel Technology) offrant environ 10 mm de flex contrôlé, plus une tige de selle et une potence conçues pour filtrer les vibrations sur terrain cassant. L'usage visé est clairement le gravel technique et engagé, la longue distance sur mauvais revêtements, avec une géométrie plus stable/relax qu'un pur gravel-race. Points forts : confort réel sur pistes, tenue de cap rassurante, dégagement pneus généreux, transmission GRX robuste et adaptée au tout-terrain ; limites : poids supérieur aux gravels sport, comportement moins vif sur route lisse, système MTT et cintre/potence intégrés compliquant certains réglages et l'installation d'accessoires de vélotaf (garde-boue, sacoches). Réputation de fiabilité globalement bonne, le GRX étant éprouvé, mais l'intégration propriétaire BMC pénalise l'entretien et la modularité. Pour un vélotaf quotidien toute l'année, il est surdimensionné et peu pratique (points d'ancrage limités, câblage intégré), même s'il excelle en gravel léger et sorties polyvalentes.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (rx810 mono-plateau), freins disque hydraulique, pneus 37 mm, tubeless. État visuel : Transmission peu usée (chaîne propre, dents de plateau et cassette nettes) et pneus WTB Riddler quasi neufs avec sculpture bien marquée; disques de frein propres et non striés. Cadre globalement propre et brillant. ⚠ À vérifier : Rayures/éclats de peinture nettement visibles sur le levier gauche et le haut du tube supérieur (près du cintre) - vérifier impact/chute; confirmer la référence exacte GRX (RX810 vs RX600) et présence d'un mono ou double plateau car l'arrière n'est pas parfaitement lisible. (confiance 60%)",
+        "description_vendeur": "Bicicleta de gravel muy buena, como nueva. Se vende porque se ha quedado pequeña para un atleta juvenil en rápido crecimiento, para que pueda adquirir una bicicleta nueva más grande.\n\nSistema de transmisión 1 x 11\ncon plato aero de 50T muy reciente de The Mechanic Parts en la parte delantera.\ncassette 11-42 en la parte trasera\n\nCinta de manillar nueva\nDiscos de freno nuevos y pastillas de freno nu",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (89 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−26 % vs cote (~1799 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 1x11 (RX810 mono-plateau)",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 37,
+        "tubeless": true,
+        "fixations": null,
+        "etat_visuel": "Transmission peu usée (chaîne propre, dents de plateau et cassette nettes) et pneus WTB Riddler quasi neufs avec sculpture bien marquée; disques de frein propres et non striés. Cadre globalement propre et brillant.",
+        "points_attention": "Rayures/éclats de peinture nettement visibles sur le levier gauche et le haut du tube supérieur (près du cintre) - vérifier impact/chute; confirmer la référence exacte GRX (RX810 vs RX600) et présence d'un mono ou double plateau car l'arrière n'est pas parfaitement lisible.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1333.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Scott Speedster Gravel 30 2025 2025",
       "url": "https://buycycle.com/product/speedster-gravel-30-2025-92446",
       "source": "buycycle",
@@ -31002,97 +31010,6 @@
       }
     },
     {
-      "titre": "Diamond Diamond Custom Shimano Tourney 2008",
-      "url": "https://buycycle.com/product/diamond-custom-54382",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 200.0,
-      "cout_reel": 445,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 144,
-      "prix_max_calcul": "240€ (cote) × (0.62 + 0.28 × 17% fit) = 160€ − 10 % (infos manquantes)",
-      "cote": 240.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Diamond",
-      "modele": "Diamond Custom Shimano Tourney",
-      "taille": "M",
-      "annee": 2008,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2403478/8c45bb23-f489-4d91-9b08-2eac02bbb36b.webp",
-      "score": 3.1,
-      "fit_pct": 17,
-      "axes": {
-        "technique": 3.5,
-        "financier": 8.3,
-        "usage": 1.0,
-        "plaisir": 5.0,
-        "valeur": 6.3
-      },
-      "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Tourney, taille M, 2008. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
-        "vision": "",
-        "description_vendeur": "Ideal project for a Neo-Retro Gravel Bike! Jump on this opportunity!\n\nThe bike is functional but requires some investment to make it reliable, as well as a major service.\n\nThe rear derailleur needs adjusting and may need to be replaced.",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Transmission d'entrée de gamme (Shimano Tourney)",
-          "Ancien (2008)",
-          "Peu adapté à ton usage (17 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−17 % vs cote (~240 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Tourney",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 200.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Csepel Rapid 3 2018",
       "url": "https://buycycle.com/product/rapid-36a10169b075cd-13704",
       "source": "buycycle",
@@ -33936,6 +33853,95 @@
         "n_ventes": 0,
         "prix_demande_median": null,
         "n_en_vente": 2,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Diamond Diamond Custom Shimano Tourney 2008",
+      "url": "https://buycycle.com/product/diamond-custom-54382",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "IGNORER",
+      "prix": 200.0,
+      "cout_reel": 445,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 142,
+      "prix_max_calcul": "240€ (cote) × (0.62 + 0.28 × 14% fit) = 158€ − 10 % (infos manquantes)",
+      "cote": 240.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Diamond",
+      "modele": "Diamond Custom Shimano Tourney",
+      "taille": "M",
+      "annee": 2008,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2403478/8c45bb23-f489-4d91-9b08-2eac02bbb36b.webp",
+      "score": 2.6,
+      "fit_pct": 14,
+      "axes": {
+        "technique": 2.5,
+        "financier": 8.3,
+        "usage": 1.0,
+        "plaisir": 5.0,
+        "valeur": 6.3
+      },
+      "verdict": "Peu adapté à ton usage (~14% du besoin) — IGNORER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Tourney mécanique, freins sur jante, taille 54 cm, 2008, bleu. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
+        "vision": "",
+        "description_vendeur": "Ideal project for a Neo-Retro Gravel Bike! Jump on this opportunity!\n\nThe bike is functional but requires some investment to make it reliable, as well as a major service.\n\nThe rear derailleur needs adjusting and may need to be replaced.",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
+        ],
+        "moins_velo": [
+          "Transmission d'entrée de gamme (Shimano Tourney)",
+          "Ancien (2008)",
+          "Peu adapté à ton usage (14 % du besoin)"
+        ],
+        "plus_annonce": [
+          "Décote intéressante : ~−17 % vs cote (~240 €)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Tourney",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "sur jante",
+        "size_cm": "54",
+        "color": "bleu",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 200.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -40796,5 +40802,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T07:51:35+00:00"
+  "genere_le": "2026-07-17T08:20:11+00:00"
 }
