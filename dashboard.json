@@ -19015,6 +19015,108 @@
       }
     },
     {
+      "titre": "Scott Speedster Gravel 30 2025 2025",
+      "url": "https://buycycle.com/product/speedster-gravel-30-2025-92446",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1399.0,
+      "cout_reel": 1559,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 789,
+      "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 86% fit) = 877€ − 10 % (infos manquantes)",
+      "cote": 1019.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Scott",
+      "modele": "Speedster Gravel 30 2025",
+      "taille": "M",
+      "annee": 2025,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2414334/0e15f064-b781-4af1-803a-81d75b0547cc.webp",
+      "score": 6.8,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 3.3,
+        "usage": 8.5,
+        "plaisir": 6.0,
+        "valeur": 2.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~789€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2025, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Scott Speedster Gravel 30 2025 se situe en entrée/milieu de gamme gravel chez Scott, au-dessus du 40/50 mais sous les Speedster Gravel 20/10 et loin de la gamme Addict Gravel en carbone. Il repose sur un cadre aluminium (alliage 6061) avec fourche carbone, une combinaison classique pour amortir un peu les vibrations tout en maîtrisant le coût. Le groupe Shimano GRX (probablement GRX 400 2x10 ou une config d'entrée GRX selon finition) offre une transmission fiable et un étagement adapté au gravel roulant, avec freins à disque hydrauliques dans la plupart des cas. L'usage visé est le gravel léger, les chemins roulants et la polyvalence route/piste, mais il convient très bien au vélotaf grâce aux nombreux inserts (porte-bagages, garde-boue) et à une géométrie plutôt confortable et stable. Points forts : robustesse du cadre alu, entretien simple, bon rapport prix/prestations, capacité à recevoir des accessoires ; limites : poids élevé, roues et pneus d'origine basiques qui brident le rendement, confort inférieur à un cadre carbone sur longues sorties. La fiabilité de la plateforme Speedster et du GRX est bonne et bien documentée, sans défaut majeur récurrent. Pour un vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent et durable, à condition d'accepter son poids et de prévoir éventuellement un upgrade pneus/roues.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x, freins disque hydraulique, fixations garde-boue/rack. État visuel : Vélo en très bon état apparent, transmission propre avec chaîne et plateaux GRX peu usés, pneus à crampons présentant une sculpture nette sans usure marquée. Aucune rayure, impact ou corrosion visible, cadre vert menthe brillant et propre. ⚠ À vérifier : Le levier de frein/manette droit semble tourné vers l'intérieur sur la photo 3 (à vérifier réglage cintre). La série exacte GRX (RX400/600/810) non lisible sur les photos. (confiance 60%)",
+        "description_vendeur": "NEW BICYCLE - 0 KM - LISBON BIKE SHOP (Lisbon / Portugal)",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2025)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (58 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~1019 €) — à négocier",
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "vert",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Vélo en très bon état apparent, transmission propre avec chaîne et plateaux GRX peu usés, pneus à crampons présentant une sculpture nette sans usure marquée. Aucune rayure, impact ou corrosion visible, cadre vert menthe brillant et propre.",
+        "points_attention": "Le levier de frein/manette droit semble tourné vers l'intérieur sur la photo 3 (à vérifier réglage cintre). La série exacte GRX (RX400/600/810) non lisible sur les photos.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1399.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 2,
+        "prix_demande_median": 1200.0,
+        "n_en_vente": 3,
+        "liquidite_jours": null,
+        "base": "demandes",
+        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
+      }
+    },
+    {
       "titre": "Van rysel Rcx Shimano GRX 2024",
       "url": "https://buycycle.com/product/rcx-39223",
       "source": "buycycle",
@@ -22013,100 +22115,6 @@
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
-      }
-    },
-    {
-      "titre": "Scott Speedster Gravel 30 2025 2025",
-      "url": "https://buycycle.com/product/speedster-gravel-30-2025-92446",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1399.0,
-      "cout_reel": 1644,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 783,
-      "prix_max_calcul": "1019€ (cote) × (0.62 + 0.28 × 84% fit) = 870€ − 10 % (infos manquantes)",
-      "cote": 1019.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Scott",
-      "modele": "Speedster Gravel 30 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2414334/0e15f064-b781-4af1-803a-81d75b0547cc.webp",
-      "score": 6.5,
-      "fit_pct": 84,
-      "axes": {
-        "technique": 8.0,
-        "financier": 3.3,
-        "usage": 8.5,
-        "plaisir": 6.0,
-        "valeur": 2.0
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2025. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Scott Speedster Gravel 30 2025 se situe en entrée/milieu de gamme gravel chez Scott, au-dessus du 40/50 mais sous les Speedster Gravel 20/10 et loin de la gamme Addict Gravel en carbone. Il repose sur un cadre aluminium (alliage 6061) avec fourche carbone, une combinaison classique pour amortir un peu les vibrations tout en maîtrisant le coût. Le groupe Shimano GRX (probablement GRX 400 2x10 ou une config d'entrée GRX selon finition) offre une transmission fiable et un étagement adapté au gravel roulant, avec freins à disque hydrauliques dans la plupart des cas. L'usage visé est le gravel léger, les chemins roulants et la polyvalence route/piste, mais il convient très bien au vélotaf grâce aux nombreux inserts (porte-bagages, garde-boue) et à une géométrie plutôt confortable et stable. Points forts : robustesse du cadre alu, entretien simple, bon rapport prix/prestations, capacité à recevoir des accessoires ; limites : poids élevé, roues et pneus d'origine basiques qui brident le rendement, confort inférieur à un cadre carbone sur longues sorties. La fiabilité de la plateforme Speedster et du GRX est bonne et bien documentée, sans défaut majeur récurrent. Pour un vélotaf quotidien toute l'année plus gravel léger, c'est un choix cohérent et durable, à condition d'accepter son poids et de prévoir éventuellement un upgrade pneus/roues.",
-        "vision": "",
-        "description_vendeur": "NEW BICYCLE - 0 KM - LISBON BIKE SHOP (Lisbon / Portugal)",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)",
-          "Bien adapté à ton usage (84 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (58 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1019 €) — à négocier",
-          "Vendeur professionnel (marge possible, moins de négociation)",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1399.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 2,
-        "prix_demande_median": 1200.0,
-        "n_en_vente": 3,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1200 € (3 en vente) — historique en cours"
       }
     },
     {
@@ -31242,10 +31250,12 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 55 cm, 2023, light gray. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2023. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Cannondale Topstone : endurance-gravel confortable (micro-suspension Kingpin sur les Carbon), très polyvalent. Valeur sûre pour rouler tous les jours. (Éviter les versions Lefty.)",
         "vision": "",
         "description_vendeur": "Vendo mi querida Cannondale Topstone 3 (modelo 2023).\n\nHe usado la bicicleta exactamente 2 años y la compré nueva. La factura original está, por supuesto, disponible y se incluye.\n\nEquipamiento:\n\nCuadro: SmartForm C2 de aluminio\nHorquilla: Carbono completo\nTransmisión: Shimano Sora, 2x9\nFrenos de disco hidráulicos\nTalla del cuadro: M\nColor: Gris\n\nLa bicicleta se encuentra en buen estado. No ha ten",
@@ -31266,11 +31276,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "55",
-        "color": "light gray",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -41084,5 +41094,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T13:52:14+00:00"
+  "genere_le": "2026-07-17T14:21:54+00:00"
 }
