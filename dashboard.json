@@ -16564,7 +16564,7 @@
       "verdict": "Bon vélo pour ton usage (~51% du besoin) — CONTACTER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano Deore XT Di2 électronique, freins à disque, taille M, 2021, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Deore XT Di2, taille M, 2021. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "L'appellation 'Giant Custom Shimano Deore XT Di2 2021' ne correspond à aucun modèle catalogue Giant clairement identifiable : Deore XT Di2 est un groupe VTT (11 vitesses, transmission électronique désormais abandonnée par Shimano au profit du full-mechanical sur XT M8100), ce qui suggère soit un montage sur mesure/custom, soit un cadre VTT (type Anthem, Trance ou XTC) plutôt qu'un vrai gravel/route. Cette incohérence impose la plus grande prudence : un XT Di2 (M8050) est une transmission relativement rare, coûteuse à réparer et dont Shimano a arrêté le développement, avec disponibilité de pièces (dérailleurs, batterie interne) de plus en plus limitée. Si le cadre est carbone avec fourche carbone et freins à disque, l'usage réel dépend entièrement de la géométrie exacte (VTT XC vs gravel), impossible à trancher sans la référence précise du cadre. Point fort théorique : transmission électronique précise et cadre carbone léger ; limites concrètes : écosystème Di2 VTT en fin de vie, coût des composants en cas de panne, et incertitude totale sur le dégagement pneus. Pour du vélotaf quotidien toute l'année, un montage XT Di2 est mal adapté (fragilité électronique, batterie, surcoût inutile face à une transmission méca), et pour du gravel léger l'adéquation dépend d'un cadre qui n'est pas confirmé comme étant un gravel. En occasion, exiger impérativement la référence cadre exacte, l'état de la batterie Di2, l'historique et vérifier la disponibilité SAV avant tout achat.",
         "vision": "Cadre carbone, fourche carbone, groupe shimano xt (dérailleur arrière xt visible, mono-plateau, groupe mixte non-di2 mécanique), freins disque hydraulique. État visuel : Transmission avec chaîne présentant une légère oxydation/manque de lubrification, cassette et plateau mono peu usés ; pneus à sculpture crantée (gravel) montrant une usure modérée avec traces de terre. Cadre carbone globalement propre mais avec poussière/salissures et reflets rendant difficile la détection de micro-rayures ou impacts. ⚠ À vérifier : Le titre annonce 'Deore XT Di2 2021' mais les photos montrent un dérailleur arrière XT MÉCANIQUE (câble visible, pas de servomoteur/durite électrique Di2) et des manettes route/gravel : incohérence à vérifier absolument. Vérifier compatibilité VTT/route du groupe, l'usure réelle de la chaîne (jauge) et l'état des flancs carbone au niveau des zones à contre-jour. (confiance 55%)",
         "description_vendeur": "Hola, tengo a la venta una bicicleta de ciclocross Giant TCX de 2021 con pintura personalizada de Barbara Borowiecka (sobre Liv).\n\nTalla del cuadro: M\nMaterial del cuadro: Carbono\nBicicleta equipada con grupo eléctrico Shimano Deore XT, cassette 11–32 (Ultegra).\nPlato delantero: absoluteBLACK 42T\nBielas: Ultegra 172,5 mm\nRuedas: Giant PR-2 con bujes Novatec\nTamaño de rueda: 28”\nPotencia: PRO Vibe ",
@@ -16583,11 +16583,11 @@
       },
       "specs": {
         "groupset": "Shimano Deore XT Di2",
-        "frame": "carbone",
-        "shifting": "électronique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -19778,7 +19778,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe SRAM Rival mécanique, freins à disque, taille M, 2019, blanc. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Rival, taille M, 2019. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant TCX Advanced Pro 2 2019 est un vélo de cyclocross de compétition positionné dans le haut de gamme Giant, juste sous le TCX Advanced Pro 1 (qui reçoit un groupe supérieur et parfois des roues carbone) et au-dessus des versions alu TCX SLR. Il repose sur un cadre carbone Advanced-grade avec fourche carbone full, montage SRAM Rival 1x (mono-plateau) et freins à disque hydrauliques avec axes traversants 12 mm, standards typiques du cyclocross moderne de l'époque. Conçu prioritairement pour la course de CX (géométrie relevée à l'avant, boîtier surélevé, dégagement boue), il se prête aussi au gravel léger et à des sorties rapides, mais reste une machine de course exigeante, peu polyvalente pour le chargement (peu ou pas de points de fixation porte-bagages/garde-boue selon les tailles). Points forts : rigidité et rendement du cadre, transmission 1x simple et fiable, freinage disque performant ; limites : monoplateau peu étagé pour le vélotaf vallonné ou chargé, confort ferme et absence d'œillets pratiques. La fiabilité générale est bonne (SRAM Rival 1x éprouvé, cadre Giant réputé solide), mais l'usure des plaquettes/disques et le passage de câbles peuvent demander de l'entretien en usage quotidien toute l'année. Pour du vélotaf hivernal quotidien il est jouable mais sous-optimal (peu de fixations, dégagement pensé boue plus que pneus larges confort), tandis qu'il excelle en gravel léger et rapide.",
         "vision": "Cadre carbone, fourche carbone, freins disque hydraulique. État visuel : Transmission mono-plateau propre sans usure marquée visible, pneus à crampons de cyclocross avec sculpture encore présente. Aucune rayure ou impact notable sur le cadre carbone, ensemble propre et bien entretenu. ⚠ À vérifier : Configuration en mono-plateau (1x) visible sur le pédalier, à confirmer le nombre exact de vitesses et la série du groupe (leviers/dérailleur non lisibles en gros plan). Disques et plaquettes non inspectables en détail. (confiance 45%)",
         "description_vendeur": "Bicicleta usada poco, con signos de uso normal por el paso del tiempo. Al lado de la pinza del freno trasero tiene una muesca superficial en la pintura, nada que afecte al funcionamiento; el resto está bien.",
@@ -19800,11 +19800,11 @@
       },
       "specs": {
         "groupset": "SRAM Rival",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "blanc",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -22867,6 +22867,101 @@
       }
     },
     {
+      "titre": "Giant Fastroad 2022",
+      "url": "https://buycycle.com/product/fastroad68d973cca52b3-64459",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 800.0,
+      "cout_reel": 900,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 363,
+      "prix_max_calcul": "420€ (cote) × (0.62 + 0.28 × 87% fit) = 363€",
+      "cote": 420.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Giant",
+      "modele": "Fastroad",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2186193/b5ffc2df-b304-42ce-9faa-99239e08434f.webp",
+      "score": 6.3,
+      "fit_pct": 87,
+      "axes": {
+        "technique": 9.3,
+        "financier": 2.0,
+        "usage": 8.5,
+        "plaisir": 8.5,
+        "valeur": 0.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~363€) — NÉGOCIER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille 55 cm, 2022, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Giant FastRoad 2022 est un vélo fitness/urbain à cintre plat positionné en entrée de gamme chez Giant, en dessous des séries Escape (plus cyclotourisme/loisir) mais partageant l'esprit route rapide avec guidon droit. Le cadre est en aluminium ALUXX avec fourche carbone (Advanced Grade Composite) sur plusieurs déclinaisons, ce qui filtre un peu les vibrations et allège l'avant. La version équipée en Shimano Claris (2x8 vitesses) constitue la variante d'accès de la famille, honnête mais basique : la transmission 8v est fiable et facile à entretenir, mais moins étagée et un peu bruyante face à du Sora/Tiagra. L'usage visé est le trajet rapide sur route et voies cyclables, la remise en forme, plutôt qu'un vrai gravel : la géométrie sportive et le passage de pneus limité le cantonnent à des chemins roulants secs. Points forts : rigidité correcte, position dynamique, bonne réputation de fiabilité et de rapport qualité/prix Giant, réseau de pièces facile. Limites concrètes : freinage souvent sur étriers ou disques mécaniques d'entrée selon finition, roues et pneus basiques à remplacer, dégagement pneus restreint peu propice au gravel technique. Pour le vélotaf quotidien toute l'année, il est pertinent (surtout finition à freins à disque et si passage garde-boue possible) mais reste plus orienté rapidité que polyvalence gravel.",
+        "vision": "Cadre aluminium, fourche carbone, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission (double plateau, cassette, chaîne) présentant une usure modérée avec traces de saleté/graisse sur les pignons, pneus Giant à sculpture encore correcte sans usure marquée visible. Cadre gris propre avec quelques micro-rayures d'usage normal, pas d'impact ni de corrosion apparente ; disque de frein en bon état. ⚠ À vérifier : Série exacte du groupe non lisible sur les photos (manettes gâchettes type Shimano triple plateau à confirmer) ; dimension et mention tubeless des pneus non lisibles ; vérifier l'usure de la chaîne/cassette de près et l'état des plaquettes. (confiance 50%)",
+        "description_vendeur": "The bike is like new, without any damage, and has only been ridden a few times.\n\nSpecifications:\n\t•\tFrame: ALUXX aluminum, internal cable routing\n\t•\tFork: Carbon, OverDrive steerer\n\t•\tDrivetrain: Shimano Claris, 2×11 speed\n\t•\tBrakes: Shimano GRX RX400 hydraulic disc brakes, 160 mm rotors\n\t•\tWheels: Giant P-X2 Disc, tubeless ready\n\t•\tTires: Giant Gavia Fondo AR, 700×40c, tubeless\n\t•\tSaddle: Giant A",
+        "plus_velo": [
+          "Groupe référence (Shimano Claris)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (87 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Au-dessus de la cote estimée (~420 €) — à négocier",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Claris",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": null,
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission (double plateau, cassette, chaîne) présentant une usure modérée avec traces de saleté/graisse sur les pignons, pneus Giant à sculpture encore correcte sans usure marquée visible. Cadre gris propre avec quelques micro-rayures d'usage normal, pas d'impact ni de corrosion apparente ; disque de frein en bon état.",
+        "points_attention": "Série exacte du groupe non lisible sur les photos (manettes gâchettes type Shimano triple plateau à confirmer) ; dimension et mention tubeless des pneus non lisibles ; vérifier l'usure de la chaîne/cassette de près et l'état des plaquettes.",
+        "confiance": 0.5
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 800.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Marin Nicasio 2 2023 2023",
       "url": "https://buycycle.com/product/nicasio-2-2023-44799",
       "source": "buycycle",
@@ -23576,94 +23671,6 @@
         {
           "date": "2026-07-06",
           "prix": 890.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "Giant Fastroad 2022",
-      "url": "https://buycycle.com/product/fastroad68d973cca52b3-64459",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "NÉGOCIER",
-      "prix": 800.0,
-      "cout_reel": 985,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 324,
-      "prix_max_calcul": "420€ (cote) × (0.62 + 0.28 × 85% fit) = 360€ − 10 % (infos manquantes)",
-      "cote": 420.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Giant",
-      "modele": "Fastroad",
-      "taille": "M",
-      "annee": 2022,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2186193/b5ffc2df-b304-42ce-9faa-99239e08434f.webp",
-      "score": 6.0,
-      "fit_pct": 85,
-      "axes": {
-        "technique": 8.5,
-        "financier": 2.0,
-        "usage": 8.5,
-        "plaisir": 8.5,
-        "valeur": 0.0
-      },
-      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~324€) — NÉGOCIER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano Claris, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Giant FastRoad 2022 est un vélo fitness/urbain à cintre plat positionné en entrée de gamme chez Giant, en dessous des séries Escape (plus cyclotourisme/loisir) mais partageant l'esprit route rapide avec guidon droit. Le cadre est en aluminium ALUXX avec fourche carbone (Advanced Grade Composite) sur plusieurs déclinaisons, ce qui filtre un peu les vibrations et allège l'avant. La version équipée en Shimano Claris (2x8 vitesses) constitue la variante d'accès de la famille, honnête mais basique : la transmission 8v est fiable et facile à entretenir, mais moins étagée et un peu bruyante face à du Sora/Tiagra. L'usage visé est le trajet rapide sur route et voies cyclables, la remise en forme, plutôt qu'un vrai gravel : la géométrie sportive et le passage de pneus limité le cantonnent à des chemins roulants secs. Points forts : rigidité correcte, position dynamique, bonne réputation de fiabilité et de rapport qualité/prix Giant, réseau de pièces facile. Limites concrètes : freinage souvent sur étriers ou disques mécaniques d'entrée selon finition, roues et pneus basiques à remplacer, dégagement pneus restreint peu propice au gravel technique. Pour le vélotaf quotidien toute l'année, il est pertinent (surtout finition à freins à disque et si passage garde-boue possible) mais reste plus orienté rapidité que polyvalence gravel.",
-        "vision": "",
-        "description_vendeur": "The bike is like new, without any damage, and has only been ridden a few times.\n\nSpecifications:\n\t•\tFrame: ALUXX aluminum, internal cable routing\n\t•\tFork: Carbon, OverDrive steerer\n\t•\tDrivetrain: Shimano Claris, 2×11 speed\n\t•\tBrakes: Shimano GRX RX400 hydraulic disc brakes, 160 mm rotors\n\t•\tWheels: Giant P-X2 Disc, tubeless ready\n\t•\tTires: Giant Gavia Fondo AR, 700×40c, tubeless\n\t•\tSaddle: Giant A",
-        "plus_velo": [
-          "Groupe référence (Shimano Claris)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (85 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~420 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano Claris",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 800.0
         }
       ],
       "marche_modele": {
@@ -36415,12 +36422,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Claris, taille M, 2023. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille 55 cm, 2023, vert. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Scott Speedster Gravel : bonne porte d'entrée, un peu routière, souvent bien décotée.",
         "vision": "",
         "description_vendeur": "None",
@@ -36442,11 +36447,11 @@
       },
       "specs": {
         "groupset": "Shimano Claris",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "55",
+        "color": "vert",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -41079,5 +41084,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T12:51:19+00:00"
+  "genere_le": "2026-07-17T13:21:41+00:00"
 }
