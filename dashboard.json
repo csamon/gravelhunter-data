@@ -16466,7 +16466,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1362€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM X1 mécanique, freins à disque, taille M, 2024, noir. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM X1, taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant Revolt X 1 2024 est la déclinaison 'X' du Revolt, c'est-à-dire la version gravel avec suspension avant : il intègre une fourche suspendue (RockShox Rudy ou similaire à débattement court, ~30-40mm) qui le distingue nettement des Revolt classiques à fourche rigide carbone. Positionné en milieu de gamme (le '1' étant supérieur au '2' mais sous d'éventuelles finitions carbone/haut de gamme), il repose sur un cadre aluminium ALUXX SL avec haubans conçus pour un peu de flex (D-Fuse partiel selon versions) et une transmission SRAM mono-plateau X1 1x11/1x12 robuste et simple d'entretien. L'usage visé est le gravel engagé/aventure sur terrains cassants où la suspension apporte confort et contrôle, plutôt que la performance pure sur route. Points forts : polyvalence tout-terrain, confort supérieur grâce à la fourche active, mono-plateau fiable, freins à disque hydrauliques ; limites : poids élevé pour un gravel (la suspension et l'alu pénalisent), rendement moindre sur asphalte, entretien de la fourche suspendue, et plage de développement parfois juste en mono-plateau pour les longues montées ou le plat rapide. Fiabilité globale bonne, Giant étant réputé pour ses cadres et le X1 étant éprouvé, mais la fourche suspendue ajoute un point de maintenance. Pour du vélotaf quotidien toute l'année il fonctionne (dégagements généreux pour pneus larges et garde-boue possibles, freins puissants), mais son poids et sa fourche suspendue le rendent surdimensionné et moins efficace qu'un gravel rigide pour ce seul usage ; il excelle davantage en gravel léger à moyen.",
         "vision": "Cadre carbone, fourche carbone, groupe sram apex 1x12 (mono-plateau 40t x-sync, dérailleur arrière apex xplr), freins disque hydraulique. État visuel : Transmission en bon état avec plateau 40T aux dents saines, chaîne propre et cassette peu marquée; pneus type Maxxis à crampons présentant une sculpture bien conservée. Peinture globalement propre et brillante, avec quelques micro-rayures superficielles sur le tube supérieur près du logo REVOLT X. ⚠ À vérifier : Fourche suspendue RockShox (débattement court type Rudy XPLR) à vérifier (fonctionnement, fuites); griffures/éclats de vernis visibles sur le tube supérieur; propreté à confirmer près du boîtier de pédalier (léger encrassement). (confiance 72%)",
         "description_vendeur": "None",
@@ -16488,11 +16488,11 @@
       },
       "specs": {
         "groupset": "SRAM X1",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 53
@@ -23259,14 +23259,12 @@
       },
       "verdict": "Peu adapté à ton usage (~40% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Alfine 8 hub gears, taille M, 2011. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Alfine 8 hub gears mécanique, freins à disque, taille 53 cm, 2011, blanc. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Scott Sub 10 2011 est un vélo urbain/trekking positionné dans la gamme 'Sub' de Scott, dédiée à la mobilité quotidienne et au confort, loin de l'univers sportif route/VTT de la marque. Il occupe le haut de cette gamme utilitaire grâce à son moyeu à vitesses intégrées Shimano Alfine 8, gage d'un entretien réduit et d'une bonne résistance aux intempéries (pas de dérailleur exposé), souvent associé à une transmission par courroie ou chaîne carénée et des freins puissants. Son cadre aluminium, sa position droite, ses garde-boue et porte-bagages intégrés le destinent clairement au vélotaf toute l'année et aux trajets urbains, pas au gravel véritable. Points forts : robustesse, faible maintenance de l'Alfine, praticité (éclairage souvent intégré via dynamo moyeu selon finition), confort. Limites concrètes : poids élevé, rendement moindre du moyeu Alfine 8 (frottements internes, plage de développements limitée ~307%), géométrie non sportive et dégagements pneus modestes inadaptés à un usage gravel sérieux. La fiabilité de l'Alfine 8 est réputée bonne mais nécessite une vidange périodique et un réglage précis du câble ; à cet âge, vérifier l'usure du moyeu, des roulements et de la transmission. Correct pour le vélotaf quotidien, marginal voire inadapté pour du gravel léger sur chemins.",
-        "vision": "",
+        "vision": "Cadre aluminium, fourche aluminium, groupe transmission par courroie crantée (belt drive) mono-vitesse / moyeu interne, plateau truvativ carbone, freins disque mécanique. État visuel : Courroie crantée en bon état apparent et plateau sans usure marquée, pneus Continental SportContact avec sculpture correcte. Cadre blanc globalement propre mais quelques traces de salissures/poussière au stockage et petites marques sur les manivelles. ⚠ À vérifier : Entraînement par courroie et non chaîne : vérifier tension et état de la poulie/moyeu arrière (moyeu à vitesses intégrées probable). Étriers de frein à disque mécaniques : contrôler l'usure des plaquettes et des disques. Vérifier l'état des jantes AlexRims peintes en rouge. (confiance 55%)",
         "description_vendeur": "Very low use, almost brand new. Maybe it has been ridden about 300km in total since new.\n\nMy girlfriend fell once and it has a few little marks on the right pedal and grip.\n\nIt works great, and 0 maintenance needed.\n\nIt runs with a belt drive and an 8-speed internal rear hub.\n\nIt has some little scratches, nothing important, like cable rub due to steering, and typical from normal use.\n\nCarbon hand",
         "plus_velo": [
           "Freins hydrauliques (confort et sécurité sous la pluie)",
@@ -23285,16 +23283,27 @@
       },
       "specs": {
         "groupset": "Shimano Alfine 8 hub gears",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": "53",
+        "color": "blanc",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
       },
-      "vision_brute": null,
+      "vision_brute": {
+        "groupe": "Transmission par courroie crantée (belt drive) mono-vitesse / moyeu interne, plateau Truvativ carbone",
+        "freins": "disque mécanique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Courroie crantée en bon état apparent et plateau sans usure marquée, pneus Continental SportContact avec sculpture correcte. Cadre blanc globalement propre mais quelques traces de salissures/poussière au stockage et petites marques sur les manivelles.",
+        "points_attention": "Entraînement par courroie et non chaîne : vérifier tension et état de la poulie/moyeu arrière (moyeu à vitesses intégrées probable). Étriers de frein à disque mécaniques : contrôler l'usure des plaquettes et des disques. Vérifier l'état des jantes AlexRims peintes en rouge.",
+        "confiance": 0.55
+      },
       "historique_prix": [
         {
           "date": "2026-07-05",
@@ -40891,5 +40900,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-17T10:51:16+00:00"
+  "genere_le": "2026-07-17T11:20:58+00:00"
 }
