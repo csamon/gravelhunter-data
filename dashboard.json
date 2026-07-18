@@ -8242,7 +8242,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2026, vert. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Cube Nuroad : gravel bien né, finition et équipement au-dessus du prix. Les FE tirent vers la route, l'EX vers l'aventure.",
         "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 2x (manettes grx, pédivelle grx), freins disque hydraulique, fixations garde-boue/rack. État visuel : La chaîne présente une corrosion/rouille superficielle marquée et la transmission est encrassée (poussière), plateaux et cassette semblent peu usés. Les pneus à crampons montrent une sculpture bien présente, cadre globalement propre avec quelques traces de poussière mais sans impacts majeurs visibles. ⚠ À vérifier : Chaîne rouillée à nettoyer/remplacer et à vérifier l'usure ; contrôler l'état de la cassette et la tension des câbles. Vérifier plaquettes et disques non clairement visibles. (confiance 55%)",
         "description_vendeur": "La Cube Nuroad Race FE 2026 se encuentra en muy buen estado y ha sido utilizada muy poco. La vendo porque, personalmente, la forma o posición del manillar no me resulta cómoda. La bicicleta ha sido tratada con cuidado y no presenta daños significativos. Se ha formado un ligero óxido superficial en la cadena debido a que fue encerada. Aparte de esto, la bicicleta se encuentra en muy buen estado tan",
@@ -8264,11 +8264,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "vert",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -38035,8 +38035,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 648,
-      "prix_max_calcul": "1020€ (cote) × (0.62 + 0.28 × 31% fit) = 720€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 720,
+      "prix_max_calcul": "1020€ (cote) × (0.62 + 0.28 × 31% fit) = 720€",
       "cote": 1020.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -38057,12 +38057,9 @@
         "valeur": 3.7
       },
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
+      "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Sora, taille M, 2024. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille M, 2024, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Talla M\n\nCuadro aluminium superlite\nHorquilla aluminium\nCantidad de marchas 18\nDesviador delantero shimano sora r3000\nCambio trasero shimano sora r3000\nManetas de cambio shimano sora r3000\nJuego de bielas shimano sora r3000\nGama del juego de bielas 34 50t 170mm\nPedalier shimano rs501\nCassette / Rueda libre shimano hg 201\nGama de casetes 11 34t\nCadena shimano hg53\nTipo de freno disco mecanico\nLas p",
@@ -38085,11 +38082,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "rouge",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -42275,5 +42272,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T12:57:38+00:00"
+  "genere_le": "2026-07-18T13:27:33+00:00"
 }
