@@ -2752,7 +2752,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le CUBE Nuroad Pro FE 2021 se positionne en milieu de gamme dans la série Nuroad, au-dessus des versions de base et sous les Nuroad Race/C:62 (carbone) ; le suffixe FE signale l'orientation 'Fully Equipped' commuter/randonnée avec garde-boue, porte-bagages et éclairage intégré. Le cadre est en aluminium (Aluminium Superlite 6061) marié à une fourche carbone, ce qui filtre correctement les vibrations sur revêtements dégradés tout en gardant un coût contenu. Le groupe Shimano GRX (typiquement GRX 400/600 en 2x sur cette finition) offre un freinage disque hydraulique fiable et un étagement adapté au mixte route/chemins. L'usage visé est clairement le vélotaf toute l'année et le gravel léger/bikepacking : géométrie endurance stable, passages de câbles internes, nombreux inserts (fourche, cadre) et pneus assez larges d'origine. Points forts : équipement complet immédiatement utilisable au quotidien, robustesse du cadre alu, GRX endurant et facile à entretenir ; limites : poids élevé une fois équipé (garde-boue/porte-bagages), rigidité et confort inférieurs à un cadre carbone, et dégagement pneus bridé par les garde-boue pour le vrai gravel engagé. La réputation CUBE sur ces Nuroad est solide en fiabilité et rapport équipement/prix, avec un SAV correct en Europe. Pour un usage navette quotidien par tous temps plus escapades gravel roulantes, c'est un choix très pertinent ; pour du gravel technique/rapide, il montre vite ses limites.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 2x (série non lisible, probablement tiagra/sora 2x10), freins disque mécanique, fixations garde-boue/rack. État visuel : La transmission montre une chaîne et une cassette avec un léger encrassement mais peu d'usure marquée, plateaux en bon état. Les pneus Schwalbe G-One Allround présentent une sculpture bien présente et l'ensemble paraît globalement propre et peu utilisé. ⚠ À vérifier : Étrier de frein avant semble mécanique (câble apparent, pas de durite claire) à vérifier ; garde-boue ACID et porte-bagage installés ; guidoline turquoise usée/salie par endroits ; vérifier le réglage/état des disques. (confiance 55%)",
         "description_vendeur": "Solo algunos rasguños leves",
@@ -2773,11 +2773,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "noir",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -42715,5 +42715,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T15:57:51+00:00"
+  "genere_le": "2026-07-18T16:27:50+00:00"
 }
