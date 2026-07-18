@@ -1603,7 +1603,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1145€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2021, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2021. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Topstone 1 2021 se situe en milieu de gamme dans la série Topstone alu de Cannondale, au-dessus des versions 2, 3 et 4 (Sora/Tiagra/moins équipées) mais nettement sous les Topstone Carbon Lefty et les Lefty avec suspension Kingpin. Cette génération conserve le cadre SmartForm C1 Alloy avec la technologie Kingpin, une flexion contrôlée du triangle arrière (jusqu'à ~30 mm de débattement passif) sans amortisseur, apportant du confort sur gravel sans surpoids notable. La fourche carbone, les montages internes et le standard d'axes traversants (12 mm) confirment son orientation gravel polyvalent. L'équipement GRX (groupe gravel dédié Shimano, généralement GRX 810/600 mono ou double selon millésime) est un vrai atout : ergonomie, fiabilité et freinage hydraulique disque efficaces et éprouvés. Points forts : confort Kingpin, robustesse du cadre alu, transmission GRX fiable, géométrie endurance stable ; limites : poids plus élevé qu'un cadre carbone, pivot Kingpin nécessitant surveillance/entretien à long terme, pas de suspension réelle malgré le marketing. Pour le vélotaf quotidien toute l'année, c'est très adapté (montage de garde-boue et porte-bagages possible via inserts, freins disque, pneus larges), et il excelle en gravel léger à moyen, moins en terrain très technique.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx rx400 2x10, freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec cassette et chaîne présentant une usure modérée sans oxydation notable ; pneus Schwalbe G-One Overland aux crampons bien marqués et peu usés. Le vélo est globalement très propre, sans corrosion, mais on note quelques rayures/marques sur le tube supérieur près du tube de selle. ⚠ À vérifier : Étrier de frein avant de type mécanique (câble visible, pas de durite hydraulique) — vérifier qu'il s'agit bien de freins mécaniques et non hydrauliques, ce qui serait inhabituel pour un Topstone 1. Rayures/griffures visibles sur le tube supérieur. (confiance 55%)",
         "description_vendeur": "Arañazos en el tubo superior (ver foto)\n\nOfrezco aquí mi Cannondale Topstone 1\nDatos:\n\n* Cuadro de aluminio\n* Talla M / MD según Cannondale\n* Color slate grey (gris pizarra)\n* Transmisión Shimano GRX fiable\n* Frenos de disco para una potencia de frenado segura\n* Neumáticos anchos para un buen agarre en diferentes superficies; actualmente lleva montados los G-One Overland de 45 mm\n* No más de 3000 ",
@@ -1624,11 +1624,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 42
@@ -42804,5 +42804,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T16:58:03+00:00"
+  "genere_le": "2026-07-18T17:28:37+00:00"
 }
