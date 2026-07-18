@@ -731,7 +731,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~934€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2024, violet. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2024. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant Revolt 1 2024 se positionne en milieu de gamme du programme gravel alu de Giant, au-dessus du Revolt 2 (groupe inférieur) et sous les versions carbone Advanced. Il combine un cadre en aluminium ALUXX SL avec une fourche full carbone à guidage interne des câbles, tirant parti du concept D-Fuse (tige de selle et cintre) censé filtrer les vibrations sur terrain irrégulier. Le groupe Shimano GRX (mono ou double plateau selon config, souvent GRX 400/600 sur cette finition) offre un étagement adapté au gravel, avec freins à disque hydrauliques fiables et éprouvés. L'usage visé est polyvalent : gravel roulant à moyennement technique, bikepacking léger et sorties route grâce aux nombreux inserts (porte-bidons, garde-boue, porte-bagages). Points forts : géométrie endurance équilibrée, robustesse du cadre alu, montage cohérent et bon rapport prix/prestations sur l'occasion ; limites : poids supérieur aux modèles carbone, confort dépendant du D-Fuse plus que d'un vrai amortisseur, et finition GRX d'entrée moins valorisante que du GRX 800. Réputation solide et fiabilité reconnue pour la plateforme Revolt. Pour le vélotaf quotidien toute l'année, c'est un choix pertinent (dégagement pneus généreux, inserts garde-boue, freins fiables), et il reste très à l'aise en gravel léger.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano 1x (mono-plateau, dérailleur arrière type grx/deore non lisible précisément), freins disque mécanique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateau monoplateau en bon état ; pneus Giant CrossCut avec sculpture bien présente. Disques et plaquettes semblent peu marqués, cadre bordeaux brillant globalement propre sans corrosion ni impact visible. ⚠ À vérifier : Étrier de frein avant à câble (durite absente) = frein à disque MÉCANIQUE et non hydraulique comme attendu sur un Revolt ; pédales plates d'entrée de gamme montées ; vérifier alignement roue avant et tension de la sangle/câble de frein. (confiance 50%)",
         "description_vendeur": "None",
@@ -754,11 +754,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "violet",
+        "color": null,
         "condition": null,
         "poids_kg": 10.6,
         "degagement_mm": 45
@@ -1225,7 +1225,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Focus Atlas 6.7 EQP 2022 se positionne en entrée/milieu de gamme dans la série Atlas de Focus, la gamme gravel aluminium de la marque, au-dessus des versions les plus basiques mais loin des Atlas carbone (8.x) plus légers et sophistiqués. La mention EQP (Equipped) indique une version équipée pour l'usage utilitaire/aventure, généralement livrée avec garde-boue, porte-bagages et éclairage intégré, ce qui la rend directement pertinente pour le vélotaf. Le cadre et la fourche en aluminium privilégient robustesse et coût maîtrisé au détriment du poids et du confort par rapport au carbone, l'amorti reposant essentiellement sur les pneus larges et une tige de selle éventuellement flexible. Le groupe Shimano GRX (probablement 400/600 sur ce niveau) est un choix fiable et cohérent, dédié au gravel avec freins à disque hydrauliques offrant un bon freinage par tous temps. Points forts : polyvalence, capacité de portage, dégagement pneu généreux, freinage sûr et endurance mécanique du GRX ; limites : poids élevé, rendement moyen sur route rapide et confort limité du triangle alu. La fiabilité générale est bonne, Focus étant sérieux sur l'assemblage, mais il faut vérifier l'usure des roulements, du boîtier et l'état des périphériques d'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, c'est une base cohérente et endurante, à condition d'accepter son gabarit et son poids.",
         "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx rx600 2x11, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne et cassette peu usées, plateaux GRX en bon état ; pneus Vittoria Rubino avec sculpture correcte. Freins à disque hydrauliques avec disques et étriers propres, cadre alu gris mat sans impact notable. ⚠ À vérifier : Guidoline très craquelée/dégradée sur les cocottes (à remplacer). Vérifier l'usure exacte de la chaîne et l'épaisseur des plaquettes, et confirmer la dimension/tubeless des pneus non lisible sur les photos. (confiance 82%)",
         "description_vendeur": "Comprada en junio de 2023 para hacer cicloturismo, pero siempre usada en carretera.\nLos guardabarros y el portaequipajes no están montados, pero se enviarán junto con la bicicleta.\nBicicleta en excelentes condiciones, siempre guardada bajo techo y con mantenimiento puntual.\nMuy pocos arañazos presentes, en la vaina del cuadro, en los puños y en el cambio (arañazos por apoyo).\nLa cadena y el casset",
@@ -1246,11 +1246,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -1741,14 +1741,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -3130,7 +3130,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1095€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, light gray. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Ghost Road Rage Advanced 2022 est un gravel positionné en entrée/milieu de gamme dans le catalogue Ghost, avec un cadre aluminium plutôt qu'un carbone haut de gamme, ce qui le rend robuste mais plus lourd et moins confortable que les versions supérieures. La transmission Shimano GRX est un choix pertinent et cohérent pour le gravel, offrant une bonne ergonomie des leviers et un dérailleur à chape optimisée pour terrain accidenté. Les freins à disque (probablement hydrauliques ou mécaniques selon la finition GRX 400/600) assurent un freinage fiable par tous les temps, atout majeur pour le vélotaf. L'usage visé est le gravel léger, la route et les chemins roulants, ainsi qu'un usage polyvalent quotidien. Points forts : robustesse du cadre alu, GRX fiable, géométrie polyvalente et capacité à monter garde-boue/porte-bagages pour le vélotaf toute l'année ; limites : poids élevé, confort moindre qu'un carbone ou qu'une fourche carbone, et une fourche alu qui transmet davantage les vibrations. La réputation de Ghost est correcte, marque allemande au rapport qualité/prix honnête mais avec une revente modeste et un SAV parfois limité hors réseau. Globalement, c'est un choix crédible pour le vélotaf quotidien et le gravel léger, à condition d'accepter le compromis poids/confort inhérent à l'aluminium.",
         "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 2x (double plateau, série non lisible précisément), freins disque hydraulique, pneus 40 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission fonctionnelle avec plateaux et cassette présentant une usure et un encrassement modérés, chaîne légèrement sèche ; pneus Schwalbe G-One (flanc gomme/tan) avec sculpture encore bien présente et disques de frein en bon état sans voile visible. Cadre alu propre dans l'ensemble avec quelques micro-rayures d'usage normal, aucune corrosion ni impact majeur repéré. ⚠ À vérifier : Autocollant d'avertissement partiellement arraché sur le tube de direction ; vérifier l'usure exacte de la chaîne/cassette (encrassement) et l'état des plaquettes ; série précise du groupe GRX non identifiable sur les photos. (confiance 60%)",
         "description_vendeur": "Tengo que deshacerme de la bicicleta debido a mis dolores de espalda; necesito volver a una bicicleta de montaña con una posición de asiento más erguida.\nEs una bicicleta estupenda, muy suave, rápida y ágil. Para mi 1,83 m es un poco pequeña, pero eso es cuestión de gustos.\n\nLa bicicleta siempre ha sido cuidada y mantenida adecuadamente: engrasada, limpiada, etc.\n\n¡Espero que encuentre un/a nuevo/",
@@ -3151,11 +3151,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -4928,6 +4928,101 @@
         "liquidite_jours": null,
         "base": "demandes",
         "resume": "prix demandés méd. 1250 € (3 en vente) — historique en cours"
+      }
+    },
+    {
+      "titre": "Cannondale Fatty Gravel 2024",
+      "url": "https://buycycle.com/product/default66fc6cc3b1a61-74151",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 939.0,
+      "cout_reel": 1039,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1400.0,
+      "prix_max_calcul": "1800€ (cote) × (0.62 + 0.28 × 66% fit) = 1451€, plafonné à ton budget 1400€",
+      "cote": 1800.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cannondale",
+      "modele": "Fatty Gravel",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/1063158/6f824ff5-77b6-4b3c-ba1e-a91a81adec59.webp",
+      "score": 8.3,
+      "fit_pct": 66,
+      "axes": {
+        "technique": 7.0,
+        "financier": 10.0,
+        "usage": 6.5,
+        "plaisir": 7.0,
+        "valeur": 8.8
+      },
+      "verdict": "Bon dossier MAIS analyse photo pas assez fiable (< 0.75) — CONTACTER pour lever le doute avant d'acheter.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Other SRAM mécanique, freins à disque, taille M, 2024, noir. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le 'Cannondale Fatty Gravel 2024' n'existe pas comme modèle référencé au catalogue Cannondale : le nom 'Fatty' renvoie historiquement à l'ancienne fourche télescopique Headshok/Lefty 'Fatty' des années 1990-2000, et non à une gamme gravel actuelle. La gamme gravel Cannondale 2024 s'articule autour du Topstone (alu et carbone, avec l'amortisseur arrière Kingpin sur les versions carbone) et du Topstone Lefty, plus le SuperSix EVO CX/gravel racing ; aucune référence 'Fatty Gravel' n'y figure. Il est donc probable qu'il s'agisse d'une dénomination erronée, d'une annonce d'occasion mal libellée, ou d'un vélo repeint/rebadgé, ce qui doit inciter à une prudence maximale avant achat. L'indication 'Other SRAM' est trop vague pour trancher entre un groupe mécanique bas de gamme (Apex) et un groupe électronique (Rival/Force AXS), ce qui change radicalement la valeur. Sans confirmation du cadre, du numéro de série et de correspondance avec un modèle réel du catalogue, impossible de juger fiabilité, dégagement pneu ou aptitude au vélotaf toute l'année et gravel léger. Recommandation ferme : exiger photos détaillées, numéro de série vérifiable auprès de Cannondale, et identification précise du modèle réel (Topstone probable) avant toute transaction.",
+        "vision": "Cadre aluminium, fourche aluminium, freins disque mécanique, pneus 48 mm, tubeless. État visuel : Transmission mono-plateau à cassette large (dérailleur Shimano type Deore/SLX visible), chaîne et cassette montrent une usure modérée sans rouille marquée ; pneus Panaracer GravelKing (700x... en 27.5x1.90 650B) à sculpture bien présente, encore en bon état. Cadre noir globalement propre avec quelques micro-rayures, plaquettes/disques semblent corrects, présence de la mention tubeless (TLC) sur le flanc. ⚠ À vérifier : Vélo custom ne correspondant PAS au titre 'Cannondale Fatty Gravel 2024' : mélange de composants hétéroclites (guidon BMX/plat, potence courte, pédales plateforme, fourche suspendue bas de gamme, freins à disque mécaniques à câble et non hydrauliques). Étriers de frein rouges à câble à vérifier (réglage/usure), cadre semble être un ancien VTT type Cannondale rigide reconverti. Cotation 27.5x1.90 (650B) et non un vrai standard gravel 700C. (confiance 55%)",
+        "description_vendeur": "<p>Cannondale mod. Fatty, reformada este año con conversión a gravel con manillar en \"H\", ideal para bikepacking y ruedas (nuevas) de 27,5\" (WTB). Ideal para ir al trabajo o como bicicleta de gravilla, pero también para viajes y cicloturismo. La pintura debe revisarse, ya que tiene varios arañazos debidos al uso.</p>",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (66 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−48 % vs cote (~1800 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Other SRAM",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": null,
+        "freins": "disque mécanique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": 48,
+        "tubeless": true,
+        "fixations": false,
+        "etat_visuel": "Transmission mono-plateau à cassette large (dérailleur Shimano type Deore/SLX visible), chaîne et cassette montrent une usure modérée sans rouille marquée ; pneus Panaracer GravelKing (700x... en 27.5x1.90 650B) à sculpture bien présente, encore en bon état. Cadre noir globalement propre avec quelques micro-rayures, plaquettes/disques semblent corrects, présence de la mention tubeless (TLC) sur le flanc.",
+        "points_attention": "Vélo custom ne correspondant PAS au titre 'Cannondale Fatty Gravel 2024' : mélange de composants hétéroclites (guidon BMX/plat, potence courte, pédales plateforme, fourche suspendue bas de gamme, freins à disque mécaniques à câble et non hydrauliques). Étriers de frein rouges à câble à vérifier (réglage/usure), cadre semble être un ancien VTT type Cannondale rigide reconverti. Cotation 27.5x1.90 (650B) et non un vrai standard gravel 700C.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 939.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
       }
     },
     {
@@ -8698,82 +8793,93 @@
       }
     },
     {
-      "titre": "Lapierre Crosshill 3.0 2024",
-      "url": "https://buycycle.com/product/crosshill-3068fb993c411a0-81418",
+      "titre": "Olympia Handy Sram Apex 2024",
+      "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
       "source": "buycycle",
       "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1000.0,
-      "cout_reel": 1160,
+      "action": "NÉGOCIER",
+      "prix": 855.0,
+      "cout_reel": 1100,
       "cout_reel_detail": [
+        "garde-boue+rack +85€",
         "tubeless +60€",
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 822,
-      "prix_max_calcul": "1139€ (cote) × (0.62 + 0.28 × 65% fit) = 913€ − 10 % (infos manquantes)",
-      "cote": 1139.0,
+      "prix_max_conseille": 604,
+      "prix_max_calcul": "780€ (cote) × (0.62 + 0.28 × 86% fit) = 671€ − 10 % (infos manquantes)",
+      "cote": 780.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
       "alerte": null,
-      "marque": "Lapierre",
-      "modele": "Crosshill 3.0",
+      "marque": "Olympia",
+      "modele": "Handy Sram Apex",
       "taille": "M",
       "annee": 2024,
       "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2231444/b432120b-8b60-40f4-95e9-dad44c6653ae.webp",
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2261251/486f55ff-abe1-4b67-8e0a-ca1bb2c75164.webp",
       "score": 7.0,
-      "fit_pct": 65,
+      "fit_pct": 86,
       "axes": {
-        "technique": 6.5,
-        "financier": 7.7,
-        "usage": 6.5,
+        "technique": 8.8,
+        "financier": 5.0,
+        "usage": 8.5,
         "plaisir": 5.0,
-        "valeur": 6.0
+        "valeur": 4.2
       },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~604€) — NÉGOCIER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Tiagra, taille M, 2024. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Lapierre Crosshill 3.0 2024 se positionne en entrée/milieu de gamme dans la famille des vélos polyvalents 'fitness/gravel léger' de Lapierre, plutôt orienté trekking sportif et vélotaf qu'authentique gravel de compétition. Il repose sur un cadre aluminium avec fourche généralement carbone ou alu selon versions, un géométrie confortable et redressée, et surtout un cintre plat (flat bar) plutôt qu'un cintre route, ce qui le distingue nettement d'un gravel classique et le rapproche du VTC/urbain sportif. Le groupe Shimano Tiagra (10 vitesses) est fiable et facile à entretenir, mais c'est un groupe route dérivé, correct sans être haut de gamme, avec des freins à disque hydrauliques sur cette finition qui sont un vrai atout pour le quotidien. Points forts : polyvalence, confort de position, freinage, robustesse et coût d'entretien raisonnable ; limites : poids élevé, pneus et dégagement limités pour du vrai gravel technique, et positionnement flat bar peu adapté aux longues sorties route rapides. Pour le vélotaf toute l'année il est pertinent (garde-boue/porte-bagages souvent montables, position confortable, freinage disque), à condition de vérifier les fixations et de monter des pneus adaptés. Pour le gravel il reste léger/occasionnel : chemins roulants oui, terrain engagé non. La réputation Lapierre sur ces gammes est correcte en fiabilité, sans problème structurel notable, mais vérifiez l'usure transmission/freins et l'état du cadre alu sur un achat d'occasion.",
-        "vision": "",
-        "description_vendeur": "La Lapierre Crosshill 5.0 es una gravel equilibrada y versátil, adecuada para todo tipo de ciclistas, apreciada por su excelente relación calidad-precio. Entre sus puntos fuertes se encuentran el preciso grupo Shimano, los frenos eficientes, la cómoda geometría y la predisposición para cicloturismo y bikepacking gracias a los numerosos soportes para accesorios como portabultos y guardabarros. El c",
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2024, blanc. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Olympia Handy Apex 2024 est un vélo urbain/trekking d'entrée à milieu de gamme du fabricant italien Olympia, positionné comme un vélo polyvalent city/fitness plutôt qu'un vrai gravel sportif. Le nom 'Handy' oriente vers un usage pratique quotidien, et le montage en SRAM Apex (groupe route/gravel 1x d'entrée de gamme SRAM) suggère une transmission simple mono-plateau adaptée au vélotaf et aux petits chemins. Olympia reste une marque peu diffusée hors d'Italie, ce qui complique l'accès aux pièces spécifiques et la revente, un point négatif concret en occasion. Sur le papier, un cadre probablement aluminium avec fourche potentiellement carbone ou alu, freins à disque et transmission Apex offre un compromis correct pour trajets urbains et gravel très léger, mais sans les capacités d'un gravel dédié (géométrie, dégagement pneus généreux). Les limites : documentation technique rare, réputation/fiabilité difficile à vérifier faute de retours utilisateurs nombreux, et incertitude sur les standards exacts (axes, montage frein, câblage) qui doivent être contrôlés physiquement. Pour un vélotaf quotidien toute l'année, l'ergonomie 'handy' et les disques sont un atout, mais vérifiez la présence de fixations garde-boue/porte-bagages et le dégagement réel avant d'y voir un vrai gravel. À l'achat d'occasion, négociez fermement compte tenu de la faible cote de la marque et exigez l'inspection du groupe Apex (usure chaîne/cassette) et des roulements.",
+        "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1 1x11, freins disque hydraulique. État visuel : Transmission mono-plateau SRAM Apex 1 en 11v montrant une usure modérée avec chaîne et cassette encrassées mais dents de cassette encore correctes. Pneus à sculpture légère type route/gravel présentant une usure normale, disques de frein sans marque profonde et cadre propre avec peu de rayures visibles. ⚠ À vérifier : Chaîne et cassette assez sales/oxydées en surface : vérifier l'usure réelle de la chaîne à la jauge. Le pédalier semble être un compact double (deux plateaux visibles sur photo 7) alors que le dérailleur arrière est un Apex 1 mono-plateau : incohérence à confirmer sur place. Numéro de série et facture 2024 (Bicitech, Catania) présents. (confiance 60%)",
+        "description_vendeur": "None",
         "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
           "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
           "Récent (2024)",
-          "Bien adapté à ton usage (65 % du besoin)"
+          "Bien adapté à ton usage (86 % du besoin)"
         ],
         "moins_velo": [],
         "plus_annonce": [
-          "Décote intéressante : ~−12 % vs cote (~1139 €)",
-          "Annonce très regardée (20 favoris)",
+          "Vendeur de confiance (badge buycycle)",
           "Protection acheteur buycycle (paiement libéré après réception)"
         ],
         "moins_annonce": [
-          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Au-dessus de la cote estimée (~780 €) — à négocier",
           "Marketplace EU : livraison, pas d'essai avant achat"
         ]
       },
       "specs": {
-        "groupset": "Shimano Tiagra",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "groupset": "SRAM Apex",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "blanc",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
       },
-      "vision_brute": null,
+      "vision_brute": {
+        "groupe": "SRAM Apex 1 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission mono-plateau SRAM Apex 1 en 11v montrant une usure modérée avec chaîne et cassette encrassées mais dents de cassette encore correctes. Pneus à sculpture légère type route/gravel présentant une usure normale, disques de frein sans marque profonde et cadre propre avec peu de rayures visibles.",
+        "points_attention": "Chaîne et cassette assez sales/oxydées en surface : vérifier l'usure réelle de la chaîne à la jauge. Le pédalier semble être un compact double (deux plateaux visibles sur photo 7) alors que le dérailleur arrière est un Apex 1 mono-plateau : incohérence à confirmer sur place. Numéro de série et facture 2024 (Bicitech, Catania) présents.",
+        "confiance": 0.6
+      },
       "historique_prix": [
         {
           "date": "2026-07-05",
-          "prix": 1000.0
+          "prix": 855.0
         }
       ],
       "marche_modele": {
@@ -15517,14 +15623,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -15880,14 +15986,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -16345,14 +16451,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -16814,14 +16920,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -17919,14 +18025,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -18007,14 +18113,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -18470,97 +18576,6 @@
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 1174 € ±147 € (18 ventes) · liquidité méd. 1 j"
-      }
-    },
-    {
-      "titre": "Olympia Handy Sram Apex 2024",
-      "url": "https://buycycle.com/product/handy-sram-apex6914415db18b3-50613",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 855.0,
-      "cout_reel": 1100,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 591,
-      "prix_max_calcul": "780€ (cote) × (0.62 + 0.28 × 79% fit) = 657€ − 10 % (infos manquantes)",
-      "cote": 780.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Olympia",
-      "modele": "Handy Sram Apex",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2261251/486f55ff-abe1-4b67-8e0a-ca1bb2c75164.webp",
-      "score": 6.9,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 5.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 4.2
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2024. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Olympia Handy Apex 2024 est un vélo urbain/trekking d'entrée à milieu de gamme du fabricant italien Olympia, positionné comme un vélo polyvalent city/fitness plutôt qu'un vrai gravel sportif. Le nom 'Handy' oriente vers un usage pratique quotidien, et le montage en SRAM Apex (groupe route/gravel 1x d'entrée de gamme SRAM) suggère une transmission simple mono-plateau adaptée au vélotaf et aux petits chemins. Olympia reste une marque peu diffusée hors d'Italie, ce qui complique l'accès aux pièces spécifiques et la revente, un point négatif concret en occasion. Sur le papier, un cadre probablement aluminium avec fourche potentiellement carbone ou alu, freins à disque et transmission Apex offre un compromis correct pour trajets urbains et gravel très léger, mais sans les capacités d'un gravel dédié (géométrie, dégagement pneus généreux). Les limites : documentation technique rare, réputation/fiabilité difficile à vérifier faute de retours utilisateurs nombreux, et incertitude sur les standards exacts (axes, montage frein, câblage) qui doivent être contrôlés physiquement. Pour un vélotaf quotidien toute l'année, l'ergonomie 'handy' et les disques sont un atout, mais vérifiez la présence de fixations garde-boue/porte-bagages et le dégagement réel avant d'y voir un vrai gravel. À l'achat d'occasion, négociez fermement compte tenu de la faible cote de la marque et exigez l'inspection du groupe Apex (usure chaîne/cassette) et des roulements.",
-        "vision": "",
-        "description_vendeur": "None",
-        "plus_velo": [
-          "Groupe bon (SRAM Apex)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~780 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 855.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
       }
     },
     {
@@ -20603,6 +20618,105 @@
         {
           "date": "2026-07-12",
           "prix": 800.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Lapierre Crosshill 3.0 2024",
+      "url": "https://buycycle.com/product/crosshill-3068fb993c411a0-81418",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1000.0,
+      "cout_reel": 1160,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 816,
+      "prix_max_calcul": "1139€ (cote) × (0.62 + 0.28 × 63% fit) = 907€ − 10 % (infos manquantes)",
+      "cote": 1139.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": "fiche annonce « Shimano Tiagra » mais la photo semble montrer « Shimano Sora 2x9 »",
+      "alerte": null,
+      "marque": "Lapierre",
+      "modele": "Crosshill 3.0",
+      "taille": "M",
+      "annee": 2024,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2231444/b432120b-8b60-40f4-95e9-dad44c6653ae.webp",
+      "score": 6.7,
+      "fit_pct": 63,
+      "axes": {
+        "technique": 5.8,
+        "financier": 7.7,
+        "usage": 6.5,
+        "plaisir": 5.0,
+        "valeur": 6.0
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~816€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano Tiagra mécanique, freins à disque, taille M, 2024, orange. Shimano Tiagra : route 10 v solide, milieu de gamme honnête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Lapierre Crosshill 3.0 2024 se positionne en entrée/milieu de gamme dans la famille des vélos polyvalents 'fitness/gravel léger' de Lapierre, plutôt orienté trekking sportif et vélotaf qu'authentique gravel de compétition. Il repose sur un cadre aluminium avec fourche généralement carbone ou alu selon versions, un géométrie confortable et redressée, et surtout un cintre plat (flat bar) plutôt qu'un cintre route, ce qui le distingue nettement d'un gravel classique et le rapproche du VTC/urbain sportif. Le groupe Shimano Tiagra (10 vitesses) est fiable et facile à entretenir, mais c'est un groupe route dérivé, correct sans être haut de gamme, avec des freins à disque hydrauliques sur cette finition qui sont un vrai atout pour le quotidien. Points forts : polyvalence, confort de position, freinage, robustesse et coût d'entretien raisonnable ; limites : poids élevé, pneus et dégagement limités pour du vrai gravel technique, et positionnement flat bar peu adapté aux longues sorties route rapides. Pour le vélotaf toute l'année il est pertinent (garde-boue/porte-bagages souvent montables, position confortable, freinage disque), à condition de vérifier les fixations et de monter des pneus adaptés. Pour le gravel il reste léger/occasionnel : chemins roulants oui, terrain engagé non. La réputation Lapierre sur ces gammes est correcte en fiabilité, sans problème structurel notable, mais vérifiez l'usure transmission/freins et l'état du cadre alu sur un achat d'occasion.",
+        "vision": "Cadre aluminium, fourche carbone, groupe shimano sora 2x9, freins disque mécanique, fixations garde-boue/rack. État visuel : Vélo apparemment neuf ou très peu utilisé : transmission propre sans usure sur le plateau ni la chaîne, pneus à crampons neufs avec sculpture intacte. Aucune rayure, impact ni corrosion visible, l'ensemble est très propre et l'étiquette d'origine est encore accrochée au cadre. ⚠ À vérifier : Freins à disque mécaniques (câble visible, pas de durite hydraulique) sur ce qui est annoncé comme un Crosshill 3.0 ; vérifier la cohérence avec le titre et le modèle réel. Manettes/dérailleurs de niveau Sora à confirmer de près, la couronne semble mono-plateau à l'arrière-plan mais un pédalier double est visible. (confiance 55%)",
+        "description_vendeur": "La Lapierre Crosshill 5.0 es una gravel equilibrada y versátil, adecuada para todo tipo de ciclistas, apreciada por su excelente relación calidad-precio. Entre sus puntos fuertes se encuentran el preciso grupo Shimano, los frenos eficientes, la cómoda geometría y la predisposición para cicloturismo y bikepacking gracias a los numerosos soportes para accesorios como portabultos y guardabarros. El c",
+        "plus_velo": [
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2024)",
+          "Bien adapté à ton usage (63 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−12 % vs cote (~1139 €)",
+          "Annonce très regardée (20 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano Tiagra",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "orange",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano Sora 2x9",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Vélo apparemment neuf ou très peu utilisé : transmission propre sans usure sur le plateau ni la chaîne, pneus à crampons neufs avec sculpture intacte. Aucune rayure, impact ni corrosion visible, l'ensemble est très propre et l'étiquette d'origine est encore accrochée au cadre.",
+        "points_attention": "Freins à disque mécaniques (câble visible, pas de durite hydraulique) sur ce qui est annoncé comme un Crosshill 3.0 ; vérifier la cohérence avec le titre et le modèle réel. Manettes/dérailleurs de niveau Sora à confirmer de près, la couronne semble mono-plateau à l'arrière-plan mais un pédalier double est visible.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1000.0
         }
       ],
       "marche_modele": {
@@ -22962,14 +23076,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -23342,14 +23456,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -24258,96 +24372,6 @@
       }
     },
     {
-      "titre": "Cannondale Fatty Gravel 2024",
-      "url": "https://buycycle.com/product/default66fc6cc3b1a61-74151",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 939.0,
-      "cout_reel": 1099,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1183,
-      "prix_max_calcul": "1800€ (cote) × (0.62 + 0.28 × 39% fit) = 1314€ − 10 % (infos manquantes)",
-      "cote": 1800.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Cannondale",
-      "modele": "Fatty Gravel",
-      "taille": "M",
-      "annee": 2024,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/1063158/6f824ff5-77b6-4b3c-ba1e-a91a81adec59.webp",
-      "score": 5.9,
-      "fit_pct": 39,
-      "axes": {
-        "technique": 5.0,
-        "financier": 10.0,
-        "usage": 3.5,
-        "plaisir": 7.0,
-        "valeur": 8.8
-      },
-      "verdict": "Peu adapté à ton usage (~39% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Other SRAM, taille M, 2024. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le 'Cannondale Fatty Gravel 2024' n'existe pas comme modèle référencé au catalogue Cannondale : le nom 'Fatty' renvoie historiquement à l'ancienne fourche télescopique Headshok/Lefty 'Fatty' des années 1990-2000, et non à une gamme gravel actuelle. La gamme gravel Cannondale 2024 s'articule autour du Topstone (alu et carbone, avec l'amortisseur arrière Kingpin sur les versions carbone) et du Topstone Lefty, plus le SuperSix EVO CX/gravel racing ; aucune référence 'Fatty Gravel' n'y figure. Il est donc probable qu'il s'agisse d'une dénomination erronée, d'une annonce d'occasion mal libellée, ou d'un vélo repeint/rebadgé, ce qui doit inciter à une prudence maximale avant achat. L'indication 'Other SRAM' est trop vague pour trancher entre un groupe mécanique bas de gamme (Apex) et un groupe électronique (Rival/Force AXS), ce qui change radicalement la valeur. Sans confirmation du cadre, du numéro de série et de correspondance avec un modèle réel du catalogue, impossible de juger fiabilité, dégagement pneu ou aptitude au vélotaf toute l'année et gravel léger. Recommandation ferme : exiger photos détaillées, numéro de série vérifiable auprès de Cannondale, et identification précise du modèle réel (Topstone probable) avant toute transaction.",
-        "vision": "",
-        "description_vendeur": "<p>Cannondale mod. Fatty, reformada este año con conversión a gravel con manillar en \"H\", ideal para bikepacking y ruedas (nuevas) de 27,5\" (WTB). Ideal para ir al trabajo o como bicicleta de gravilla, pero también para viajes y cicloturismo. La pintura debe revisarse, ya que tiene varios arañazos debidos al uso.</p>",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2024)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (39 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Décote intéressante : ~−48 % vs cote (~1800 €)",
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Other SRAM",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 939.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Trek Series 3 2024",
       "url": "https://buycycle.com/product/series-3698c5a5e35c85-14131",
       "source": "buycycle",
@@ -24864,14 +24888,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -25983,14 +26007,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26071,14 +26095,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26511,14 +26535,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26778,14 +26802,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26865,14 +26889,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -26952,14 +26976,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -28287,14 +28311,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -28464,14 +28488,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -28551,14 +28575,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30073,14 +30097,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30161,14 +30185,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30251,14 +30275,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30516,14 +30540,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -30604,14 +30628,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -31141,14 +31165,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -31590,18 +31614,18 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
-      "titre": "Canyon Inflate AL SLX",
+      "titre": "Velo gravel Canyon Inflate AL SLX",
       "url": "https://www.leboncoin.fr/ad/velos/3234983572",
       "source": "leboncoin",
       "categorie": "gravel",
@@ -31679,14 +31703,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -32144,8 +32168,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 534,
-      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 31% fit) = 593€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 593,
+      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 31% fit) = 593€",
       "cote": 840.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -32166,12 +32190,9 @@
         "valeur": 4.5
       },
       "verdict": "Peu adapté à ton usage (~31% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
+      "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe Shimano Claris, taille M, 2025. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Shimano Claris mécanique, freins à disque, taille M, 2025, noir. Groupe d'entrée de gamme (Claris/Tourney) : à éviter si tu roules beaucoup. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "Frame\nGravel 700 Starlight disc\nFork\nStarlight 570 L260 700C Aluminum Disc Post mount 1-1/8 – 1-1/8 x30\nHeadset\nFeimin FP-H821PL semi-integrated ahead – 28.6 x 41.4 x 44 x 30 H:25\nRear derailleur\nShimano Claris R2000 8s\nShifters\nShimano Claris SL-R2000 8s\nFront derailleur\nShimano Claris FD-R2000-F 2x8s\nBrakes\nClarks CMD-22FM mechanical disc\nCrankset\nProwheel RPL-421 aluminum – 165mm – 32/48T – 8/9",
@@ -32194,11 +32215,11 @@
       },
       "specs": {
         "groupset": "Shimano Claris",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "noir",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -32926,14 +32947,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -33015,14 +33036,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -33729,14 +33750,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -33818,14 +33839,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -33898,14 +33919,14 @@
       "vision_brute": null,
       "historique_prix": [],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34163,14 +34184,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34252,14 +34273,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34341,14 +34362,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34430,14 +34451,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34520,14 +34541,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34609,14 +34630,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34698,14 +34719,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -34787,14 +34808,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -35865,14 +35886,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": 849.0,
-        "ecart_type": 281.0,
-        "n_ventes": 31,
-        "prix_demande_median": 540.0,
-        "n_en_vente": 9,
+        "cote_reelle": 824.0,
+        "ecart_type": 292.0,
+        "n_ventes": 32,
+        "prix_demande_median": 620.0,
+        "n_en_vente": 8,
         "liquidite_jours": 2.0,
         "base": "ventes",
-        "resume": "cote réelle 849 € ±281 € (31 ventes) · liquidité méd. 2 j"
+        "resume": "cote réelle 824 € ±292 € (32 ventes) · liquidité méd. 2 j"
       }
     },
     {
@@ -42893,5 +42914,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T18:58:32+00:00"
+  "genere_le": "2026-07-18T19:29:31+00:00"
 }
