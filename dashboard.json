@@ -1505,7 +1505,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~989€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2025, light gray. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Apex, taille M, 2025. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo JAKAR 20 2025 se positionne dans le milieu de gamme de la série gravel JAKAR de la marque espagnole Megamo, au-dessus des versions d'entrée équipées en groupes plus basiques et sous les déclinaisons carbone ou électroniques plus onéreuses. Il combine un cadre en aluminium (souvent hydroformé) avec une fourche en carbone, ce qui filtre partiellement les vibrations tout en gardant un coût contenu, et adopte des standards actuels (freins à disque hydrauliques, passages de gaines internes, axes traversants probables). Le groupe SRAM Apex, en mono-plateau 1x11 ou 1x12 selon la version, offre une transmission simple, robuste et adaptée au gravel avec une bonne plage de développements, mais reste un cran en dessous des Rival/Force en finition et en poids. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie plutôt endurance qui convient aussi au vélotaf grâce à des points de fixation (garde-boue, porte-bagages selon modèle). Points forts : rapport équipement/prix correct, fourche carbone, freinage fiable, montage cohérent pour débuter le gravel ; limites : poids typique d'un alu de cette gamme, périphériques (roues, cintre) d'entrée souvent lourds et à remplacer pour progresser. Megamo est une marque à diffusion surtout ibérique, avec un réseau et une revente limités hors Espagne, ce qui pèse sur la valeur d'occasion et le suivi SAV. Pour un vélotaf quotidien toute l'année, il est adapté si l'exemplaire accepte garde-boue et pneus larges, mais vérifiez l'usure de la transmission SRAM Apex et l'état des roulements/roues avant achat.",
         "vision": "Cadre aluminium, fourche carbone, groupe sram apex 1 12v (1x12), freins disque hydraulique, pneus 45 mm, fixations garde-boue/rack. État visuel : Transmission quasi neuve : plateau SRAM Apex 40T aux dents intactes, chaîne propre avec maillon rapide coloré, cassette sans usure. Pneus Ritchey (700x45C) à crampons neufs, disques et plaquettes sans marque d'usure, vélo globalement à l'état neuf de magasin. ⚠ À vérifier : Vélo neuf en boutique (étiquettes prix encore présentes). Vérifier compatibilité mono-plateau 1x12 avec l'usage souhaité ; œillets présents sur fourreaux de fourche et haubans pour garde-boue/porte-bagage. (confiance 86%)",
         "description_vendeur": "BICICLETA COMPLETAMENTE REVISADA\nPRESENTA DEFECTOS ESTÉTICOS (ARAÑAZOS)\nBIELAS 172.5",
@@ -1528,11 +1528,11 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "light gray",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -39671,12 +39671,10 @@
       },
       "verdict": "Peu adapté à ton usage (~17% du besoin) — IGNORER.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe Microshift, taille M, 2023. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre aluminium, groupe Microshift mécanique, freins à disque, taille M, 2023, light gray. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Modèle peu documenté ici. À en juger par l'équipement, un vrai gravel pour ton usage vélotaf + chemins.",
         "vision": "",
         "description_vendeur": "nuova",
@@ -39697,11 +39695,11 @@
       },
       "specs": {
         "groupset": "Microshift",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "light gray",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -42626,5 +42624,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T14:57:36+00:00"
+  "genere_le": "2026-07-18T15:27:39+00:00"
 }
