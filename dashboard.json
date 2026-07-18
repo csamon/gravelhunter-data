@@ -1,5 +1,5 @@
 {
-  "total": 455,
+  "total": 456,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -18380,6 +18380,96 @@
       }
     },
     {
+      "titre": "Gravel KTM neuf : taille S",
+      "url": "https://www.leboncoin.fr/ad/velos/3234756634",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1250.0,
+      "cout_reel": 1435,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 636,
+      "prix_max_calcul": "800€ (cote) × (0.62 + 0.28 × 94% fit) = 707€ − 10 % (infos manquantes)",
+      "cote": 800.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Revolt",
+      "taille": "M",
+      "annee": null,
+      "distance_km": 94.3,
+      "image": null,
+      "score": 6.9,
+      "fit_pct": 94,
+      "axes": {
+        "technique": 8.0,
+        "financier": 2.0,
+        "usage": 10.0,
+        "plaisir": 9.0,
+        "valeur": 0.5
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : 'leboncoin Revolt' n'est pas une marque/modèle cohérent. Leboncoin est une plateforme de petites annonces française, pas un fabricant de vélos ; 'Revolt' désigne en réalité la gamme gravel de Giant (Giant Revolt), probablement vue en annonce sur Leboncoin. Sans le millésime ni le niveau exact (Revolt Advanced en carbone vs Revolt en aluminium ALUXX SL, groupe Shimano GRX ou Sora/Tiagra), il est impossible de situer précisément le modèle dans la gamme ou d'évaluer sa valeur. La gamme Giant Revolt est globalement un gravel polyvalent bien réputé, avec géométrie endurance, tige de selle D-Fuse pour l'amorti et bons dégagements pneus, adapté au gravel léger comme au vélotaf. Sans détails, on ne peut ni confirmer le matériau, ni le poids, ni le groupe, ni l'état d'usure (transmission, roulements, fissures cadre carbone), points critiques en occasion. Pour un achat sérieux, exigez le modèle exact (ex. 'Giant Revolt Advanced 2 2021'), le groupe, la taille et des photos détaillées avant toute décision.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe bon (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (94 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-07-18",
+          "prix": 1250.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Specialized CruX Sport E5 2018 2018",
       "url": "https://buycycle.com/product/crux-sport-e5-2018-61349",
       "source": "buycycle",
@@ -23880,7 +23970,7 @@
         "ecart_type": null,
         "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -41820,5 +41910,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T04:55:57+00:00"
+  "genere_le": "2026-07-18T05:26:24+00:00"
 }
