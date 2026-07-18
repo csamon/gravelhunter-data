@@ -1848,6 +1848,106 @@
       }
     },
     {
+      "titre": "Cannondale TOPSTONE 2 VIOLETA 2022",
+      "url": "https://buycycle.com/product/topstone-2-violeta69afe0b20989c-36162",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "NÉGOCIER",
+      "prix": 1299.0,
+      "cout_reel": 1459,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1114,
+      "prix_max_calcul": "1439€ (cote) × (0.62 + 0.28 × 86% fit) = 1238€ − 10 % (infos manquantes)",
+      "cote": 1439.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Cannondale",
+      "modele": "TOPSTONE 2 VIOLETA",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2428071/b8492249-8cf6-4726-b7b3-239f6d12b155.webp",
+      "score": 9.6,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 7.4,
+        "usage": 9.0,
+        "plaisir": 7.0,
+        "valeur": 5.8
+      },
+      "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1114€) — NÉGOCIER.",
+      "infos_manquantes": [
+        "pneus"
+      ],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, noir. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Topstone 2 de 2022 se situe en milieu de gamme aluminium de la série Topstone, au-dessus du Topstone 1 (moins équipé) et sous les versions carbone bien plus chères ; c'est le modèle alu le mieux équipé avec un groupe Shimano GRX. Le cadre est en aluminium SmartForm C2 avec fourche carbone, et surtout il intègre le système de suspension passive Kingpin à l'arrière (offrant environ 30 mm de flex/débattement) qui améliore le confort sur les longues sorties gravel. La géométrie est orientée endurance/aventure (position relativement relevée, empattement long, stabilité) plutôt que course. Points forts : polyvalence, confort du Kingpin, transmission GRX fiable, freins à disque hydrauliques, nombreux inserts (porte-bagages, garde-boue, montage de bidons/accessoires) qui le rendent excellent pour le vélotaf toute l'année et le bikepacking léger. Limites : poids conséquent typique de l'alu bien équipé, roues et pneus d'origine corrects mais rarement premium, et le Kingpin ne remplace pas une vraie suspension sur terrain très cassant. Fiabilité globalement bonne, le GRX étant réputé robuste ; surveiller à l'occasion l'usure de la roue libre et l'état du pivot Kingpin. Pour un usage vélotaf quotidien plus gravel léger, c'est un choix cohérent et durable, à condition d'ajouter garde-boue et éclairage.",
+        "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 2x, freins disque hydraulique, fixations garde-boue/rack. État visuel : Transmission propre avec chaîne peu marquée et plateaux/cassette en bon état, pneus crantés à sculpture bien présente et disques sans usure notable. Cadre globalement propre avec belle peinture caméléon, mais présence de plaquettes de frein huileuses/salies à l'avant. ⚠ À vérifier : Traces/marques suspectes sur le tube diagonal près de la douille de direction (photo 4) à vérifier (impact ou simple reflet). Levier GRX droit et étrier avant présentent des traces de graisse/huile — contrôler contamination des plaquettes. (confiance 60%)",
+        "description_vendeur": "Size M, Aluminum frame, Carbon fork, Shimano GRX 400 10-speed groupset, Shimano GRX crankset, 46/30 chainrings, 700c Mavic Allroad aluminum wheels, Aluminum seatpost, Fabric saddle, Cannondale handlebar and stem, Bike in very good condition, Purchase invoice and warranty, Financing option, Any questions?",
+        "plus_velo": [
+          "Groupe référence (Shimano GRX)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−10 % vs cote (~1439 €)",
+          "Annonce très regardée (26 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Vendeur professionnel (marge possible, moins de négociation)",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "Shimano GRX",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "noir",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": {
+        "groupe": "Shimano GRX 2x",
+        "freins": "disque hydraulique",
+        "fourche": "aluminium",
+        "cadre": "aluminium",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Transmission propre avec chaîne peu marquée et plateaux/cassette en bon état, pneus crantés à sculpture bien présente et disques sans usure notable. Cadre globalement propre avec belle peinture caméléon, mais présence de plaquettes de frein huileuses/salies à l'avant.",
+        "points_attention": "Traces/marques suspectes sur le tube diagonal près de la douille de direction (photo 4) à vérifier (impact ou simple reflet). Levier GRX droit et étrier avant présentent des traces de graisse/huile — contrôler contamination des plaquettes.",
+        "confiance": 0.6
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 1299.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Canyon Grizl 7 2022 2022",
       "url": "https://buycycle.com/product/grizl-7-2022-24337",
       "source": "buycycle",
@@ -10967,98 +11067,6 @@
         "points_attention": "Vérifier l'usure de la chaîne (jauge) car présence de crasse; contrôler le disque avant qui présente un léger marquage/traces. Selle Specialized Power et selle Microtech montrées sur deux photos (incohérence possible entre annonces).",
         "confiance": 0.82
       },
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1299.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "Cannondale TOPSTONE 2 VIOLETA 2022",
-      "url": "https://buycycle.com/product/topstone-2-violeta69afe0b20989c-36162",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1299.0,
-      "cout_reel": 1544,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1114,
-      "prix_max_calcul": "1439€ (cote) × (0.62 + 0.28 × 86% fit) = 1238€ − 10 % (infos manquantes)",
-      "cote": 1439.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Cannondale",
-      "modele": "TOPSTONE 2 VIOLETA",
-      "taille": "M",
-      "annee": 2022,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2428071/b8492249-8cf6-4726-b7b3-239f6d12b155.webp",
-      "score": 7.0,
-      "fit_pct": 86,
-      "axes": {
-        "technique": 8.8,
-        "financier": 7.4,
-        "usage": 9.0,
-        "plaisir": 7.0,
-        "valeur": 5.8
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Topstone 2 de 2022 se situe en milieu de gamme aluminium de la série Topstone, au-dessus du Topstone 1 (moins équipé) et sous les versions carbone bien plus chères ; c'est le modèle alu le mieux équipé avec un groupe Shimano GRX. Le cadre est en aluminium SmartForm C2 avec fourche carbone, et surtout il intègre le système de suspension passive Kingpin à l'arrière (offrant environ 30 mm de flex/débattement) qui améliore le confort sur les longues sorties gravel. La géométrie est orientée endurance/aventure (position relativement relevée, empattement long, stabilité) plutôt que course. Points forts : polyvalence, confort du Kingpin, transmission GRX fiable, freins à disque hydrauliques, nombreux inserts (porte-bagages, garde-boue, montage de bidons/accessoires) qui le rendent excellent pour le vélotaf toute l'année et le bikepacking léger. Limites : poids conséquent typique de l'alu bien équipé, roues et pneus d'origine corrects mais rarement premium, et le Kingpin ne remplace pas une vraie suspension sur terrain très cassant. Fiabilité globalement bonne, le GRX étant réputé robuste ; surveiller à l'occasion l'usure de la roue libre et l'état du pivot Kingpin. Pour un usage vélotaf quotidien plus gravel léger, c'est un choix cohérent et durable, à condition d'ajouter garde-boue et éclairage.",
-        "vision": "",
-        "description_vendeur": "Size M, Aluminum frame, Carbon fork, Shimano GRX 400 10-speed groupset, Shimano GRX crankset, 46/30 chainrings, 700c Mavic Allroad aluminum wheels, Aluminum seatpost, Fabric saddle, Cannondale handlebar and stem, Bike in very good condition, Purchase invoice and warranty, Financing option, Any questions?",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (86 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−10 % vs cote (~1439 €)",
-          "Annonce très regardée (26 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Vendeur professionnel (marge possible, moins de négociation)",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
       "historique_prix": [
         {
           "date": "2026-07-05",
@@ -22828,7 +22836,7 @@
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe SRAM Rival mécanique, freins à disque, taille M, 2017, bleu. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe SRAM Rival, taille M, 2017. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant TCX SLR 2 (ou déclinaison SRAM Rival) de 2017 est un vélo de cyclocross positionné en milieu de gamme dans la lignée TCX de Giant, sous les versions haut de gamme en carbone (TCX Advanced). Il combine un cadre aluminium ALUXX SL hydroformé avec une fourche carbone Advanced, ce qui allège l'avant et filtre un peu les vibrations. La géométrie est typée cyclocross (boîtier de pédalier plus haut, angles orientés maniabilité), donc plus nerveuse et moins confortable sur longues distances qu'un vrai gravel moderne. Le groupe SRAM Rival 1x ou 2x offre un freinage à disque (souvent mécanique BB5/BB7 sur cette gamme, moins performant que l'hydraulique) fiable mais basique. Points forts : robustesse du cadre alu, fourche carbone, polyvalence CX/chemins, entretien facile ; limites : dégagement pneu limité par l'orientation cyclocross (typiquement ~700x33-38c homologué UCI), passages de câbles et freins mécaniques datés, confort perfectible. Pour le vélotaf quotidien toute l'année il est solide et fiable mais l'absence d'œillets généreux pour porte-bagages/garde-boue complets peut poser problème selon la finition exacte. En gravel léger il fonctionne bien sur pistes roulantes, moins à l'aise sur du gravel technique ou du bikepacking chargé.",
         "vision": "Cadre carbone, fourche carbone, groupe sram rival 1x11 (mono-plateau), pédalier fsa gossamer 40t, freins disque mécanique, pneus 33 mm. État visuel : Transmission bien marquée : chaîne et cassette sombres/encrassées, plateau FSA 40T avec dents encore correctes ; pneus Schwalbe/Giant CrossCut avec sculpture présente mais salis par la boue. Disque de frein Tektro portant des traces d'usure et étrier mécanique (câble visible, pas de durite), cadre carbone globalement propre avec petites traces d'usure sous le tube diagonal. ⚠ À vérifier : Configuration modifiée par rapport au modèle d'origine (mono-plateau SRAM Rival 1 + pédalier FSA Gossamer, roues Fulcrum, pédales plates, freins Tektro mécaniques au lieu de disque hydraulique) ; vérifier l'usure de la chaîne/cassette (encrassement) et l'état des plaquettes/disque Tektro. Contrôler d'éventuelles rayures sur le tube diagonal. (confiance 75%)",
         "description_vendeur": "- ligeros arañazos debido a la bolsa de bicicleta\n- buen estado general\n- sería necesaria una revisión\n- incluyo cinta de manillar nueva",
@@ -22848,11 +22856,11 @@
       },
       "specs": {
         "groupset": "SRAM Rival",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "bleu",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 38
@@ -41910,5 +41918,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-18T08:57:01+00:00"
+  "genere_le": "2026-07-18T09:28:03+00:00"
 }
