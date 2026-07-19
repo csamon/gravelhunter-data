@@ -5157,7 +5157,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~971€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Grizl 7 1by 2023 se positionne en entrée/milieu de gamme dans la série Grizl, au-dessus des versions de base mais sous les modèles carbone (CF) et les finitions supérieures (Grizl 8/9 avec GRX 800). Il repose sur un cadre aluminium associé à une fourche carbone, une combinaison typique pour maîtriser le coût tout en conservant un train avant plus léger et filtrant. La transmission GRX en configuration 1x (mono-plateau) simplifie l'entretien et réduit le risque de déraillement en tout-terrain, mais limite l'étagement et les grands développements sur route rapide ou longues descentes roulantes. Le Grizl est conçu comme un gravel réellement orienté aventure/bikepacking, avec géométrie endurante, nombreux inserts (fourche, cadre) et dégagements pneus généreux, ce qui le rend polyvalent pour le gravel léger comme pour le vélotaf. En usage quotidien toute l'année, le cadre alu tolère bien les agressions, les freins à disque hydrauliques GRX sont fiables et puissants par tous temps, et le passage de garde-boue est prévu, ce qui est un vrai atout. Les limites concrètes : poids plus élevé qu'un cadre carbone, absence de plateau supplémentaire pénalisante pour les trajets rapides, et sur l'occasion il faut vérifier l'usure de la transmission mono (chaîne/plateau/cassette) souvent plus sollicitée. Réputation globalement solide sur la fiabilité mécanique, avec les réserves habituelles Canyon sur le SAV et le montage vente directe (roulements de direction, serrage tige de selle à contrôler).",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 1x11 (rx810/rx812 dérailleur arrière chape longue), freins disque hydraulique, pneus 40 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission propre et peu usée (dents de plateau et cassette en bon état, chaîne saine), pneus Schwalbe G-One Bite avec crampons bien présents. Aucune corrosion, cadre et fourche très propres, disques et plaquettes en bon état, l'ensemble semble récent et peu roulé. ⚠ À vérifier : Vérifier tubeless monté (valves violettes présentes mais jantes marquées 'TUBE TYPE / TUBELESS'), et contrôler l'absence d'impact sur le tube diagonal en carbone/alu (transition matériaux visible). Confirmer que le dérailleur avant est bien absent (config 1x). (confiance 82%)",
         "description_vendeur": "Ruedas convertidas a tubeless, neumáticos a sustituir en breve. Cinta de manillar nueva, cuadro y cambio en excelentes condiciones. Incluye parches antiarañazos para proteger la pintura. Revisada al inicio de la temporada en un taller local. Presenta algunos rasguños leves en los frenos y en las bielas (ver fotografías).",
@@ -5179,11 +5179,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": 10.5,
         "degagement_mm": 50
@@ -17157,7 +17157,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~652€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, orange. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Megamo JAKAR 30 2023 se positionne dans le milieu de gamme gravel du fabricant espagnol Megamo, une marque relativement confidentielle hors du marché ibérique. Le cadre est en aluminium (l'alu étant la norme sur les JAKAR d'entrée/milieu de gamme, la fibre étant réservée aux versions supérieures ou à d'autres familles), avec une fourche carbone probable pour filtrer une partie des vibrations, dans une géométrie gravel polyvalente relativement confortable plutôt que radicalement sportive. Le groupe Shimano GRX (probablement 1x11 ou 2x, à vérifier précisément sur l'exemplaire) est un choix pertinent et fiable, spécifiquement conçu pour le gravel avec des freins à disque hydrauliques et un bon étagement. Ses points forts sont le rapport qualité/prix, la robustesse de l'alu et la fiabilité éprouvée du GRX ; ses limites tiennent au poids supérieur d'un cadre alu, à une revente compliquée par la faible notoriété de la marque, et à une disponibilité SAV/pièces cadre plus délicate hors Espagne. La réputation de Megamo reste correcte sur la qualité de fabrication mais sans historique de fiabilité aussi documenté que les grandes marques. Pour le vélotaf quotidien toute l'année il est adapté (disques, dégagements pour pneus larges, œillets probables pour garde-boue/porte-bagages), et il excelle en gravel léger à modéré, mais vérifiez impérativement la présence des points de fixation et l'état de la transmission sur l'occasion. En l'absence d'infos précises confirmées sur les composants exacts de ce millésime, exigez les photos détaillées et le numéro de série avant achat.",
         "vision": "Cadre aluminium, fourche aluminium, groupe shimano grx 1x, freins disque hydraulique, pneus 40 mm, fixations garde-boue/rack. État visuel : Le vélo paraît très peu utilisé (compteur affichant environ 194 km au total), transmission propre et pneus à crampons quasi neufs avec très peu d'usure. Aucune rayure, impact ou corrosion notable visible, ensemble globalement propre. ⚠ À vérifier : Manettes GRX visibles mais série précise (RX600/RX400) non lisible sur les photos ; monoplateau à l'avant, vérifier l'étagement de la cassette et l'état exact du plateau/chaîne de près. Pneu WTB Riddler 700x40 lisible sur le flanc, mention tubeless non vérifiable. (confiance 55%)",
         "description_vendeur": "solo 200 km de uso",
@@ -17178,11 +17178,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "orange",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -43192,5 +43192,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-19T19:38:32+00:00"
+  "genere_le": "2026-07-19T20:08:16+00:00"
 }
