@@ -1320,7 +1320,7 @@
       "verdict": "Bon vélo mais au-dessus de ta valeur cible (~1025€) — NÉGOCIER.",
       "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano GRX mécanique, freins à disque, taille M, 2022, bleu. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2022. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Merida SILEX 400 2022 se positionne en milieu de gamme accessible dans la série SILEX, au-dessus des SILEX 200/300 équipés en Shimano mécanique 2x et sous les versions supérieures (SILEX 700/7000) à cadre plus léger et groupes GRX plus haut de gamme. Il combine un cadre aluminium triple butted (Silex Lite Alloy) avec une fourche carbone à insert alu, une géométrie typée endurance/gravel avec cockpit haut et empattement long pour la stabilité, inspirée du VTT pour le confort sur longues distances. Le groupe Shimano GRX (généralement RX400/RX600 en 2x10 sur le 400) est fiable, robuste et bien adapté au tout-terrain léger comme aux sorties route. Points forts : rapport qualité/prix, confort de position, capacité d'emport (nombreux inserts pour porte-bagages/garde-boue/bidons) qui le rend excellent pour le vélotaf toute l'année et le bikepacking. Limites : poids élevé du cadre alu, dégagement pneu correct mais pas énorme comparé à des gravels plus récents, et une position parfois jugée trop haute pour les amateurs de gravel rapide. Réputation solide et fiabilité éprouvée, c'est un choix pragmatique et polyvalent pour l'usage quotidien plus gravel modéré.",
         "vision": "Cadre aluminium, fourche carbone, groupe shimano grx 2x10 (rx600, plateau 46-30), freins disque hydraulique, pneus 38 mm, tubeless, fixations garde-boue/rack. État visuel : Transmission fonctionnelle mais sale avec chaîne oxydée/graisse noircie et dents de plateaux encore correctes ; pneus crantés à sculpture bien présente, disques et plaquettes présentant une usure normale sans voile visible. Cadre bleu mat globalement propre avec quelques marques d'usage mineures et poussière. ⚠ À vérifier : Chaîne encrassée/légère corrosion de surface à vérifier (jauge d'usure recommandée) ; guidon plat monté à la place d'un cintre route sur la photo d'ensemble alors que la vue de face montre un cintre courbé — cohérence des photos à confirmer. (confiance 82%)",
         "description_vendeur": "Al principio se utilizó como Jobrad, pero pronto fue sustituida por una bicicleta de carretera, por lo que apenas se ha utilizado en los últimos 3 años. En consecuencia, el cuadro y todos los componentes están en muy buen estado.",
@@ -1342,11 +1342,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "bleu",
+        "color": null,
         "condition": null,
         "poids_kg": 10.8,
         "degagement_mm": 42
@@ -43089,5 +43089,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-19T09:37:32+00:00"
+  "genere_le": "2026-07-19T10:07:26+00:00"
 }
