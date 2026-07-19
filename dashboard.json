@@ -7933,8 +7933,8 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 1260,
-      "prix_max_calcul": "1860€ (cote) × (0.62 + 0.28 × 69% fit) = 1510€, plafonné à ton budget 1400€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 1400.0,
+      "prix_max_calcul": "1860€ (cote) × (0.62 + 0.28 × 69% fit) = 1513€, plafonné à ton budget 1400€",
       "cote": 1860.0,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -7948,24 +7948,22 @@
       "score": 7.5,
       "fit_pct": 69,
       "axes": {
-        "technique": 6.5,
+        "technique": 8.8,
         "financier": 10.0,
         "usage": 7.0,
         "plaisir": 8.5,
         "valeur": 8.3
       },
       "verdict": "Cyclocross, pas un gravel — à considérer seulement si prix exceptionnel.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
+      "infos_manquantes": [],
       "dossier": {
-        "compte_rendu": "Groupe SRAM Rival, taille M, 2020. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe SRAM Rival mécanique, freins à disque, taille M, 2020, bleu. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant TCX Advanced Pro 2 2020 est un vélo de cyclocross de compétition haut de gamme dans la gamme Giant, positionné juste sous le TCX Advanced Pro 1 (qui reçoit des roues carbone et un groupe supérieur) et au-dessus des versions Advanced/aluminium contra. Son cadre en carbone Advanced-Grade Composite avec bases et haubans travaillés pour l'amorti, douille de direction OverDrive 2 et boîtier de pédalier Press-Fit, est conçu prioritairement pour le cyclocross (géométrie racée, boîtier relevé, dégagement boue) plutôt que pour le gravel long. Le groupe SRAM Rival 1 (mono-plateau, transmission 1x) est fiable et simple mais offre une plage de vitesses limitée et un étagement moins fin qu'un 2x, ce qui pénalise sur route ou longues distances roulantes. Points forts : cadre rigide et réactif, freins à disque hydrauliques, axes traversants 12 mm, montage tubeless-ready sur roues Giant CXR ; limites : géométrie agressive peu confortable au quotidien, passage de câbles et entretien du Press-Fit parfois capricieux, absence d'œillets porte-bagages/garde-boue complets sur ce millésime orienté course. Réputation globalement solide côté cadre et fiabilité mécanique, le Rival 1 vieillissant bien. Pour le vélotaf quotidien toute l'année il est jouable mais pas idéal (position tendue, protection limitée, mono-plateau court) ; en gravel léger et rapide il est plus pertinent, à condition d'accepter une géométrie typée cross et un dégagement pensé pour le boueux plus que pour de gros pneus gravel.",
-        "vision": "",
+        "vision": "Cadre carbone, fourche carbone, groupe sram rival 1x11, freins disque hydraulique. État visuel : Transmission propre avec chaîne et cassette légèrement grisées mais peu usées, monoplateau SRAM Rival aux dents saines. Pneus cyclocross Hutchinson Toro à crampons bien marqués, disques et étriers en bon état, cadre carbone brillant avec quelques micro-rayures d'usage. ⚠ À vérifier : Vérifier l'usure de la chaîne à la jauge et l'état des disques/plaquettes au toucher ; contrôler le monoplateau (dents) pour saut de chaîne. Absence apparente d'œillets porte-bagage. (confiance 82%)",
         "description_vendeur": "Bike serviced and cleaned after every ride, in very good condition, a few small superficial scratches.",
         "plus_velo": [
           "Groupe bon (SRAM Rival)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
           "Bien adapté à ton usage (69 % du besoin)"
         ],
         "moins_velo": [
@@ -7982,16 +7980,27 @@
       },
       "specs": {
         "groupset": "SRAM Rival",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "bleu",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": 33
       },
-      "vision_brute": null,
+      "vision_brute": {
+        "groupe": "SRAM Rival 1x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": false,
+        "etat_visuel": "Transmission propre avec chaîne et cassette légèrement grisées mais peu usées, monoplateau SRAM Rival aux dents saines. Pneus cyclocross Hutchinson Toro à crampons bien marqués, disques et étriers en bon état, cadre carbone brillant avec quelques micro-rayures d'usage.",
+        "points_attention": "Vérifier l'usure de la chaîne à la jauge et l'état des disques/plaquettes au toucher ; contrôler le monoplateau (dents) pour saut de chaîne. Absence apparente d'œillets porte-bagage.",
+        "confiance": 0.82
+      },
       "historique_prix": [
         {
           "date": "2026-07-05",
@@ -43281,5 +43290,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-19T21:38:28+00:00"
+  "genere_le": "2026-07-19T22:08:48+00:00"
 }
