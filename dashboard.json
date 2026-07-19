@@ -39696,10 +39696,12 @@
       },
       "verdict": "Peu adapté à ton usage (~21% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano CUES mécanique, freins à disque, taille M, 2026, bleu. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano CUES, taille M, 2026. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Cube Nuroad : gravel bien né, finition et équipement au-dessus du prix. Les FE tirent vers la route, l'EX vers l'aventure.",
         "vision": "",
         "description_vendeur": "Completamente nueva. Regalo de graduación comprado el 15 de junio (tenemos el recibo). Entregado al cumpleañero un mes después (fuera del plazo de devolución). La bici es nueva, intacta. Lamentablemente era demasiado grande. En el precio está incluido el montaje, ya que la habíamos comprado por internet y la hicimos ensamblar por un mecánico.",
@@ -39720,11 +39722,11 @@
       },
       "specs": {
         "groupset": "Shimano CUES",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "bleu",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -43190,5 +43192,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-19T16:37:56+00:00"
+  "genere_le": "2026-07-19T17:08:14+00:00"
 }
