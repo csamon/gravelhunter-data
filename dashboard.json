@@ -19714,11 +19714,11 @@
         "livraison +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 1059,
-      "prix_max_calcul": "1449€ (cote) × (0.62 + 0.28 × 69% fit) = 1177€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 1060,
+      "prix_max_calcul": "1449€ (cote) × (0.62 + 0.28 × 69% fit) = 1178€ − 10 % (infos manquantes)",
       "cote": 1449.0,
       "devise": "EUR",
-      "conflit_fiche_photo": null,
+      "conflit_fiche_photo": "fiche annonce « SRAM Apex » mais la photo semble montrer « Shimano 105 2x11 »",
       "alerte": null,
       "marque": "Giant",
       "modele": "TCX Advanced 2019",
@@ -19729,7 +19729,7 @@
       "score": 6.8,
       "fit_pct": 69,
       "axes": {
-        "technique": 6.5,
+        "technique": 8.8,
         "financier": 7.4,
         "usage": 7.0,
         "plaisir": 8.5,
@@ -19737,17 +19737,16 @@
       },
       "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
       "infos_manquantes": [
-        "freins",
-        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2019. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Cadre carbone, groupe SRAM Apex mécanique, freins à disque, taille M, 2019, vert. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Giant TCX Advanced 2019 est un cyclocross de milieu/haut de gamme dans la gamme Giant, positionné sous le TCX Advanced Pro (cadre plus premium et Ultegra/Force) mais au-dessus du TCX SLR en aluminium. Son cadre en carbone Advanced-grade avec fourche full-carbone et axes traversants 12mm avant/arrière le destine avant tout à la compétition de cyclocross (géométrie racée, boîtier PowerCore, tige de selle D-Fuse offrant un peu de flex vertical). Le groupe SRAM Apex 1x11 mono-plateau avec freins à disque hydrauliques est simple et robuste, adapté au CX, mais la plage de développements reste limitée pour de longues sorties gravel avec dénivelé. Points forts : rigidité, freinage disque fiable, cadre léger et vif, standards modernes (axes 12mm, montage flat-mount). Limites : géométrie CX agressive et empattement court moins confortable en gravel longue distance, dégagement pneu typé cyclocross (autour de 33-38mm) donc restreint pour du gravel large, absence de points de fixation garde-boue/porte-bagages généreux qui gêne le vélotaf hivernal. Réputation de fiabilité correcte, le carbone Advanced de Giant étant éprouvé. Pour le vélotaf quotidien toute l'année il est jouable mais peu pratique (peu d'accastillage, position sportive), et il excelle plutôt en gravel léger/rapide ou compétition CX qu'en gravel baroudeur.",
-        "vision": "",
+        "vision": "Cadre carbone, fourche carbone, groupe shimano 105 2x11, freins disque hydraulique. État visuel : Transmission et pneus (Maxxis à crampons faibles) semblent peu usés, chaîne propre, disques et étriers hydrauliques en bon état apparent. Cadre carbone TCX Advanced propre, aucune rayure ou impact notable visible malgré les nombreux sacs de bikepacking installés. ⚠ À vérifier : Les sacoches (cadre, cintre, selle) masquent une grande partie du cadre, du tube supérieur et des câbles : impossible de vérifier l'intégrité complète du carbone, la série exacte du groupe (manettes/dérailleur avant peu lisibles) ni la présence d'œillets de fixation. Vérifier le tissage carbone sous les sangles. (confiance 45%)",
         "description_vendeur": "Bici en excelente estado, poco uso, vendo por falta de uso.\nPosibilidad de incluir también el kit de bolsas.",
         "plus_velo": [
           "Groupe bon (SRAM Apex)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
           "Bien adapté à ton usage (69 % du besoin)"
         ],
         "moins_velo": [
@@ -19763,16 +19762,27 @@
       },
       "specs": {
         "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
+        "frame": "carbone",
+        "shifting": "mécanique",
+        "brakes": "disque",
         "size_cm": null,
-        "color": null,
+        "color": "vert",
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
       },
-      "vision_brute": null,
+      "vision_brute": {
+        "groupe": "Shimano 105 2x11",
+        "freins": "disque hydraulique",
+        "fourche": "carbone",
+        "cadre": "carbone",
+        "pneus_mm": null,
+        "tubeless": null,
+        "fixations": null,
+        "etat_visuel": "Transmission et pneus (Maxxis à crampons faibles) semblent peu usés, chaîne propre, disques et étriers hydrauliques en bon état apparent. Cadre carbone TCX Advanced propre, aucune rayure ou impact notable visible malgré les nombreux sacs de bikepacking installés.",
+        "points_attention": "Les sacoches (cadre, cintre, selle) masquent une grande partie du cadre, du tube supérieur et des câbles : impossible de vérifier l'intégrité complète du carbone, la série exacte du groupe (manettes/dérailleur avant peu lisibles) ni la présence d'œillets de fixation. Vérifier le tissage carbone sous les sangles.",
+        "confiance": 0.45
+      },
       "historique_prix": [
         {
           "date": "2026-07-05",
@@ -35931,10 +35941,12 @@
       },
       "verdict": "Peu adapté à ton usage (~19% du besoin) — IGNORER.",
       "infos_manquantes": [
+        "freins",
+        "cadre",
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre aluminium, groupe Shimano Sora mécanique, freins à disque, taille 54 cm, 2025, rouge. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano Sora, taille M, 2025. Shimano Sora : entrée de gamme 9 v — ça roule, mais ça se sent à l'usage. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Trek Checkpoint : gravel endurance réputé. L'ALR (alu) est un excellent rapport qualité/prix, fixations à foison, parfait pour charger.",
         "vision": "",
         "description_vendeur": "Algunos rasguños en el manillar y en la parte baja del cuadro, pero en general la bicicleta está en excelentes condiciones.\nTras unos 2000 km, se revisó con la sustitución de la cadena y del cable del cambio. Además, se cambió la pastilla del freno delantero.\nA nivel mecánico, la bicicleta funciona perfectamente.\nRespecto al equipamiento de serie, la bicicleta monta pedales mixtos MTB M324 SPD de ",
@@ -35956,11 +35968,11 @@
       },
       "specs": {
         "groupset": "Shimano Sora",
-        "frame": "aluminium",
-        "shifting": "mécanique",
-        "brakes": "disque",
-        "size_cm": "54",
-        "color": "rouge",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -43089,5 +43101,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-19T12:37:21+00:00"
+  "genere_le": "2026-07-19T13:07:44+00:00"
 }
