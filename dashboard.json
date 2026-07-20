@@ -900,6 +900,102 @@
       }
     },
     {
+      "titre": "Rondo RUUT AL1 2022 2022",
+      "url": "https://buycycle.com/product/ruut-al1-2022-66822",
+      "source": "buycycle",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 900.0,
+      "cout_reel": 1000,
+      "cout_reel_detail": [
+        "livraison +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 1228,
+      "prix_max_calcul": "1421€ (cote) × (0.62 + 0.28 × 87% fit) = 1228€",
+      "cote": 1421.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "Rondo",
+      "modele": "RUUT AL1 2022",
+      "taille": "M",
+      "annee": 2022,
+      "distance_km": null,
+      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/1681565/80c2dfe6-7672-4b62-9ce8-5af5eda09e8b.webp",
+      "score": 9.9,
+      "fit_pct": 87,
+      "axes": {
+        "technique": 9.3,
+        "financier": 10.0,
+        "usage": 8.5,
+        "plaisir": 5.0,
+        "valeur": 7.9
+      },
+      "verdict": "Bon vélo pour ton usage (~87% du besoin) — CONTACTER.",
+      "infos_manquantes": [],
+      "dossier": {
+        "compte_rendu": "Cadre aluminium, groupe SRAM Apex mécanique, freins à disque, taille M, 2022, light gray. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le Rondo RUUT AL1 2022 est le modèle d'entrée de gamme gravel de la série RUUT en aluminium, positionné sous les versions carbone (CF) et les AL équipés de groupes plus haut de gamme. Il conserve la signature Rondo : cadre alu 6061 avec fourche carbone dotée du système TwinTip permettant de modifier la géométrie (hauteur du boîtier et angle) via une plaque réversible à la patte de fourche, ce qui ajuste l'assise entre gravel joueur et route plus stable. Le groupe SRAM Apex 1 (mono-plateau, 11 vitesses, freins à disque hydrauliques ou mécaniques selon finition) est fiable et simple mais limité en étagement pour les longues montées chargées, et l'usure des consommables reste économique. L'usage visé est le gravel polyvalent et le bikepacking léger, avec de nombreux inserts (porte-bidons, garde-boue, porte-bagages) qui le rendent réellement pertinent en vélotaf toute l'année. Points forts : robustesse du cadre alu, polyvalence géométrique, capacité de montage d'accessoires et large dégagement pneu ; limites : poids assez élevé pour un alu, mono-plateau parfois court en plage de développement, et finitions de série (roues, périphériques) basiques à surveiller sur l'occasion. La réputation Rondo est correcte sur la fiabilité cadre/fourche, mais vérifiez l'état de la fourche TwinTip et du jeu de direction, points sensibles connus. Pour un usage quotidien mixte route/chemins il est bien adapté, à condition d'accepter un vélo plutôt lourd et de prévoir garde-boue et pneus adaptés.",
+        "vision": "Cadre aluminium, fourche carbone, groupe sram rival/apex 1x11, freins disque mécanique, pneus 40 mm, fixations garde-boue/rack. État visuel : Vélo très sale/boueux avec transmission et pneus fortement empoussiérés, chaîne et cassette encrassées mais sculpture des pneus encore présente. Aucun impact ou corrosion majeurs visibles sous la saleté, mais l'état réel est masqué par le manque de propreté. ⚠ À vérifier : Étrier de frein arrière semble mécanique (câble visible, boîtier NOR/SRAM) et non hydraulique — à vérifier ; nettoyer intégralement pour évaluer usure chaîne/cassette et plateau, vérifier tension/patte de dérailleur. (confiance 55%)",
+        "description_vendeur": "bike practically new.\njust mounted tubeless tires",
+        "plus_velo": [
+          "Groupe bon (SRAM Apex)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (87 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Décote intéressante : ~−37 % vs cote (~1421 €)",
+          "Vendeur de confiance (badge buycycle)",
+          "Annonce très regardée (39 favoris)",
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": "SRAM Apex",
+        "frame": "aluminium",
+        "shifting": "mécanique",
+        "brakes": "disque",
+        "size_cm": null,
+        "color": "light gray",
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 42
+      },
+      "vision_brute": {
+        "groupe": "SRAM Rival/Apex 1x11",
+        "freins": "disque mécanique",
+        "fourche": "carbone",
+        "cadre": "aluminium",
+        "pneus_mm": 40,
+        "tubeless": null,
+        "fixations": true,
+        "etat_visuel": "Vélo très sale/boueux avec transmission et pneus fortement empoussiérés, chaîne et cassette encrassées mais sculpture des pneus encore présente. Aucun impact ou corrosion majeurs visibles sous la saleté, mais l'état réel est masqué par le manque de propreté.",
+        "points_attention": "Étrier de frein arrière semble mécanique (câble visible, boîtier NOR/SRAM) et non hydraulique — à vérifier ; nettoyer intégralement pour évaluer usure chaîne/cassette et plateau, vérifier tension/patte de dérailleur.",
+        "confiance": 0.55
+      },
+      "historique_prix": [
+        {
+          "date": "2026-07-05",
+          "prix": 900.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
       "titre": "Vélo Gravel Focus Atlas 6.8",
       "url": "https://www.leboncoin.fr/ad/velos/3229052132",
       "source": "leboncoin",
@@ -8903,95 +8999,6 @@
       }
     },
     {
-      "titre": "Rondo RUUT AL1 2022 2022",
-      "url": "https://buycycle.com/product/ruut-al1-2022-66822",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 900.0,
-      "cout_reel": 1085,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 1087,
-      "prix_max_calcul": "1421€ (cote) × (0.62 + 0.28 × 82% fit) = 1208€ − 10 % (infos manquantes)",
-      "cote": 1421.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Rondo",
-      "modele": "RUUT AL1 2022",
-      "taille": "M",
-      "annee": 2022,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/1681565/80c2dfe6-7672-4b62-9ce8-5af5eda09e8b.webp",
-      "score": 7.0,
-      "fit_pct": 82,
-      "axes": {
-        "technique": 7.5,
-        "financier": 10.0,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 7.9
-      },
-      "verdict": "Bon vélo pour ton usage (~82% du besoin) — CONTACTER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2022. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Rondo RUUT AL1 2022 est le modèle d'entrée de gamme gravel de la série RUUT en aluminium, positionné sous les versions carbone (CF) et les AL équipés de groupes plus haut de gamme. Il conserve la signature Rondo : cadre alu 6061 avec fourche carbone dotée du système TwinTip permettant de modifier la géométrie (hauteur du boîtier et angle) via une plaque réversible à la patte de fourche, ce qui ajuste l'assise entre gravel joueur et route plus stable. Le groupe SRAM Apex 1 (mono-plateau, 11 vitesses, freins à disque hydrauliques ou mécaniques selon finition) est fiable et simple mais limité en étagement pour les longues montées chargées, et l'usure des consommables reste économique. L'usage visé est le gravel polyvalent et le bikepacking léger, avec de nombreux inserts (porte-bidons, garde-boue, porte-bagages) qui le rendent réellement pertinent en vélotaf toute l'année. Points forts : robustesse du cadre alu, polyvalence géométrique, capacité de montage d'accessoires et large dégagement pneu ; limites : poids assez élevé pour un alu, mono-plateau parfois court en plage de développement, et finitions de série (roues, périphériques) basiques à surveiller sur l'occasion. La réputation Rondo est correcte sur la fiabilité cadre/fourche, mais vérifiez l'état de la fourche TwinTip et du jeu de direction, points sensibles connus. Pour un usage quotidien mixte route/chemins il est bien adapté, à condition d'accepter un vélo plutôt lourd et de prévoir garde-boue et pneus adaptés.",
-        "vision": "",
-        "description_vendeur": "bike practically new.\njust mounted tubeless tires",
-        "plus_velo": [
-          "Groupe bon (SRAM Apex)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Bien adapté à ton usage (82 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−37 % vs cote (~1421 €)",
-          "Vendeur de confiance (badge buycycle)",
-          "Annonce très regardée (39 favoris)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": 42
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 900.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
       "titre": "Corratec Allroad Shimano 105 2024",
       "url": "https://buycycle.com/product/allroad-45806",
       "source": "buycycle",
@@ -15454,12 +15461,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15544,12 +15551,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15725,12 +15732,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15816,12 +15823,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15907,12 +15914,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -16553,12 +16560,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -16644,12 +16651,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17021,12 +17028,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17402,12 +17409,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17493,12 +17500,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17674,12 +17681,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17765,12 +17772,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17856,12 +17863,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17947,12 +17954,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18215,12 +18222,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18306,12 +18313,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18397,12 +18404,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18488,12 +18495,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18579,12 +18586,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21337,7 +21344,7 @@
         "pneus"
       ],
       "dossier": {
-        "compte_rendu": "Cadre carbone, groupe Shimano GRX mécanique, freins à disque, taille M, 2023, blanc. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
         "modele_avis": "Le Canyon Inflite CF SL 6 2023 est un vélo de cyclocross (CX), et non un gravel ou route pur : c'est une distinction cruciale, car sa géométrie est agressive et orientée compétition/technicité, avec un boîtier de pédalier haut, une position typée cross et un comportement nerveux, moins confortable qu'un gravel dédié. Dans la gamme Canyon, l'Inflite CF SL constitue le milieu de gamme carbone (au-dessus des rares déclinaisons alu inexistantes ici, en dessous des CF SLX plus légers et haut de gamme), le '6' étant la finition d'entrée de cette famille carbone avec un groupe Shimano GRX (typiquement mécanique 1x ou 2x selon config, freins hydrauliques à disque). Le cadre affiche le tube supérieur descendant en 'S' caractéristique de l'Inflite, censé faciliter le portage lors des franchissements. Points forts : cadre et fourche carbone rigides et réactifs, freinage à disque fiable, groupe GRX robuste et bien adapté au tout-terrain. Limites concrètes : dégagement pneus limité (orienté CX autour de 33-40 mm), pas d'œillets pour porte-bagages/garde-boue complets, position sportive peu adaptée au confort quotidien, et la tige de selle Canyon intégrée/propriétaire complique certains réglages. La réputation Canyon est bonne sur le rapport qualité/prix mais le SAV à distance et la disponibilité des pièces propriétaires (potence/cintre, tige) sont des points de vigilance en occasion. Pour un vélotaf quotidien toute l'année, c'est un choix médiocre (peu de fixations, géométrie inconfortable, dégagement restreint) ; en revanche il excelle en gravel léger/rapide et sportif, et bien sûr en cyclocross.",
         "vision": "Cadre carbone, fourche carbone, freins disque hydraulique. État visuel : Le vélo paraît en très bon état, quasi neuf, présenté devant son carton d'origine Canyon avec des pneus dont la sculpture semble intacte et une transmission propre. Aucune rayure, impact ou corrosion visible sur les photos, mais la résolution ne permet pas de détailler l'usure de la chaîne ou des plaquettes. ⚠ À vérifier : Impossible de lire la série exacte du groupe (dérailleurs/manettes non zoomés) ni les dimensions/mention tubeless sur le flanc des pneus ; vérifier le disque de frein avant apparemment fin et l'absence de photo rapprochée de la transmission. (confiance 40%)",
         "description_vendeur": "Canyon Inflite CF SL 6 (2023) en excelente estado. La bicicleta ha sido usada muy poco y se encuentra en óptimas condiciones tanto estética como técnicamente. Siempre ha sido tratada con cuidado, mantenida regularmente y guardada exclusivamente en interiores. Nunca ha sufrido caídas y está lista para rodar. El cuadro de carbono ligero en combinación con el grupo de transmisión Shimano GRX hace que",
@@ -21360,11 +21367,11 @@
       },
       "specs": {
         "groupset": "Shimano GRX",
-        "frame": "carbone",
-        "shifting": "mécanique",
-        "brakes": "disque",
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
         "size_cm": null,
-        "color": "blanc",
+        "color": null,
         "condition": null,
         "poids_kg": null,
         "degagement_mm": null
@@ -27976,12 +27983,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -31185,12 +31192,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -31544,12 +31551,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -31634,12 +31641,12 @@
       "marche_modele": {
         "cote_reelle": 1049.0,
         "ecart_type": 146.0,
-        "n_ventes": 21,
+        "n_ventes": 22,
         "prix_demande_median": null,
-        "n_en_vente": 2,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 1049 € ±146 € (21 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 1049 € ±146 € (22 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -43290,5 +43297,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-20T04:39:14+00:00"
+  "genere_le": "2026-07-20T05:09:58+00:00"
 }
