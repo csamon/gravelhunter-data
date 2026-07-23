@@ -22835,9 +22835,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 0,
+        "n_ventes": 1,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -45878,5 +45878,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-23T21:32:40+00:00"
+  "genere_le": "2026-07-23T22:02:42+00:00"
 }
