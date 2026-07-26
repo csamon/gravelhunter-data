@@ -28023,15 +28023,15 @@
       "source": "leboncoin",
       "categorie": "gravel",
       "action": "CONTACTER",
-      "prix": 600.0,
-      "cout_reel": 785,
+      "prix": 500.0,
+      "cout_reel": 685,
       "cout_reel_detail": [
         "garde-boue+rack +85€",
         "tubeless +60€",
         "révision +40€"
       ],
-      "prix_max_conseille": 407,
-      "prix_max_calcul": "600€ (prix affiché) × (0.62 + 0.28 × 48% fit) = 452€ − 10 % (infos manquantes)",
+      "prix_max_conseille": 339,
+      "prix_max_calcul": "500€ (prix affiché) × (0.62 + 0.28 × 48% fit) = 377€ − 10 % (infos manquantes)",
       "cote": null,
       "devise": "EUR",
       "conflit_fiche_photo": null,
@@ -28094,6 +28094,10 @@
         {
           "date": "2026-07-25",
           "prix": 600.0
+        },
+        {
+          "date": "2026-07-26",
+          "prix": 500.0
         }
       ],
       "marche_modele": {
@@ -45873,5 +45877,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-07-26T04:48:14+00:00"
+  "genere_le": "2026-07-26T05:18:15+00:00"
 }
