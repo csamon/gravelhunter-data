@@ -29361,9 +29361,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -29451,9 +29451,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -29541,9 +29541,9 @@
       "marche_modele": {
         "cote_reelle": null,
         "ecart_type": null,
-        "n_ventes": 2,
+        "n_ventes": 3,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 0,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -45921,5 +45921,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-08-06T19:37:59+00:00"
+  "genere_le": "2026-08-06T20:08:23+00:00"
 }
