@@ -1,5 +1,5 @@
 {
-  "total": 735,
+  "total": 736,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1076,7 +1076,7 @@
         "ecart_type": null,
         "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -4341,6 +4341,93 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Vélo gravel Focus Atlas 6.7 montage maison",
+      "url": "https://www.leboncoin.fr/ad/velos/3249576182",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 850.0,
+      "cout_reel": 950,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 646,
+      "prix_max_calcul": "850€ (prix affiché) × (0.62 + 0.28 × 80% fit) = 718€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Atlas",
+      "taille": "M",
+      "annee": null,
+      "distance_km": 122.1,
+      "image": null,
+      "score": 8.6,
+      "fit_pct": 80,
+      "axes": {
+        "technique": 6.8,
+        "financier": 7.8,
+        "usage": 8.5,
+        "plaisir": 7.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'identifier un vélo précis : « leboncoin Atlas » n'est pas une marque ni un modèle de vélo, mais très probablement une annonce sur la plateforme leboncoin dont le titre mentionne « Atlas ». Or plusieurs vélos portent ce nom : le Fairlight Atlas (acier Reynolds 725/853, gravel/bikepacking robuste et polyvalent, réputé solide), le gravel Genesis, ou encore des vélos d'autres marques, sans compter d'éventuelles fautes de frappe. Sans photo, sérigraphie du cadre, taille des tubes, groupe (Shimano/SRAM), matériau et millésime, aucune analyse factuelle sérieuse n'est possible et tout jugement serait de la spéculation. Pour l'usage visé (vélotaf toute l'année + gravel léger), les critères déterminants restent inconnus : passage de garde-boue, fixations porte-bagages, dégagement pneus, type de transmission et état d'usure. Je refuse d'inventer des caractéristiques : merci de fournir la marque exacte, le modèle complet, le groupe, l'année et idéalement des photos du cadre et des composants. En l'état, ne pas acheter sans ces informations, car le prix ne peut pas être jugé cohérent.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe bon (détecté)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (80 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-08-13",
+          "prix": 850.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 2,
         "prix_demande_median": null,
         "n_en_vente": 1,
         "liquidite_jours": null,
@@ -15460,7 +15547,7 @@
         "ecart_type": null,
         "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -45931,94 +46018,6 @@
         "base": "ventes",
         "resume": "cote réelle 688 € ±343 € (114 ventes) · liquidité méd. 1 j"
       }
-    },
-    {
-      "titre": "Chaussures NorthWave Origin Plus 2 anthracite/honey, Vélo Gravel VTT Bikepacking",
-      "url": "https://www.leboncoin.fr/ad/velos/3236839079",
-      "source": "leboncoin",
-      "categorie": "gravel",
-      "action": "IGNORER",
-      "prix": 65.0,
-      "cout_reel": 165,
-      "cout_reel_detail": [
-        "tubeless +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 42,
-      "prix_max_calcul": "65€ (prix affiché) × (0.62 + 0.28 × 39% fit) = 47€ − 10 % (infos manquantes)",
-      "cote": null,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "leboncoin",
-      "modele": null,
-      "taille": "M",
-      "annee": null,
-      "distance_km": 148.6,
-      "image": null,
-      "score": 4.3,
-      "fit_pct": 39,
-      "axes": {
-        "technique": 5.0,
-        "financier": 6.0,
-        "usage": 3.5,
-        "plaisir": 5.0,
-        "valeur": 5.0
-      },
-      "verdict": "Peu adapté à ton usage (~39% du besoin) — IGNORER.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus",
-        "état"
-      ],
-      "dossier": {
-        "compte_rendu": "Taille M. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
-        "vision": "",
-        "description_vendeur": "",
-        "plus_velo": [
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [
-          "Peu adapté à ton usage (39 % du besoin)"
-        ],
-        "plus_annonce": [
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Description vendeur pauvre — specs et état à confirmer",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": null,
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-22",
-          "prix": 65.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": 688.0,
-        "ecart_type": 343.0,
-        "n_ventes": 114,
-        "prix_demande_median": 480.0,
-        "n_en_vente": 3,
-        "liquidite_jours": 1.0,
-        "base": "ventes",
-        "resume": "cote réelle 688 € ±343 € (114 ventes) · liquidité méd. 1 j"
-      }
     }
   ],
   "budget_max": 1400.0,
@@ -46027,5 +46026,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-08-13T16:01:01+00:00"
+  "genere_le": "2026-08-13T16:31:27+00:00"
 }
