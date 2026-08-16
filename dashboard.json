@@ -1,5 +1,5 @@
 {
-  "total": 766,
+  "total": 767,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -31120,7 +31120,7 @@
         "ecart_type": null,
         "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -41672,7 +41672,7 @@
         "ecart_type": null,
         "n_ventes": 2,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": null,
         "base": "insuffisant",
         "resume": null
@@ -46070,5 +46070,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-08-16T10:51:02+00:00"
+  "genere_le": "2026-08-16T11:21:13+00:00"
 }
