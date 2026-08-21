@@ -1,5 +1,5 @@
 {
-  "total": 832,
+  "total": 834,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1839,12 +1839,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -5481,12 +5481,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -7970,12 +7970,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15724,13 +15724,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -15814,13 +15814,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -15905,12 +15905,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -15995,13 +15995,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -16086,13 +16086,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -16177,13 +16177,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -16268,12 +16268,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -16733,12 +16733,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -16823,13 +16823,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -16914,13 +16914,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -17202,12 +17202,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -17291,13 +17291,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -17672,13 +17672,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -17763,13 +17763,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -17944,13 +17944,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18035,13 +18035,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18126,13 +18126,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18217,13 +18217,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18307,12 +18307,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18395,12 +18395,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -18485,13 +18485,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18576,13 +18576,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18667,13 +18667,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18758,13 +18758,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18849,13 +18849,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -18939,12 +18939,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -19209,13 +19209,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -19300,13 +19300,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -19391,13 +19391,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -19571,12 +19571,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -19661,13 +19661,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -19752,13 +19752,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -19843,13 +19843,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -19934,13 +19934,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20025,13 +20025,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20116,13 +20116,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20207,13 +20207,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20298,13 +20298,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20386,12 +20386,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20475,12 +20475,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20565,12 +20565,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -20655,13 +20655,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20746,13 +20746,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20837,13 +20837,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -20928,13 +20928,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21018,12 +21018,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -21108,13 +21108,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21199,13 +21199,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21290,13 +21290,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21381,13 +21381,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21472,13 +21472,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21563,13 +21563,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21836,13 +21836,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -21926,12 +21926,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -22016,13 +22016,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22107,13 +22107,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22198,13 +22198,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22289,13 +22289,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22380,13 +22380,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22471,13 +22471,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22566,13 +22566,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22657,13 +22657,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22748,13 +22748,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22839,13 +22839,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -22930,13 +22930,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23021,13 +23021,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23112,13 +23112,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23203,13 +23203,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23294,13 +23294,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23385,13 +23385,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23658,13 +23658,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23749,12 +23749,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -23839,13 +23839,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -23930,13 +23930,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24021,13 +24021,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24112,13 +24112,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24203,13 +24203,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24294,13 +24294,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24385,13 +24385,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24476,13 +24476,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24567,13 +24567,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24658,13 +24658,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24749,13 +24749,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24840,13 +24840,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -24931,13 +24931,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25022,13 +25022,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25113,13 +25113,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25202,12 +25202,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -25292,13 +25292,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25383,13 +25383,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25474,13 +25474,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25565,13 +25565,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25656,13 +25656,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25747,13 +25747,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25838,13 +25838,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -25929,13 +25929,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26020,13 +26020,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26111,13 +26111,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26202,13 +26202,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26293,13 +26293,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26384,13 +26384,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26475,13 +26475,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26566,13 +26566,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26657,13 +26657,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26748,13 +26748,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -26838,12 +26838,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -26928,13 +26928,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27019,13 +27019,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27110,13 +27110,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27201,13 +27201,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27292,13 +27292,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27383,13 +27383,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27474,13 +27474,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27747,13 +27747,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27838,13 +27838,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -27929,13 +27929,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28020,13 +28020,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28111,13 +28111,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28202,13 +28202,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28293,13 +28293,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28384,13 +28384,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28475,13 +28475,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28566,13 +28566,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28657,12 +28657,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -28747,13 +28747,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28838,13 +28838,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -28929,13 +28929,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29020,13 +29020,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29111,13 +29111,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29202,13 +29202,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29293,13 +29293,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29384,13 +29384,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29475,13 +29475,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29566,13 +29566,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29657,13 +29657,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29748,13 +29748,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29839,13 +29839,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -29930,13 +29930,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30021,13 +30021,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30112,13 +30112,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30203,13 +30203,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30294,13 +30294,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30385,13 +30385,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30476,13 +30476,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30567,12 +30567,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -30657,13 +30657,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30748,13 +30748,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30839,13 +30839,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -30930,13 +30930,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31021,13 +31021,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31112,13 +31112,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31203,13 +31203,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31294,13 +31294,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31385,13 +31385,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31476,13 +31476,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31567,13 +31567,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31749,13 +31749,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31840,13 +31840,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -31931,13 +31931,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32022,13 +32022,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32113,13 +32113,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32204,13 +32204,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32295,13 +32295,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32386,13 +32386,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32477,13 +32477,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32659,13 +32659,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32750,13 +32750,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32841,13 +32841,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -32932,13 +32932,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33023,13 +33023,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33114,13 +33114,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33205,13 +33205,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33296,13 +33296,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33387,13 +33387,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33478,12 +33478,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -33568,13 +33568,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33659,13 +33659,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33750,13 +33750,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33841,13 +33841,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -33932,13 +33932,13 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -34023,13 +34023,104 @@
       ],
       "marche_modele": {
         "cote_reelle": 1299.0,
-        "ecart_type": 131.0,
-        "n_ventes": 179,
-        "prix_demande_median": 1299.0,
-        "n_en_vente": 3,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1299 € ±131 € (179 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
+      }
+    },
+    {
+      "titre": "MEGAMO Jakar 30 2026 - Vélo Gravel Musculaire reconditionné | 15 jours pour essayer",
+      "url": "https://www.leboncoin.fr/ad/velos/3254146509",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 949.0,
+      "cout_reel": 1134,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 755,
+      "prix_max_calcul": "949€ (prix affiché) × (0.62 + 0.28 × 94% fit) = 839€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Jakar",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 131.5,
+      "image": null,
+      "score": 7.0,
+      "fit_pct": 94,
+      "axes": {
+        "technique": 8.0,
+        "financier": 6.8,
+        "usage": 10.0,
+        "plaisir": 7.5,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, pneus, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "pneus",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Le \"Jakar 2026\" n'existe pas comme modèle identifiable : \"leboncoin\" est une plateforme française de petites annonces, pas un fabricant de vélos, et \"Jakar\" ne correspond à aucune marque ou gamme gravel/route reconnue. Il est donc impossible de le positionner dans une gamme, d'en décrire la génération, le matériau, l'amortissement ou les standards de transmission/freinage. Aucune donnée fiable n'existe sur son usage visé, ses points forts ou ses limites, ni sur sa réputation ou fiabilité. L'annonce mélange probablement le nom de la plateforme avec un modèle mal orthographié ou une marque obscure/générique, ce qui doit alerter sur la traçabilité de l'occasion. Pour un vélotaf quotidien toute l'année plus gravel léger, il faut impérativement identifier la vraie marque et le vrai modèle avant tout achat, sous peine de tomber sur un vélo générique sans pièces de rechange ni suivi. Recommandation factuelle : exiger photos détaillées du cadre, marquages, groupe et numéro de série, puis vérifier la marque réelle avant d'envisager la transaction.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (94 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-08-21",
+          "prix": 949.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1299.0,
+        "ecart_type": 130.0,
+        "n_ventes": 181,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": 0.0,
+        "base": "ventes",
+        "resume": "cote réelle 1299 € ±130 € (181 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -36172,12 +36263,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -36260,12 +36351,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -36351,12 +36442,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -36440,12 +36531,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -38984,12 +39075,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -44404,12 +44495,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -44492,12 +44583,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -44580,12 +44671,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -44668,12 +44759,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -45661,12 +45752,12 @@
       "marche_modele": {
         "cote_reelle": 700.0,
         "ecart_type": 349.0,
-        "n_ventes": 127,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_ventes": 126,
+        "prix_demande_median": 1000.0,
+        "n_en_vente": 3,
         "liquidite_jours": 1.0,
         "base": "ventes",
-        "resume": "cote réelle 700 € ±349 € (127 ventes) · liquidité méd. 1 j"
+        "resume": "cote réelle 700 € ±349 € (126 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -46024,94 +46115,6 @@
         "base": "insuffisant",
         "resume": null
       }
-    },
-    {
-      "titre": "Fuji Absolute One 1 2016",
-      "url": "https://buycycle.com/product/absolute-one-16a08254ec0f83-98425",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 600.0,
-      "cout_reel": 845,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 452,
-      "prix_max_calcul": "659€ (cote) × (0.62 + 0.28 × 51% fit) = 502€ − 10 % (infos manquantes)",
-      "cote": 659.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Fuji",
-      "modele": "Absolute One 1",
-      "taille": "M",
-      "annee": 2016,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2556734/70b6ce4e-eb39-4ec9-8580-1d45911e7ee7.webp",
-      "score": 5.8,
-      "fit_pct": 51,
-      "axes": {
-        "technique": 6.5,
-        "financier": 7.3,
-        "usage": 4.5,
-        "plaisir": 5.0,
-        "valeur": 5.7
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano 105, taille M, 2016. Shimano 105 : groupe route fiable (11/12 v), fréquemment hydraulique. Très bon choix. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Fuji Absolute One 1 2016 est un vélo fitness/urbain à guidon plat positionné dans le haut de la gamme Absolute de Fuji, la finition '1' étant la mieux équipée de la série (au-dessus des Absolute 1.1, 1.3, 1.7 etc.). Il repose sur un cadre aluminium A6-SL avec fourche carbone, ce qui allège l'avant et filtre une partie des vibrations, un bon compromis pour cette catégorie. Le montage Shimano 105 (rare et valorisant sur un plat-bar de cette époque) apporte un groupe route fiable et précis, souvent en 2x11 ou 2x10 selon l'année, mais impose des cocottes/leviers plat-bar type Tiagra/105 flat-bar qui limitent parfois les options d'évolution. L'usage visé est clairement le fitness rapide, le vélotaf sportif et les sorties santé sur route ou chemins roulants, pas le gravel technique. Points forts : rigidité et rendement de l'alu, fourche carbone, transmission de qualité, géométrie relevée confortable ; limites : dégagement pneu modeste, absence fréquente de fixations complètes garde-boue/porte-bagages selon millésime, freins parfois sur patins (V-brakes ou caliper) peu adaptés à l'hiver humide. Pour le vélotaf quotidien toute l'année il faut vérifier les fixations et le type de freinage, car un modèle patins limite la polyvalence sous pluie/boue. En gravel léger il reste cantonné aux pistes sèches et roulantes du fait d'un cadre pensé route et d'un passage de pneu restreint.",
-        "vision": "",
-        "description_vendeur": "Tamaño de cuadro S/M, horquilla de carbono FC-440, color: plata satinado, la bicicleta se ha usado muy poco, sillín sin usar, sin defectos, guardabarros y portaequipajes opcionales, sistema de frenos Tektro Auriga, peso 10,35 kg, ligeras señales de uso y arañazos como se puede ver en las fotos.",
-        "plus_velo": [
-          "Groupe bon (Shimano 105)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Décote intéressante : ~−9 % vs cote (~659 €)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano 105",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 600.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
     }
   ],
   "budget_max": 1400.0,
@@ -46120,5 +46123,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-08-21T15:25:02+00:00"
+  "genere_le": "2026-08-21T15:55:29+00:00"
 }
