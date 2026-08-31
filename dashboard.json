@@ -1,5 +1,5 @@
 {
-  "total": 1023,
+  "total": 1024,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -7287,6 +7287,94 @@
         "cote_reelle": null,
         "ecart_type": null,
         "n_ventes": 0,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": null,
+        "base": "insuffisant",
+        "resume": null
+      }
+    },
+    {
+      "titre": "Gravel Trek Checkpoint ALR 5 Driftless (Taille 54 / M) - Shimano GRX",
+      "url": "https://www.leboncoin.fr/ad/velos/3260332958",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1100.0,
+      "cout_reel": 1200,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 735,
+      "prix_max_calcul": "950€ (cote) × (0.62 + 0.28 × 86% fit) = 817€ − 10 % (infos manquantes)",
+      "cote": 950.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Checkpoint ALR",
+      "taille": "M",
+      "annee": null,
+      "distance_km": 137.3,
+      "image": null,
+      "score": 8.0,
+      "fit_pct": 86,
+      "axes": {
+        "technique": 8.8,
+        "financier": 4.9,
+        "usage": 8.5,
+        "plaisir": 6.5,
+        "valeur": 3.7
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : « leboncoin » n'est pas un fabricant de vélos mais une plateforme de petites annonces française ; il n'existe donc pas de modèle « leboncoin Checkpoint ALR ». Le Checkpoint ALR est en réalité un gravel de la marque Trek, la mention « leboncoin » signale simplement une annonce d'occasion sur ce site. Le Trek Checkpoint ALR est le modèle en aluminium (série 300/Alpha Aluminium) positionné en entrée/milieu de gamme de la famille Checkpoint, sous les versions carbone SL et SLR. Il vise le gravel polyvalent, les longues distances et le bikepacking léger, avec une géométrie endurance stable, des œillets multiples (porte-bagages, garde-boue, bidons supplémentaires) et souvent un montage GRX ou Apex selon l'année. Ses points forts sont la robustesse du cadre alu, le prix contenu et la polyvalence, ce qui le rend excellent pour le vélotaf toute l'année (garde-boue + porte-bagages possibles) et le gravel léger à modéré. Ses limites : poids supérieur au carbone, confort brut un peu plus sec, et le fait que l'annonce ne précise ni le millésime ni le groupe, ce qui empêche de juger l'usure (chaîne, freins, roulements) et le niveau de transmission réel. Sans ces informations précises, impossible de valider un prix d'occasion : exigez le millésime exact, le groupe, la taille et l'historique d'entretien avant tout achat.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (86 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 45
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-08-31",
+          "prix": 1100.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": null,
+        "ecart_type": null,
+        "n_ventes": 1,
         "prix_demande_median": null,
         "n_en_vente": 1,
         "liquidite_jours": null,
@@ -46065,101 +46153,6 @@
         "base": "insuffisant",
         "resume": null
       }
-    },
-    {
-      "titre": "Megamo JAKAR 20 2025 2025",
-      "url": "https://buycycle.com/product/jakar-20-2025-11171",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 1400.0,
-      "cout_reel": 1645,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 863,
-      "prix_max_calcul": "1139€ (cote) × (0.62 + 0.28 × 79% fit) = 959€ − 10 % (infos manquantes)",
-      "cote": 1139.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Megamo",
-      "modele": "JAKAR 20 2025",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2483933/fe1047ce-fff3-4222-ba5a-aa6a92c347f3.webp",
-      "score": 6.5,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 4.5,
-        "usage": 8.5,
-        "plaisir": 5.5,
-        "valeur": 3.2
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Apex, taille M, 2025. SRAM Apex : 1× accessible et robuste, parfait pour un usage gravel sans prise de tête. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Megamo JAKAR 20 2025 se positionne dans le milieu de gamme de la série gravel JAKAR de la marque espagnole Megamo, au-dessus des versions d'entrée équipées en groupes plus basiques et sous les déclinaisons carbone ou électroniques plus onéreuses. Il combine un cadre en aluminium (souvent hydroformé) avec une fourche en carbone, ce qui filtre partiellement les vibrations tout en gardant un coût contenu, et adopte des standards actuels (freins à disque hydrauliques, passages de gaines internes, axes traversants probables). Le groupe SRAM Apex, en mono-plateau 1x11 ou 1x12 selon la version, offre une transmission simple, robuste et adaptée au gravel avec une bonne plage de développements, mais reste un cran en dessous des Rival/Force en finition et en poids. L'usage visé est le gravel polyvalent et l'aventure légère, avec une géométrie plutôt endurance qui convient aussi au vélotaf grâce à des points de fixation (garde-boue, porte-bagages selon modèle). Points forts : rapport équipement/prix correct, fourche carbone, freinage fiable, montage cohérent pour débuter le gravel ; limites : poids typique d'un alu de cette gamme, périphériques (roues, cintre) d'entrée souvent lourds et à remplacer pour progresser. Megamo est une marque à diffusion surtout ibérique, avec un réseau et une revente limités hors Espagne, ce qui pèse sur la valeur d'occasion et le suivi SAV. Pour un vélotaf quotidien toute l'année, il est adapté si l'exemplaire accepte garde-boue et pneus larges, mais vérifiez l'usure de la transmission SRAM Apex et l'état des roulements/roues avant achat.",
-        "vision": "",
-        "description_vendeur": "Megamo Jakar 20 2025\nTalla M\nLigeras marcas de uso en el cuadro y rueda trasera desgastada. La cadena tiene 30 km.\nVendo por cambio a modelo superior. Comprada en septiembre de 2025.\n\nSe vende sin pedales, ni portabidones ni ningún accesorio.",
-        "plus_velo": [
-          "Groupe bon (SRAM Apex)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1139 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Apex",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 1379.0
-        },
-        {
-          "date": "2026-07-10",
-          "prix": 1400.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 3,
-        "prix_demande_median": 1025.0,
-        "n_en_vente": 5,
-        "liquidite_jours": null,
-        "base": "demandes",
-        "resume": "prix demandés méd. 1025 € (5 en vente) — historique en cours"
-      }
     }
   ],
   "budget_max": 1400.0,
@@ -46168,5 +46161,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-08-31T11:36:46+00:00"
+  "genere_le": "2026-08-31T12:06:52+00:00"
 }
