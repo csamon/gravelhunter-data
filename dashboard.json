@@ -1,5 +1,5 @@
 {
-  "total": 1068,
+  "total": 1071,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -1841,7 +1841,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -2891,7 +2891,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -4223,7 +4223,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -5290,6 +5290,93 @@
       }
     },
     {
+      "titre": "Gravel Cube Nulane Race FE - 53cm",
+      "url": "https://www.leboncoin.fr/ad/velos/3227495815",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1124.0,
+      "cout_reel": 1224,
+      "cout_reel_detail": [
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 836,
+      "prix_max_calcul": "1124€ (prix affiché) × (0.62 + 0.28 × 74% fit) = 929€ − 10 % (infos manquantes)",
+      "cote": null,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": null,
+      "taille": "M",
+      "annee": null,
+      "distance_km": 173.1,
+      "image": null,
+      "score": 8.4,
+      "fit_pct": 74,
+      "axes": {
+        "technique": 8.3,
+        "financier": 6.0,
+        "usage": 7.0,
+        "plaisir": 9.0,
+        "valeur": 5.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Impossible d'analyser ce 'modèle' : leboncoin n'est pas un fabricant de vélos mais une plateforme d'annonces entre particuliers, et aucune marque, aucun groupe (Shimano/SRAM/Campagnolo), aucun matériau (alu/carbone/acier) ni millésime n'est précisé ici. Il n'existe donc pas de positionnement de gamme, de génération technologique ou de standard identifiable à commenter sur cette base. Un 'vélo de route ?' générique peut aussi bien être un vélo d'entrée de gamme en acier des années 90 qu'un vélo carbone haut de gamme récent, avec des usages, poids et fiabilités radicalement différents. Pour juger un achat d'occasion, il faut impérativement la marque et le modèle exacts, le groupe (marque + niveau), le matériau du cadre, l'année, la taille, le kilométrage et l'état des composants d'usure (transmission, chaîne, patins/plaquettes, pneus, roulements). Sans ces éléments, toute évaluation de l'adéquation au vélotaf quotidien toute l'année ou au gravel léger serait de la pure invention. Fournis la fiche précise de l'annonce et je pourrai t'aider factuellement.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Bien adapté à ton usage (74 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": null
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-09-02",
+          "prix": 1124.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 700.0,
+        "ecart_type": 351.0,
+        "n_ventes": 153,
+        "prix_demande_median": null,
+        "n_en_vente": 1,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
+      }
+    },
+    {
       "titre": "Cannondale Fatty Gravel 2024",
       "url": "https://buycycle.com/product/default66fc6cc3b1a61-74151",
       "source": "buycycle",
@@ -5659,7 +5746,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -8236,7 +8323,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -16171,7 +16258,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -16534,7 +16621,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -16999,7 +17086,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -17468,7 +17555,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -18573,7 +18660,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -18661,7 +18748,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -19205,7 +19292,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -19837,7 +19924,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -20652,7 +20739,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -20741,7 +20828,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -20831,7 +20918,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -21284,7 +21371,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -22192,7 +22279,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -24015,7 +24102,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -25468,7 +25555,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -27104,7 +27191,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -28923,7 +29010,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -30833,7 +30920,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -33744,7 +33831,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -35289,7 +35376,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -35378,7 +35465,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -38288,7 +38375,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -38742,7 +38829,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -44898,7 +44985,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -44986,7 +45073,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -45077,7 +45164,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -45166,7 +45253,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -45256,7 +45343,7 @@
         "ecart_type": 351.0,
         "n_ventes": 153,
         "prix_demande_median": null,
-        "n_en_vente": 0,
+        "n_en_vente": 1,
         "liquidite_jours": 1.0,
         "base": "ventes",
         "resume": "cote réelle 700 € ±351 € (153 ventes) · liquidité méd. 1 j"
@@ -45344,12 +45431,102 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 102.0,
-        "n_ventes": 180,
+        "n_ventes": 182,
         "prix_demande_median": null,
         "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±102 € (180 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±102 € (182 ventes) · liquidité méd. 0 j"
+      }
+    },
+    {
+      "titre": "CANNONDALE Topstone 2 2x 2026 - Vélo Gravel Musculaire",
+      "url": "https://www.leboncoin.fr/ad/velos/3245538897:5e707c42-427e-4b07-ba6c-aae94f947d44",
+      "source": "leboncoin",
+      "categorie": "gravel",
+      "action": "CONTACTER",
+      "prix": 1349.0,
+      "cout_reel": 1534,
+      "cout_reel_detail": [
+        "garde-boue+rack +85€",
+        "tubeless +60€",
+        "révision +40€"
+      ],
+      "prix_max_conseille": 716,
+      "prix_max_calcul": "900€ (cote) × (0.62 + 0.28 × 94% fit) = 796€ − 10 % (infos manquantes)",
+      "cote": 900.0,
+      "devise": "EUR",
+      "conflit_fiche_photo": null,
+      "alerte": null,
+      "marque": "leboncoin",
+      "modele": "Topstone",
+      "taille": "M",
+      "annee": 2026,
+      "distance_km": 148.5,
+      "image": null,
+      "score": 6.8,
+      "fit_pct": 94,
+      "axes": {
+        "technique": 8.0,
+        "financier": 2.0,
+        "usage": 10.0,
+        "plaisir": 7.5,
+        "valeur": 1.0
+      },
+      "verdict": "Infos critiques manquantes (freins, cadre, état) — CONTACTER pour vérifier avant tout.",
+      "infos_manquantes": [
+        "freins",
+        "cadre",
+        "état"
+      ],
+      "dossier": {
+        "compte_rendu": "Taille M, 2026. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
+        "modele_avis": "Attention : 'leboncoin' n'est pas un fabricant de vélos mais une plateforme d'annonces d'occasion ; le modèle réel ici est très probablement un Cannondale Topstone, gravel emblématique de la marque. Le Topstone existe en versions alu (entrée/milieu de gamme) et carbone (milieu/haut de gamme avec la suspension arrière Kingpin offrant ~30 mm de débattement passif), donc sans la référence exacte du cadre et du groupe il est impossible de situer précisément ce '2026'. C'est un gravel polyvalent orienté endurance et confort, à la géométrie relativement stable et tolérante, bien adapté aux longues sorties mixtes et au gravel léger à moyen. Points forts : confort du système Kingpin (sur les versions carbone), passage de pneus généreux, montages souvent orientés 1x ou 2x selon gamme, et fiabilité globale reconnue de Cannondale. Limites : la version alu est plus lourde et rigide, le Kingpin ajoute un peu de complexité mécanique, et certaines finitions/roues d'entrée de gamme méritent d'être remplacées. Pour le vélotaf quotidien toute l'année, il est très capable (dégagement pneus, points d'ancrage garde-boue/porte-bagages selon versions), mais vérifiez impérativement la présence de fixations et l'état de transmission. Sans le groupe ni la référence exacte du cadre, ne payez pas au prix d'une version carbone haut de gamme sans preuve : demandez photos du cadre, numéro de série et facture.",
+        "vision": "",
+        "description_vendeur": "",
+        "plus_velo": [
+          "Groupe référence (détecté)",
+          "Freins hydrauliques (confort et sécurité sous la pluie)",
+          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
+          "Récent (2026)",
+          "Bien adapté à ton usage (94 % du besoin)"
+        ],
+        "moins_velo": [],
+        "plus_annonce": [
+          "Protection acheteur buycycle (paiement libéré après réception)"
+        ],
+        "moins_annonce": [
+          "Description vendeur pauvre — specs et état à confirmer",
+          "Marketplace EU : livraison, pas d'essai avant achat"
+        ]
+      },
+      "specs": {
+        "groupset": null,
+        "frame": null,
+        "shifting": null,
+        "brakes": null,
+        "size_cm": null,
+        "color": null,
+        "condition": null,
+        "poids_kg": null,
+        "degagement_mm": 45
+      },
+      "vision_brute": null,
+      "historique_prix": [
+        {
+          "date": "2026-09-02",
+          "prix": 1349.0
+        }
+      ],
+      "marche_modele": {
+        "cote_reelle": 1449.0,
+        "ecart_type": 102.0,
+        "n_ventes": 182,
+        "prix_demande_median": null,
+        "n_en_vente": 2,
+        "liquidite_jours": 0.0,
+        "base": "ventes",
+        "resume": "cote réelle 1449 € ±102 € (182 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -45907,198 +46084,6 @@
         "base": "insuffisant",
         "resume": null
       }
-    },
-    {
-      "titre": "KTM X 30 2025",
-      "url": "https://buycycle.com/product/x-3068cdd87c7d298-70448",
-      "source": "buycycle",
-      "categorie": "gravel",
-      "action": "CONTACTER",
-      "prix": 950.0,
-      "cout_reel": 1195,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 637,
-      "prix_max_calcul": "840€ (cote) × (0.62 + 0.28 × 79% fit) = 708€ − 10 % (infos manquantes)",
-      "cote": 840.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "KTM",
-      "modele": "X 30",
-      "taille": "M",
-      "annee": 2025,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2172294/057a01b9-ed29-41a0-8d7d-ee9246d2ad83.webp",
-      "score": 6.7,
-      "fit_pct": 79,
-      "axes": {
-        "technique": 6.5,
-        "financier": 4.7,
-        "usage": 8.5,
-        "plaisir": 5.0,
-        "valeur": 4.0
-      },
-      "verdict": "Infos critiques manquantes (freins, cadre, pneus) — CONTACTER pour vérifier avant tout.",
-      "infos_manquantes": [
-        "freins",
-        "cadre",
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe SRAM Rival, taille M, 2025. SRAM Rival : milieu-haut de gamme, souvent 1× (mono-plateau), simple et efficace en gravel. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le KTM X-Strada / gamme 'X 30' 2025 n'est pas un modèle clairement identifiable dans le catalogue officiel KTM que je connais avec certitude ; la référence exacte 'X 30 2025' avec groupe SRAM Rival prête à confusion et pourrait relever d'une nomenclature régionale, d'un vélotaf/urbain sportif KTM (série 'X') ou d'une erreur de dénomination. KTM (KTM Fahrrad, autrichien, distinct de la marque moto) propose une gamme large allant du VTT au gravel (série Xstrada/X-Strada) en passant par des vélos urbains et trekking, avec un rapport équipement/prix généralement bon et une fabrication sérieuse. Le fait qu'il soit équipé d'un SRAM Rival (probablement Rival eTap AXS 1x12 ou Rival mécanique) oriente vers un positionnement milieu de gamme route/gravel, car Rival est le premier niveau performance de SRAM, fiable mais plus lourd que Force/Red. Sans confirmation du matériau (alu vs carbone), du dégagement pneus et de la géométrie, il est impossible de juger précisément l'aptitude au gravel léger ou au vélotaf toute saison. Pour un usage quotidien, les points clés à vérifier de visu sont : présence de fixations garde-boue/porte-bagages, passage de câbles, type de freins (Rival = disque hydraulique attendu), et dégagement réel. En occasion, exige la fiche technique exacte, le numéro de série et une pesée réelle, car cette référence ne correspond à aucun modèle que je puisse valider factuellement. Ne te fie pas à la seule appellation : demande des photos du cadre et des autocollants de modèle pour lever le doute avant tout achat.",
-        "vision": "",
-        "description_vendeur": "2 bottle cages and saddle backpack included.",
-        "plus_velo": [
-          "Groupe bon (SRAM Rival)",
-          "Vrai gravel (géométrie et dégagement pneus adaptés aux chemins)",
-          "Récent (2025)",
-          "Bien adapté à ton usage (79 % du besoin)"
-        ],
-        "moins_velo": [],
-        "plus_annonce": [
-          "Prix déjà baissé par le vendeur",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~840 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "SRAM Rival",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": null,
-      "historique_prix": [
-        {
-          "date": "2026-07-05",
-          "prix": 950.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 1,
-        "prix_demande_median": null,
-        "n_en_vente": 0,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
-    },
-    {
-      "titre": "Canyon Inflite CF SL 6 2023 2023",
-      "url": "https://buycycle.com/product/inflite-cf-sl-6-2023-28345",
-      "source": "buycycle",
-      "categorie": "cyclocross",
-      "action": "IGNORER",
-      "prix": 1399.0,
-      "cout_reel": 1644,
-      "cout_reel_detail": [
-        "garde-boue+rack +85€",
-        "tubeless +60€",
-        "livraison +60€",
-        "révision +40€"
-      ],
-      "prix_max_conseille": 878,
-      "prix_max_calcul": "1199€ (cote) × (0.62 + 0.28 × 69% fit) = 975€ − 10 % (infos manquantes)",
-      "cote": 1199.0,
-      "devise": "EUR",
-      "conflit_fiche_photo": null,
-      "alerte": null,
-      "marque": "Canyon",
-      "modele": "Inflite CF SL 6 2023",
-      "taille": "M",
-      "annee": 2023,
-      "distance_km": null,
-      "image": "https://d1mgeijqpfaspl.cloudfront.net/uploads/bike/media/2659953/90046ba1-fa22-4826-89c9-4ccc3772308b.webp",
-      "score": 6.7,
-      "fit_pct": 69,
-      "axes": {
-        "technique": 8.8,
-        "financier": 4.3,
-        "usage": 7.0,
-        "plaisir": 5.0,
-        "valeur": 3.7
-      },
-      "verdict": "Cyclocross déguisé en gravel : IGNORER pour ton usage.",
-      "infos_manquantes": [
-        "pneus"
-      ],
-      "dossier": {
-        "compte_rendu": "Groupe Shimano GRX, taille M, 2023. Shimano GRX : groupe gravel dédié, hydraulique, ergonomie pensée pour le chemin. La référence. Fourche, pneus, tubeless et poids ne sont pas publiés par buycycle — à vérifier sur les photos ou auprès du vendeur.",
-        "modele_avis": "Le Canyon Inflite CF SL 6 2023 est un vélo de cyclocross (CX), et non un gravel ou route pur : c'est une distinction cruciale, car sa géométrie est agressive et orientée compétition/technicité, avec un boîtier de pédalier haut, une position typée cross et un comportement nerveux, moins confortable qu'un gravel dédié. Dans la gamme Canyon, l'Inflite CF SL constitue le milieu de gamme carbone (au-dessus des rares déclinaisons alu inexistantes ici, en dessous des CF SLX plus légers et haut de gamme), le '6' étant la finition d'entrée de cette famille carbone avec un groupe Shimano GRX (typiquement mécanique 1x ou 2x selon config, freins hydrauliques à disque). Le cadre affiche le tube supérieur descendant en 'S' caractéristique de l'Inflite, censé faciliter le portage lors des franchissements. Points forts : cadre et fourche carbone rigides et réactifs, freinage à disque fiable, groupe GRX robuste et bien adapté au tout-terrain. Limites concrètes : dégagement pneus limité (orienté CX autour de 33-40 mm), pas d'œillets pour porte-bagages/garde-boue complets, position sportive peu adaptée au confort quotidien, et la tige de selle Canyon intégrée/propriétaire complique certains réglages. La réputation Canyon est bonne sur le rapport qualité/prix mais le SAV à distance et la disponibilité des pièces propriétaires (potence/cintre, tige) sont des points de vigilance en occasion. Pour un vélotaf quotidien toute l'année, c'est un choix médiocre (peu de fixations, géométrie inconfortable, dégagement restreint) ; en revanche il excelle en gravel léger/rapide et sportif, et bien sûr en cyclocross.",
-        "vision": "Cadre carbone, fourche carbone, freins disque hydraulique. État visuel : Le vélo paraît en très bon état, quasi neuf, présenté devant son carton d'origine Canyon avec des pneus dont la sculpture semble intacte et une transmission propre. Aucune rayure, impact ou corrosion visible sur les photos, mais la résolution ne permet pas de détailler l'usure de la chaîne ou des plaquettes. ⚠ À vérifier : Impossible de lire la série exacte du groupe (dérailleurs/manettes non zoomés) ni les dimensions/mention tubeless sur le flanc des pneus ; vérifier le disque de frein avant apparemment fin et l'absence de photo rapprochée de la transmission. (confiance 40%)",
-        "description_vendeur": "Canyon Inflite CF SL 6 (2023) en excelente estado. La bicicleta ha sido usada muy poco y se encuentra en óptimas condiciones tanto estética como técnicamente. Siempre ha sido tratada con cuidado, mantenida regularmente y guardada exclusivamente en interiores. Nunca ha sufrido caídas y está lista para rodar. El cuadro de carbono ligero en combinación con el grupo de transmisión Shimano GRX hace que",
-        "plus_velo": [
-          "Groupe référence (Shimano GRX)",
-          "Freins hydrauliques (confort et sécurité sous la pluie)",
-          "Bien adapté à ton usage (69 % du besoin)"
-        ],
-        "moins_velo": [
-          "Cyclocross, PAS un gravel (pneus/œillets limités, position engagée)"
-        ],
-        "plus_annonce": [
-          "Vendeur de confiance (badge buycycle)",
-          "Protection acheteur buycycle (paiement libéré après réception)"
-        ],
-        "moins_annonce": [
-          "Au-dessus de la cote estimée (~1199 €) — à négocier",
-          "Marketplace EU : livraison, pas d'essai avant achat"
-        ]
-      },
-      "specs": {
-        "groupset": "Shimano GRX",
-        "frame": null,
-        "shifting": null,
-        "brakes": null,
-        "size_cm": null,
-        "color": null,
-        "condition": null,
-        "poids_kg": null,
-        "degagement_mm": null
-      },
-      "vision_brute": {
-        "groupe": null,
-        "freins": "disque hydraulique",
-        "fourche": "carbone",
-        "cadre": "carbone",
-        "pneus_mm": null,
-        "tubeless": null,
-        "fixations": null,
-        "etat_visuel": "Le vélo paraît en très bon état, quasi neuf, présenté devant son carton d'origine Canyon avec des pneus dont la sculpture semble intacte et une transmission propre. Aucune rayure, impact ou corrosion visible sur les photos, mais la résolution ne permet pas de détailler l'usure de la chaîne ou des plaquettes.",
-        "points_attention": "Impossible de lire la série exacte du groupe (dérailleurs/manettes non zoomés) ni les dimensions/mention tubeless sur le flanc des pneus ; vérifier le disque de frein avant apparemment fin et l'absence de photo rapprochée de la transmission.",
-        "confiance": 0.4
-      },
-      "historique_prix": [
-        {
-          "date": "2026-07-15",
-          "prix": 1399.0
-        }
-      ],
-      "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 0,
-        "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
-      }
     }
   ],
   "budget_max": 1400.0,
@@ -46107,5 +46092,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-09-02T14:50:30+00:00"
+  "genere_le": "2026-09-02T15:20:40+00:00"
 }
