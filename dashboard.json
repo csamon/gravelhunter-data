@@ -1,5 +1,5 @@
 {
-  "total": 1085,
+  "total": 1086,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -42924,12 +42924,12 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 101.0,
-        "n_ventes": 191,
+        "n_ventes": 192,
         "prix_demande_median": 1299.0,
         "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±101 € (191 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±101 € (192 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -45702,12 +45702,12 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 101.0,
-        "n_ventes": 191,
+        "n_ventes": 192,
         "prix_demande_median": 1299.0,
         "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±101 € (191 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±101 € (192 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -45792,12 +45792,12 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 101.0,
-        "n_ventes": 191,
+        "n_ventes": 192,
         "prix_demande_median": 1299.0,
         "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±101 € (191 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±101 € (192 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -45882,12 +45882,12 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 101.0,
-        "n_ventes": 191,
+        "n_ventes": 192,
         "prix_demande_median": 1299.0,
         "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±101 € (191 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±101 € (192 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -45972,12 +45972,12 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 101.0,
-        "n_ventes": 191,
+        "n_ventes": 192,
         "prix_demande_median": 1299.0,
         "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±101 € (191 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±101 € (192 ventes) · liquidité méd. 0 j"
       }
     },
     {
@@ -46062,12 +46062,12 @@
       "marche_modele": {
         "cote_reelle": 1449.0,
         "ecart_type": 101.0,
-        "n_ventes": 191,
+        "n_ventes": 192,
         "prix_demande_median": 1299.0,
         "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
-        "resume": "cote réelle 1449 € ±101 € (191 ventes) · liquidité méd. 0 j"
+        "resume": "cote réelle 1449 € ±101 € (192 ventes) · liquidité méd. 0 j"
       }
     }
   ],
@@ -46077,5 +46077,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-09-03T14:27:31+00:00"
+  "genere_le": "2026-09-03T14:57:45+00:00"
 }
