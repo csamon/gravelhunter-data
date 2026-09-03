@@ -43291,14 +43291,14 @@
         }
       ],
       "marche_modele": {
-        "cote_reelle": null,
-        "ecart_type": null,
-        "n_ventes": 4,
+        "cote_reelle": 1260.0,
+        "ecart_type": 141.0,
+        "n_ventes": 5,
         "prix_demande_median": null,
-        "n_en_vente": 1,
-        "liquidite_jours": null,
-        "base": "insuffisant",
-        "resume": null
+        "n_en_vente": 0,
+        "liquidite_jours": 1.0,
+        "base": "ventes",
+        "resume": "cote réelle 1260 € ±141 € (5 ventes) · liquidité méd. 1 j"
       }
     },
     {
@@ -46077,5 +46077,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-09-03T11:57:00+00:00"
+  "genere_le": "2026-09-03T12:27:06+00:00"
 }
