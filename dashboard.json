@@ -1,5 +1,5 @@
 {
-  "total": 1090,
+  "total": 1091,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -42925,8 +42925,8 @@
         "cote_reelle": 1449.0,
         "ecart_type": 100.0,
         "n_ventes": 194,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1299.0,
+        "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±100 € (194 ventes) · liquidité méd. 0 j"
@@ -45794,8 +45794,8 @@
         "cote_reelle": 1449.0,
         "ecart_type": 100.0,
         "n_ventes": 194,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1299.0,
+        "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±100 € (194 ventes) · liquidité méd. 0 j"
@@ -45884,8 +45884,8 @@
         "cote_reelle": 1449.0,
         "ecart_type": 100.0,
         "n_ventes": 194,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1299.0,
+        "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±100 € (194 ventes) · liquidité méd. 0 j"
@@ -45974,8 +45974,8 @@
         "cote_reelle": 1449.0,
         "ecart_type": 100.0,
         "n_ventes": 194,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1299.0,
+        "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±100 € (194 ventes) · liquidité méd. 0 j"
@@ -46064,8 +46064,8 @@
         "cote_reelle": 1449.0,
         "ecart_type": 100.0,
         "n_ventes": 194,
-        "prix_demande_median": null,
-        "n_en_vente": 2,
+        "prix_demande_median": 1299.0,
+        "n_en_vente": 3,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±100 € (194 ventes) · liquidité méd. 0 j"
@@ -46078,5 +46078,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-09-04T04:31:32+00:00"
+  "genere_le": "2026-09-04T05:01:39+00:00"
 }
