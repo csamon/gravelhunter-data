@@ -1,5 +1,5 @@
 {
-  "total": 1100,
+  "total": 1101,
   "annonces": [
     {
       "titre": "Cannondale Topstone 2 2024 2024",
@@ -42926,7 +42926,7 @@
         "ecart_type": 105.0,
         "n_ventes": 198,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±105 € (198 ventes) · liquidité méd. 0 j"
@@ -45977,7 +45977,7 @@
         "ecart_type": 105.0,
         "n_ventes": 198,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±105 € (198 ventes) · liquidité méd. 0 j"
@@ -46067,7 +46067,7 @@
         "ecart_type": 105.0,
         "n_ventes": 198,
         "prix_demande_median": null,
-        "n_en_vente": 1,
+        "n_en_vente": 2,
         "liquidite_jours": 0.0,
         "base": "ventes",
         "resume": "cote réelle 1449 € ±105 € (198 ventes) · liquidité méd. 0 j"
@@ -46080,5 +46080,5 @@
     "54",
     "55"
   ],
-  "genere_le": "2026-09-05T10:39:04+00:00"
+  "genere_le": "2026-09-05T11:09:11+00:00"
 }
